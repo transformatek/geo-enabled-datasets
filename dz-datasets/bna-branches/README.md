@@ -23,6 +23,6 @@ The datasets consists of branches of the National Bank of Algeria (BNA)
 
 ## Dataset creation steps
 
-1. Getting data from  [BNA site](https://www.bna.dz/fr/) using this (script)(https://github.com/transformatek/geo-enabled-datasets/blob/main/dz-datasets/bna-branches/script.ipynb) .
+1. Getting data from  [BNA site](https://www.bna.dz/fr/) using this [script](https://github.com/transformatek/geo-enabled-datasets/blob/main/dz-datasets/bna-branches/script.ipynb) .
 2. Geocoding with Awesome Geocoding add-on in google sheets.
 3. Data validation and correction using QGIS
