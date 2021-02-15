@@ -1,6 +1,5 @@
 ## Source
 ## Dataset description 
-The raw data is available as [`ndjson`](http://ndjson.org/) files seperated by category, in the following format: 
 
 | Key          | Description | 
 | ------------ | -----------------------|
@@ -9,6 +8,8 @@ The raw data is available as [`ndjson`](http://ndjson.org/) files seperated by c
 | adresse |Address of the branch |
 | code_wilay| Wilaya code of where the branch is located |
 | Wilaya |Wilaya name                |
+| tel | Telephone number(s)                 |
+| fax | Fax number(s) |
 | long | Longitude                 |
 | lat |Latitude            |
 
