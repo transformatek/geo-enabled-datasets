@@ -1,217 +1,217 @@
-id,nom,email,adresse,wilaya,code_wilay,Latitude,Longitude,tel,fax,n_ccp,n_cc
-"0",250 - Agence ADRAR,agadrar250@bna.dz,Grande Place des Martyrs - 01000 Adrar,Adrar,"1",27.871741298803833,-0.289821413459744,(049) 36 78 43 - (049) 36 78 42,(049) 36 78 46,3908.90 / 92,01 01 02
-"1",251 - Agence TIMIMOUN,agtimimoun251@bna.dz,Place du 1er Novembre - 01400 Timimoune,Adrar,"1",29.261691100000000,0.241596400000000,(049) 30 03 87 - (049) 30 03 90,(049) 30 03 92,"3911.61",01 01 01
-"2",413 - Agence AOULEF,agaoulef413@bna.dz,Marché Couvert Place Aoulef - 01300 Aoulef,Adrar,"1",26.972326400000000,1.081003100000000,(049) 32 77 47 - (049) 32 77 77,(049) 32 77 62,3914.68 / 92,01 01 03
-"3",260 - Agence CHLEF,agchlef260@bna.dz,21 Rue Ibn Badis - 02000 Chlef,Chlef,"2",36.167670100000002,1.341032400000000,(027) 77 18 62 - (027) 77 16 24 - (027) 77 77 05,(027) 77 08 53 - (027) 77 16 24 - (027) 77 77 05,"3900.60",02 01 02
-"4",275 - AP CHLEF,apchlef275@bna.dz,32 Rue Des Martyrs 02000 Chlef,Chlef,"2",36.157966399999999,1.337282300000000,(027) 77 71 62 - 77 28 35 - (027) 79 06 21 - (027) 77 71 68,(027) 77 71 68 - (027) 77 28 43,"3911.10",02 01 01
-"5",279 - Agence TENES,agtenes279@bna.dz,Rue Allel Ahmed N°74 -Tenes - 02006 W/CHLEF,Chlef,"2",36.157966399999999,1.337282300000000,(027) 76 83 63 - (027) 76 94 23,(027) 76 73 06 - (027) 76 94 23,"3915.04",02 01 03
-"6",297 - Agence AFLOU,agaflou297@bna.dz,Bd Emir AbdelKader - 03400 Aflou W. Laghouat,Laghouat,"3",34.113951800000002,2.097385400000000,(029) 16 72 01 - (029) 16 60 44,(029) 16 60 44,3911.66 / 66,03 01 02
-"7",301 - AP LAGHOUAT,aplaghouat301@bna.dz,Rue Bensahnoun - El-Maâmoura - 03000 Laghouat,Laghouat,"3",33.807834100000001,2.862829400000000,(029) 13 27 51/ 52/ 55/ 54,(029) 13 27 50,"3911.43",03 01 01
-"8",316 - Agence OUM EL BOUAGUI,agoumelbouaghi316@bna.dz,Cité Errasd - Oum El Bouaghi,Oum El Bouaghi,"4",35.878009100000000,7.090309000000000,(032) 42 95 87 - 42 84 77 (032) 42 80 00,(032) 42 85 43,,
-"9",321 - Agence AIN BEIDA,agoumelbouaghi316@bna.dz,800 route de KHENCHELA N°57 Commune d'Ain Beinda 4200 W. Oum El Bouaghi,Oum El Bouaghi,"4",35.426940399999999,7.146015500000000,(032) 69 10 65 - (032) 69 10 79,(032) 69 10 65 - (032) 69 10 79,,
-"10",325 - Agence AIN MLILA,againmlila325@bna.dz,Route Batna - Centre Commercial - Ain M'Lila - W. Oum El Bouaghi,Oum El Bouaghi,"4",36.034397200000001,6.573786300000000,(032) 52 40 49,(032) 452 40 50,,
-"11",800 - Agence Ain Beida,agaibeida800@bna.dz,Route de Khenchela n° 57 - Commune d’Ain Beida – 04200 - W. Oum El Bouaghi,Oum El Bouaghi,"4",35.426940399999999,7.146015500000000,(032) 68 96 97 - (032) 68 96 93,(032) 68 96 92,,
-"12",842 - Agence OUM EL BOUAGHI,agoumelbouaghi842@bna.dz,Place du 1er Novembre - Oum El Bouaghi,Oum El Bouaghi,"4",35.874841199999999,7.119866100000000,(032) 54 21 64 - (032) 54 27 51 - (032) 54 26 06 - (032) 54 25 78,(032) 54 26 06 - (032) 54 25 78,"3903.90",04 01 02
-"13",335 - AP BATNA,apbatna335@bna.dz,14 - Rue des Fidayines - 05000 Batna,Batna,"5",35.553963299999999,6.176840400000000,(033) 80 38 39 - (033) 80 59 76 - (030) 36 18 97 - (033) 80 58 46,(033) 80 58 46,3900.59 / 60,05 01 01
-"14",336 - Agence BATNA,agbatna336@bna.dz,Cité 742 logements - 05000 Batna,Batna,"5",35.533474599999998,6.186178800000000,(033) 85 42 30 - (033) 80 70 35,(033) 80 70 35,3900.59 / 60,05 01 01
-"15",340- Agence BARIKA,agbarika340@bna.dz,Rue Yahiaoui Amar 3éme Tranche n°27 - 05400 Barika - W.Batna,Batna,"5",35.387774700000001,5.370363300000000,(033) 39 11 06 / 12/ 20,(033) 39 11 89,3907.57 / 94,05 01 02
-"16",356 - AP BEJAIA,apbejaia356@bna.dz,Cité tobbal- BP 60 Ter - Béjaia Liberté 06000 - Béjaïa,Bejaia,"6",36.750008299999998,5.071743500000000,(034) 16 07 82/ 83/ 84/ 85/ 86/ 87/ 88 - (034) 16 06 86 - (034) 16 07 90,(034) 16 07 82 - (034) 16 00 22,3900.74 / 75,06 01 01
-"17",586 - Agence TAZMALT,agtazmalt586@bna.dz,Cité des 60 Logts - n°15 - 05270 Tazmalt - W. Béjaïa,Bejaia,"6",36.390381800000000,4.395497100000000,(034) 31 71 99 - (034) 31 72 56 - (034) 31 70 97,(034) 31 71 99 - (034) 31 70 97,"3912.39",06 01 03
-"18",587 - Agence IHADDADEN,agihaddaden587@bna.dz,Bd Krim Belkacem - Ihaddaden - 06000 Béjaia,Bejaia,"6",36.751525800000003,5.055683700000000,(034) 12 05 96 - 12 05 86 - (034) 12 05 83 - (034) 16 06 39 - (034)12 05 84,(034) 12 05 98 - (034) 12 05 92,,
-"19",588 - Agence BEJAIA,agbejaia588@bna.dz,4 Place du 1er Novembre - BP 86 - 05000 Béjaïa Ville,Bejaia,"6",36.752529699999997,5.085492000000000,(034) 17 47 59 - (034) 17 47 23 - (034) 17 47 55 - (034) 17 47 56 - (034) 17 47 36,(034) 17 47 22 - (034) 17 47 35,"3913.25",06 01 06
-"20",589 - Agence AOKAS,agaokas589@bna.dz,Bd Mohemmadi Slimane BP 75 Aokas - W. Béjaïa,Bejaia,"6",36.637634599999998,5.245244900000000,(034) 84 74 36 - (043) 84 74 45 - (043) 84 74 35,(034) 84 74 39 - (043) 84 74 45 - (043) 84 74 35,"3913.90",06 01 05
-"21",386 - Agence BISKRA,agbiskra386@bna.dz,06 - Rue Mohamed Abbas - 07000 Biskra,Biskra,"7",34.844943700000002,5.724856700000000,(033) 52 03 91 - (033) 52 09 48,,3911.51 / 41,07 01 01
-"22",387 - Agence BISKRA,agbiskra387@bna.dz,Cité des 1000 logements BT 09 & 10 n°1 Biskra - 07000,Biskra,"7",34.844943700000002,5.724856700000000,(033) 54 10 38 - (033) 54 15 91,(033) 54 10 37 / 38,3911.51 / 41,07 01 02
-"23",709 - Agence TOLGA,agtolga709@bna.dz,03 Rue Makhloufi Saad – Rissota Est TOLGA - 07300,Biskra,"7",34.727704337377965,5.387345835384370,(033) 57 88 38/ 36,(033) 57 88 36,3907.37 / 84,28 01 07
-"24",410 - Agence BENI OUNIF,agbeniounif410@bna.dz,Avenue Colonel Lotfi - 08100 Béni - Ounif,Bechar,"8",31.282903500000000,-0.693294800000000,(049) 25 22 04,(049) 25 22 05,,08 01 01
-"25",412 - AP BECHAR,apbechar412@bna.dz,Avenue Colonel Lotfi - 08000 Béchar,Bechar,"8",31.619031199999998,-2.214039800000000,(049) 22 08 56 - (049) 22 07 53 -,(049) 22 07 43 - 22 07 52,"3900.75",08 01 02
-"26",414 - Agence DEBDABA,agdebdaba414@bna.dz,Bd Emir Abdelkader - Debdaba - 08000 Béchar,Bechar,"8",31.627634199999999,-2.206117900000000,(049) 22 77 37 - (049) 22 77 41,(049) 22 70 52,,08 01 03
-"27",415 - Agence BECHAR,agbechar415@bna.dz,28 Avenue Colonel Lotfi - 08000 Béchar,Bechar,"8",31.619031199999998,-2.214039800000000,(049) 22 12 38 - (049) 22 12 37 -,(049) 22 12 41,,08 01 04
-"28",430 - AP BOUFARIK,apboufarik430@bna.dz,13 - Avenue Souidani Boudjemaa Boufarik - W. Blida,Blida,"9",36.583241299999997,2.912125600000000,(025) 48 19 88 - (025) 48 19 90 - (025) 48 15 69,(025) 48 19 88 - (025) 48 25 63,"3901.08",09 01 02
-"29",431 - Agence Blida,agblida431@bna.dz,Bd des Martyrs - Blida,Blida,"9",36.471196100000000,2.829847500000000,(025) 21 01 65 - (025) 21 01 67 - (025) 21 00 20,(025) 21 01 68,,
-"30",437 - Agence EL AFFROUN,agelaffroun437@bna.dz,Rue Mebarek Chérif - 09200 El Affroun,Blida,"9",36.470159199999998,2.625741000000000,(025) 38 79 83 - (025) 38 79 71 - (025) 38 69 53,(025) 38 76 01 - 38 69 25,"3913.78",09 01 03
-"31",442 - AP BLIDA,aplida442@bna.dz,Bd Takarli Abderrezak - 09000 Blida,Blida,"9",36.471651100000003,2.832345800000000,(025) 21 54 01/ 03 - (025) 21 54 80 - (025) 21 53 98 - (025) 21 54 09 - (025) 21 54 05,(025) 21 54 04,"3900.70",09 01 01
-"32",445 - Agence LES BANANIERS,aglesbananiers445@bna.dz,Cité des 680 Logts “Les Bananiers” 09000 Blida,Blida,"9",36.485250100000002,2.810977900000000,(025) 23 59 18,(025) 23 59 20,"3914.91",09 01 04
-"33",460 - Agence BOUIRA,agbouira460@bna.dz,Rue Guettaf Seddik 10000 Bouira,Bouira,"10",36.369184599999997,3.900619399999999,(026) 73 92 62/ 68/ 60/ 67,(026) 73 92 68/ 60/ 67,"3903.85",10 01 01
-"34",576 - Agence LAKHDARIA,aglakhdaria576@bna.dz,Cité 210 logements - Lakhdaria - W.Bouira,Bouira,"10",36.566064900000001,3.596021300000000,(026) 70 35 10 - (026) 70 35 11,(026) 70 35 11,,
-"35",473 - Agence TAMANRASSET,agtamanrasset473@bna.dz,Centre Commercial - 11000 Tamanrasset,Tamanrasset,"11",22.784175399999999,5.522427300000000,(029) 31 15 70/ 74/ 69,(029) 31 15 74,"3904.19",11 01 01
-"36",483 - Agence TEBESSA,agtebessa483@bna.dz,02 Avenue de la Victoire - 12000 Tébessa,Tébessa,"12",35.401079699999997,8.117295800000003,(037) 58 28 17/ 33 (037) 58 31 65,(037) 58 28 33,3908.86 / 11,12 01 03
-"37",484 - Agence OUENZA,agouenza484@bna.dz,Place du 1er Novembre 1954 - 12350 Ouenza,Tébessa,"12",35.951834699999999,8.132528300000001,(037) 46 90 15 - (037) 67 82 12,(037) 46 90 15 - (037) 67 80 28,3913.48 / 76,12 01 01
-"38",486 - Agence BIR EL ATER,agbirelater486@bna.dz,Cité Administrative - 12200 Bir El Ater,Tébessa,"12",34.749839000000001,8.057752600000001,(037) 44 68 43 - (037) 44 61 06 - (037) 44 98 00,(037) 44 68 43,3.900.38,12 01 02
-"39",491 - AP TEBESSA,aptebessa491@bna.dz,Bd Mahmoud Chérif - BP 255 - 12000 Tébessa,Tébessa,"12",35.401079699999997,8.117295800000003,(037) 58 12 85 - (037) 58 11 12 - (037) 58 31 16,(037) 58 12 85 - (037) 58 11 15,3.913.67 / 82,12 01 04
-"40",512 - AP TLEMCEN,aptlemcen512@bna.dz,30 - Place Khemisti - 13000 Tlemcen,Tlemcen,"13",34.882886399999997,-1.316681500000000,(040) 90 71 38 - (043) 26 40 84 / 26 13 27,(043) 26 50 24 - (043) 26 66 47,"3900.63",13 01 01
-"41",514 - Agence MAGHNIA,agmaghnia514@bna.dz,Bd du 1er novembre Maghnia 13001 W. Tlemcen,Tlemcen,"13",34.848659699999999,-1.729353600000000,(043) 39 77 91 - (043) 39 77 92 - (043) 39 77 94 / 93,(043) 39 77 97 - (043) 39 77 95,"3905.34",13 01 02
-"42",526 - AP ABOU TACHFINE,apaboutachfine526@bna.dz,Zone Semi Industrielle Abou Tachfine 13000 Tlemcen,Tlemcen,"13",34.907646000000000,-1.324523500000000,(043) 38 97 09/ 98 (043) 38 94 97,(043) 38 97 09 - (043) 38 98 17,"3914.24",13 01 04
-"43",527 - AP TLEMCEN,aptlemcen527@bna.dz,29 Place Khemisti -13000 Tlemcen,Tlemcen,"13",34.849614899999999,-1.729384800000000,(043) 27 50 95 - (043) 27 58 76 - (043) 27 48 06 - (043) 27 51 03 - (043) 27 51 03,(043) 27 50 95 - (043) 26 33 15,"3905.74",13 01 03
-"44",528 - Agence SEBDOU,agsebdou528@bna.dz,Centre Commercial - 13006 Sebdou - W. Tlemcen,Tlemcen,"13",34.637664800000003,-1.332967600000000,(043) 54 43 80/ 77,(043) 54 43 80/ 77,"3908.14",13 01 06
-"45",529 - Agence NEDROMA,agnedroma529@bna.dz,Rue des 5 Martyrs Nedroma - 13004 Nedroma - W.Tlemcen,Tlemcen,"13",35.029291800000003,-1.766693600000000,(043) 45 61 77 - (043) 45 69 25,(043) 45 69 69 - (043) 45 69 25,3912.71.57,13 01 05
-"46",533 - Agence KIFANE,agkifane533@bna.dz,Bd Ain Sebaa Kifane - 13000 Tlemcen,Tlemcen,"13",34.882886399999997,-1.316681500000000,(043) 56 41 09/ 58,(043) 56 41 09 - (043) 56 41 11,"391691",13 01 09
-"47",532 - Agence GHAZAOUAT,agghazaouet532@bna.dz,Porte de Nedroma -13002 Ghazaouat,Tlemcen,"13",35.101231800000001,-1.862697600000000,(043) 47 20 25 - (043) 47 20 24,(043) 47 20 22 - (043) 47 20 24,3900.71.38,13 01 10
-"48",530 - Agence REMCHI,agremchi530@bna.dz,05 Rue Si Merbah. Remchi 13005 W- Tlemcen,Tlemcen,"13",35.064069000000003,-1.426380000000000,(043) 43 77 12/14/26,(043) 43 77 12/14,"3907.71",13 01 08
-"49",531 - Agence HENNAYA,aghennaya531@bna.dz,07 - Rue de la Liberté - 13009 Hennaya,Tlemcen,"13",34.952309600000000,-1.372365200000000,(043) 44 45 85/ 87/ 89/ 90,(043) 44 45 87,"3908.60",13 01 07
-"50",540 - AP TIARET,aptiaret540@bna.dz,Rue de la victoire N°17 –Wilaya de Tiaret,Tiaret,"14",35.373839300000000,1.315822100000000,(046) 20 54 85/ 71 - (046) 20 53 06,(046) 20 54 86,"3908.59",14 01 01
-"51",545 - Agence TIARET,agtiaret545@bna.dz,Cité EPLF ex : Volani - 14000 Tiaret,Tiaret,"14",35.351616399999997,1.336077200000000,(046) 24 30 58 / 65 - 24 30 61 - (046) 24 30 60,(046) 24 30 59,,14 01 04
-"52",548 - Agence SNVI TIARET,agsnvitiaret548@bna.dz,Complexe de Carrosserie - Ain Bouchekif -14110 Tiaret,Tiaret,"14",35.351434800000000,1.513718700000000,(046) 24 94 09 /10/ 11/ 12,(046) 24 94 09/ 12,,14 01 02
-"53",462 - Agence AZAZGA,agazazga462@bna.dz,Bd Commandant Ahmed Zaidat 15001 Azazga - W. Tizi Ouzou,Tizi Ouzou,"15",36.745697600000000,4.373534900000000,(026) 34 43 53,(026) 34 45 68 - (026) 14 18 19,,
-"54",577 - Agence BOGHNI,agboghni577@bna.dz,03 - Rue des Frères Mammeri - 15003 Boghni - W.Tizi Ouzou,Tizi Ouzou,"15",36.532930299999997,3.961113600000000,(026) 23 17 18/ 19/ 20,(026) 23 17 18/ 19/ 20,"3911.18",15 01 02
-"55",578 - Agence Larbâa NathIrathen,aglarbaanathirathen578@bna.dz,Avenue Abane Ramdane - 15006 W.Tizi Ouzou,Tizi Ouzou,"15",36.711435100000003,4.052624700000000,(026) 49 28 17/ 18/ 19,(026) 49 28 17,,15 01 06
-"56",581 - AP TIZI OUZOU,aptiziouzou581@bna.dz,Avenue Abane Ramdane - 15000 W.Tizi Ouzou,Tizi Ouzou,"15",36.711435100000003,4.052624700000000,(026) 12 88 40 - 12 88 14 - (026) 12 46 11 - 12 88 67,(026) 12 62 12,3900.73/46,15 01 01
-"57",582 - Agence LES OUADHIAS,aglesouadhias582@bna.dz,Cité des 104 Logts - Bt A n°1 - 15016 Les Ouadhias - W.Tizi Ouzou,Tizi Ouzou,"15",36.555999700000001,4.088293300000000,(026) 32 44 52 - (026) 32 31 75 - (026) 32 39 97 - (026) 32 40 40,(026) 32 40 40 - (026) 32 39 97,"3905.16",15 01 03
-"58",583 - AP TIZI OUZOU,aptiziouzou583@bna.dz,Carrefour du 20 Avril - Immeuble KESSI - Nouvelle Ville - 15007 Tizi Ouzou,Tizi Ouzou,"15",36.698543500000000,4.047830600000000,(026) 18 20 01/ 02 - (026) 18 25 11 - (026) 18 22 79,(026) 18 25 11 - (026) 18 22 79,"3911.65",15 01 05
-"59",584 - Agence DRAA BEN KHEDDA,agdraabenkhedda584@bna.dz,24 Rue KASRI Ahmed Draa Ben Khedda,Tizi Ouzou,"15",36.734156300000002,3.965427000000000,(026) 27 29 71/ 79 - (026) 27 16 00,(026) 27 29 71 - (026) 27 16 00,"3912.38",15 01 04
-"60",585 - Agence EL KSEUR,agelkseur585@bna.dz,Rue MEZIANE H'MIMI CNE EL KSEUR 06003 W. BEJAIA,Tizi Ouzou,"15",36.688633900000013,4.851940800000000,(034) 82 20 42 - (034) 82 20 44 - (034) 82 20 39,(034) 82 20 45 - (034) 82 20 44 - (034) 82 20 38,"3911.72",06 01 02
-"61",612 - Agence DAR EL BEIDA,agdarelbeida612@bna.dz,22 Rue Mouloud Feraoun - 16100 Dar El Beïda,Alger,"16",36.715620899999998,3.208553600000000,(021) 75 52 65 - (021) 75 53 94,(021) 75 52 65 - (021) 75 53 94 - (021) 75 54 03,3800.10 / 96,16 01 13
-"62",613 - Agence Aéroport HB,agaéroport613@bna.dz,Aéroport Houari Boumediène - Air Algérie Bloc E - 16100 Dar El Beïda,Alger,"16",36.697921800000003,3.206867200000000,(021) 50 96 60,(021) 50 96 60 - (021) 50 93 23,3800.10 / 96,16 01 13
-"63",616 - AP EL HARRACH,apelharrach616@bna.dz,Ave. des Frères Djeli (Hai Naîli) BP 28 El Harrache,Alger,"16",36.720966900000001,3.137662500000000,(021) 52 61 02/ 01/ 03 - (021) 82 30 60,(021) 52 70 34,"3909.24",16 01 08
-"64",619 - Agence EL HARRACH,agelharrach619@bna.dz,14 Rue du 5 Juillet - El Harrach – Alger,Alger,"16",36.746624099999998,3.182556900000000,(021) 83 35 13/ 14 -,(021) 83 25 92,"3914.97",16 01 30
-"65",624 - Agence PINS MARITIMES,agpinsmaritimes624@bna.dz,Palais des Expositions - 16200 Pins Maritimes,Alger,"16",36.731843395517060,3.154879443234161,(021) 21 90 03 - (021) 21 06 81,(021) 21 90 03 - (021) 21 06 81,"3905.29",16 01 23
-"66",625 - Agence KOUBA,agkouba625@bna.dz,Cité 216 Logements - Garidi 1 - Kouba - Alger,Alger,"16",36.728659399999998,3.063810500000000,(023) 78 22 29/ 30/ 31/ 33 - (023) 78 22 27,(023) 78 22 32,"3914.98",16 01 29
-"67",633 - AP BIRKHADEM,apbirkhadem633@bna.dz,Rue Hassen-Ben Naamane - les Vergers - W Alger,Alger,"16",36.727901953699750,3.058004043223337,(021) 44 75 05,(021) 44 75 05,"3909.16",16 01 14
-"68",634 - AP OUED SMAR,apouedsmar634@bna.dz,12 Route de Meftah – Zl - 16030 Oued Smar,Alger,"16",36.707127700000001,3.165055800000000,(021) 51 50 33 - (021) 51 51 43- (021) 51 51 04 - (021) 51 45 32/ 33-(021) 51 51 50,(021) 51 50 33,3916.07 / 70,16 01 34
-"69",636 - Agence BARAKI,agbaraki636@bna.dz,Rue Mohamed BENLARBI - BARAKI - Alger,Alger,"16",36.667510600000000,3.096328200000000,(023) 91 48 90/ 87 - (023) 91 48 79/ 76,,,
-"70",637- Agence GUE DE CONSTANTINE,agguedeconstantine637@bna.dz,Site SONELGAZ - «700 Bureaux» - Côté B - RN n°38 - Gué de Constantine - Alger,Alger,"16",36.690019399999997,3.079791800000000,(021) 83 59 86/ 88 - (021) 83 61 60 - (021) 83 60 04,(021) 83 61 60 -,,
-"71",647 - AP EL HAMIZ,apelhamiz647@bna.dz,Route Nouvelle n° 5 EI Hamiz - 35300 Rouïba,Alger,"16",36.735892799999981,3.277987900000000,(021) 85 42 86 - (021) 85 42 90,(021) 85 42 86 - (021) 85 42 90,"3907.61",16 01 25
-"72",648 - Agence MOHAMMADIA,agmohammadia648@bna.dz,Sur Site Algérie Telecom Cinq maisons - El Mohammadia - Alger,Alger,"16",36.724806999999998,3.154751000000000,(021) 76 18 89/ 90,(021) 76 18 89/ 90,,
-"73",428 - Agence ZERALDA,agzeralda428@bna.dz,Centre des Affaires Zeralda - W. Alger,Alger,"16",36.710001499999997,2.844990300000000,(021) 32 72 18,(021) 32 72 18,3917.28 /90,16 01 37
-"74",436 - Agence BABA HACENE,agbabahacene436@bna.dz,Complexe BNA - 14 Rue Kaci Mohamed - Baba Hacène - Alger,Alger,"16",36.699088099999997,2.970715500000000,(023) 35 38 12 - (023) 35 37 46,(023) 35 36 77,"3915.51",16 01 32
-"75",440 - Agence STAOUELI,agstaoueli440@bna.dz,Rue Mellal Mohamed - 42000 Staoueli. W. ALGER,Alger,"16",36.753512700000002,2.886822000000000,(021) 39 35 32/ 28/ 29/ 31/ 30,(021) 39 35 32,"3913.46",16 01 27
-"76",630 - Agence AIN BENIAN,againbenian630@bna.dz,88 - Rue Colonel Si M’hamed - Ain Benian,Alger,"16",36.803438800000002,2.916097000000000,(023) 10 39 51/ 52 - (023) 10 48 30,(023) 10 39 51/ 52,"3910.76",16 01 15
-"77",632 - AP ROUIBA I,,87 - Cite cadat rouiba - Alger,Alger,"16",36.739059099999999,3.275338200000000,(021) 81 72 29/ 67/ 82 - (021) 81 42 01/ 69/ 70 - (021) 85 16 38,(021) 81 52 78 - (021) 81 72 82 -,3910.68 / 68,16 01 18
-"78",641 - AP ROUIBA II,aprouibaii641@bna.dz,Rue Hassiba Ben Bouali Rouiba - Alger,Alger,"16",36.737540299999999,3.280196500000000,(023) 85 52 41/ 81 (021) 81 10 93? (023) 85 54 19 - (023) 85 53 55,(023) 85 54 08 - (023) 85 53 77,,
-"79",644 - Agence REGHAIA “1“,agreghaiai644@bna.dz,04 - Rue Med BOUZIDI - Réghaia - Alger,Alger,"16",36.738664300000003,3.342550000000000,(021) 84 71 52/ 56,(021) 84 71 54,3911.89 / 48,16 01 21
-"80",646 - Agence AIN,againtaya646@bna.dz,Place Mohamed Khemisti - Ain Taya - Alger,Alger,"16",36.736254899999999,3.282491700000000,(023) 87 56 61/ 66/ 65,(023) 87 56 62,,
-"81",649 - Agence EL HAMIZ,agelhamiz649@bna.dz,Hai Feriri - Groupe N°9 - El Hamiz Dar El Beida,Alger,"16",36.730179999999997,3.230711300000000,(023) 86 73 81/ 60/ 78/ 76,,3917.80 / 21,
-"82",650 - Agence REGHAIA “II”,agreghaiaii650@bna.dz,Cité DNC - Bat n°20 A - Réghaïa - Alger,Alger,"16",36.749882200000002,3.342511600000000,(023) 84 55 61/ 60/ 63,,,
-"83",651 - Agence BORDJ EL BAHRI,agbordjelbahri651@bna.dz,Lotissement terrain familial nord R.N N° 24 N°31 BORDJ EL BAHRI ALGER,Alger,"16",36.787360800000002,3.237683300000000,(023) 87 22 89/ 72/ 58/ 69/ 49,,3900.32 / 27,16 01 41
-"84",599 - AP CHE GUEVARA,apguevara599@bna.dz,08 Bd Emesto Che Guevara - 16000 Alger,Alger,"16",36.783005299999999,3.062492200000000,(021) 43 93 03 - (021) 43 94 03 - (021) 43 92 89 - (021) 43 95 80 - (021) 43 95 75 - (021) 43 94 91 - (021) 43 96 84 - (021) 43 97 02 - (021) 43 96 71 - (021) 43 99 88,(021) 43 96 71,"3900.80",16.01.01
-"85",602 - AP TELEMLY,aptelemly602@bna.dz,Agence sur Site Sonelgaz - 02 Bd Krim Belkacem -Telemly - Alger,Alger,"16",36.774131699999998,3.053063600000000,(021) 72 37 88/ 89 - (021) 72 37 86 - (021) 72 37 90,(021) 72 37 87,"3915.86",16 01 33
-"86",605 - AP LIBERTE,apliberté605@bna.dz,08 Rue de la Liberté - 16000 Alger,Alger,"16",36.778426899999999,3.059840700000000,(021) 73 22 41 - (021) 73 71 72 - (021) 73 58 53,(021) 73 83 68-,"3908.74",16 01 10
-"87",608 - Agence BOLOGHINE,agbologhine608@bna.dz,Avenue Aek ZIAR – Bologhine - 16000 Alger,Alger,"16",36.802193600000003,3.036236300000000,(021) 95 19 97 - (021) 95 11 99 - (021) 95 10 40 - (021) 95 02 80 - (021) 95 02 66,(021) 95 02 80,"3800.11",16 01 05
-"88",620 - AP ZIROUT YOUCEF,apziroutyoucef620@bna.dz,12 Bd Zirout Youcef 16000 Alger,Alger,"16",36.773702399999998,3.060948900000000,(023) 50 23 80/ 83/ 75 - (023) 50 23 78,(023) 50 23 78 - (023) 50 23 80,"3908.94",16 01 17
-"89",627 - AP BOUZAREAH,apbouzareah627@bna.dz,Avenue Ali REMLI (Air de France) Bouzaréah - Alger,Alger,"16",36.780799500000001,3.010843400000000,(023) 27 02 32/ 33/ 35 - (023) 27 02 40 - (023) 27 02 36,(023) 27 02 36 - (023) 27 02 32,3.907.75,16.01.26
-"90",628 - Agence PORT-SAID,agportsaid628@bna.dz,03 Rue des Frères Oukid - Port Said - 16000 Alger,Alger,"16",36.781350552811517,3.061463386399270,(021) 43 91 36/ 67 - (021) 43 91 35 - (021) 43 93 98,(021) 43 91 35 - (021) 43 91 66,"3914.82",16 01 28
-"91",629 - Agence BAB EL OUED,agbabeloued629@bna.dz,11 Ave Colonel Lotfi - B.E.0 - 16009 Alger,Alger,"16",36.791201699999981,3.056567900000000,(021) 97 70 59/58 - (021) 96 17 25,(021) 97 70 59,,
-"92",601 - AP Didouche Mourad,apdidouchemourad601@bna.dz,45 - 47 - Rue Didouche Mourad - 16000 Alger,Alger,"16",36.766792199999998,3.052991900000000,(021) 73 52 12/ 021 71 19 59/ 021 74 53 80 - (021) 74 23 46/ 021 74 78 80/ 021 73 46 25 - (021) 74 24 97 - (021) 74 78 81 - (021) 71 84 66 - (021) 73 34 37 - (021) 73 34 40,,,
-"93",603 - Agence Hydra,aghydra603@bna.dz,Résidence Chaabani - Hydra,Alger,"16",36.755310100000003,3.030027400000000,(021) 34 11 28/ 29/ 30 - (021) 48 49 81 - (021) 48 49 79 - (021) 48 49 96,(021) 48 49 81 - (021) 48 49 96,,
-"94",607 - Agence HAMANI « B »,agb607@bna.dz,50 Boulevard Ahmed Ghermoul - Sidi M’hamed - Alger,Alger,"16",36.759044299999999,3.050856500000000,(021) 66 63 57 - (021) 65 22 72/ 021 66 63 64,(021) 66 63 57,,
-"95",609 - Agence «D»,agd609@bna.dz,119 - Rue Didouche Mourad - 160006 Alger,Alger,"16",36.763309499999998,3.046734000000000,(021) 61 63 74 - (021) 61 17 11 - (021) 61 50 95 - (021) 61 17 03,(021) 61 63 74 - (021) 61 50 95 - (021) 61 17 03,,
-"96",610 - AP Les Halles,apleshalles610@bna.dz,122 - Rue Hassiba Beb Bouai - 16000 Alger,Alger,"16",36.755837799999981,3.065443900000000,(023) 49 70 22 - (023) 49 70 28,,,
-"97",611 - AP Hussein Dey,aphusseindey611@bna.dz,8 - Rue Amar Mekkid Hussein Dey - 16040 Alger,Alger,"16",36.741544500000003,3.098719700000000,(023) 77 26 40 - (023) 77 61 39 - (023) 77 19 46,(023) 77 61 39,,
-"98",614 - Agence « N »,agelmouradia614@bna.dz,22 - Av Souidani Boudjemaa - 16035 El Mouradia - Alger,Alger,"16",36.755314200000001,3.047305700000000,(021) 60 23 50/ 51 - (021) 48 08 38 - (021) 60 23 61,(021) 60 23 50 - (021) 60 23 61,,
-"99",615 - Agence BELAHDJEL,agbelahdjel615@bna.dz,24 - Rue Hocine Belahdjet - 16000 Alger,Alger,"16",36.764272699999999,3.045353100000000,( 021) 61 65 88 - (021) 64 92 60,( 021) 61 65 88 - (021) 64 92 60,,
-"100",617 - Agence RIADH EL FETH,agriadhelfeth617@bna.dz,Centre commercial Riadh El Feth BP 104 - 16075 El Madania - Alger,Alger,"16",36.742907899999999,3.070134700000000,(021) 67 11 76 - (021) 67 10 24 - (021) 67 12 14 - (021) 67 26 90,(021) 67 12 14 - (021) 67 10 24,,
-"101",621- AP EL BIAR,apelbiar621@bna.dz,16 Av Messaoud Taleb et fils ex Carnot El Biar - Alger,Alger,"16",36.770499500000000,3.026672900000000,(021) 92 82 23/ 021 92 21 17 - (021) 92 70 12 - (021) 92 47 69 - (021) 92 70 10 - (021) 92 70 09,(021) 92 70 12 - (021) 92 47 69 - (021) 92 70 10 - (021) 92 70 09,,
-"102",622 - Agence El Quods,agelquods622@bna.dz,Centre des affaires El Quods Niveau M2 Aile Sud - Cheraga,Alger,"16",36.770683099999999,2.960113200000000,(021) 34 11 28/ 29/ 30/ 35,(021) 34 11 35 - (021) 34 11 36,,
-"103",623 - AP Ben M’hidi,apbenmhid623@bna.dz,64 - Rue Larbi Ben Mhidi - 16000 Alger,Alger,"16",36.774406599999999,3.058884800000000,(021) 71 50 98 - (021) 73 79 69 - (021) 73 15 23 - (021) 73 79 70,(021) 73 15 19,,
-"104",626 - AP AGHA,a.agha626@bna.dz,Gare SNTF Agha - 16000 Alger,Alger,"16",36.768604799999999,3.057189500000000,(021) 71 99 94 - (021) 71 39 16,(021) 71 99 94 - (021) 71 39 16,,
-"105",640 - AP BORDJ EL KIFFAN,apbordjelkiffan640@bna.dz,Hôtel des Finances – Ave du 1er Novembre - BP 175/ 16120 Bordj El Kiffan,Alger,"16",36.761160699999998,3.232259300000000,(023) 80 12 67 /68 /70 /72 /82,(023) 80 12 71,,
-"106",635 - Agence Hussein Dey,aphusseindey635@bna.dz,8 - Rue Amar Mekkid Hussein Dey – 16040 Alger,Alger,"16",36.741544500000003,3.098719700000000,(023) 77 19 44/ 45/ 61/ 65,(023) 77 19 44/ 61,,
-"107",638 - Agence BIRKHADEM,,30 - Rue des frères Djillali Birkhadem - W. ALGER -,Alger,"16",36.716636999999999,3.049828600000000,023.45.24.61 - 023.45.23.32 - 023.45.23.26 - 023.45.23.59,023.45.24.70 - 023.45.23.23,,
-"108",653 - Agence AIN OUSSERA,againoussera653@bna.dz,Lot Ali Amar - Rue Principale - 17200 Ain Oussera - W.Djelfa,Djelfa,"17",35.448715499999999,2.907355200000000,(027) 80 15 29 - (027) 80 15 17 - (027) 82 71 26 - (027) 80 15 36,(027) 80 15 37/ 35,"3906.44",17 01 01
-"109",654 - AP DJELFA,apdjelfa654@bna.dz,Bd Emir AbdelKader - 17000 Djelfa,Djelfa,"17",34.670395599999999,3.250376100000000,(027) 92 37 86 - (027) 92 38 11,(027) 92 39 52,"3907.55",17 01 02
-"110",841 - Agence EL MILIA,agelmilia841@bna.dz,55 Ave Zirout Youcef - 18100 El Milia – Jijel,Jijel,"18",36.753120500000001,6.267672600000000,(034) 52 82 92/ 94/ 96,(034) 52 82 92/ 94/ 964,"3905.08",18 01 02
-"111",671 - Agence JIJEL,agjijel671@bna.dz,01 Ave Emir Abdelkader - BP 92 18000 Jijel,Jijel,"18",36.822776900000001,5.765408600000000,(034) 47 20 11 - (034) 47 65 78 - (034) 47 20 17,(034) 47 44 20 - (034) 47 20 17,"3908.69",18 01 01
-"113",702 - Agence AIN EL KEBIRA,againelkebira702@bna.dz,Cité des 100 Logts - Bt D - 19400 Ain El Kebira - W. Sétif,Setif,"19",36.369568399999999,5.507510500000000,(036) 59 62 00 - (036) 59 66 13 - (036) 59 66 12 - (036) 59 62 72,,3905.52 / 62,19 01 02
-"114",703 - Agence SETIF,agsetif703@bna.dz,500 Logts Hachemi Sétif -W. SETIF-,Setif,"19",36.201313800000001,5.421938500000000,(036) 63 14 81 - (036) 63 15 00 - (036) 63 15 01,(036) 63 15 02,3900.51 / 28,19 01 03
-"115",704 - AP SETIF,apsetif704@bna.dz,Cité Bouaroua 29 - rue Zeghlaoui Rabah- 19000 Sétif,Setif,"19",36.192850700000001,5.434543200000000,(036) 66 96 20 / 21 - (036) 66 96 25 - (036) 66 96 24,(036) 66 96 05 - (036) 66 96 24,3900.51 / 28,19 01 01
-"116",706 - Agence EL EULMA,ageleulma706@bna.dz,Rue mustapha ahmed bendadi - El Eulma 19600 W. Sétif,Setif,"19",36.144309900000003,5.693135600000000,(036) 47 15 95 - (036) 47 11 45/ 65/ 66/ 89,(036) 47 11 11,3907.48 / 93,19 01 07
-"117",711 - Agence SETIF,agsetif711@bna.dz,Cité financière Avenue de I'ALN 19000 Sétif,Setif,"19",36.194674300000003,5.411995300000000,(036) 51 22 06/ 28/ 32,(036) 51 22 28,3900.5 / 28,19 01 05
-"118",712 - Agence Park Mall,agparkmall712@bna.dz,Centre commercial et de loisir park Mall Cne Setif,Setif,"19",36.190845299999999,5.410209000000000,(036) 81 40 72 /73 /74,(036) 81 40 75,,
-"119",724 - Agence SAIDA,,11 Rue Chebli Mokhtar - 20000 Saïda,Saïda,"20",34.841520699999997,0.145605500000000,(048) 41 34 51/ 59/ 76 - (048) 41 30 21,(048) 41 34 76/ 82,"3900.62",20 01 01
-"120",485 - Agence AZZABA,agazzaba485@bna.dz,Bd Mohamed Boudiaf - 21300 Azzaba W.Skikda,Skikda,"21",36.743573400000002,7.111823100000000,(037) 95 04 17/ 18/ 19/ 21,(037) 95 04 18,"3916.06",21 01 03
-"121",487 - Agence COLLO,agcollo487@bna.dz,Rue de Palestine - 21200 Collo,Skikda,"21",36.998161400000001,6.555716800000000,(038) 90 53 48/ 49/ 50,(038) 90 53 48/ 49,3952.00 / 46,21 01 02
-"122",743 - AP SKIKDA,apskikda743@bna.dz,Les Allées - Cité du 20 Août 1955 21000 Skikda,Skikda,"21",36.862718699999981,6.909474300000000,(038) 70 77 65 - (038) 70 28 77/ 83 - (038) 70 12 60/ 67 - (038) 72 15 58,(038) 70 28 83 - (038) 72 24 43,"3908.92",21 01 01
-"123",744 - Agence SKIKDA,agskikda744@bna.dz,26 Rue Didouche Mourad – W. Skikda,Skikda,"21",36.768298000000001,3.054138700000000,(038) 76 15 11 - (038) 76 15 16,(038) 76 15 14 - 76 15 08,,
-"124",773 - AP SIDI BEL ABBES,apsidibelabbes773@bna.dz,09 Rue Ali Boumendjel - BP 57 - 22000 Sidi Bel Abbès,Sidi Bel Abbès,"22",35.190262599999997,-0.632673100000000,(048) 74 20 68/ 69,(048) 74 20 80,"3908.25",22 01 01
-"125",482 - Agence ANNABA,agannaba482@bna.dz,Cité du 08 Mars -B Plaine Ouest Annaba,Annaba,"23",36.890707599999999,7.730891799999998,(038) 43 76 78 - (038) 41 76 80 - (038) 41 25 40,(038) 43 76 86 - (038) 41 25 40,,
-"126",810 - AP ANNABA,apannaba810@bna.dz,Place de l'Esplanade - 23000 Annaba,Annaba,"23",36.914208100000003,7.742667300000002,(038) 45 58 98 - (038) 45 59 04/ 05/ 06,(038) 45 58 97 - (038) 54 59 02,3905.13 / 46,23 01 02
-"127",811 - AP ANNABA,apannaba811@bna.dz,17 Cours de la Révolution - BP 30.93 RP - 23000 Annaba,Annaba,"23",36.899226700000000,7.760608000000000,(038) 45 94 14/ 28/ 40,(038) 45 94 15,3900.56/52,23 01 01
-"128",813 - Agence ANNABA,agannaba.b.813@bna.dz,Angle des rues Tindjoub et Hassiba Beida - 23000 Annaba,Annaba,"23",36.914208100000003,7.742667300000002,(038) 44 18 72 - (038) 44 42 97 - (038) 44 02 81,(038) 44 18 72 - (038) 44 34 00,,23 01 03
-"129",815 - Agence EL BOUNI,agelbouni815@bna.dz,19 Cité des 850 Logts - El Bouni - 23000 Annaba,Annaba,"23",36.851287999999997,7.742281600000000,(038) 56 94 88/ 97,(038) 56 94 87,,23 01 04
-"130",816 - Agence GUELMA,agguelma816@bna.dz,Rue Zedadra Hocine - 24000 Guelma,Guelma,"24",36.462279299999999,7.431548200000000,(037) 15 00 61 (037)15 00 57 / 62,(037) 15 00 55 - 15 00 59,3900.54 / 40,24 01 01
-"131",488 - Agence OUED ZENATI,agouedzenati488@bna.dz,Cité 50 Logts - BP 02 - 24300 Oued Zenati,Guelma,"24",36.310034700000003,7.165736200000000,(037) 27 53 33 - (037) 27 55 13 - (037) 27 44 34,(037) 27 41 27 - (037) 18 00 61/ 62,3913.11 / 33,24 01 02
-"132",832 - Agence CONSTANTINE PYRAMIDE,agpyramide832@bna.dz,Avenue de l’Indépendance (Coudiat) - 25000 Constantine,Constantine,"25",36.362245000000001,6.605566100000000,(031) 93 21 90,(031) 91 21 59,"3902.69",25 01 03
-"133",835 - Agence EL KHROUB,agelkhroub835@bna.dz,Cité administrative n° 761 Partie B El Khroub Constantine,Constantine,"25",36.259331400000001,6.701453700000000,(031) 76 73 19 - (031) 76 73 17 - (031) 76 73 73,(031) 76 73 17 - (031) 76 73 73,3907.29 / 87,25 01 04
-"134",844 - Agence DAKSI,agdaksi844@bna.dz,Cité Mentouri (ex- Le Bosquet) Sidi Mabrouk - 25000 Constantine,Constantine,"25",36.359388199999998,6.638903100000000,(031) 62 47 88 - (031) 62 47 90 - (031) 61 24 70,(031) 62 47 90 - (031) 61 24 70,3915.66 / 81,25 01 07
-"135",845 - AP CONSTANTINE,apconstantine845@bna.dz,01 Place du 1er Novembre – Constantine,Constantine,"25",36.365525499999997,6.610169100000000,(031) 87 31 36 - (031) 87 22 16,(031) 87 31 36 - (031) 64 22 16,3900.76 / 58,25 01 01
-"136",848 - Agence HAMMA BOUZIANE,aghammabouziane848@bna.dz,191 Ave. de l'ALN - Hamma Bouziane Constantine,Constantine,"25",36.370049000000009,6.642211700000000,(031) 84 06 11/ 41/ 42/ 43/ 44/ 46,(031) 84 06 17,"3907.36",25 01 06
-"137",850 - AP FILLALI,agfilali850@bna.dz,Cité des Frères Fillali - 25005 Constantine,Constantine,"25",36.357005200000003,6.639028200000000,(031) 92 92 22 - (031) 92 92 24,(031) 92 63 50,"3902.69",25 01 05
-"138",840 - AP AIN SMARA,apainsmara840@bna.dz,Lot Communal n°158 - 25140 Aïn Smara,Constantine,"25",36.280339599999998,6.517625900000000,(031) 97 38 15 /17 - 97 43 95 - (031) 97 38 37 / 44 - (031) 97 38 71,(031) 97 43 95,3903.77 / 80,25 01 02
-"139",834 - Agence AIN EL BEY,againelbey834@bna.dz,Lotissement UV 07 Ali Mendjeli - Constantine,Constantine,"25",36.253830299999997,6.565893500000000,(031) 77 67 00 (031) 77 66 78,(031) 77 67 02,,
-"140",849 - Agence BERROUAGHIA,agberroughia849@bna.dz,Cité des 400 Logts – Berrouaghia - W. Médéa,Médéa,"26",36.139797799999997,2.918994200000000,(025) 77 67 69 - (025) 77 67 71 - (025) 77 67 72,(025) 77 67 70,"3900.35",26 01 01
-"141",851 - AP MEDEA,apmedea851@bna.dz,01 Rue des Frères Bachène - 26000 Médéa,Médéa,"26",36.269149599999999,2.761627300000000,(025) 80 40 55 - (025) 80 40 56 - (025) 80 40 66 - (025) 80 40 63 - (025) 80 40 60,(025) 80 40 67 - (025) 80 40 62 - (025) 80 40 61,"3901.04",26 01 02
-"142",857 - Agence BERROUAGHIA,agberrouaghia857@bna.dz,Complexe POVAL (Ex : Sonacome) 26600 Berrouaghia - W. Médéa,Médéa,"26",36.135352599999997,2.934763900000000,(025) 57 91 55,(025) 57 91 30,"3903.89",26 01 03
-"143",858 - Agence KSAR EL BOUKHARI,agksarelboukhari858@bna.dz,Bd Ahmed Zouaoucha - 17200 Ksar El Boukhari - W. Médéa,Médéa,"26",35.876377300000001,2.748844700000000,(025) 69 19 43/ 44 - (025) 69 23 55 - (025) 69 23 10,(025) 69 23 22 - (025) 69 19 40,"391722",26 01 04
-"144",871- Agence MOSTAGANEM,agmostaganem871@bna.dz,12 Rue Benhamdada Sadek Immeuble Le Dahra - 27000 Mostaganem,Mostaganem,"27",35.930351199999997,0.083154300000000,(045) 42 77 39/ 40/ 45/ 47,(045) 42 77 43/ 41,3911.62 / 50,27 01 01
-"145",876 - AP MOSTAGANEM,apmostaganem876@bna.dz,01 Ave Benyahia Belkacem - Palais Consulaire - 27000 Mostaganem,Mostaganem,"27",35.931491100000002,0.090828700000000,(045) 41 34 02 /03 /04 (045) 41 32 32,(045) 41 34 07/ 00,"3900.72",27 01 02
-"146",878 - Agence MOSTAGANEM,agmostaganem878@bna.dz,Rue Bensâadoune Menouar Face Cinéma Afrique - 27000 Mostaganem,Mostaganem,"27",35.931145399999998,0.090941400000000,(045) 41 64 51/ 52/ 53/ 55,(045) 41 64 52/ 53,,27 01 04
-"147",701 - Agence BOUSSAADA,agbousaada701@bna.dz,Centre Commercial - 28200 Boussaâda - W. M'Sila,M'Sila,"28",35.216351600000003,4.181463000000000,(035) 43 41 22/ 23,(035) 43 41 22,3907.35 / 76,28 01 02
-"148",707 - Agence AIN EL MELH,againelmelh707@bna.dz,Centre Commercial - 28400 Ain El Melh - W. M'Sila,M'Sila,"28",34.846720200000000,4.161803900000000,(035) 47 85 41,(035) 47 84 48,3913.36 / 92,28 01 03
-"149",708 - Agence SIDI AISSA,agsidiaissa708@bna.dz,Cité du 5 juillet Route Nationale n°08 - 28002 Sidi Aïssa - W. M'Sila,M'Sila,"28",35.885157000000000,3.774373000000000,(035) 40 54 52/ 67/ 72 - (035) 40 60 33,(035) 40 54 72,3907.37 / 84,28 01 07
-"150",901 - Agence M'SILA,agmsila901@bna.dz,Cité administrative rue Chenouf Abdelkader - 28000 M'Sila,M'Sila,"28",35.718664599999997,4.523342300000000,(035) 33 85 38 - (035) 33 88 06 - (035) 33 88 71 - 33 85 79,(035) 33 85 16,3911.31 / 31,28 01 01
-"151",546 - Agence SIG,agsig546@bna.dz,N° 177 Boulevard de l’indépendance SIG - 29300 - W. Mascara,Mascara,"29",35.531361400000002,-0.189445800000000,(045) 64 97 88 / 64 98 22,(045) 64 97 51,,
-"152",920 - Agence MASCARA,agmascara920@bna.dz,Place Emir Abdelkader -29000 Mascara,Mascara,"29",35.402098799999997,0.140025700000000,(045) 75 28 67/ 62/ 61/ 70,(045) 75 28 74/ 69,"3908.64",29 01 01
-"153",877 - Agence TIGHENIF,agtighenif877@bna.dz,27 Rue des Martyrs - 29200 Tighennif,Mascara,"29",35.415373470356549,0.331317648270423,(045) 97 15 12/ 11/ 14,(045) 97 15 10,"3911.90",29 01 02
-"154",921 - Agence MOHAMMADIA,agmohammadia921@bna.dz,122 Avenue Larbi Ben M’hidi (Route d’Alger) - 29400 Mohammadia,Mascara,"29",35.591909600000001,0.065420000000000,(045) 94 32 14/ 12,(045) 94 32 10,,
-"155",941 - Agence TOUGGOURT,agtouggourt941@bna.dz,Avenue du 1er Novembre - 30200 Touggourt - W. de Ouargla,Ouargla,"30",33.104964199999998,6.066283400000000,(029) 66 26 01/ 27/ 52,(029) 66 25 37,"3913.74",30 01 02
-"156",943 - Agence OUARGLA - B,agouarglab943@bna.dz,Avenue Chenine Kaddour - BP 84 30000 Ouargla,Ouargla,"30",31.955056800000001,5.336307200000000,(029) 70 07 86 - (029) 70 57 73 - (029) 70 59 21,(029) 70 59 22,"3914.72",30 01 04
-"157",944 - Agence OUARGLA,agouargla944@bna.dz,Avenue Colonel Si El Haouès - Ouargla,Ouargla,"30",31.952741100000001,5.333534800000000,(029) 70 12 47 - (029) 70 36 77,(029) 70 36 76,,30 01 05
-"158",946 - AP OUARGLA,apouargla946@bna.dz,Avenue de l'ALN - 30000 Ouargla,Ouargla,"30",31.959149400000001,5.327765200000000,(029) 70 15 12 - (029) 76 21 04 - (029) 70 14 11 - (029) 70 18 97 - (029) 70 21 19,(029) 76 21 04 - (029) 70 81 16,3905.05 / 49,30 01 01
-"159",947 - Agence HASSI MESSAOUD,aghassimessaoud947@bna.dz,Cité des 1850 Logts - 30100 Hassi Messaoud - W. Ouargla,Ouargla,"30",30.985909100000001,5.749381300000000,(029) 79 15 03 - (029) 79 15 01 - (029) 79 15 02,(029) 79 15 00,"3913.74",30 01 03
-"160",900 - Agence HAI ESSALEM,aghaiessalem900@bna.dz,04 Place Essalem Hassiba Ben Bouali - lot n°2 Hai Essalem - W. d'Oran,Oran,"31",35.676872699999997,-0.638777800000000,(041) 35 83 78 - 35 32 43,(041) 35 83 79,,
-"161",951 - AP ORAN SOUMMAM,aporansoummam951@bna.dz,04 - Boulevard de la Soummam - Hai El Amir - Oran,Oran,"31",35.703075499999997,-0.647174100000000,(041) 36 16 99,(041) 29 33 26,"3900.52",31 01 01
-"162",953 - Agence ORAN BEN M'HIDI,agoranbenmhidi953@bna.dz,90 Rue Larbi Ben M'Hidi - 31009 Oran,Oran,"31",35.703128100000001,-0.636413000000000,(041) 33 21 38,(041) 33 55 63 - (041) 33 35 59,"3909.31",31 01 04
-"163",954 - Agence ARZEW,agarzew954@bna.dz,Bd Emir Abdel Kader - 31200 Arzew - W. d'Oran,Oran,"31",35.857744300000000,-0.309660600000000,(041) 77 15 46,(041) 77 15 44/ 45/ 47,"3908.70",31 01 03
-"164",957 - Agence ORAN,agoran957@bna.dz,54 Ave Aspirant Hamou Mokhtar - 31017 Oran St Eugène,Oran,"31",35.698467000000001,-0.625201000000000,(041) 28 22 66,(041) 28 31 52,"3903.73",31 01 02
-"165",958 - Didouche Mourad,agoran958@bna.dz,14 Bd Didouche Mourad -31026 Oran,Oran,"31",35.698002899999999,-0.645341000000000,(041) 40 78 96,(041) 40 53 62 - (041) 40 29 26,"3903.74",31 01 07
-"166",960 - AP ORAN Djillali,aporankhemisti960@bna.dz,06 Rue Ain Temouchent - 31024 Oran,Oran,"31",35.299269799999998,-1.139279200000000,(041) 36 19 68,(041) 36 19 74,"3910.50",31 01 06
-"167",962 - Agence ES-SENIA,agessenia962@bna.dz,Aérogare Es-Senia - BP 14 - 31100 Es Senia - W.Oran,Oran,"31",35.620247599999999,-0.606133000000000,(041) 59 11 52,(041) 59 10 69,,31 01 11
-"168",963 - Agence OUED TLELAT,agouedtlelat963@bna.dz,Rue des Invalides 31140 Oued Tlelat - W. Oran,Oran,"31",35.552234899999988,-0.448799700000000,(041) 17 72 20,(041) 17 72 17,"3914.81",31 01 14
-"169",965 - Agence ES-SENIA Ville,agesseniaville965@bna.dz,Rue Gherras Bouazza 31100 Es Senia - W.d'Oran,Oran,"31",35.649201800000000,-0.606227700000000,(041) 56 37 35,(041) 56 37 30,"3913.39",31 01 12
-"170",966 - AP ORAN sidi el houari,aporandjillali966@bna.dz,21 Bd KHEDIM Mustapha - Sidi El Houari - 31024 Oran,Oran,"31",35.703672800000000,-0.652606200000000,(041) 15 32 87 - (041) 15 35 32,(041) 15 32 88,"3912.41",31 01 10
-"171",967 - Agence AÏN EL TURCK,againelturck967@bna.dz,Niche n°1404 - Trouville - 31009 Aîn El Turck - W.d'Oran,Oran,"31",35.742739700000001,-0.773149800000000,(041) 44 62 21/23,(041) 44 62 24,,31 01 15
-"172",952 - Agence ORAN « Boulanger »,a.oranboulanger952@bna.dz,48 - Avenue de l’ANP – 31006 Oran,Oran,"31",35.680469199999997,-0.643688100000000,(041) 34 38 66,(041) 24 28 05,,
-"173",955 - Agence MISSERGHIN,agmisserghin955@bna.dz,Centre commercial -31180 Misserghin – W.d’Oran,Oran,"31",35.634663699999997,-0.599201900000000,(041) 49 03 53,(041) 19 04 34 - (041) 19 03 53,,
-"174",969 - Agence OUED TLELAT,agouedtlelat969@bna.dz,Zone industrielle .W oran,Oran,"31",35.646347200000001,-0.596736900000000,(041) 18 70 62 (041) 18 70 63,(041) 18 70 61,,
-"175",726 - Agence El Bayadh,agelbayadh726@bna.dz,06 Rue Bey Boukhobza - 32000 El Bayadh,El Bayadh,"32",33.685414899999998,1.030354300000000,(049) 61 19 92 - (049) 61 19 86,(049) 61 19 87,"3900.12","320101"
-"176",945 - Agence DJANET,agdjanet945@bna.dz,76 Ave du Centre-Ville 33100 Djanet - W.lllizi,Illizi,"33",26.477586299999999,8.477632600000000,(029) 48 55 78 - (029) 48 56 03,(029) 47 61 46 - (029) 48 55 90,"3911.04","330101"
-"177",948 - Agence Illizi,agillizi948@bna.dz,Avenue place El Maghreb ELarabi Illizi C.P. 33000,Illizi,"33",26.477586299999999,8.477632600000000,(029) 41 16 00 - (029) 41 15 96/ 98,(029) 41 15 97,,
-"178",705 - Agence BORDJ BOU ARRERIDJ,agbordj705@bna.dz,N°1 et 2 Rue Zioui Abdelhamid - 34000 B.B.A,Bordj Bou Arreridj,"34",36.073769400000003,4.761400900000000,(035) 73 50 67 - 73 50 80 - (035) 73 50 81 - (035) 73 50 76 - (035) 73 50 50,(035) 73 50 50/ 75,3907.53 / 78,"340101"
-"179",642- Agence DELLYS,agdellys642@bna.dzgdellys642@bna.dz,Cité les Jardins - 35004 Dellys - W. Boumerdès,Boumerdes,"35",36.918700399999999,3.888287400000000,(024) 76 48 94/ 95,(024) 76 48 95,"3913.57","350104"
-"180",643 - Agence BORDJ MENAIEL,agbordjmenaiel643@bna.dz,Rue Larbi Boualem - Bordj Menaïel - 35001 Boumerdès,Boumerdes,"35",36.743399300000000,3.719551800000000,(024) 78 47 84/ 85/ 83/ 86,(024) 78 47 83/ 86,"3907.27","350102"
-"181",631 - Agence THENIA,agthenia631@bna.dz,Rue des Frères BENZERGA Si Mustapha - W. Boumerdès,Boumerdes,"35",36.722230699999997,3.619779000000000,(024) 71 02 70/ 71/ 72,(024) 81 04 70/ 72,,
-"182",645 - Agence BOUMERDES,agboumerdes645@bna.dz,Centre Commercial El Yasmine - 35000 Boumerdès,Boumerdes,"35",36.753680099999997,3.473081700000000,(024) 79 77 33 - (024) 79 79 51/ 52,(024) 79 79 53,3905.17 / 27,"350103"
-"183",489 - Agence EL TARF,ageltarf489@bna.dz,Lot N° 09 - 36000 El Tarf,El Tarf,"36",36.757667800000000,8.307634300000000,(038) 30 25 20/ 33 - (038) 30 25 36,(038) 60 25 20 - (038) 30 25 36,,
-"184",812 - Agence EL KALA,agelkala812@bna.dz,Rue du Sahara - 36100 El Kala - W. EI Tarf,El Tarf,"36",36.885675399999997,8.440818699999999,(038) 36 21 93 - (038) 36 33 53 - (038) 36 31 00 - (038) 36 29 23 - (038) 36 15 99,(038) 36 21 93 - (038) 36 33 53,,
-"185",411 - Agence TINDOUF,agtindouf411@bna.dz,Bd du 1er Mai cité Guessabi - 37000 Tindouf,Tindouf,"37",27.671915899999998,-8.139800299999999,(049) 37 07 70,(049) 37 07 69,39 12 89 / 94,"370101"
-"186",277 - Agence TISSEMSILT,agtissemsilt277@bna.dz,Avenue du 1er Novembre -38000 Tissemsilt,Tissemsilt,"38",35.605378100000003,1.813098000000000,(046) 57 67 69/ 66,(046) 57 67 65/ 66,"3913.814","380101"
-"187",710 - Agence EL OUED,ageloued710@bna.dz,Cité des 400 Logts - Av du 05 juillet 1962 BT 19 n° 02 - El Oued – 39000,El Oued,"39",33.367811000000003,6.851651100000000,(032) 14 11 21/ 23,(032) 14 11 20/ 19,3907.49 / 97,"390101"
-"188",315 - Agence KHENCHELA,agkhenchela315@bna.dz,Cité des 90 Logts -Bloc administratif - Khenchela,Khenchela,"40",35.426940399999999,7.146015500000000,(032) 72 75 37/ 39 - (032) 72 75 36,(032) 72 75 36 - 72 75 37/39,,
-"189",323 - Agence KHENCHELA,agkhenchela323@bna.dz,Avenue du 1er novembre route des poids lourds - W. Khenchela,Khenchela,"40",35.426940399999999,7.146015500000000,(032) 72 61 36 - (032) 72 61 37 - (032) 72 75 86,,3910.71 / 45,"400101"
-"190",814 - Agence SOUK AHRAS,agsoukahras814@bna.dz,Place de L'Indépendance - 41000 Souk Ahras,Souk Ahras,"41",36.280106199999999,7.938403300000000,(037) 71 80 59/ 60/ 61/ 62 - (037) 71 05 00,(037) 71 80 60,3913.24 / 50,"410101"
-"191",427 - Agence CHERCHELL,agcherchell427@bna.dz,Route Nationale n°11 - Lot n°91- Partie n°2 Parcelle n°03 42100 Cherchell - W. Tipaza,Tipaza,"42",36.595573799999997,2.252501500000000,(024) 34 80 42/ 44 - (024) 34 82 27,(024) 34 80 41,"3910.81","420101"
-"192",438 - Agence TIPAZA,agtipaza438@bna.dz,RUE DE LA GENDARMERIE TIPAZA. W. TIPAZA,Tipaza,"42",36.591825999999998,2.451130500000000,(024) 37 06 52/ 06,(024) 37 06 51,"3905.10","420103"
-"193",439 - Agence HADJOUT,aghadjout439@bna.dz,Cimetière Chrétien Lot n°16 Route de Meurad Hadjout - W.TIPAZA.,Tipaza,"42",36.504062400000002,2.421334500000000,(024) 39 77 74 - (024) 39 76 56,(024) 39 77 74,"3907.50","420104"
-"194",441 - AP KOLEA,apkolea441@bna.dz,16 Rue Souidani Boudjemâa - 42400 Koléa - W.Tipaza,Tipaza,"42",36.636119500000000,2.768579100000000,(024) 38 06 98/ 85,(024) 38 06 98/ 85,"3906.41","420102"
-"195",444 - Agence BOU ISMAIL,agbouismail444@bna.dz,ROUTE NATIONALE N°11 COTE SUD BOU ISMAIL - W.Tipaza,Tipaza,"42",35.696889599999999,-0.609041600000000,(024) 32 61 30/ 31/ 32,(024) 32 61 23/ 24,,
-"196",843 - Agence Chelghoum El Aid,agchelghoum843@bna.dz,CitéAffes Ahmed - route Nationale N°5 - Chelghoum El Aid,Mila,"43",36.163559900000003,6.183755900000000,(031) 52 91 75 - (031) 42 76 79,(031) 42 76 72,,
-"197",846 - Agence MILA,agmila846@bna.dz,Rue Dehili Salah - 43000 Mila,Mila,"43",36.451692999999999,6.264824700000002,(031) 47 39 71 à 72,(031) 47 39 71 à 72,3907.09 / 77,"430101"
-"198",833 - Agence TADJENANET,agtadjenanet833@bna.dz,RN n°5 - Cité Ezzaradeb - 43220 Tadjenanet - W.Mila,Mila,"43",36.121832800000000,5.985242100000000,(031) 53 21 12 / 33 à 39 - (031) 40 37 16/ 17,(031) 53 21 38 (031) 53 21 34,,"430102"
-"199",262 - Agence MILIANA,agmiliana262@bna.dz,Rue Emir Abdelkader - 44200 Miliana,Aïn Defla,"44",36.308026699999999,2.228407000000000,(027) 64 92 13 - (027) 64 07 48 - (027) 64 01 63,(027) 64 01 63 - (027) 64 00 98,"3900.86","440103"
-"200",268 - AP AIN DEFLA,apaindefla268@bna.dz,Bd Emir Abdelkader - BP 78 - 44000 Ain Defla,Aïn Defla,"44",36.250942899999998,1.939381500000000,(027) 50 61 25/ 26/ 29,(027) 50 61 32/ 34,"3910.86","440101"
-"201",272 - Agence EL ATTAF,agelattaf272@bna.dz,32 - Rue Med Khemisti - Route Nationale N° 04 - 44300 El Attaf,Aïn Defla,"44",36.225829099999999,1.673711300000000,(027) 63 26 71 - (027) 63 21 76,(027) 63 21 76 - (027) 62 15 55,"3911.07","440102"
-"202",278 - Agence KHEMIS MILIANA,,Rue Djitli Mohamed 44225 Khemis Miliana,Aïn Defla,"44",36.260982800000001,2.234357800000000,(027) 56 20 62 - (027) 56 22 33,(027) 56 20 65,"3915.01","440104"
-"203",725 - Agence MECHERIA,agmecheria725@bna.dz,05 Rue BendahouTahar BP 262 45002 Mecheria - Naama 45002,Naâma,"45",33.542837599999999,-0.275112300000000,(049) 57 52 28 - (049) 57 41 20 - (049) 57 41 48,(049) 57 48 85,"3907.58","450102"
-"204",727 - Agence Ain Sefra,againsefra727@bna.dz,Place Colonel Lotfi 45001 Ain Sefra - W. Naama,Naâma,"45",32.759116900000002,-0.578262100000000,(049) 56 11 21 - (049) 56 11 32,(049) 56 10 70 - (049) 56 11 21,"3904.81","450101"
-"205",730- Agence NAAMA,,Cité 164 logements - rue Haddad Benziane - Tranche 04 - section n°09 Naama - W. Naama,Naâma,"45",33.266731700000001,-0.312865900000000,(049) 59 67 57 - (049) 59 67 56 - (049) 59 67 59 - (049) 59 67 60,(049) 59 67 61 - (049) 59 67 58,,
-"206",728 - Agence Ain Temouchent,againtemouchent728@bna.dz,24 Rue Maghnia Sandid Fatma - 46000 AïnTémouchent,Aïn Témouchent,"46",35.291200181993005,-1.141149647905119,(043) 78 25 66 - (043) 78 12 81 - (043) 78 21 89,(043) 78 55 10,"3914.99","460103"
-"207",525 - Agence BENI SAF,agbenisaf525@bna.dz,Rue de la République BP 35 Beni Saf 46001 - W.AinTémouchent,Aïn Témouchent,"46",35.289786100000001,-1.376885600000000,(043) 74 26 16,(043) 74 23 70,"3907.73","460101"
-"208",771 - Agence EL MALLAH,agelmallah771@bna.dz,Bd Med Khemisti - 46007 Mallah W. Ain Témouchent,Aïn Témouchent,"46",35.297240500000001,-1.140688600000000,(043) 75 72 37 - (043) 75 62 39,(043) 75 65 04,"3900.71","460102"
-"209",291 - Agence GHARDAIA,agghardaia291@bna.dz,RN n°1 - Sidi Abbaz - 47132 Bounoura - W.Ghardaia,Ghardaïa,"47",32.485175599999998,3.695131100000000,(029) 25 55 51/ 45 - (029) 25 54 44/ 56,(029) 25 54 70/ 44,"3900.57","470101"
-"210",292 - Agence GHARDAÏA,agghardaia292@bna.dz,Avenue du 1er Novembre - 47000 Ghardaïa,Ghardaïa,"47",32.477805400000001,3.687071999999999,(029) 23 40 40/ 70/ 50/ 30/ 10/ 20,(029) 23 40 60,,
-"211",294 - Agence BERRIANE,agberriane294@bna.dz,Cité Boudouaia - 47100 Berriane W.Ghardaïa,Ghardaïa,"47",32.825651000000008,3.763906100000000,(029) 24 66 20 - (029) 24 60 00,(029) 24 67 40,3916.92 / 95,
-"212",295 - Agence GUERRARA,agguerrara295@bna.dz,Bd des Ecoles - 47110 Guerrara Ghardaïa,Ghardaïa,"47",32.781326200000002,4.519794100000000,(029) 26 17 01 - (029) 26 15 96 - (029) 26 18 96 - (029) 26 14 94,(029) 26 14 96,3913.52 / 57,"470102"
-"213",296 - Agence METLILI CHAAMBA,agmetlilichaamba296@bna.dz,Quartier Administratif - 47200 Metlili Chaamba - W. de Ghardaïa,Ghardaïa,"47",32.291201999999998,3.603168100000000,(029) 29 24 25 - (029) 29 24 09 - (029) 29 24 26,(029) 29 25 01,3905.28 / 71,"470103"
-"214",276 - Agence OUED RHIOU,agouedrhiou276@bna.dz,Rue Touati Mohamed (Face commissariat de police) - 48300 Oued Rhiou,Relizane,"48",35.977004800000003,0.924750100000000,(046) 78 80 27/ 24/ 25,(046) 78 80 26/ 24/ 25,"3909.58","480102"
-"112",338 - Agence,ag.amoucha338@bna.dz,Place du 08 Mai 1945 Amoucha - Sétif,Setif,"19",36.386915766182184,5.413125857507912,(036) 71 01 51/ 52/ 53 - (036) 71 00 55,(036) 71 01 52,,
-"215",869 - Agence RELIZANE,29 Bd Mohamed Khemisti - 48000 Relizane,agrelizane869@bna.dz,Relizane,"48",35.745138792724816,0.558027874649445,(046) 72 23 90/ 92/ 89 - (046) 72 24 30/ 31,(046) 72 23 91/ 92,"3900.69","480101"
+id,nom,email,adresse,wilaya,code_wilay,tel,fax
+"0",250 - Agence ADRAR,agadrar250@bna.dz,Grande Place des Martyrs - 01000 Adrar,Adrar,"1",(049) 36 78 43 - (049) 36 78 42,(049) 36 78 46
+"1",251 - Agence TIMIMOUN,agtimimoun251@bna.dz,Place du 1er Novembre - 01400 Timimoune,Adrar,"1",(049) 30 03 87 - (049) 30 03 90,(049) 30 03 92
+"2",413 - Agence AOULEF,agaoulef413@bna.dz,Marché Couvert Place Aoulef - 01300 Aoulef,Adrar,"1",(049) 32 77 47 - (049) 32 77 77,(049) 32 77 62
+"3",260 - Agence CHLEF,agchlef260@bna.dz,21 Rue Ibn Badis - 02000 Chlef,Chlef,"2",(027) 77 18 62 - (027) 77 16 24 - (027) 77 77 05,(027) 77 08 53 - (027) 77 16 24 - (027) 77 77 05
+"4",275 - AP CHLEF,apchlef275@bna.dz,32 Rue Des Martyrs 02000 Chlef,Chlef,"2",(027) 77 71 62 - 77 28 35 - (027) 79 06 21 - (027) 77 71 68,(027) 77 71 68 - (027) 77 28 43
+"5",279 - Agence TENES,agtenes279@bna.dz,Rue Allel Ahmed N°74 -Tenes - 02006 W/CHLEF,Chlef,"2",(027) 76 83 63 - (027) 76 94 23,(027) 76 73 06 - (027) 76 94 23
+"6",297 - Agence AFLOU,agaflou297@bna.dz,Bd Emir AbdelKader - 03400 Aflou W. Laghouat,Laghouat,"3",(029) 16 72 01 - (029) 16 60 44,(029) 16 60 44
+"7",301 - AP LAGHOUAT,aplaghouat301@bna.dz,Rue Bensahnoun - El-Maâmoura - 03000 Laghouat,Laghouat,"3",(029) 13 27 51/ 52/ 55/ 54,(029) 13 27 50
+"8",316 - Agence OUM EL BOUAGUI,agoumelbouaghi316@bna.dz,Cité Errasd - Oum El Bouaghi,Oum El Bouaghi,"4",(032) 42 95 87 - 42 84 77 (032) 42 80 00,(032) 42 85 43
+"9",321 - Agence AIN BEIDA,agoumelbouaghi316@bna.dz,800 route de KHENCHELA N°57 Commune d'Ain Beinda 4200 W. Oum El Bouaghi,Oum El Bouaghi,"4",(032) 69 10 65 - (032) 69 10 79,(032) 69 10 65 - (032) 69 10 79
+"10",325 - Agence AIN MLILA,againmlila325@bna.dz,Route Batna - Centre Commercial - Ain M'Lila - W. Oum El Bouaghi,Oum El Bouaghi,"4",(032) 52 40 49,(032) 452 40 50
+"11",800 - Agence Ain Beida,agaibeida800@bna.dz,Route de Khenchela n° 57 - Commune d’Ain Beida – 04200 - W. Oum El Bouaghi,Oum El Bouaghi,"4",(032) 68 96 97 - (032) 68 96 93,(032) 68 96 92
+"12",842 - Agence OUM EL BOUAGHI,agoumelbouaghi842@bna.dz,Place du 1er Novembre - Oum El Bouaghi,Oum El Bouaghi,"4",(032) 54 21 64 - (032) 54 27 51 - (032) 54 26 06 - (032) 54 25 78,(032) 54 26 06 - (032) 54 25 78
+"13",335 - AP BATNA,apbatna335@bna.dz,14 - Rue des Fidayines - 05000 Batna,Batna,"5",(033) 80 38 39 - (033) 80 59 76 - (030) 36 18 97 - (033) 80 58 46,(033) 80 58 46
+"14",336 - Agence BATNA,agbatna336@bna.dz,Cité 742 logements - 05000 Batna,Batna,"5",(033) 85 42 30 - (033) 80 70 35,(033) 80 70 35
+"15",340- Agence BARIKA,agbarika340@bna.dz,Rue Yahiaoui Amar 3éme Tranche n°27 - 05400 Barika - W.Batna,Batna,"5",(033) 39 11 06 / 12/ 20,(033) 39 11 89
+"16",356 - AP BEJAIA,apbejaia356@bna.dz,Cité tobbal- BP 60 Ter - Béjaia Liberté 06000 - Béjaïa,Bejaia,"6",(034) 16 07 82/ 83/ 84/ 85/ 86/ 87/ 88 - (034) 16 06 86 - (034) 16 07 90,(034) 16 07 82 - (034) 16 00 22
+"17",586 - Agence TAZMALT,agtazmalt586@bna.dz,Cité des 60 Logts - n°15 - 05270 Tazmalt - W. Béjaïa,Bejaia,"6",(034) 31 71 99 - (034) 31 72 56 - (034) 31 70 97,(034) 31 71 99 - (034) 31 70 97
+"18",587 - Agence IHADDADEN,agihaddaden587@bna.dz,Bd Krim Belkacem - Ihaddaden - 06000 Béjaia,Bejaia,"6",(034) 12 05 96 - 12 05 86 - (034) 12 05 83 - (034) 16 06 39 - (034)12 05 84,(034) 12 05 98 - (034) 12 05 92
+"19",588 - Agence BEJAIA,agbejaia588@bna.dz,4 Place du 1er Novembre - BP 86 - 05000 Béjaïa Ville,Bejaia,"6",(034) 17 47 59 - (034) 17 47 23 - (034) 17 47 55 - (034) 17 47 56 - (034) 17 47 36,(034) 17 47 22 - (034) 17 47 35
+"20",589 - Agence AOKAS,agaokas589@bna.dz,Bd Mohemmadi Slimane BP 75 Aokas - W. Béjaïa,Bejaia,"6",(034) 84 74 36 - (043) 84 74 45 - (043) 84 74 35,(034) 84 74 39 - (043) 84 74 45 - (043) 84 74 35
+"21",386 - Agence BISKRA,agbiskra386@bna.dz,06 - Rue Mohamed Abbas - 07000 Biskra,Biskra,"7",(033) 52 03 91 - (033) 52 09 48,
+"22",387 - Agence BISKRA,agbiskra387@bna.dz,Cité des 1000 logements BT 09 & 10 n°1 Biskra - 07000,Biskra,"7",(033) 54 10 38 - (033) 54 15 91,(033) 54 10 37 / 38
+"23",709 - Agence TOLGA,agtolga709@bna.dz,03 Rue Makhloufi Saad – Rissota Est TOLGA - 07300,Biskra,"7",(033) 57 88 38/ 36,(033) 57 88 36
+"24",410 - Agence BENI OUNIF,agbeniounif410@bna.dz,Avenue Colonel Lotfi - 08100 Béni - Ounif,Bechar,"8",(049) 25 22 04,(049) 25 22 05
+"25",412 - AP BECHAR,apbechar412@bna.dz,Avenue Colonel Lotfi - 08000 Béchar,Bechar,"8",(049) 22 08 56 - (049) 22 07 53 -,(049) 22 07 43 - 22 07 52
+"26",414 - Agence DEBDABA,agdebdaba414@bna.dz,Bd Emir Abdelkader - Debdaba - 08000 Béchar,Bechar,"8",(049) 22 77 37 - (049) 22 77 41,(049) 22 70 52
+"27",415 - Agence BECHAR,agbechar415@bna.dz,28 Avenue Colonel Lotfi - 08000 Béchar,Bechar,"8",(049) 22 12 38 - (049) 22 12 37 -,(049) 22 12 41
+"28",430 - AP BOUFARIK,apboufarik430@bna.dz,13 - Avenue Souidani Boudjemaa Boufarik - W. Blida,Blida,"9",(025) 48 19 88 - (025) 48 19 90 - (025) 48 15 69,(025) 48 19 88 - (025) 48 25 63
+"29",431 - Agence Blida,agblida431@bna.dz,Bd des Martyrs - Blida,Blida,"9",(025) 21 01 65 - (025) 21 01 67 - (025) 21 00 20,(025) 21 01 68
+"30",437 - Agence EL AFFROUN,agelaffroun437@bna.dz,Rue Mebarek Chérif - 09200 El Affroun,Blida,"9",(025) 38 79 83 - (025) 38 79 71 - (025) 38 69 53,(025) 38 76 01 - 38 69 25
+"31",442 - AP BLIDA,aplida442@bna.dz,Bd Takarli Abderrezak - 09000 Blida,Blida,"9",(025) 21 54 01/ 03 - (025) 21 54 80 - (025) 21 53 98 - (025) 21 54 09 - (025) 21 54 05,(025) 21 54 04
+"32",445 - Agence LES BANANIERS,aglesbananiers445@bna.dz,Cité des 680 Logts “Les Bananiers” 09000 Blida,Blida,"9",(025) 23 59 18,(025) 23 59 20
+"33",460 - Agence BOUIRA,agbouira460@bna.dz,Rue Guettaf Seddik 10000 Bouira,Bouira,"10",(026) 73 92 62/ 68/ 60/ 67,(026) 73 92 68/ 60/ 67
+"34",576 - Agence LAKHDARIA,aglakhdaria576@bna.dz,Cité 210 logements - Lakhdaria - W.Bouira,Bouira,"10",(026) 70 35 10 - (026) 70 35 11,(026) 70 35 11
+"35",473 - Agence TAMANRASSET,agtamanrasset473@bna.dz,Centre Commercial - 11000 Tamanrasset,Tamanrasset,"11",(029) 31 15 70/ 74/ 69,(029) 31 15 74
+"36",483 - Agence TEBESSA,agtebessa483@bna.dz,02 Avenue de la Victoire - 12000 Tébessa,Tébessa,"12",(037) 58 28 17/ 33 (037) 58 31 65,(037) 58 28 33
+"37",484 - Agence OUENZA,agouenza484@bna.dz,Place du 1er Novembre 1954 - 12350 Ouenza,Tébessa,"12",(037) 46 90 15 - (037) 67 82 12,(037) 46 90 15 - (037) 67 80 28
+"38",486 - Agence BIR EL ATER,agbirelater486@bna.dz,Cité Administrative - 12200 Bir El Ater,Tébessa,"12",(037) 44 68 43 - (037) 44 61 06 - (037) 44 98 00,(037) 44 68 43
+"39",491 - AP TEBESSA,aptebessa491@bna.dz,Bd Mahmoud Chérif - BP 255 - 12000 Tébessa,Tébessa,"12",(037) 58 12 85 - (037) 58 11 12 - (037) 58 31 16,(037) 58 12 85 - (037) 58 11 15
+"40",512 - AP TLEMCEN,aptlemcen512@bna.dz,30 - Place Khemisti - 13000 Tlemcen,Tlemcen,"13",(040) 90 71 38 - (043) 26 40 84 / 26 13 27,(043) 26 50 24 - (043) 26 66 47
+"41",514 - Agence MAGHNIA,agmaghnia514@bna.dz,Bd du 1er novembre Maghnia 13001 W. Tlemcen,Tlemcen,"13",(043) 39 77 91 - (043) 39 77 92 - (043) 39 77 94 / 93,(043) 39 77 97 - (043) 39 77 95
+"42",526 - AP ABOU TACHFINE,apaboutachfine526@bna.dz,Zone Semi Industrielle Abou Tachfine 13000 Tlemcen,Tlemcen,"13",(043) 38 97 09/ 98 (043) 38 94 97,(043) 38 97 09 - (043) 38 98 17
+"43",527 - AP TLEMCEN,aptlemcen527@bna.dz,29 Place Khemisti -13000 Tlemcen,Tlemcen,"13",(043) 27 50 95 - (043) 27 58 76 - (043) 27 48 06 - (043) 27 51 03 - (043) 27 51 03,(043) 27 50 95 - (043) 26 33 15
+"44",528 - Agence SEBDOU,agsebdou528@bna.dz,Centre Commercial - 13006 Sebdou - W. Tlemcen,Tlemcen,"13",(043) 54 43 80/ 77,(043) 54 43 80/ 77
+"45",529 - Agence NEDROMA,agnedroma529@bna.dz,Rue des 5 Martyrs Nedroma - 13004 Nedroma - W.Tlemcen,Tlemcen,"13",(043) 45 61 77 - (043) 45 69 25,(043) 45 69 69 - (043) 45 69 25
+"46",533 - Agence KIFANE,agkifane533@bna.dz,Bd Ain Sebaa Kifane - 13000 Tlemcen,Tlemcen,"13",(043) 56 41 09/ 58,(043) 56 41 09 - (043) 56 41 11
+"47",532 - Agence GHAZAOUAT,agghazaouet532@bna.dz,Porte de Nedroma -13002 Ghazaouat,Tlemcen,"13",(043) 47 20 25 - (043) 47 20 24,(043) 47 20 22 - (043) 47 20 24
+"48",530 - Agence REMCHI,agremchi530@bna.dz,05 Rue Si Merbah. Remchi 13005 W- Tlemcen,Tlemcen,"13",(043) 43 77 12/14/26,(043) 43 77 12/14
+"49",531 - Agence HENNAYA,aghennaya531@bna.dz,07 - Rue de la Liberté - 13009 Hennaya,Tlemcen,"13",(043) 44 45 85/ 87/ 89/ 90,(043) 44 45 87
+"50",540 - AP TIARET,aptiaret540@bna.dz,Rue de la victoire N°17 –Wilaya de Tiaret,Tiaret,"14",(046) 20 54 85/ 71 - (046) 20 53 06,(046) 20 54 86
+"51",545 - Agence TIARET,agtiaret545@bna.dz,Cité EPLF ex : Volani - 14000 Tiaret,Tiaret,"14",(046) 24 30 58 / 65 - 24 30 61 - (046) 24 30 60,(046) 24 30 59
+"52",548 - Agence SNVI TIARET,agsnvitiaret548@bna.dz,Complexe de Carrosserie - Ain Bouchekif -14110 Tiaret,Tiaret,"14",(046) 24 94 09 /10/ 11/ 12,(046) 24 94 09/ 12
+"53",462 - Agence AZAZGA,agazazga462@bna.dz,Bd Commandant Ahmed Zaidat 15001 Azazga - W. Tizi Ouzou,Tizi Ouzou,"15",(026) 34 43 53,(026) 34 45 68 - (026) 14 18 19
+"54",577 - Agence BOGHNI,agboghni577@bna.dz,03 - Rue des Frères Mammeri - 15003 Boghni - W.Tizi Ouzou,Tizi Ouzou,"15",(026) 23 17 18/ 19/ 20,(026) 23 17 18/ 19/ 20
+"55",578 - Agence Larbâa NathIrathen,aglarbaanathirathen578@bna.dz,Avenue Abane Ramdane - 15006 W.Tizi Ouzou,Tizi Ouzou,"15",(026) 49 28 17/ 18/ 19,(026) 49 28 17
+"56",581 - AP TIZI OUZOU,aptiziouzou581@bna.dz,Avenue Abane Ramdane - 15000 W.Tizi Ouzou,Tizi Ouzou,"15",(026) 12 88 40 - 12 88 14 - (026) 12 46 11 - 12 88 67,(026) 12 62 12
+"57",582 - Agence LES OUADHIAS,aglesouadhias582@bna.dz,Cité des 104 Logts - Bt A n°1 - 15016 Les Ouadhias - W.Tizi Ouzou,Tizi Ouzou,"15",(026) 32 44 52 - (026) 32 31 75 - (026) 32 39 97 - (026) 32 40 40,(026) 32 40 40 - (026) 32 39 97
+"58",583 - AP TIZI OUZOU,aptiziouzou583@bna.dz,Carrefour du 20 Avril - Immeuble KESSI - Nouvelle Ville - 15007 Tizi Ouzou,Tizi Ouzou,"15",(026) 18 20 01/ 02 - (026) 18 25 11 - (026) 18 22 79,(026) 18 25 11 - (026) 18 22 79
+"59",584 - Agence DRAA BEN KHEDDA,agdraabenkhedda584@bna.dz,24 Rue KASRI Ahmed Draa Ben Khedda,Tizi Ouzou,"15",(026) 27 29 71/ 79 - (026) 27 16 00,(026) 27 29 71 - (026) 27 16 00
+"60",585 - Agence EL KSEUR,agelkseur585@bna.dz,Rue MEZIANE H'MIMI CNE EL KSEUR 06003 W. BEJAIA,Tizi Ouzou,"15",(034) 82 20 42 - (034) 82 20 44 - (034) 82 20 39,(034) 82 20 45 - (034) 82 20 44 - (034) 82 20 38
+"61",612 - Agence DAR EL BEIDA,agdarelbeida612@bna.dz,22 Rue Mouloud Feraoun - 16100 Dar El Beïda,Alger,"16",(021) 75 52 65 - (021) 75 53 94,(021) 75 52 65 - (021) 75 53 94 - (021) 75 54 03
+"62",613 - Agence Aéroport HB,agaéroport613@bna.dz,Aéroport Houari Boumediène - Air Algérie Bloc E - 16100 Dar El Beïda,Alger,"16",(021) 50 96 60,(021) 50 96 60 - (021) 50 93 23
+"63",616 - AP EL HARRACH,apelharrach616@bna.dz,Ave. des Frères Djeli (Hai Naîli) BP 28 El Harrache,Alger,"16",(021) 52 61 02/ 01/ 03 - (021) 82 30 60,(021) 52 70 34
+"64",619 - Agence EL HARRACH,agelharrach619@bna.dz,14 Rue du 5 Juillet - El Harrach – Alger,Alger,"16",(021) 83 35 13/ 14 -,(021) 83 25 92
+"65",624 - Agence PINS MARITIMES,agpinsmaritimes624@bna.dz,Palais des Expositions - 16200 Pins Maritimes,Alger,"16",(021) 21 90 03 - (021) 21 06 81,(021) 21 90 03 - (021) 21 06 81
+"66",625 - Agence KOUBA,agkouba625@bna.dz,Cité 216 Logements - Garidi 1 - Kouba - Alger,Alger,"16",(023) 78 22 29/ 30/ 31/ 33 - (023) 78 22 27,(023) 78 22 32
+"67",633 - AP BIRKHADEM,apbirkhadem633@bna.dz,Rue Hassen-Ben Naamane - les Vergers - W Alger,Alger,"16",(021) 44 75 05,(021) 44 75 05
+"68",634 - AP OUED SMAR,apouedsmar634@bna.dz,12 Route de Meftah – Zl - 16030 Oued Smar,Alger,"16",(021) 51 50 33 - (021) 51 51 43- (021) 51 51 04 - (021) 51 45 32/ 33-(021) 51 51 50,(021) 51 50 33
+"69",636 - Agence BARAKI,agbaraki636@bna.dz,Rue Mohamed BENLARBI - BARAKI - Alger,Alger,"16",(023) 91 48 90/ 87 - (023) 91 48 79/ 76,
+"70",637- Agence GUE DE CONSTANTINE,agguedeconstantine637@bna.dz,Site SONELGAZ - «700 Bureaux» - Côté B - RN n°38 - Gué de Constantine - Alger,Alger,"16",(021) 83 59 86/ 88 - (021) 83 61 60 - (021) 83 60 04,(021) 83 61 60 -
+"71",647 - AP EL HAMIZ,apelhamiz647@bna.dz,Route Nouvelle n° 5 EI Hamiz - 35300 Rouïba,Alger,"16",(021) 85 42 86 - (021) 85 42 90,(021) 85 42 86 - (021) 85 42 90
+"72",648 - Agence MOHAMMADIA,agmohammadia648@bna.dz,Sur Site Algérie Telecom Cinq maisons - El Mohammadia - Alger,Alger,"16",(021) 76 18 89/ 90,(021) 76 18 89/ 90
+"73",428 - Agence ZERALDA,agzeralda428@bna.dz,Centre des Affaires Zeralda - W. Alger,Alger,"16",(021) 32 72 18,(021) 32 72 18
+"74",436 - Agence BABA HACENE,agbabahacene436@bna.dz,Complexe BNA - 14 Rue Kaci Mohamed - Baba Hacène - Alger,Alger,"16",(023) 35 38 12 - (023) 35 37 46,(023) 35 36 77
+"75",440 - Agence STAOUELI,agstaoueli440@bna.dz,Rue Mellal Mohamed - 42000 Staoueli. W. ALGER,Alger,"16",(021) 39 35 32/ 28/ 29/ 31/ 30,(021) 39 35 32
+"76",630 - Agence AIN BENIAN,againbenian630@bna.dz,88 - Rue Colonel Si M’hamed - Ain Benian,Alger,"16",(023) 10 39 51/ 52 - (023) 10 48 30,(023) 10 39 51/ 52
+"77",632 - AP ROUIBA I,,87 - Cite cadat rouiba - Alger,Alger,"16",(021) 81 72 29/ 67/ 82 - (021) 81 42 01/ 69/ 70 - (021) 85 16 38,(021) 81 52 78 - (021) 81 72 82 -
+"78",641 - AP ROUIBA II,aprouibaii641@bna.dz,Rue Hassiba Ben Bouali Rouiba - Alger,Alger,"16",(023) 85 52 41/ 81 (021) 81 10 93? (023) 85 54 19 - (023) 85 53 55,(023) 85 54 08 - (023) 85 53 77
+"79",644 - Agence REGHAIA “1“,agreghaiai644@bna.dz,04 - Rue Med BOUZIDI - Réghaia - Alger,Alger,"16",(021) 84 71 52/ 56,(021) 84 71 54
+"80",646 - Agence AIN,againtaya646@bna.dz,Place Mohamed Khemisti - Ain Taya - Alger,Alger,"16",(023) 87 56 61/ 66/ 65,(023) 87 56 62
+"81",649 - Agence EL HAMIZ,agelhamiz649@bna.dz,Hai Feriri - Groupe N°9 - El Hamiz Dar El Beida,Alger,"16",(023) 86 73 81/ 60/ 78/ 76,
+"82",650 - Agence REGHAIA “II”,agreghaiaii650@bna.dz,Cité DNC - Bat n°20 A - Réghaïa - Alger,Alger,"16",(023) 84 55 61/ 60/ 63,
+"83",651 - Agence BORDJ EL BAHRI,agbordjelbahri651@bna.dz,Lotissement terrain familial nord R.N N° 24 N°31 BORDJ EL BAHRI ALGER,Alger,"16",(023) 87 22 89/ 72/ 58/ 69/ 49,
+"84",599 - AP CHE GUEVARA,apguevara599@bna.dz,08 Bd Emesto Che Guevara - 16000 Alger,Alger,"16",(021) 43 93 03 - (021) 43 94 03 - (021) 43 92 89 - (021) 43 95 80 - (021) 43 95 75 - (021) 43 94 91 - (021) 43 96 84 - (021) 43 97 02 - (021) 43 96 71 - (021) 43 99 88,(021) 43 96 71
+"85",602 - AP TELEMLY,aptelemly602@bna.dz,Agence sur Site Sonelgaz - 02 Bd Krim Belkacem -Telemly - Alger,Alger,"16",(021) 72 37 88/ 89 - (021) 72 37 86 - (021) 72 37 90,(021) 72 37 87
+"86",605 - AP LIBERTE,apliberté605@bna.dz,08 Rue de la Liberté - 16000 Alger,Alger,"16",(021) 73 22 41 - (021) 73 71 72 - (021) 73 58 53,(021) 73 83 68-
+"87",608 - Agence BOLOGHINE,agbologhine608@bna.dz,Avenue Aek ZIAR – Bologhine - 16000 Alger,Alger,"16",(021) 95 19 97 - (021) 95 11 99 - (021) 95 10 40 - (021) 95 02 80 - (021) 95 02 66,(021) 95 02 80
+"88",620 - AP ZIROUT YOUCEF,apziroutyoucef620@bna.dz,12 Bd Zirout Youcef 16000 Alger,Alger,"16",(023) 50 23 80/ 83/ 75 - (023) 50 23 78,(023) 50 23 78 - (023) 50 23 80
+"89",627 - AP BOUZAREAH,apbouzareah627@bna.dz,Avenue Ali REMLI (Air de France) Bouzaréah - Alger,Alger,"16",(023) 27 02 32/ 33/ 35 - (023) 27 02 40 - (023) 27 02 36,(023) 27 02 36 - (023) 27 02 32
+"90",628 - Agence PORT-SAID,agportsaid628@bna.dz,03 Rue des Frères Oukid - Port Said - 16000 Alger,Alger,"16",(021) 43 91 36/ 67 - (021) 43 91 35 - (021) 43 93 98,(021) 43 91 35 - (021) 43 91 66
+"91",629 - Agence BAB EL OUED,agbabeloued629@bna.dz,11 Ave Colonel Lotfi - B.E.0 - 16009 Alger,Alger,"16",(021) 97 70 59/58 - (021) 96 17 25,(021) 97 70 59
+"92",601 - AP Didouche Mourad,apdidouchemourad601@bna.dz,45 - 47 - Rue Didouche Mourad - 16000 Alger,Alger,"16",(021) 73 52 12/ 021 71 19 59/ 021 74 53 80 - (021) 74 23 46/ 021 74 78 80/ 021 73 46 25 - (021) 74 24 97 - (021) 74 78 81 - (021) 71 84 66 - (021) 73 34 37 - (021) 73 34 40,
+"93",603 - Agence Hydra,aghydra603@bna.dz,Résidence Chaabani - Hydra,Alger,"16",(021) 34 11 28/ 29/ 30 - (021) 48 49 81 - (021) 48 49 79 - (021) 48 49 96,(021) 48 49 81 - (021) 48 49 96
+"94",607 - Agence HAMANI « B »,agb607@bna.dz,50 Boulevard Ahmed Ghermoul - Sidi M’hamed - Alger,Alger,"16",(021) 66 63 57 - (021) 65 22 72/ 021 66 63 64,(021) 66 63 57
+"95",609 - Agence «D»,agd609@bna.dz,119 - Rue Didouche Mourad - 160006 Alger,Alger,"16",(021) 61 63 74 - (021) 61 17 11 - (021) 61 50 95 - (021) 61 17 03,(021) 61 63 74 - (021) 61 50 95 - (021) 61 17 03
+"96",610 - AP Les Halles,apleshalles610@bna.dz,122 - Rue Hassiba Beb Bouai - 16000 Alger,Alger,"16",(023) 49 70 22 - (023) 49 70 28,
+"97",611 - AP Hussein Dey,aphusseindey611@bna.dz,8 - Rue Amar Mekkid Hussein Dey - 16040 Alger,Alger,"16",(023) 77 26 40 - (023) 77 61 39 - (023) 77 19 46,(023) 77 61 39
+"98",614 - Agence « N »,agelmouradia614@bna.dz,22 - Av Souidani Boudjemaa - 16035 El Mouradia - Alger,Alger,"16",(021) 60 23 50/ 51 - (021) 48 08 38 - (021) 60 23 61,(021) 60 23 50 - (021) 60 23 61
+"99",615 - Agence BELAHDJEL,agbelahdjel615@bna.dz,24 - Rue Hocine Belahdjet - 16000 Alger,Alger,"16",( 021) 61 65 88 - (021) 64 92 60,( 021) 61 65 88 - (021) 64 92 60
+"100",617 - Agence RIADH EL FETH,agriadhelfeth617@bna.dz,Centre commercial Riadh El Feth BP 104 - 16075 El Madania - Alger,Alger,"16",(021) 67 11 76 - (021) 67 10 24 - (021) 67 12 14 - (021) 67 26 90,(021) 67 12 14 - (021) 67 10 24
+"101",621- AP EL BIAR,apelbiar621@bna.dz,16 Av Messaoud Taleb et fils ex Carnot El Biar - Alger,Alger,"16",(021) 92 82 23/ 021 92 21 17 - (021) 92 70 12 - (021) 92 47 69 - (021) 92 70 10 - (021) 92 70 09,(021) 92 70 12 - (021) 92 47 69 - (021) 92 70 10 - (021) 92 70 09
+"102",622 - Agence El Quods,agelquods622@bna.dz,Centre des affaires El Quods Niveau M2 Aile Sud - Cheraga,Alger,"16",(021) 34 11 28/ 29/ 30/ 35,(021) 34 11 35 - (021) 34 11 36
+"103",623 - AP Ben M’hidi,apbenmhid623@bna.dz,64 - Rue Larbi Ben Mhidi - 16000 Alger,Alger,"16",(021) 71 50 98 - (021) 73 79 69 - (021) 73 15 23 - (021) 73 79 70,(021) 73 15 19
+"104",626 - AP AGHA,a.agha626@bna.dz,Gare SNTF Agha - 16000 Alger,Alger,"16",(021) 71 99 94 - (021) 71 39 16,(021) 71 99 94 - (021) 71 39 16
+"105",640 - AP BORDJ EL KIFFAN,apbordjelkiffan640@bna.dz,Hôtel des Finances – Ave du 1er Novembre - BP 175/ 16120 Bordj El Kiffan,Alger,"16",(023) 80 12 67 /68 /70 /72 /82,(023) 80 12 71
+"106",635 - Agence Hussein Dey,aphusseindey635@bna.dz,8 - Rue Amar Mekkid Hussein Dey – 16040 Alger,Alger,"16",(023) 77 19 44/ 45/ 61/ 65,(023) 77 19 44/ 61
+"107",638 - Agence BIRKHADEM,,30 - Rue des frères Djillali Birkhadem - W. ALGER -,Alger,"16",023.45.24.61 - 023.45.23.32 - 023.45.23.26 - 023.45.23.59,023.45.24.70 - 023.45.23.23
+"108",653 - Agence AIN OUSSERA,againoussera653@bna.dz,Lot Ali Amar - Rue Principale - 17200 Ain Oussera - W.Djelfa,Djelfa,"17",(027) 80 15 29 - (027) 80 15 17 - (027) 82 71 26 - (027) 80 15 36,(027) 80 15 37/ 35
+"109",654 - AP DJELFA,apdjelfa654@bna.dz,Bd Emir AbdelKader - 17000 Djelfa,Djelfa,"17",(027) 92 37 86 - (027) 92 38 11,(027) 92 39 52
+"110",841 - Agence EL MILIA,agelmilia841@bna.dz,55 Ave Zirout Youcef - 18100 El Milia – Jijel,Jijel,"18",(034) 52 82 92/ 94/ 96,(034) 52 82 92/ 94/ 964
+"111",671 - Agence JIJEL,agjijel671@bna.dz,01 Ave Emir Abdelkader - BP 92 18000 Jijel,Jijel,"18",(034) 47 20 11 - (034) 47 65 78 - (034) 47 20 17,(034) 47 44 20 - (034) 47 20 17
+"113",702 - Agence AIN EL KEBIRA,againelkebira702@bna.dz,Cité des 100 Logts - Bt D - 19400 Ain El Kebira - W. Sétif,Setif,"19",(036) 59 62 00 - (036) 59 66 13 - (036) 59 66 12 - (036) 59 62 72,
+"114",703 - Agence SETIF,agsetif703@bna.dz,500 Logts Hachemi Sétif -W. SETIF-,Setif,"19",(036) 63 14 81 - (036) 63 15 00 - (036) 63 15 01,(036) 63 15 02
+"115",704 - AP SETIF,apsetif704@bna.dz,Cité Bouaroua 29 - rue Zeghlaoui Rabah- 19000 Sétif,Setif,"19",(036) 66 96 20 / 21 - (036) 66 96 25 - (036) 66 96 24,(036) 66 96 05 - (036) 66 96 24
+"116",706 - Agence EL EULMA,ageleulma706@bna.dz,Rue mustapha ahmed bendadi - El Eulma 19600 W. Sétif,Setif,"19",(036) 47 15 95 - (036) 47 11 45/ 65/ 66/ 89,(036) 47 11 11
+"117",711 - Agence SETIF,agsetif711@bna.dz,Cité financière Avenue de I'ALN 19000 Sétif,Setif,"19",(036) 51 22 06/ 28/ 32,(036) 51 22 28
+"118",712 - Agence Park Mall,agparkmall712@bna.dz,Centre commercial et de loisir park Mall Cne Setif,Setif,"19",(036) 81 40 72 /73 /74,(036) 81 40 75
+"119",724 - Agence SAIDA,,11 Rue Chebli Mokhtar - 20000 Saïda,Saïda,"20",(048) 41 34 51/ 59/ 76 - (048) 41 30 21,(048) 41 34 76/ 82
+"120",485 - Agence AZZABA,agazzaba485@bna.dz,Bd Mohamed Boudiaf - 21300 Azzaba W.Skikda,Skikda,"21",(037) 95 04 17/ 18/ 19/ 21,(037) 95 04 18
+"121",487 - Agence COLLO,agcollo487@bna.dz,Rue de Palestine - 21200 Collo,Skikda,"21",(038) 90 53 48/ 49/ 50,(038) 90 53 48/ 49
+"122",743 - AP SKIKDA,apskikda743@bna.dz,Les Allées - Cité du 20 Août 1955 21000 Skikda,Skikda,"21",(038) 70 77 65 - (038) 70 28 77/ 83 - (038) 70 12 60/ 67 - (038) 72 15 58,(038) 70 28 83 - (038) 72 24 43
+"123",744 - Agence SKIKDA,agskikda744@bna.dz,26 Rue Didouche Mourad – W. Skikda,Skikda,"21",(038) 76 15 11 - (038) 76 15 16,(038) 76 15 14 - 76 15 08
+"124",773 - AP SIDI BEL ABBES,apsidibelabbes773@bna.dz,09 Rue Ali Boumendjel - BP 57 - 22000 Sidi Bel Abbès,Sidi Bel Abbès,"22",(048) 74 20 68/ 69,(048) 74 20 80
+"125",482 - Agence ANNABA,agannaba482@bna.dz,Cité du 08 Mars -B Plaine Ouest Annaba,Annaba,"23",(038) 43 76 78 - (038) 41 76 80 - (038) 41 25 40,(038) 43 76 86 - (038) 41 25 40
+"126",810 - AP ANNABA,apannaba810@bna.dz,Place de l'Esplanade - 23000 Annaba,Annaba,"23",(038) 45 58 98 - (038) 45 59 04/ 05/ 06,(038) 45 58 97 - (038) 54 59 02
+"127",811 - AP ANNABA,apannaba811@bna.dz,17 Cours de la Révolution - BP 30.93 RP - 23000 Annaba,Annaba,"23",(038) 45 94 14/ 28/ 40,(038) 45 94 15
+"128",813 - Agence ANNABA,agannaba.b.813@bna.dz,Angle des rues Tindjoub et Hassiba Beida - 23000 Annaba,Annaba,"23",(038) 44 18 72 - (038) 44 42 97 - (038) 44 02 81,(038) 44 18 72 - (038) 44 34 00
+"129",815 - Agence EL BOUNI,agelbouni815@bna.dz,19 Cité des 850 Logts - El Bouni - 23000 Annaba,Annaba,"23",(038) 56 94 88/ 97,(038) 56 94 87
+"130",816 - Agence GUELMA,agguelma816@bna.dz,Rue Zedadra Hocine - 24000 Guelma,Guelma,"24",(037) 15 00 61 (037)15 00 57 / 62,(037) 15 00 55 - 15 00 59
+"131",488 - Agence OUED ZENATI,agouedzenati488@bna.dz,Cité 50 Logts - BP 02 - 24300 Oued Zenati,Guelma,"24",(037) 27 53 33 - (037) 27 55 13 - (037) 27 44 34,(037) 27 41 27 - (037) 18 00 61/ 62
+"132",832 - Agence CONSTANTINE PYRAMIDE,agpyramide832@bna.dz,Avenue de l’Indépendance (Coudiat) - 25000 Constantine,Constantine,"25",(031) 93 21 90,(031) 91 21 59
+"133",835 - Agence EL KHROUB,agelkhroub835@bna.dz,Cité administrative n° 761 Partie B El Khroub Constantine,Constantine,"25",(031) 76 73 19 - (031) 76 73 17 - (031) 76 73 73,(031) 76 73 17 - (031) 76 73 73
+"134",844 - Agence DAKSI,agdaksi844@bna.dz,Cité Mentouri (ex- Le Bosquet) Sidi Mabrouk - 25000 Constantine,Constantine,"25",(031) 62 47 88 - (031) 62 47 90 - (031) 61 24 70,(031) 62 47 90 - (031) 61 24 70
+"135",845 - AP CONSTANTINE,apconstantine845@bna.dz,01 Place du 1er Novembre – Constantine,Constantine,"25",(031) 87 31 36 - (031) 87 22 16,(031) 87 31 36 - (031) 64 22 16
+"136",848 - Agence HAMMA BOUZIANE,aghammabouziane848@bna.dz,191 Ave. de l'ALN - Hamma Bouziane Constantine,Constantine,"25",(031) 84 06 11/ 41/ 42/ 43/ 44/ 46,(031) 84 06 17
+"137",850 - AP FILLALI,agfilali850@bna.dz,Cité des Frères Fillali - 25005 Constantine,Constantine,"25",(031) 92 92 22 - (031) 92 92 24,(031) 92 63 50
+"138",840 - AP AIN SMARA,apainsmara840@bna.dz,Lot Communal n°158 - 25140 Aïn Smara,Constantine,"25",(031) 97 38 15 /17 - 97 43 95 - (031) 97 38 37 / 44 - (031) 97 38 71,(031) 97 43 95
+"139",834 - Agence AIN EL BEY,againelbey834@bna.dz,Lotissement UV 07 Ali Mendjeli - Constantine,Constantine,"25",(031) 77 67 00 (031) 77 66 78,(031) 77 67 02
+"140",849 - Agence BERROUAGHIA,agberroughia849@bna.dz,Cité des 400 Logts – Berrouaghia - W. Médéa,Médéa,"26",(025) 77 67 69 - (025) 77 67 71 - (025) 77 67 72,(025) 77 67 70
+"141",851 - AP MEDEA,apmedea851@bna.dz,01 Rue des Frères Bachène - 26000 Médéa,Médéa,"26",(025) 80 40 55 - (025) 80 40 56 - (025) 80 40 66 - (025) 80 40 63 - (025) 80 40 60,(025) 80 40 67 - (025) 80 40 62 - (025) 80 40 61
+"142",857 - Agence BERROUAGHIA,agberrouaghia857@bna.dz,Complexe POVAL (Ex : Sonacome) 26600 Berrouaghia - W. Médéa,Médéa,"26",(025) 57 91 55,(025) 57 91 30
+"143",858 - Agence KSAR EL BOUKHARI,agksarelboukhari858@bna.dz,Bd Ahmed Zouaoucha - 17200 Ksar El Boukhari - W. Médéa,Médéa,"26",(025) 69 19 43/ 44 - (025) 69 23 55 - (025) 69 23 10,(025) 69 23 22 - (025) 69 19 40
+"144",871- Agence MOSTAGANEM,agmostaganem871@bna.dz,12 Rue Benhamdada Sadek Immeuble Le Dahra - 27000 Mostaganem,Mostaganem,"27",(045) 42 77 39/ 40/ 45/ 47,(045) 42 77 43/ 41
+"145",876 - AP MOSTAGANEM,apmostaganem876@bna.dz,01 Ave Benyahia Belkacem - Palais Consulaire - 27000 Mostaganem,Mostaganem,"27",(045) 41 34 02 /03 /04 (045) 41 32 32,(045) 41 34 07/ 00
+"146",878 - Agence MOSTAGANEM,agmostaganem878@bna.dz,Rue Bensâadoune Menouar Face Cinéma Afrique - 27000 Mostaganem,Mostaganem,"27",(045) 41 64 51/ 52/ 53/ 55,(045) 41 64 52/ 53
+"147",701 - Agence BOUSSAADA,agbousaada701@bna.dz,Centre Commercial - 28200 Boussaâda - W. M'Sila,M'Sila,"28",(035) 43 41 22/ 23,(035) 43 41 22
+"148",707 - Agence AIN EL MELH,againelmelh707@bna.dz,Centre Commercial - 28400 Ain El Melh - W. M'Sila,M'Sila,"28",(035) 47 85 41,(035) 47 84 48
+"149",708 - Agence SIDI AISSA,agsidiaissa708@bna.dz,Cité du 5 juillet Route Nationale n°08 - 28002 Sidi Aïssa - W. M'Sila,M'Sila,"28",(035) 40 54 52/ 67/ 72 - (035) 40 60 33,(035) 40 54 72
+"150",901 - Agence M'SILA,agmsila901@bna.dz,Cité administrative rue Chenouf Abdelkader - 28000 M'Sila,M'Sila,"28",(035) 33 85 38 - (035) 33 88 06 - (035) 33 88 71 - 33 85 79,(035) 33 85 16
+"151",546 - Agence SIG,agsig546@bna.dz,N° 177 Boulevard de l’indépendance SIG - 29300 - W. Mascara,Mascara,"29",(045) 64 97 88 / 64 98 22,(045) 64 97 51
+"152",920 - Agence MASCARA,agmascara920@bna.dz,Place Emir Abdelkader -29000 Mascara,Mascara,"29",(045) 75 28 67/ 62/ 61/ 70,(045) 75 28 74/ 69
+"153",877 - Agence TIGHENIF,agtighenif877@bna.dz,27 Rue des Martyrs - 29200 Tighennif,Mascara,"29",(045) 97 15 12/ 11/ 14,(045) 97 15 10
+"154",921 - Agence MOHAMMADIA,agmohammadia921@bna.dz,122 Avenue Larbi Ben M’hidi (Route d’Alger) - 29400 Mohammadia,Mascara,"29",(045) 94 32 14/ 12,(045) 94 32 10
+"155",941 - Agence TOUGGOURT,agtouggourt941@bna.dz,Avenue du 1er Novembre - 30200 Touggourt - W. de Ouargla,Ouargla,"30",(029) 66 26 01/ 27/ 52,(029) 66 25 37
+"156",943 - Agence OUARGLA - B,agouarglab943@bna.dz,Avenue Chenine Kaddour - BP 84 30000 Ouargla,Ouargla,"30",(029) 70 07 86 - (029) 70 57 73 - (029) 70 59 21,(029) 70 59 22
+"157",944 - Agence OUARGLA,agouargla944@bna.dz,Avenue Colonel Si El Haouès - Ouargla,Ouargla,"30",(029) 70 12 47 - (029) 70 36 77,(029) 70 36 76
+"158",946 - AP OUARGLA,apouargla946@bna.dz,Avenue de l'ALN - 30000 Ouargla,Ouargla,"30",(029) 70 15 12 - (029) 76 21 04 - (029) 70 14 11 - (029) 70 18 97 - (029) 70 21 19,(029) 76 21 04 - (029) 70 81 16
+"159",947 - Agence HASSI MESSAOUD,aghassimessaoud947@bna.dz,Cité des 1850 Logts - 30100 Hassi Messaoud - W. Ouargla,Ouargla,"30",(029) 79 15 03 - (029) 79 15 01 - (029) 79 15 02,(029) 79 15 00
+"160",900 - Agence HAI ESSALEM,aghaiessalem900@bna.dz,04 Place Essalem Hassiba Ben Bouali - lot n°2 Hai Essalem - W. d'Oran,Oran,"31",(041) 35 83 78 - 35 32 43,(041) 35 83 79
+"161",951 - AP ORAN SOUMMAM,aporansoummam951@bna.dz,04 - Boulevard de la Soummam - Hai El Amir - Oran,Oran,"31",(041) 36 16 99,(041) 29 33 26
+"162",953 - Agence ORAN BEN M'HIDI,agoranbenmhidi953@bna.dz,90 Rue Larbi Ben M'Hidi - 31009 Oran,Oran,"31",(041) 33 21 38,(041) 33 55 63 - (041) 33 35 59
+"163",954 - Agence ARZEW,agarzew954@bna.dz,Bd Emir Abdel Kader - 31200 Arzew - W. d'Oran,Oran,"31",(041) 77 15 46,(041) 77 15 44/ 45/ 47
+"164",957 - Agence ORAN,agoran957@bna.dz,54 Ave Aspirant Hamou Mokhtar - 31017 Oran St Eugène,Oran,"31",(041) 28 22 66,(041) 28 31 52
+"165",958 - Didouche Mourad,agoran958@bna.dz,14 Bd Didouche Mourad -31026 Oran,Oran,"31",(041) 40 78 96,(041) 40 53 62 - (041) 40 29 26
+"166",960 - AP ORAN Djillali,aporankhemisti960@bna.dz,06 Rue Ain Temouchent - 31024 Oran,Oran,"31",(041) 36 19 68,(041) 36 19 74
+"167",962 - Agence ES-SENIA,agessenia962@bna.dz,Aérogare Es-Senia - BP 14 - 31100 Es Senia - W.Oran,Oran,"31",(041) 59 11 52,(041) 59 10 69
+"168",963 - Agence OUED TLELAT,agouedtlelat963@bna.dz,Rue des Invalides 31140 Oued Tlelat - W. Oran,Oran,"31",(041) 17 72 20,(041) 17 72 17
+"169",965 - Agence ES-SENIA Ville,agesseniaville965@bna.dz,Rue Gherras Bouazza 31100 Es Senia - W.d'Oran,Oran,"31",(041) 56 37 35,(041) 56 37 30
+"170",966 - AP ORAN sidi el houari,aporandjillali966@bna.dz,21 Bd KHEDIM Mustapha - Sidi El Houari - 31024 Oran,Oran,"31",(041) 15 32 87 - (041) 15 35 32,(041) 15 32 88
+"171",967 - Agence AÏN EL TURCK,againelturck967@bna.dz,Niche n°1404 - Trouville - 31009 Aîn El Turck - W.d'Oran,Oran,"31",(041) 44 62 21/23,(041) 44 62 24
+"172",952 - Agence ORAN « Boulanger »,a.oranboulanger952@bna.dz,48 - Avenue de l’ANP – 31006 Oran,Oran,"31",(041) 34 38 66,(041) 24 28 05
+"173",955 - Agence MISSERGHIN,agmisserghin955@bna.dz,Centre commercial -31180 Misserghin – W.d’Oran,Oran,"31",(041) 49 03 53,(041) 19 04 34 - (041) 19 03 53
+"174",969 - Agence OUED TLELAT,agouedtlelat969@bna.dz,Zone industrielle .W oran,Oran,"31",(041) 18 70 62 (041) 18 70 63,(041) 18 70 61
+"175",726 - Agence El Bayadh,agelbayadh726@bna.dz,06 Rue Bey Boukhobza - 32000 El Bayadh,El Bayadh,"32",(049) 61 19 92 - (049) 61 19 86,(049) 61 19 87
+"176",945 - Agence DJANET,agdjanet945@bna.dz,76 Ave du Centre-Ville 33100 Djanet - W.lllizi,Illizi,"33",(029) 48 55 78 - (029) 48 56 03,(029) 47 61 46 - (029) 48 55 90
+"177",948 - Agence Illizi,agillizi948@bna.dz,Avenue place El Maghreb ELarabi Illizi C.P. 33000,Illizi,"33",(029) 41 16 00 - (029) 41 15 96/ 98,(029) 41 15 97
+"178",705 - Agence BORDJ BOU ARRERIDJ,agbordj705@bna.dz,N°1 et 2 Rue Zioui Abdelhamid - 34000 B.B.A,Bordj Bou Arreridj,"34",(035) 73 50 67 - 73 50 80 - (035) 73 50 81 - (035) 73 50 76 - (035) 73 50 50,(035) 73 50 50/ 75
+"179",642- Agence DELLYS,agdellys642@bna.dzgdellys642@bna.dz,Cité les Jardins - 35004 Dellys - W. Boumerdès,Boumerdes,"35",(024) 76 48 94/ 95,(024) 76 48 95
+"180",643 - Agence BORDJ MENAIEL,agbordjmenaiel643@bna.dz,Rue Larbi Boualem - Bordj Menaïel - 35001 Boumerdès,Boumerdes,"35",(024) 78 47 84/ 85/ 83/ 86,(024) 78 47 83/ 86
+"181",631 - Agence THENIA,agthenia631@bna.dz,Rue des Frères BENZERGA Si Mustapha - W. Boumerdès,Boumerdes,"35",(024) 71 02 70/ 71/ 72,(024) 81 04 70/ 72
+"182",645 - Agence BOUMERDES,agboumerdes645@bna.dz,Centre Commercial El Yasmine - 35000 Boumerdès,Boumerdes,"35",(024) 79 77 33 - (024) 79 79 51/ 52,(024) 79 79 53
+"183",489 - Agence EL TARF,ageltarf489@bna.dz,Lot N° 09 - 36000 El Tarf,El Tarf,"36",(038) 30 25 20/ 33 - (038) 30 25 36,(038) 60 25 20 - (038) 30 25 36
+"184",812 - Agence EL KALA,agelkala812@bna.dz,Rue du Sahara - 36100 El Kala - W. EI Tarf,El Tarf,"36",(038) 36 21 93 - (038) 36 33 53 - (038) 36 31 00 - (038) 36 29 23 - (038) 36 15 99,(038) 36 21 93 - (038) 36 33 53
+"185",411 - Agence TINDOUF,agtindouf411@bna.dz,Bd du 1er Mai cité Guessabi - 37000 Tindouf,Tindouf,"37",(049) 37 07 70,(049) 37 07 69
+"186",277 - Agence TISSEMSILT,agtissemsilt277@bna.dz,Avenue du 1er Novembre -38000 Tissemsilt,Tissemsilt,"38",(046) 57 67 69/ 66,(046) 57 67 65/ 66
+"187",710 - Agence EL OUED,ageloued710@bna.dz,Cité des 400 Logts - Av du 05 juillet 1962 BT 19 n° 02 - El Oued – 39000,El Oued,"39",(032) 14 11 21/ 23,(032) 14 11 20/ 19
+"188",315 - Agence KHENCHELA,agkhenchela315@bna.dz,Cité des 90 Logts -Bloc administratif - Khenchela,Khenchela,"40",(032) 72 75 37/ 39 - (032) 72 75 36,(032) 72 75 36 - 72 75 37/39
+"189",323 - Agence KHENCHELA,agkhenchela323@bna.dz,Avenue du 1er novembre route des poids lourds - W. Khenchela,Khenchela,"40",(032) 72 61 36 - (032) 72 61 37 - (032) 72 75 86,
+"190",814 - Agence SOUK AHRAS,agsoukahras814@bna.dz,Place de L'Indépendance - 41000 Souk Ahras,Souk Ahras,"41",(037) 71 80 59/ 60/ 61/ 62 - (037) 71 05 00,(037) 71 80 60
+"191",427 - Agence CHERCHELL,agcherchell427@bna.dz,Route Nationale n°11 - Lot n°91- Partie n°2 Parcelle n°03 42100 Cherchell - W. Tipaza,Tipaza,"42",(024) 34 80 42/ 44 - (024) 34 82 27,(024) 34 80 41
+"192",438 - Agence TIPAZA,agtipaza438@bna.dz,RUE DE LA GENDARMERIE TIPAZA. W. TIPAZA,Tipaza,"42",(024) 37 06 52/ 06,(024) 37 06 51
+"193",439 - Agence HADJOUT,aghadjout439@bna.dz,Cimetière Chrétien Lot n°16 Route de Meurad Hadjout - W.TIPAZA.,Tipaza,"42",(024) 39 77 74 - (024) 39 76 56,(024) 39 77 74
+"194",441 - AP KOLEA,apkolea441@bna.dz,16 Rue Souidani Boudjemâa - 42400 Koléa - W.Tipaza,Tipaza,"42",(024) 38 06 98/ 85,(024) 38 06 98/ 85
+"195",444 - Agence BOU ISMAIL,agbouismail444@bna.dz,ROUTE NATIONALE N°11 COTE SUD BOU ISMAIL - W.Tipaza,Tipaza,"42",(024) 32 61 30/ 31/ 32,(024) 32 61 23/ 24
+"196",843 - Agence Chelghoum El Aid,agchelghoum843@bna.dz,CitéAffes Ahmed - route Nationale N°5 - Chelghoum El Aid,Mila,"43",(031) 52 91 75 - (031) 42 76 79,(031) 42 76 72
+"197",846 - Agence MILA,agmila846@bna.dz,Rue Dehili Salah - 43000 Mila,Mila,"43",(031) 47 39 71 à 72,(031) 47 39 71 à 72
+"198",833 - Agence TADJENANET,agtadjenanet833@bna.dz,RN n°5 - Cité Ezzaradeb - 43220 Tadjenanet - W.Mila,Mila,"43",(031) 53 21 12 / 33 à 39 - (031) 40 37 16/ 17,(031) 53 21 38 (031) 53 21 34
+"199",262 - Agence MILIANA,agmiliana262@bna.dz,Rue Emir Abdelkader - 44200 Miliana,Aïn Defla,"44",(027) 64 92 13 - (027) 64 07 48 - (027) 64 01 63,(027) 64 01 63 - (027) 64 00 98
+"200",268 - AP AIN DEFLA,apaindefla268@bna.dz,Bd Emir Abdelkader - BP 78 - 44000 Ain Defla,Aïn Defla,"44",(027) 50 61 25/ 26/ 29,(027) 50 61 32/ 34
+"201",272 - Agence EL ATTAF,agelattaf272@bna.dz,32 - Rue Med Khemisti - Route Nationale N° 04 - 44300 El Attaf,Aïn Defla,"44",(027) 63 26 71 - (027) 63 21 76,(027) 63 21 76 - (027) 62 15 55
+"202",278 - Agence KHEMIS MILIANA,,Rue Djitli Mohamed 44225 Khemis Miliana,Aïn Defla,"44",(027) 56 20 62 - (027) 56 22 33,(027) 56 20 65
+"203",725 - Agence MECHERIA,agmecheria725@bna.dz,05 Rue BendahouTahar BP 262 45002 Mecheria - Naama 45002,Naâma,"45",(049) 57 52 28 - (049) 57 41 20 - (049) 57 41 48,(049) 57 48 85
+"204",727 - Agence Ain Sefra,againsefra727@bna.dz,Place Colonel Lotfi 45001 Ain Sefra - W. Naama,Naâma,"45",(049) 56 11 21 - (049) 56 11 32,(049) 56 10 70 - (049) 56 11 21
+"205",730- Agence NAAMA,,Cité 164 logements - rue Haddad Benziane - Tranche 04 - section n°09 Naama - W. Naama,Naâma,"45",(049) 59 67 57 - (049) 59 67 56 - (049) 59 67 59 - (049) 59 67 60,(049) 59 67 61 - (049) 59 67 58
+"206",728 - Agence Ain Temouchent,againtemouchent728@bna.dz,24 Rue Maghnia Sandid Fatma - 46000 AïnTémouchent,Aïn Témouchent,"46",(043) 78 25 66 - (043) 78 12 81 - (043) 78 21 89,(043) 78 55 10
+"207",525 - Agence BENI SAF,agbenisaf525@bna.dz,Rue de la République BP 35 Beni Saf 46001 - W.AinTémouchent,Aïn Témouchent,"46",(043) 74 26 16,(043) 74 23 70
+"208",771 - Agence EL MALLAH,agelmallah771@bna.dz,Bd Med Khemisti - 46007 Mallah W. Ain Témouchent,Aïn Témouchent,"46",(043) 75 72 37 - (043) 75 62 39,(043) 75 65 04
+"209",291 - Agence GHARDAIA,agghardaia291@bna.dz,RN n°1 - Sidi Abbaz - 47132 Bounoura - W.Ghardaia,Ghardaïa,"47",(029) 25 55 51/ 45 - (029) 25 54 44/ 56,(029) 25 54 70/ 44
+"210",292 - Agence GHARDAÏA,agghardaia292@bna.dz,Avenue du 1er Novembre - 47000 Ghardaïa,Ghardaïa,"47",(029) 23 40 40/ 70/ 50/ 30/ 10/ 20,(029) 23 40 60
+"211",294 - Agence BERRIANE,agberriane294@bna.dz,Cité Boudouaia - 47100 Berriane W.Ghardaïa,Ghardaïa,"47",(029) 24 66 20 - (029) 24 60 00,(029) 24 67 40
+"212",295 - Agence GUERRARA,agguerrara295@bna.dz,Bd des Ecoles - 47110 Guerrara Ghardaïa,Ghardaïa,"47",(029) 26 17 01 - (029) 26 15 96 - (029) 26 18 96 - (029) 26 14 94,(029) 26 14 96
+"213",296 - Agence METLILI CHAAMBA,agmetlilichaamba296@bna.dz,Quartier Administratif - 47200 Metlili Chaamba - W. de Ghardaïa,Ghardaïa,"47",(029) 29 24 25 - (029) 29 24 09 - (029) 29 24 26,(029) 29 25 01
+"214",276 - Agence OUED RHIOU,agouedrhiou276@bna.dz,Rue Touati Mohamed (Face commissariat de police) - 48300 Oued Rhiou,Relizane,"48",(046) 78 80 27/ 24/ 25,(046) 78 80 26/ 24/ 25
+"112",338 - Agence,ag.amoucha338@bna.dz,Place du 08 Mai 1945 Amoucha - Sétif,Setif,"19",(036) 71 01 51/ 52/ 53 - (036) 71 00 55,(036) 71 01 52
+"215",869 - Agence RELIZANE,29 Bd Mohamed Khemisti - 48000 Relizane,agrelizane869@bna.dz,Relizane,"48",(046) 72 23 90/ 92/ 89 - (046) 72 24 30/ 31,(046) 72 23 91/ 92
