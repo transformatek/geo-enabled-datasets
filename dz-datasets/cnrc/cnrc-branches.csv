@@ -1,0 +1,54 @@
+Code,Wilaya,Ville,Adresse,Lat,Lon,Tel,Fax
+"1",Adrar,Adrar,"Cité Aissat Idir, BP 108 - ADRAR",27.878748300000002,-0.283401600000000,(+213) 049.36.48.19,(+213) 049.36.48.21
+"2",Chlef,Chlef,Rue Abdelhak Ben Hamouda ( derrière Algérie Télécom)- Chlef,36.164972400000003,1.336562200000000,(+213) 027.77.43.10,(+213) 027.77.89.08
+"3",Laghouat,Laghouat,"Cite Maamourah, BP 1224 commune- Laghouat",33.781781100000003,2.893738100000000,(+213) 029.13.14.79,(+213) 029.13.14.79
+"4",Oum El Bouaghi,Oum El Bouaghi,"Cité El Amel extention Houari Boumedien, BP 33 - Oum El Bouaghi",35.868878899999999,7.110826599999999,(+213) 032.54.55.60,(+213) 032.54.59.67
+"5",Batna,Batna,"Cité l'Abattoire , 18 logts allées, Ben Boulaid,BP 58 - Batna",35.553092800000002,6.157590200000000,(+213) 033.80.21.44,(+213) 033.85.36.99
+"6",Bejaia,Bejaia,"Boulevard Krim Belkacem, SOMACOB, Ihadaden, BT D1, BP 212- Béjaia.",36.745150600000002,5.048962100000000,(+213) 034.21.90.32,(+213) 034.21.57.57
+"7",Biskra,Biskra,"Cite des 100 Villas Cadres Zahoune Ouest, BP 126 El Amel - Biskra",34.844943700000002,5.724856700000000,(+213) 033.65.63.56,(+213) 033.65.63.55
+"8",Bechar,Bechar,"Hai El Djihani 220 logts, BP 419 Elbargua - Bechar.",31.623809800000000,-2.216244300000000,(+213) 049.23.01.63,(+213) 049.23.01.63
+"9",Blida,Blida,Centre des Affaires El Wouroud 2em étage Bab Edzair -Blida,36.473413700000002,2.830943400000000,(+213) 025.21.54.37,(+213) 025.21.54.37
+"10",Bouira,Bouira,"Cité Si Lahlou, BP 45 - Bouira",36.369184599999997,3.900619399999999,(+213) 026.83.82.92,(+213) 026.83.82.89
+"11",Tamanrasset,Tamanrasset,"Cite 05 juillet Sersouf, BP 1942 -Tamanrasset",35.807377799999998,-78.624427400000002,(+213) 029.30.20.84,(+213) 029.30.24.49
+"12",Tebessa,Tebessa,"Boulevard Houari Boumediene , BP 276 - Tebessa",35.399735799999988,8.109953100000000,(+213) 037.48.41.11,(+213) 037.48.37.20
+"13",Tlemcen,Tlemcen,"Fin Boulevard Principale El Kiffane, BP 389 - Tlemcen",34.884841600000001,-1.327072900000000,"(+213) 043,26,76,46","(+213) 043,26,76,46"
+"14",Tiaret,Tiaret,"Bat B6 route de Ain Guesma programme 33 log EPLF, BP79 - Tiaret",35.344902800000000,1.327822200000000,(+213) 046.21.19.28,(+213) 046.21.19.30
+"15",Tizi Ouzou,Tizi Ouzou,Cité 104 Logements EPLF Bt B5 n°17 et 18 N/Ville Tizi-Ouzou,36.713548000000003,4.047307500000000,(+213) 026.18.04.02,(+213) 026.18.04.02
+"15",Tizi Ouzou,Azazga,"Cité des 60 logts proportionnels , EPLF , Fontaine Romaine Unité ""C"" Azazga - Tizi - Ouzou",36.745394699999999,4.371400400000000,(+213) 026 34 31 89,(+213) 026 34 32 64
+"16",Alger,Alger Est,Route National n° 24 Lido Mall El Mohammadia 5 ème étage - Alger,36.729573199999997,3.157156300000000,(+213) 023.80.40.17/19,(+213) 023.80.40.18
+"16",Alger,Alger Centre,40-42 Rue Larbi Ben M'hidi Alger Centre - Alger,36.776880900000002,3.058245400000000,(+213) 021.71.57.85,(+213) 021.73.80.51
+"16",Alger,Alger Ouest,Centre des affaires Zeralda 1ere étage - Alger,36.713745600000003,2.844995700000000,(+213) 021.32.95.53,(+213) 021.32.95.43
+"17",Djelfa,Djelfa,"Boulevard 08 ,cité Benjerma n° 1831 BP 3302 - Djelfa",34.670395599999999,3.250376100000000,(+213) 027.93.17.48,(+213) 027.93.17.06
+"18",Jijel,Jijel,Cité 24 logts village Moussa EPLF Bt n° 03 - Jijel,36.821014400000003,5.763412600000000,(+213) 034.47.34.66,(+213) 034.49.89.42
+"19",Setif,Setif,Cité 400 logements les Tours BP 454 - Sétif.,36.189759299999999,5.410798400000000,(+213) 036.66.44.00,(+213) 036.66.44.00
+"19",Setif,EL Eulma,Cité 50 logts AADL rue principale du 1er novembre 1954 - El Eulma,36.150509900000003,5.699946100000000,"(+213) 036,47,92,04",
+"20",Saïda,Saïda,Rue Zighout Youcef Bt N°06 - BP 187 - Saida,34.841520699999997,0.145605500000000,(+213) 048.43.43.10,(+213) 048.43.41.08
+"21",Skikda,Skikda,"Cité Aissa Boukerma, Pole Administratif - Skikda",36.880582500000003,6.907539600000001,(+213) 038.74.74.09,(+213) 038.74.74.09
+"22",Sidi Bel Abbes,Sidi Bel Abbes,"70, Avenue Abbane Ramdane - Sidi Bel Abbes",35.191587200000008,-0.627086300000000,(+213) 048.76.14.29,(+213) 048.76.14.28
+"23",Annaba,Annaba,Angle Rue Bouzered Hocine et Boulevard d'Afrique n°82 - Annaba,36.898468000000001,7.744528099999998,(+213) 038.48.11.00,(+213) 038.48.11.61
+"24",Guelma,Guelma,Cite Khemari Saad BP n° 326 - Guelma,36.462744399999998,7.433083300000000,(+213) 037.15.30.71,(+213) 037.15.30.92
+"25",Constantine,Constantine,"Cité Nouvelle Ville Ali Mendjli programme Sorest projet 384 logts, BP 5 El Kheroub - Constantine",36.257037400000002,6.583138399999999,"(+213) 031,78,68,32",
+"26",Medea,Medea,Pôle Urbain Cartier Administratif E10- BP 693 -Médéa,46.804372000000001,-71.226879999999994,(+213) 025.78.55.32,"(+213) 025.78,50,92"
+"27",Mostagamen,Mostagamen,"01 Rue Belahouel Bbelahouel, Sidi Abdellah, BP 21- Mostaganem",35.931145399999998,0.090941400000000,(+213) 045.41.04.58,(+213) 045.41.02.17
+"28",M'sila,M'sila,"Rue Colonel Amirouche, route de B.B.A, BP 195 RP - M'sila",35.718664599999997,4.523342299999999,(+213) 035.33.39.73,(+213) 035 33.39.73
+"29",Mascara,Mascara,Rue Hassi El Guella Baba Ali BP 670 - Mascara,35.456496199999997,-1.051965100000000,(+213) 045.72.18.11,(+213) 045.72.18.12
+"30",Ouargla,Ouargla,Nouvelle Zone d'Equipement- Ouargla,31.952741100000001,5.333534800000000,(+213) 029.71.62.61,(+213) 029 71.62.70
+"31",Oran,Oran,118 rue mohammed boudiaf BP 1527 - Oran,35.698738800000001,-0.634931900000000,(+213) 041.38.21.88,(+213) 041.38.31.32
+"31",Oran,Gdyel,"Place du 1er Novembre, B.P 162,Gdyel - Oran",35.703519800000002,-0.648529300000000,(+213) 041.68.11.04,(+213) 041.68.11.05
+"32",El Bayadh,El Bayadh,"Rue Djlailia Chikh, BP 172 RP - EL Bayadh",33.685414899999998,1.030354300000000,(+213) 049 61.37.20,(+213) 049 61.37.20
+"33",Illizi,Illizi,"Nouvelle Zone Urbaine ZHUN, BP 142 -Illizi",42.615243999999997,-87.950088999999991,(+213) 029 40.03.54,(+213) 029.40.03.64
+"34",Bordj Bou Arreridj,Bordj Bou Arreridj,"Cite des Jardins, section 84 Ilot de propriété n°59, BP 373 - Bordj Bou Arreridj",36.073992500000003,4.763027100000000,(+213) 035 73.01.09,(+213) 035.73.01.12
+"35",Boumerdes,Boumerdes,Oued Tatareg Bt B sis à côté de la Banque Extérieure d'Algérie - Boumerdès,36.751069700000002,3.478890500000000,(+213) 024.94.76.45,(+213) 024.94.76.57
+"36",El Tarf,El Tarf,"Route Nationale 44,BP 261 - El Tarf",36.757667800000000,8.307634300000000,(+213) 038.30.18.56,(+213) 038.30.18.42
+"37",Tindouf,Tindouf,"Cité Ksabi Slimane Amirate, Tindouf",29.102557399999998,-0.971677700000000,(+213) 049.37.67.82,(+213) 049.37.68.00
+"38",Tissemsilt,Tissemsilt,"Rue Djouadi, BP 164 - Tissemsilt",35.605378100000003,1.813098000000000,(+213) 046.57.64.86,(+213) 046.57.65.22
+"39",El Oued,El Oued,"Cité 19 Mars Rimel, BP 128 - El Oued",33.367811000000003,6.851651100000000,(+213) 032.13.93.81,(+213) 032.13.39.82
+"40",Khenchela,Khenchela,"Cité du 1er Mai, BP 186 - Khenchela",35.426940399999999,7.146015500000000,(+213) 032.72.71.51,(+213) 032.72.71.55
+"41",Souk Ahras,Souk Ahras,"Cité Draira Ahmed, Rue Behidji Mansour Bloc Administratif- Souk Ahras",36.720056999999997,2.995111200000000,(+213) 037.82.47.46,(+213) 037.82.47.52
+"42",Tipaza,Tipaza,"Chemin de la Wilaya, BP 37 - Tipaza",36.590671899999997,2.443372300000000,(+213) 024.37.63.93,(+213) 024.37.63.93
+"43",Mila,Mila,Cite Benmamer n° 334 - Mila,36.451904900000002,6.258433800000000,(+213) 031.47.71.42,(+213) 031.47.71.43
+"44",Ain Defla,Ain Defla,Rue Chahid Hadj Djilali M’Hammed -Ain Defla,36.250942899999998,1.939381500000000,(+213) 027.50.64.92,(+213) 027.50.64.93
+"45",Naâma,Naâma,"Rue 1er Novembre, BP 22 - Naama",33.266731700000001,-0.312865900000000,(+213) 049.59.01.43,(+213) 049.59.03.51
+"46",Aïn Témouchent,Aïn Témouchent,"Cité Omar Ibn El Khatab ,B.P n°171 - Ain Temouchent",35.299269799999998,-1.139279200000000,(+213) 043.77.15.27,(+213) 043.77.15.27
+"47",Ghardaïa,Ghardaïa,"Rue Didouche Mourad, Bouhraoua BP 44 CTR - Ghardaia",32.494374100000002,3.644460000000000,(+213) 029.28.29.67,(+213) 029.28.14.15
+"48",Relizane,Relizane,Rue des Figuiers n° 01 BP 431 -Relizane,32.447794500000001,-85.017686099999992,(+213) 046.71.57.05,(+213) 046.71.61.11
