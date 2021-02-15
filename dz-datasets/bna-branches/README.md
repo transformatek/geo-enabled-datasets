@@ -1,5 +1,12 @@
+The datasets consists of branches of the National Bank of Algeria (BNA)
+
+
 ## Source
-## Dataset description 
+[BNA](https://www.bna.dz/fr/).
+
+ 
+
+## Data format
 
 | Key          | Description | 
 | ------------ | -----------------------|
@@ -7,7 +14,7 @@
 | email     |Branch email                 |
 | adresse |Address of the branch |
 | code_wilay| Wilaya code of where the branch is located |
-| Wilaya |Wilaya name                |
+| wilaya |Wilaya name                |
 | tel | Telephone number(s)                 |
 | fax | Fax number(s) |
 | long | Longitude                 |
