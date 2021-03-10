@@ -1,0 +1,152 @@
+id,adresse,ville,tel,fax,email,lon,lat,code,wilaya
+"0",Ancien siège de la wilaya,ADRAR,049.36.12.38,049.36.12.35,mohamed.rahmouni@ansej.dz,-0.293594599000000,27.869212449999999,"1",ADRAR
+"1",Ancien siège de la daïra d’Aoulef,AOULEF,049.32.71.32,049.32.71.32,ahmed.drissi@ansej.dz,1.080871224000000,26.971508530000001,"1",ADRAR
+"2",Siège Inspection du travail,TIMIMOUN,049.90.02.32,049.90.02.32,mhammed.ouledbihi@ansej.dz,0.235929787000000,29.269638170000000,"1",ADRAR
+"4",Centre de finance Bordj-Badji Mokhtar,BORDJ BADJI MOKHTAR,049.32.97.07,049.32.97.07,rouhelarbi.nadji@ansej.dz,0.954705477000000,21.330415009999999,"1",ADRAR
+"9",Ancien siège de la daïra de Reggane,REGGANE,049.97.02.91,049.97.02.91,abderrahmane.labair@ansej.dz,0.175990462000000,26.719889689999999,"1",ADRAR
+"28",Route nationale n°19 Bouzeghaia,BOUZEGHAIA,027.71.56.55,027.71.56.55,ahmed.ouzene@ansej.dz,1.237845000000000,36.339421999999999,"2",CHLEF
+"29","Zone différée, 38 Logements  AADL Chlef",CHLEF,027.77.04.23,027.79.72.72,djilali.boumediene@ansej.dz,1.330968000000000,36.162672000000001,"2",CHLEF
+"63",Rue de Laghouat Route Nationale 23 AFLOU,AFLOU,029.17.55.71,029.17.55.71,khallil.khamloul@ansej.dz,2.106570750000000,34.118992720000001,"3",LAGHOUAT
+"64",Cite El Gouatine Laghouat,LAGHOUAT,029.14.20.77,029.14.20.88,Kheira.Gourine@ansej.dz,2.874437571000000,33.821781000000001,"3",LAGHOUAT
+"87",Cité administrative bloc N°2  2ième étage Batna,BATNA,033.25.48.48,033.25.48.48,kamal.souanef@ansej.dz,6.167595000000000,35.547027999999997,"5",BATNA
+"88",Rue Khezani Lakhdar Ain Touta,AIN TOUTA,033.35.50.99,033.35.50.99,younes.benmakhlouf@ansej.dz,5.898951000000000,35.377541000000001,"5",BATNA
+"90",Cité frères Sahraoui (Cité Zaitouna) Barika,BARIKA,033.39.35.36,033.39.35.36,hani.haifkhaif@ansej.dz,5.353091000000000,35.392420000000001,"5",BATNA
+"91",Cité Deraa Zitoune Arris,ARRIS,033.34.50.03,033.34.50.03,saleheddine.benzerrouk@ansej.dz,6.357856000000000,35.256152000000000,"5",BATNA
+"148",Cité 200 logements OPGI Ihadaden Bejaia,BEJAIA,034.10.67.67,034.10.67.68,nadir.kheffache@ansej.dz,5.084330000000000,36.755870000000002,"6",BEJAIA
+"149",Ex ERIAD Selouana Ouzellaguen,AKBOU,034.35.69.13,034.35.69.13,nassim.gougam@ansej.dz,4.534940000000000,36.457500000000003,"6",BEJAIA
+"150",Darguina Centre,DARGUINA,034.39.82.35,034.39.82.35,abdelghani.taleb@ansej.dz,5.306000000000000,36.564599999999999,"6",BEJAIA
+"200",Cité Moudjahidine (ex Souk El Fellah) BP 297 Beni Morrah Biskra,BISKRA,033.65.79.55,033.65.79.55,fatima.rouagued@ansej.dz,5.720859400000000,34.858665000000002,"7",BISKRA
+"202",Siège de l’ex Daïra Ouled Djellal,OULED DJELLAL,033.66.32.81,033.66.32.81,abdeldjalil.zine@ansej.dz,5.062685000000000,34.426476000000001,"7",BISKRA
+"204",ex Centre de la garde communal Tolga,TOLGA,033.59.75.51,033.59.75.51,ahmed.mghezzilarafi@ansej.dz,5.400395000000000,34.731470000000002,"7",BISKRA
+"211",Cité administrative Zeribet El Oued,ZERIBET EL OUED,033.64.14.97,033.64.14.97,morad.bennadji@ansej.dz,6.509954400000000,34.678075000000000,"7",BISKRA
+"233",Cité Rachid Madouni à côté Immeuble Pasteur Bechar,BECHAR,049.21.11.60,049.21.11.62,tahar.belamouri@ansej.dz,-2.217415000000000,31.619119000000001,"8",BECHAR
+"235",Rue Amir Abdelkader Beni Abbes,BENI ABBES,049.28.52.45,049.28.52.45,moussa.moulfi@ansej.dz,-2.169178000000000,30.127884999999999,"8",BECHAR
+"237",Centre-ville Beni Ounif Bechar,BENI OUNIF,049.84.30.00,049.84.30.00,,-1.247493000000000,32.047939999999997,"8",BECHAR
+"254",Cité 222 logements bâtiment B2 Rue Belkacem El Ozri  Blida.,BLIDA,025.23.39.49,025.23.39.49,mohamed.melab@ansej.dz,2.811279000000000,36.480429000000001,"9",BLIDA
+"255",Cité 222 logements bâtiment B2 Rue Belkacem El Ozri  Blida.,BOUFARIK,025.23.39.91,025.23.39.91,ali.kebilene@ansej.dz,2.825929000000000,36.485250999999998,"9",BLIDA
+"261",Cité 100 logements FNPOS  Bougara Blida,BOUGARA,025.25.39.09,025.25.39.09,sadek.zaghdoudi@ansej.dz,3.098305000000000,36.538060999999999,"9",BLIDA
+"279",Ex Siège de la Daïra de Bir El Ater Tébessa,BIR EL ATER,037.44.76.28,037.44.76.28,djemai.abidi@ansej.dz,8.331450000000000,34.457419999999999,"12",TEBESSA
+"280",Cité du stade communal Cheria Tebessa,CHERIA,037.62.10.59,037.62.10.59,mosbahi.sofiane@ansej.dz,7.445802000000000,35.155164999999997,"12",TEBESSA
+"281",Quartier Djebel Djorf Jardin Ennahdha BP 424 Tébessa,TEBESSA,037.50.05.47,037.50.09.50,wassila.benhadda@ansej.dz,8.105253453346238,35.398455113688392,"12",TEBESSA
+"307",Rue Bouanani Ahmed place du marché Nedroma,NEDROMA,043.45.69.55,043.45.69.55,aboubekr.ghomari@ansej.dz,-1.746468543897210,35.010718214598299,"13",TLEMCEN
+"308",Cité Ibn Badis Résidence El Widad Imama Mansourah Tlemcen,TLEMCEN,043.22.12.98,043.22.12.96,naim.zegnouni@ansej.dz,-1.339337826211700,34.887126078292901,"13",TLEMCEN
+"313",Rue Larbi Benmhidi (Ancienne médiathèque),REMCHI,043.43.77.95,043.43.77.95,yassine.gadi@ansej.dz,-1.428934335654050,35.059919855650897,"13",TLEMCEN
+"315",Résidence El Forsane Sebdou,SEBDOU,043.54.80.33,043.54.80.33,moustafa.mansouri@ansej.dz,-1.330876350293700,34.639448022076998,"13",TLEMCEN
+"316",Boulvard du 1er Novembre 1954 Maghnia,MAGHNIA,043.50.28.17,043.50.28.17,adil.saim@ansej.dz,-1.727145204379840,34.848540677668502,"13",TLEMCEN
+"360",Cité Kaid Ahmed Route d’Alger Tiaret,TIARET,046.20.85.12,046.20.86.46,,1.336630000000000,35.381189999999997,"14",TIARET
+"370",Cité Administrative Ksar Chellala Tiaret,KASR CHELLALA,046.36.45.56,046.36.45.56,,2.317551000000000,35.214218000000002,"14",TIARET
+"393","ex Galerie EDGB, Avenue Abane Ramdan  Tizi Ouzou",TIZI-OUZOU,026.20.23.23,026.20.23.23,nadjia.taharount@ansej.dz,4.052564000000001,36.711464999999997,"15",TIZI-OUZOU
+"394",Rue Lala Fatma N'Soumer Draa El Mizan Tizi Ouzou,DRAA EL MIZAN,026.13.56.54,026.13.56.54,arezki.mazouni@ansej.dz,3.814653000000000,36.559367999999999,"15",TIZI-OUZOU
+"395",Cité des 300 Logements AADL Bâtiment 15 AZ 06 S12 et S09 Tizi Bouchene Azazga,AZAZGA,026.34.50.23,026.34.50.39,malika.alouane@ansej.dz,4.348806000000000,36.748489999999997,"15",TIZI-OUZOU
+"460",Cité AADL 558 logements Bâtiment 16 N°C03  Ouled Fayet Alger,CHERAGA,023.28.41.66,023.28.41.66,saliha.hadjailia@ansej.dz,2.953841686000000,36.741618170000002,"16",ALGER
+"461",Cité 1115 Bâtiment 21 AADL Hraoua Rouiba,ROUIBA,023.96.08.00/05.61.46.09.98,023.96.08.00,faycel.aouichiche@ansej.dz,3.293272000000000,36.773496999999999,"16",ALGER
+"462",86 bis rue Hassiba Ben Bouali Alger,SIDI M'HAMED,021.66.50.40,021.66.50.40,oussama.gueddar@ansej.dz,3.059128000000000,36.761045000000003,"16",ALGER
+"463","Cité 873 logements AADL B7, Ain Benian, Alger",BAB EL OUED,023.21.98.06,023.21.98.07,samira.brachemi@ansej.dz,2.929582000000000,36.798507999999998,"16",ALGER
+"464",Cité EL MOSSALAHA EL WATANIA AADL Bâtiment 16 Bab Ezzouar,DAR EL BEIDA,023.92.97.77,023.92.97.77,lakhder.boudiaf@ansej.dz,3.199551000000000,36.720289999999999,"16",ALGER
+"465",Cité AADL 572 logements Bâtiment 02 local 161/2S 01 El Achour Alger,DRARIA,021.33.38.60,021.33.38.60,kenza.toumi@ansej.dz,2.993669808000000,36.733811269999997,"16",ALGER
+"466",Cité 594 Logements bâtiment D1 AADL  Bachdjarah,EL HARRACH,023.88.50.21,023.88.50.21,hanane.bouzegzi@ansej.dz,3.104029000000000,36.722012999999997,"16",ALGER
+"468",Cité 700 logements Bâtiment 01 Baraki,BARAKI,023.90.11.79,023.90.11.79,malek.messaoudene@ansej.dz,3.083978700000000,36.645561399999998,"16",ALGER
+"469",Cité AADL Sidi Youcef 649 logements Bloc B17 Beni Messous Alger,BOUZAREAH,023.23.71.07/06.70.37.46.41,,adel.belkacem@ansej.dz,2.987251000000000,36.798696999999997,"16",ALGER
+"471",Cité AADL Bâtiment 04 Local N°16j La Concorde 16013 Bir Mourad Rais,BIR MOURAD RAIS,023.57.32.34,023.57.32.34,bilal.zamit@ansej.dz,3.041512000000000,36.735934000000000,"16",ALGER
+"473",Cité des 297 logements BT 22 locaux 39 & 40 Birtouta,BIRTOUTA,021.44.38.47,021.44.38.47,mustapha.terkouche@ansej.dz,2.993613482000000,36.740792800000001,"16",ALGER
+"490",Cité AADL Zerhouni Mokhtar ex « Les bananiers » Bâtiment 05 El Mohamadia,HUSSEIN DEY,021.89.75.21,021.89.75.21,hamza.adrar@ansej.dz,2.993784200000000,36.740841300000000,"16",ALGER
+"498",AADL Cité  212 logements Bt A2 Zeralda,ZERALDA,023.20.51.80,023.20.51.80,mohamed.aissati@ansej.dz,2.847596700000000,36.706695900000000,"16",ALGER
+"517",Cité 200 logements Assous AADL Jijel,JIJEL,034.47.45.04,034.47.39.45,nacereddine.benbait@ansej.dz,5.762339830000000,36.824835090000001,"18",JIJEL
+"545","Cité 500 logements AADL, Thabet Bouzid El Eulma",EL EULMA,036.47.90.92,036.47.90.86,fares.retma@ansej.dz,5.700677186000000,36.150170570000000,"19",SETIF
+"546",Rue Merbah Belkhieri Ex Daira Sétif,SETIF,036.45.31.18,036.45.31.17,yazid.kebaili@ansej.dz,5.405683800000000,36.189104600000000,"19",SETIF
+"547",Cité des 44 Logements face à l’UGTA Ain Oulmane,AIN OULMENE,036.56.42.07,036.56.42.07,,5.294620246000000,35.925525929999999,"19",SETIF
+"548",,?AIN EL KEBIRA,,,,5.405683800000000,36.189104600000000,"19",SETIF
+"550",Centre culturel Bougaa,BOUGAA,036.60.20.02,036.60.20.02,sihem.saouli@ansej.dz,5.091280639000000,36.333557560000003,"19",SETIF
+"605",Centre-Ville. À côté du marché couvert de Saida,YOUB EL HASSASNA,048.41.32.01,048.41.32.01,sidahmed.hachemane@ansej.dz,0.048065000000000,35.050235000000001,"20",SAIDA
+"607",Balloul Saïda,OULED BRAHIM,048.33.53.13,048.33.53.13,,0.484772000000000,34.990628999999998,"20",SAIDA
+"610",Rue principale Sidi Boubekeur Saida,SIDI BOUBEKEUR,048.50.44.20,048.50.44.20,,0.151813000000000,34.830401299999998,"20",SAIDA
+"615",Cité Amous à côté de l'OPGI Saida,SAIDA,048.37.00.09,048.37.00.09,benaoumeur.nehal@ansej.dz,0.151813000000000,34.830401299999998,"20",SAIDA
+"621",Cité des Allées du 20 Août 1955 Centre culturel Ali Tlilani Skikda,SKIKDA,038.72.15.61,038.72.16.07,redouane.boufrioua@ansej.dz,6.920187000000000,36.862721000000001,"21",SKIKDA
+"622",Bibliothèque communale Commune Ain Cherchar,AIN CHERCHAR,038.77.01.33/28,038.77.01.33/28,boubakeur.chaoui@ansej.dz,7.218504000000000,36.731904999999998,"21",SKIKDA
+"623",Groupe services technique Daïra de Tamalous,TAMALOUS,038.93.74.51,038.93.74.51,mohamed.bouguerne@ansej.dz,6.639731300000000,36.836432199999997,"21",SKIKDA
+"659",Boulvard Larbi Ben M'hidi Sfisef,SFISEF,048.79.41.54,048.79.41.54,sara.didaoui@ansej.dz,-0.244473964000000,35.233699590000001,"22",SIDI BEL ABBES
+"660",Cité 192 logements EPLF Rue Abbane Ramdane prolongé Sidi Bel Abbés,SIDI BEL ABBES,048.74.64.50,048.74.64.50,abdelkader.lardjani@ansej.dz,-0.635195374000000,35.197553579999997,"22",SIDI BEL ABBES
+"661",Rue Mohamed Habis Ben Badis,BENBADIS,048.73.22.46,048.73.22.46,,-0.914554149000000,34.951817960000000,"22",SIDI BEL ABBES
+"663",Siège de la Daïra Moulay Slissen,MOULAY SLISSEN,048.78.45.66,048.78.45.66,amine.tabti@ansej.dz,-0.757521540000000,34.826515200000003,"22",SIDI BEL ABBES
+"668",Boulevard Toumi Lakhdar Tenira,TENIRA,048.71.21.20,048.71.21.20,omar.saadi@ansej.dz,-0.526768416000000,35.020918430000002,"22",SIDI BEL ABBES
+"669",Cité administrative Siège de la Daïra de Télagh,TELAGH,048.78.12.70,048.78.12.70,tarik.khiat@ansej.dz,-0.574639142000000,34.782293699999997,"22",SIDI BEL ABBES
+"711",Rue Larbi Ben M'hidi El Hadjar Annaba,EL HADJAR,038.59.16.26,038.59.16.27,nadji.benhalima@ansej.dz,7.714929000000000,36.879103999999998,"23",ANNABA
+"712",Rue Gouta Sebti  Annaba,ANNABA,038.86.80.21,038.86.80.21,affef.boukachabia@ansej.dz,7.759292000000000,36.909405999999997,"23",ANNABA
+"713",Cité Nouvelle Berrahel,BERRAHEL,038.87.81.67,038.87.81.67,fatima.boussaha@ansej.dz,7.452670000000000,36.836492000000000,"23",ANNABA
+"716",156 Logements promotionnels les crêtes bloc B1+A  N°16 El Bouni,EL BOUNI,,,salim.boualleg@ansej.dz,7.746513000000000,36.856754000000002,"23",ANNABA
+"723",Ancien siège de la daïra Rue 1er Novembre 54 Bouchegouf,BOUCHEGOUF,037.12.58.65,037.12.58.65,,7.732033800000000,36.472600999999997,"24",GUELMA
+"724",Ancien siège de la daïra  Rue Ammar Ghaiba Oued Zenati,OUED ZENATI,037.18.82.31,037.18.82.31,ahmed.bouchelaghem@ansej.dz,7.167861100000000,36.320999999999998,"24",GUELMA
+"727","Cité des 80 bureaux, Route Sedrata Guelma",GUELMA,037.14.05.05,037.14.05.59,nassima.messikh@ansej.dz,7.440801859000000,36.455052520000002,"24",GUELMA
+"733",Cité des 80 bureaux Route Sedrata Guelma,HAMMAM DEBAGH,037.14.05.05,037.14.05.05,hadda.lamouri@ansej.dz,7.440801859000000,36.455052520000002,"24",GUELMA
+"734","Maison de la culture, Rue Khmisti Mohamed Heliopolis",HELIOPOLIS,037.13.43.65,037.13.43.65,fouad.nahal@ansej.dz,7.441347688000000,36.504493869999997,"24",GUELMA
+"757",Cité Administrative Ali Mendjeli El khroub,AIN ABID,031.67.10.40,031.67.10.40,mehdi.benghnissa@ansej.dz,6.947163000000000,36.228456999999999,"25",CONSTANTINE
+"758",Cité Administrative Ali Mendjeli El khroub,ALI MENDJELI,031.67.10.40,031.67.10.40,samir.mouatsi@ansej.dz,6.579685360000000,36.257982419999998,"25",CONSTANTINE
+"760",Bloc administratif ex CNEP 3ème étage n°5 Zighoud Youcef,ZIGHOUD YOUCEF,031.91.70.97,031.91.70.97,sidali.makhloufi@ansej.dz,6.713146000000000,36.535736999999997,"25",CONSTANTINE
+"761",01 Place Chadi Abdallah Constantine,CONSTANTINE,031.91.26.08,031.91.26.08,djad.benchikhlehocine@ansej.dz,6.605364200000000,36.364506599999999,"25",CONSTANTINE
+"762",Avenue ALN Hamma Bouziane,HAMMA BOUZIANE,031.84.07.27,031.84.07.27,lilia.hamdane@ansej.dz,6.596859545000000,36.414664809999998,"25",CONSTANTINE
+"770",La tour d’affaires 4ième étage Theniet El Hdjer Médea,MEDEA,025.73.22.60,025.73.22.59,fouad.ghaibouche@ansej.dz,2.768024700000000,36.285384700000002,"26",MEDEA
+"772",Siège 100 locaux à côté de la protection civile Tablat,TABLAT,025.52.25.52,025.52.25.52,hamza.medjram@ansej.dz,3.318747000000000,36.412125699999997,"26",MEDEA
+"834",Ex Siège de la daïra de Ain Tadles,AIN TADLES,045.48.63.54,045.48.63.54,mohamed.ghezali@ansej.dz,0.295051000000000,35.995370000000001,"27",MOSTAGANEM
+"835",Cité Colonel Lofti Rue Djelloul Mansour (ex Saint Charles) Mostaganem,MOSTAGANEM,045.33.36.69,045.33.36.69,zineelabidine.lamari@ansej.dz,0.081662536000000,35.924353480000001,"27",MOSTAGANEM
+"856",Route  BBA  Commmune  Msila,MSILA,035.33.43.43,035.33.43.43,charaf.boutebaig@ansej.dz,4.536565300000000,35.706893600000001,"28",MSILA
+"857",Cité administrative en face APC Bousaada 140/09,BOUSSAADA,035.43.41.74/07.70.79.01.15,035.43.41.74,hatem.khelifa@ansej.dz,4.178795000000000,35.212573999999996,"28",MSILA
+"860",Annexe administrative de Magra Lotissement N°634 Route d’Elmaleh Magra,MAGRA,035.59.37.03/06.62.45.90.93,035.59.37.03,abdelhak.boutiara@ansej.dz,5.107808000000000,35.612819999999999,"28",MSILA
+"903",Villa N°03 Cité 80 Villas Zhun 07 Mascara,MASCARA,045.75.68.10/12,045.75.68.11,ali.elkhamsa@ansej.dz,0.144628400000000,35.405241199999999,"29",MASCARA
+"904",Cité 60 logements participatifs Bâtiment N°02 Rez-de-chaussée  Ghriss Mascara,GHRISS,045.81.89.26,045.81.89.26,belkacem.boukhari@ansej.dz,0.162009710000000,35.252989999999997,"29",MASCARA
+"905",Cité 42 logements participatifs Bâtiment N°04 Teghenif Mascara,TEGHENNIF,045.98.38.66,045.98.38.66,ahmed.hamek@ansej.dz,0.334310200000000,35.407783989999999,"29",MASCARA
+"907",Rue Zirout Youcef Sig Mascara,SIG,045.62.07.58,045.62.07.58,,-0.199371200000000,35.534739999999999,"29",MASCARA
+"915",Cité 36 logements du Fonds National de Péréquation des Œuvres Sociales (FNPOS) El Mohamadia Mascara,MOHAMMADIA,045.89.87.49,045.89.87.49,mohammed.djillanikobibi@ansej.dz,0.074810200000000,35.594479000000000,"29",MASCARA
+"950",Avenue Eldjomhouria Souk El Hadjar Ouargla,OUARGLA,029.70.09.06,029.70.09.06,said.hadjadj@ansej.dz,5.332404000000000,31.957250999999999,"30",OUARGLA
+"951",Rue Mohemmed Bekkar Berrekbia Cité El Amir Abdelkader Touggourt,TOUGGOURT,029.68.13.83,029.68.13.83,boubakeur.benretmia@ansej.dz,6.064122000000000,33.105500999999997,"30",OUARGLA
+"971",APC Ahmed Zabana Arzew,ARZEW,05.53.66.79.45,,nabil.dahou@ansej.dz,-0.336006000000000,35.848094000000003,"31",ORAN
+"972",01 place 1er novembre Ain El Turck Oran,AIN TURK,041.10.09.91,041.10.09.91,lahouari.mehalla@ansej.dz,-0.772598237000000,35.745358060000001,"31",ORAN
+"977",Cité 287 Logements  BT C6 Hosn El Djiouar Usto Oran,BIR EL DJIR,041.70.63.00,041.70.63.00,samia.bensaleh@ansej.dz,-0.592525452000000,35.702286579999999,"31",ORAN
+"978",02 Rue Agadir Bastille Oran,ORAN,041.85.32.85,041.85.33.28,habib.kerim@ansej.dz,-0.624413900000000,35.691332600000003,"31",ORAN
+"997",Annexe Administrative de l’APC de Labiodh Sidi Cheikh,LABIODH SIDI CHEIKH,049.64.57.44,049.64.57.44,bahous.sadli@ansej.dz,0.539963100000000,32.903157499999999,"32",EL BAYADH
+"999",Rue Boukhobza el Bey BP 66 Hamidi Boulanouar El Bayadh,EL BAYADH,049.61.19.83,049.61.19.82,,1.013062770000000,33.681126700000000,"32",EL BAYADH
+"1000",Siège de la Daïra de Bougtoub,BOUGTOUB,049.62.33.03,049.62.33.03,salaheddine.malek@ansej.dz,0.091031600000000,34.039046499999998,"32",EL BAYADH
+"1019",Route du marché Djanet,DJANET,029.48.51.86,029.48.51.86,zohra.mehdi@ansej.dz,9.484027200000000,24.554999200000001,"33",ILLIZI
+"1020",Cité El-Wiam bâtiment BP 83 Illizi,ILLIZI,029.40.41.26,029.40.41.24,,8.477783400000000,26.514314500000001,"33",ILLIZI
+"1025",Rue Hocine Guembour Cité des jardins Ras El Oued (ex inspection des impôts),RAS ELOUED,035.63.41.55,035.63.41.55,walid.abdelbaki@ansej.dz,5.034659000000000,35.942031999999998,"34",BORDJ BOUARRERIDJ
+"1027",Faubourg des Martyrs Rue Cherifi Mohamed N°24 Ex Galerie BBA,BORDJ BOU ARRERIDJ,035.69.48.53,035.69.48.53,moudjib.bahlouli@ansej.dz,4.758457000000000,36.068057000000003,"34",BORDJ BOUARRERIDJ
+"1028",Groupe administratif commune de Mansoura,MANSOURA,035.85.03.14,035.85.03.14,fateh.azib@ansej.dz,4.463098000000000,36.078448000000002,"34",BORDJ BOUARRERIDJ
+"1033",Centre CNE de Djaafra,DJAAFRA,035.75.91.32,035.75.91.32,fethi.bounouiga@ansej.dz,4.663794000000000,36.292377000000002,"34",BORDJ BOUARRERIDJ
+"1059",Cite El Medjni Dellys,DELLYS,024.98.71.56,024.98.71.56,merouane.lounis@ansej.dz,3.878035694000000,36.918111789999998,"35",BOUMERDES
+"1060",Cité 350 logements ex CEM RAHIL RABAH BOUMERDES,BOUMERDES,024.91.43.13,024.91.43.13,mounir.bettam@ansej.dz,3.473047614000000,36.766149239999997,"35",BOUMERDES
+"1064",Centre Culturel de  Bordj Menail,BORDJ MENAIL,024.98.30.82,024.98.30.82,mohamed.keddou@ansej.dz,3.713449985000000,36.742219990000002,"35",BOUMERDES
+"1074",Rue Djenati Rabah N°17 Khemis El khechna,KHEMIS EL KHECHNA,024.97.06.31,024.97.06.31,yacine.amini@ansej.dz,3.332491815000000,36.649260349999999,"35",BOUMERDES
+"1091",Cité 168 logements El Tarf,EL TARF,038.30.05.10,038.30.04.95,abdelghani.kerlil@ansej.dz,8.354630500000003,36.762335200000003,"36",EL TARF
+"1093",Bloc  Administratif  Cité Houari Boumediene Ben M’idi,BEN M'HIDI,038.69.44.25,038.69.44.25,yassine.lacheb@ansej.dz,7.838967000000000,36.705334999999998,"36",EL TARF
+"1100",,DRÉAN,038.38.89.93,038.38.89.93,yassine.nouri@ansej.dz,7.752155000000000,36.684466999999998,"36",EL TARF
+"1115",Cité Oum El Essal Tindouf,OUM EL ASSEL,049.39.82.03,049.39.02.00,mostapha.benmoussa@ansej.dz,-5.394416000000000,28.192551800000000,"37",TINDOUF
+"1116",Cité Tindouf Lotfi Tindouf,TINDOUF,049.38.73.39,049.38.73.38,abderahmane.dida@ansej.dz,-8.135151000000000,27.651268999999999,"37",TINDOUF
+"1117",Cité 24 Février Route de Hamadia  BP 111 Abedelhak Benhamouda Tissemsilt,TISSEMSILT,046.56.93.00,046.56.92.96,abdelkader.leroul@ansej.dz,1.811101000000000,35.597880000000004,"38",TISSEMSILT
+"1121",Cité des 280 logements Theniet El Had,THENIET EL HAD,046.58.20.78,046.58.20.78,mohamed.aouar@ansej.dz,2.026843900000000,35.870002100000001,"38",TISSEMSILT
+"1139",Cité 19 MARS El Oued,EL OUED,032.13.01.27,032.13.01.27,,6.856019000000000,33.359876000000000,"39",EL OUED
+"1142",Cité Blida Djamaa El Oued,DJEMAA,032.15.66.64/07.79.33.71.36,032.15.66.64,ahmed.cheradid@ansej.dz,5.990451000000000,33.532076000000004,"39",EL OUED
+"1144",Citè El Kadim El Meghaier El Oued,EL MEGHAIER,032.19.50.05/07.70.16.28.79,032.19.50.05,lakhdar.kidous@ansej.dz,5.933443000000000,33.955339000000002,"39",EL OUED
+"1169",Cité des 155 logements Commune Ouled Rechache,OULED RECHACHE,032.33.94.87,032.33.94.87,abdelkader.bourabha@ansej.dz,7.345188000000000,35.298679999999997,"40",KHENCHLA
+"1170",ex Siège de l'APC TABERGHDA Commune Chechar,CHECHAR,032.35.51.08,032.35.51.08,farid.belgroune@ansej.dz,7.018040121000000,35.023435659999997,"40",KHENCHLA
+"1171",Cité 98 Logements Essaada  Khenchela,KHENCHELA,032.72.29.87,032.72.29.95,,7.139782000000000,35.428497999999998,"40",KHENCHLA
+"1172",Cité Abbes Laghrour ex Siège CASEMA FLN-Commune de Kais Khenchela,KAIS,032.77.05.64,032.77.05.64,samir.djebbar@ansej.dz,6.928882152000000,35.491585770000000,"40",KHENCHLA
+"1190",Cité 20 Août 1956,SEDRATA,037.87.67.90,037.87.67.90,,7.531801164000000,36.125654500000003,"41",SOUK AHRAS
+"1191",Rue Bouthlidja El Abbed En face de l'hôtel de la wilaya Souk Ahras,SOUK AHRAS,037.72.06.44,037.72.06.14,,7.957687676000000,36.282253410000003,"41",SOUK AHRAS
+"1193",Taoura Centre,TAOURA,037.78.48.79,037.78.48.79,samia.khelaifia@ansej.dz,8.042239000000000,36.164890999999997,"41",SOUK AHRAS
+"1216",Complexe administratif 45 bureaux Cité  Boutout Mila,MILA,031.47.55.12,031.57.55.77,noureddine.abid@ansej.dz,6.265525900000000,36.454358300000003,"43",MILA
+"1217",Avenue 1er Novembre Ferdjioua,FERDJIOUA,031.49.54.00,031.49.54.00,abdelouahab.arfi@ansej.dz,5.942965900000000,36.408948700000003,"43",MILA
+"1218",Rue Benyahya Zoubir (la tour) Chelghoum Laid,CHELGHOUM LAID,031.41.63.68,031.41.63.68,fares.boussouf@ansej.dz,6.165700000000000,36.159915499999997,"43",MILA
+"1226",Complexe Administratif Cité de la Mosquée  TELAGHMA,TELAGHEMA,031.42.25.59,031.42.25.59,khaled.saada@ansej.dz,6.354500100000000,36.117488899999998,"43",MILA
+"1248",Cité 98 logements LSP Khemis Miliana Ain Defla,KHEMIS MILIANA,027.56.76.91,027.56.76.91,youssouf.kerrouche@ansej.dz,2.204711437000000,36.262621549999999,"44",AIN DEFLA
+"1249",Nouvelle cité administrative Ain Defla,AIN DEFLA,027.50.42.47,027.50.45.47,abdelhadi.benabdelmalek@ansej.dz,1.967110634000000,36.259719150000002,"44",AIN DEFLA
+"1284",Nouvelle cité administrative. En face du siège de la wilaya. BP 160 Naâma,NAAMA,049.59.02.67,049.59.01.97,salima.harkati@ansej.dz,-0.308977000000000,33.267333000000001,"45",NAAMA
+"1285",Rue Colonel Lotfi. En face l’APC de  Ain Sefra,AIN SEFRA,049.56.13.61,049.56.13.61,seddik.didouh@ansej.dz,-0.579687000000000,32.752377000000003,"45",NAAMA
+"1296",Cité Administrative  Bâtiment A Bloc 2 Ain Temouchent,AIN TEMOUCHENT,043.79.18.98,043.79.39.77,kheireddine.boukhalfa@ansej.dz,-1.142534780000000,35.305784490000001,"46",AIN TEMOUCHENT
+"1297",Rue Charef Afghoul Mostafa Hammam Bouhadjar,HAMMAM BOUHDJAR,043.73.92.33,,,-0.968937063000000,35.376019990000003,"46",AIN TEMOUCHENT
+"1319",Rue Maamar Rouani BP 452 RP Ghardaia,GHARDAIA,029.23.34.17,029.23.34.17,fatima.benatallah@ansej.dz,3.680031000000000,32.480091000000002,"47",GHARDAIA
+"1323",Centre ville de Menia Ghardaia,EL MENIA,029.21.14.00,029.21.14.00,ouarda.affari@ansej.dz,2.881985000000000,30.583805000000002,"47",GHARDAIA
+"1325",Centre d'échange rural Guerrara,GUERARA,029.26.12.24,029.26.12.24,khaled.zaghoudi@ansej.dz,4.489216000000000,32.788967999999997,"47",GHARDAIA
+"1326",12 Rue el Amir Abdelkader Metlili,METLILI,029.29.24.02,029.29.24.02,larbi.benseddik@ansej.dz,3.632016000000000,32.268537000000002,"47",GHARDAIA
+"1332",Cité 36 logements Yellel (Siege Annexe APC),YELLEL,046.81.18.18,046.81.18.18,toufik.benotsmane@ansej.dz,0.360826500000000,35.721026700000003,"48",RELIZANE
+"1333",Cité Drider Mohamed Ammi Moussa,AMMI MOUSSA,046.84.13.55,046.84.13.55,mohammed.ouazir@ansej.dz,1.110210457774404,35.868905487404362,"48",RELIZANE
+"1336",Cité DIAR El Ward bloc G Relizane,RELIZANE,046.76.03.38,046.76.03.38,bouzid.belhadj@ansej.dz,0.553249800000000,35.742249800000003,"48",RELIZANE
+"1340",Rue Slimani Abed Oued R'hiou,OUED R'HIOU,046.78.62.90,046.78.62.90,mohammed.ammari@ansej.dz,0.917575657000000,35.959775729999997,"48",RELIZANE

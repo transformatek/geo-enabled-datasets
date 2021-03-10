@@ -18,7 +18,7 @@ The datasets consists of branches of the ANADE (Agence Nationale d'Appui et de D
 | tel | Telephone number(s)                 |
 | fax | Fax number(s) |
 | email     |Branch email                 |
-| long | Longitude                 | 
+| lon | Longitude                 | 
 | lat |Latitude            |
 
 ## Dataset creation steps
