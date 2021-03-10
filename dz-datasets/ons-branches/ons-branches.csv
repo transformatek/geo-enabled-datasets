@@ -1,0 +1,7 @@
+num, branch, adresse, wilaya, code, telephone, fax, email, lat, lon
+1, "Siège de la Direction Générale de l’ONS", "Rue Mohamed Belkacemi Oued Kniss Ruisseau Alger", "Alger", 16, "+213 (0) 21 77 78 38 / +213 (0) 21 63 99 74", "+213 (0) 21 77 78 30", "ons@ons.dz / stat@ons.dz", 36.740565156096054, 3.079113764175641
+2, "Siège secondaire de la Direction Générale", "8 et 10 Rue des Moussebiline (ex. rue des Fontaines) Alger", "Alger", 16, "+213 (0) 21 63 99 74", "+213 (0) 21 63 99 74", , 36.76931744040146, 3.050802
+3, "Annexe Régionale Centre", "Rue Bab Azoun Alger", "Alger", 16, "+213 (0) 21 43 94 41 / 42", "+213 (0) 21 43 93 16", , 36.783448613258315, 3.0620379290621216
+4, "Annexe Régionale Est", "Cité Daksi Constantine", "Constantine", 25, "+213 (0) 31 63 43 61 / 62", "Fax :+213 (0) 31 63 13 59", , 36.35604037382974, 6.644047621796958
+5, "Annexe Régionale Ouest", "16, rue Ahmed Maoued Oran", "Oran", 31, "+213 (0) 41 40 32 23 / 41 40 97 02", "+213 (0) 41 40 00 48", ,35.70256666893664, -0.6346853859342483
+6, "Annexe Régionale Sud", "Avenue de la République Ouargla", "Ouargla", 30, "+213 (0) 29 76 49 65", "+213 (0) 29 76 22 23", ,31.955878791596305, 5.330579832229995
