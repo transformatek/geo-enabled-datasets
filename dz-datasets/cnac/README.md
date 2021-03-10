@@ -15,7 +15,7 @@ The datasets consists of branches of the CNAC agencies  (caisse nationale d'assu
 | wilaya |Wilaya name                |
 | agence |Address of the agency |
 | type | Type of the branch ['agence','antenne'] |
-| long | Longitude                 | 
+| lon | Longitude                 | 
 | lat |Latitude            |
 
 ## Dataset creation steps
