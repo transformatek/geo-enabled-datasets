@@ -1,0 +1,1542 @@
+num, code, nom, code_wil, nom_wil 
+1, 01001, Adrar, 01, Adrar
+2, 01002, Tamest, 01, Adrar
+3, 01003, Charouine, 01, Adrar
+4, 01004, Reggane, 01, Adrar
+5, 01005, Inozghmir, 01, Adrar
+6, 01006, Tit, 01, Adrar
+7, 01007, Ksar Kaddour, 01, Adrar
+8, 01008, Tsabit, 01, Adrar
+9, 01009, Timimoun, 01, Adrar
+10, 01010, Ouled Said, 01, Adrar
+11, 01011, Zaouiet Kounta, 01, Adrar
+12, 01012, Aoulef, 01, Adrar
+13, 01013, Timokten, 01, Adrar
+14, 01014, Tamentit, 01, Adrar
+15, 01015, Fenoughil, 01, Adrar
+16, 01016, Tinerkouk, 01, Adrar
+17, 01017, Deldoul, 01, Adrar
+18, 01018, Sali, 01, Adrar
+19, 01019, Akabli, 01, Adrar
+20, 01020, Metarfa, 01, Adrar
+21, 01021, Ouled Ahmed Timmi, 01, Adrar
+22, 01022, Bouda, 01, Adrar
+23, 01023, Aougrout, 01, Adrar
+24, 01024, Talmine, 01, Adrar
+25, 01025, Bordj Badji Mokhtar, 01, Adrar
+26, 01026, Sbaa, 01, Adrar
+27, 01027, Ouled Aissa, 01, Adrar
+28, 01028, Timiaouine, 01, Adrar
+29, 02001, Chlef , 02, Chlef
+30, 02002, Tenes , 02, Chlef
+31, 02003, Benairia , 02, Chlef
+32, 02004, El Karimia , 02, Chlef
+33, 02005, Tadjna , 02, Chlef
+34, 02006, Taougrite , 02, Chlef
+35, 02007, Beni Haoua , 02, Chlef
+36, 02008, Sobha , 02, Chlef
+37, 02009, Harchoun , 02, Chlef
+38, 02010, Ouled Fares , 02, Chlef
+39, 02011, Sidi Akacha , 02, Chlef
+40, 02012, Boukadir , 02, Chlef
+41, 02013, Beni Rached , 02, Chlef
+42, 02014, Talassa , 02, Chlef
+43, 02015, Herenfa , 02, Chlef
+44, 02016, Oued Goussine , 02, Chlef
+45, 02017, Dahra , 02, Chlef
+46, 02018, Ouled Abbes , 02, Chlef
+47, 02019, Sendjas , 02, Chlef
+48, 02020, Zeboudja , 02, Chlef
+49, 02021, Oued Sly , 02, Chlef
+50, 02022, Abou El Hassen , 02, Chlef
+51, 02023, El Marsa , 02, Chlef
+52, 02024, Chettia , 02, Chlef
+53, 02025, Sidi Abderrahmane , 02, Chlef
+54, 02026, Moussadek , 02, Chlef
+55, 02027, El Hadjadj , 02, Chlef
+56, 02028, Labiod Medjadja , 02, Chlef
+57, 02029, Oued Fodda , 02, Chlef
+58, 02030, Ouled Ben Abdelkader , 02, Chlef
+59, 02031, Bouzghaia , 02, Chlef
+60, 02032, Ain Merane , 02, Chlef
+61, 02033, Oum Drou , 02, Chlef
+62, 02034, Breira , 02, Chlef
+63, 02035, Ben Boutaleb , 02, Chlef
+64, 03001, Laghouat, 03, Laghouat
+65, 03002, Ksar El Hirane, 03, Laghouat
+66, 03003, Benacer Ben Chohra, 03, Laghouat
+67, 03004, Sidi Makhlouf, 03, Laghouat
+68, 03005, Hassi Delaa, 03, Laghouat
+69, 03006, Hassi R Mel, 03, Laghouat
+70, 03007, Ain Mahdi, 03, Laghouat
+71, 03008, Tadjmout, 03, Laghouat
+72, 03009, Kheneg, 03, Laghouat
+73, 03010, Gueltat Sidi Saad, 03, Laghouat
+74, 03011, Ain Sidi Ali, 03, Laghouat
+75, 03012, Beidha, 03, Laghouat
+76, 03013, Brida, 03, Laghouat
+77, 03014, El Ghicha, 03, Laghouat
+78, 03015, Hadj Mechri, 03, Laghouat
+79, 03016, Sebgag, 03, Laghouat
+80, 03017, Taouiala, 03, Laghouat
+81, 03018, Tadjrouna, 03, Laghouat
+82, 03019, Aflou, 03, Laghouat
+83, 03020, El Assafia, 03, Laghouat
+84, 03021, Oued Morra, 03, Laghouat
+85, 03022, Oued M Zi, 03, Laghouat
+86, 03023, El Haouaita, 03, Laghouat
+87, 03024, Sidi Bouzid, 03, Laghouat
+88, 04001, Oum El Bouaghi, 04, Oum El Bouaghi
+89, 04002, Ain Beida, 04, Oum El Bouaghi
+90, 04003, Ainmlila, 04, Oum El Bouaghi
+91, 04004, Behir Chergui, 04, Oum El Bouaghi
+92, 04005, El Amiria, 04, Oum El Bouaghi
+93, 04006, Sigus, 04, Oum El Bouaghi
+94, 04007, El Belala, 04, Oum El Bouaghi
+95, 04008, Ain Babouche, 04, Oum El Bouaghi
+96, 04009, Berriche, 04, Oum El Bouaghi
+97, 04010, Ouled Hamla, 04, Oum El Bouaghi
+98, 04011, Dhala, 04, Oum El Bouaghi
+99, 04012, Ain Kercha, 04, Oum El Bouaghi
+100, 04013, Hanchir Toumghani, 04, Oum El Bouaghi
+101, 04014, El Djazia, 04, Oum El Bouaghi
+102, 04015, Ain Diss, 04, Oum El Bouaghi
+103, 04016, Fkirina, 04, Oum El Bouaghi
+104, 04017, Souk Naamane, 04, Oum El Bouaghi
+105, 04018, Zorg, 04, Oum El Bouaghi
+106, 04019, El Fedjoudj Boughrar, 04, Oum El Bouaghi
+107, 04020, Ouled Zouai, 04, Oum El Bouaghi
+108, 04021, Bir Chouhada, 04, Oum El Bouaghi
+109, 04022, Ksar Sbahi, 04, Oum El Bouaghi
+110, 04023, Oued Nini, 04, Oum El Bouaghi
+111, 04024, Meskiana, 04, Oum El Bouaghi
+112, 04025, Ain Fekroune, 04, Oum El Bouaghi
+113, 04026, Rahia, 04, Oum El Bouaghi
+114, 04027, Ain Zitoun, 04, Oum El Bouaghi
+115, 04028, Ouled Gacem, 04, Oum El Bouaghi
+116, 04029, El Harmilia, 04, Oum El Bouaghi
+117, 05001, Batna, 05, Batna
+118, 05002, Ghassira, 05, Batna
+119, 05003, Maafa, 05, Batna
+120, 05004, Merouana, 05, Batna
+121, 05005, Seriana, 05, Batna
+122, 05006, Menaa, 05, Batna
+123, 05007, El Madher, 05, Batna
+124, 05008, Tazoult, 05, Batna
+125, 05009, Ngaous, 05, Batna
+126, 05010, Guigba, 05, Batna
+127, 05011, Inoughissen, 05, Batna
+128, 05012, Ouyoun El Assafir, 05, Batna
+129, 05013, Djerma, 05, Batna
+130, 05014, Bitam, 05, Batna
+131, 05015, Metkaouak, 05, Batna
+132, 05016, Arris, 05, Batna
+133, 05017, Kimmel, 05, Batna
+134, 05018, Tilatou, 05, Batna
+135, 05019, Ain Djasser, 05, Batna
+136, 05020, Ouled Selam, 05, Batna
+137, 05021, Tigherghar, 05, Batna
+138, 05022, Ain Yagout, 05, Batna
+139, 05023, Fesdis, 05, Batna
+140, 05024, Sefiane, 05, Batna
+141, 05025, Rahbat, 05, Batna
+142, 05026, Tighanimine, 05, Batna
+143, 05027, Lemsane, 05, Batna
+144, 05028, Ksar Belezma, 05, Batna
+145, 05029, Seggana, 05, Batna
+146, 05030, Ichmoul, 05, Batna
+147, 05031, Foum Toub, 05, Batna
+148, 05032, Beni Foudhala El Hakania, 05, Batna
+149, 05033, Oued El Ma, 05, Batna
+150, 05034, Talkhamt, 05, Batna
+151, 05035, Bouzina, 05, Batna
+152, 05036, Chemora, 05, Batna
+153, 05037, Oued Chaaba, 05, Batna
+154, 05038, Taxlent, 05, Batna
+155, 05039, Gosbat, 05, Batna
+156, 05040, Ouled Aouf, 05, Batna
+157, 05041, Boumagueur, 05, Batna
+158, 05042, Barika, 05, Batna
+159, 05043, Djezzar, 05, Batna
+160, 05044, Tkout, 05, Batna
+161, 05045, Ain Touta, 05, Batna
+162, 05046, Hidoussa, 05, Batna
+163, 05047, Teniet El Abed, 05, Batna
+164, 05048, Oued Taga, 05, Batna
+165, 05049, Ouled Fadel, 05, Batna
+166, 05050, Timgad, 05, Batna
+167, 05051, Ras El Aioun, 05, Batna
+168, 05052, Chir, 05, Batna
+169, 05053, Ouled Si Slimane, 05, Batna
+170, 05054, Zanat El Beida, 05, Batna
+171, 05055, Amdoukal, 05, Batna
+172, 05056, Ouled Ammar, 05, Batna
+173, 05057, El Hassi, 05, Batna
+174, 05058, Lazrou, 05, Batna
+175, 05059, Boumia, 05, Batna
+176, 05060, Boulhilat, 05, Batna
+177, 05061, Larbaa, 05, Batna
+178, 06001, Bejaia, 06, Béjaïa
+179, 06002, Amizour, 06, Béjaïa
+180, 06003, Ferraoun, 06, Béjaïa
+181, 06004, Taourirt Ighil, 06, Béjaïa
+182, 06005, Chelata, 06, Béjaïa
+183, 06006, Tamokra, 06, Béjaïa
+184, 06007, Timzrit, 06, Béjaïa
+185, 06008, Souk El Thenine, 06, Béjaïa
+186, 06009, Mcisna, 06, Béjaïa
+187, 06010, Thinabdher, 06, Béjaïa
+188, 06011, Tichi, 06, Béjaïa
+189, 06012, Semaoun, 06, Béjaïa
+190, 06013, Kendira, 06, Béjaïa
+191, 06014, Tifra, 06, Béjaïa
+192, 06015, Ighram, 06, Béjaïa
+193, 06016, Amalou, 06, Béjaïa
+194, 06017, Ighil Ali, 06, Béjaïa
+195, 06018, Ifelain Ilmathen, 06, Béjaïa
+196, 06019, Toudja, 06, Béjaïa
+197, 06020, Darguina, 06, Béjaïa
+198, 06021, Sidi Ayad, 06, Béjaïa
+199, 06022, Aokas, 06, Béjaïa
+200, 06023, Beni Djellil, 06, Béjaïa
+201, 06024, Adekar, 06, Béjaïa
+202, 06025, Akbou, 06, Béjaïa
+203, 06026, Seddouk, 06, Béjaïa
+204, 06027, Tazmalt, 06, Béjaïa
+205, 06028, Ait Rizine, 06, Béjaïa
+206, 06029, Chemini, 06, Béjaïa
+207, 06030, Souk Oufella, 06, Béjaïa
+208, 06031, Taskriout, 06, Béjaïa
+209, 06032, Tibane, 06, Béjaïa
+210, 06033, Tala Hamza, 06, Béjaïa
+211, 06034, Barbacha, 06, Béjaïa
+212, 06035, Beni Ksila, 06, Béjaïa
+213, 06036, Ouzallaguen, 06, Béjaïa
+214, 06037, Bouhamza, 06, Béjaïa
+215, 06038, Beni Melikeche, 06, Béjaïa
+216, 06039, Sidi Aich, 06, Béjaïa
+217, 06040, El Kseur, 06, Béjaïa
+218, 06041, Melbou, 06, Béjaïa
+219, 06042, Akfadou, 06, Béjaïa
+220, 06043, Leflaye, 06, Béjaïa
+221, 06044, Kherrata, 06, Béjaïa
+222, 06045, Draa Kaid, 06, Béjaïa
+223, 06046, Tamridjet, 06, Béjaïa
+224, 06047, Ait Smail, 06, Béjaïa
+225, 06048, Boukhelifa, 06, Béjaïa
+226, 06049, Tizi Nberber, 06, Béjaïa
+227, 06050, Beni Maouch, 06, Béjaïa
+228, 06051, Oued Ghir, 06, Béjaïa
+229, 06052, Boudjellil, 06, Béjaïa
+230, 07001, Biskra, 07, Biskra
+231, 07002, Oumache, 07, Biskra
+232, 07003, Branis, 07, Biskra
+233, 07004, Chetma, 07, Biskra
+234, 07005, Ouled Djellal, 07, Biskra
+235, 07006, Ras El Miaad, 07, Biskra
+236, 07007, Besbes, 07, Biskra
+237, 07008, Sidi Khaled, 07, Biskra
+238, 07009, Doucen, 07, Biskra
+239, 07010, Ech Chaiba, 07, Biskra
+240, 07011, Sidi Okba, 07, Biskra
+241, 07012, Mchouneche, 07, Biskra
+242, 07013, El Haouch, 07, Biskra
+243, 07014, Ain Naga, 07, Biskra
+244, 07015, Zeribet El Oued, 07, Biskra
+245, 07016, El Feidh, 07, Biskra
+246, 07017, El Kantara, 07, Biskra
+247, 07018, Ain Zaatout, 07, Biskra
+248, 07019, El Outaya, 07, Biskra
+249, 07020, Djemorah, 07, Biskra
+250, 07021, Tolga, 07, Biskra
+251, 07022, Lioua, 07, Biskra
+252, 07023, Lichana, 07, Biskra
+253, 07024, Ourlal, 07, Biskra
+254, 07025, Mlili, 07, Biskra
+255, 07026, Foughala, 07, Biskra
+256, 07027, Bordj Ben Azzouz, 07, Biskra
+257, 07028, Meziraa, 07, Biskra
+258, 07029, Bouchagroun, 07, Biskra
+259, 07030, Mekhadma, 07, Biskra
+260, 07031, El Ghrous, 07, Biskra
+261, 07032, El Hadjab, 07, Biskra
+262, 07033, Khanguet Sidinadji, 07, Biskra
+263, 08001, Bechar, 08, Béchar
+264, 08002, Erg Ferradj, 08, Béchar
+265, 08003, Ouled Khoudir, 08, Béchar
+266, 08004, Meridja, 08, Béchar
+267, 08005, Timoudi, 08, Béchar
+268, 08006, Lahmar, 08, Béchar
+269, 08007, Beni Abbes, 08, Béchar
+270, 08008, Beni Ikhlef, 08, Béchar
+271, 08009, Mechraa Houari B, 08, Béchar
+272, 08010, Kenedsa, 08, Béchar
+273, 08011, Igli, 08, Béchar
+274, 08012, Tabalbala, 08, Béchar
+275, 08013, Taghit, 08, Béchar
+276, 08014, El Ouata, 08, Béchar
+277, 08015, Boukais, 08, Béchar
+278, 08016, Mogheul, 08, Béchar
+279, 08017, Abadla, 08, Béchar
+280, 08018, Kerzaz, 08, Béchar
+281, 08019, Ksabi, 08, Béchar
+282, 08020, Tamtert, 08, Béchar
+283, 08021, Beni Ounif, 08, Béchar
+284, 09001, Blida, 09, Blida
+285, 09002, Chebli, 09, Blida
+286, 09003, Bouinan, 09, Blida
+287, 09004, Oued El Alleug, 09, Blida
+288, 09007, Ouled Yaich, 09, Blida
+289, 09008, Chrea, 09, Blida
+290, 09010, El Affroun, 09, Blida
+291, 09011, Chiffa, 09, Blida
+292, 09012, Hammam Melouane, 09, Blida
+293, 09013, Ben Khlil, 09, Blida
+294, 09014, Soumaa, 09, Blida
+295, 09016, Mouzaia, 09, Blida
+296, 09017, Souhane, 09, Blida
+297, 09018, Meftah, 09, Blida
+298, 09019, Ouled Selama, 09, Blida
+299, 09020, Boufarik, 09, Blida
+300, 09021, Larbaa, 09, Blida
+301, 09022, Oued Djer, 09, Blida
+302, 09023, Beni Tamou, 09, Blida
+303, 09024, Bouarfa, 09, Blida
+304, 09025, Beni Mered, 09, Blida
+305, 09026, Bougara, 09, Blida
+306, 09027, Guerrouaou, 09, Blida
+307, 09028, Ain Romana, 09, Blida
+308, 09029, Djebabra, 09, Blida
+309, 10001, Bouira, 10, Bouira
+310, 10002, El Asnam, 10, Bouira
+311, 10003, Guerrouma, 10, Bouira
+312, 10004, Souk El Khemis, 10, Bouira
+313, 10005, Kadiria, 10, Bouira
+314, 10006, Hanif, 10, Bouira
+315, 10007, Dirah, 10, Bouira
+316, 10008, Ait Laaziz, 10, Bouira
+317, 10009, Taghzout, 10, Bouira
+318, 10010, Raouraoua, 10, Bouira
+319, 10011, Mezdour, 10, Bouira
+320, 10012, Haizer, 10, Bouira
+321, 10013, Lakhdaria, 10, Bouira
+322, 10014, Maala, 10, Bouira
+323, 10015, El Hachimia, 10, Bouira
+324, 10016, Aomar, 10, Bouira
+325, 10017, Chorfa, 10, Bouira
+326, 10018, Bordj Oukhriss, 10, Bouira
+327, 10019, El Adjiba, 10, Bouira
+328, 10020, El Hakimia, 10, Bouira
+329, 10021, El Khebouzia, 10, Bouira
+330, 10022, Ahl El Ksar, 10, Bouira
+331, 10023, Bouderbala, 10, Bouira
+332, 10024, Zbarbar, 10, Bouira
+333, 10025, Ain El Hadjar, 10, Bouira
+334, 10026, Djebahia, 10, Bouira
+335, 10027, Aghbalou, 10, Bouira
+336, 10028, Taguedit, 10, Bouira
+337, 10029, Ain Turk, 10, Bouira
+338, 10030, Saharidj, 10, Bouira
+339, 10031, Dechmia, 10, Bouira
+340, 10032, Ridane, 10, Bouira
+341, 10033, Bechloul, 10, Bouira
+342, 10034, Boukram, 10, Bouira
+343, 10035, Ain Bessam, 10, Bouira
+344, 10036, Bir Ghbalou, 10, Bouira
+345, 10037, Mchedallah, 10, Bouira
+346, 10038, Sour El Ghozlane, 10, Bouira
+347, 10039, Maamora, 10, Bouira
+348, 10040, Ouled Rached, 10, Bouira
+349, 10041, Ain Laloui, 10, Bouira
+350, 10042, Hadjera Zerga, 10, Bouira
+351, 10043, Ath Mansour, 10, Bouira
+352, 10044, El Mokrani, 10, Bouira
+353, 10045, Oued El Berdi, 10, Bouira
+354, 11001, Tamanghasset, 11, Tamanrasset
+355, 11002, Abalessa, 11, Tamanrasset
+356, 11003, In Ghar, 11, Tamanrasset
+357, 11004, In Guezzam, 11, Tamanrasset
+358, 11005, Idles, 11, Tamanrasset
+359, 11006, Tazouk, 11, Tamanrasset
+360, 11007, Tinzaouatine, 11, Tamanrasset
+361, 11008, In Salah, 11, Tamanrasset
+362, 11009, In Amguel, 11, Tamanrasset
+363, 11010, Foggaret Ezzaouia, 11, Tamanrasset
+364, 12001, Tebessa, 12, Tébessa
+365, 12002, Bir El Ater, 12, Tébessa
+366, 12003, Cheria, 12, Tébessa
+367, 12004, Stah Guentis, 12, Tébessa
+368, 12005, El Aouinet, 12, Tébessa
+369, 12006, Lahouidjbet, 12, Tébessa
+370, 12007, Safsaf El Ouesra, 12, Tébessa
+371, 12008, Hammamet, 12, Tébessa
+372, 12009, Negrine, 12, Tébessa
+373, 12010, Bir El Mokadem, 12, Tébessa
+374, 12011, El Kouif, 12, Tébessa
+375, 12012, Morsott, 12, Tébessa
+376, 12013, El Ogla, 12, Tébessa
+377, 12014, Bir Dheheb, 12, Tébessa
+378, 12015, El Ogla El Malha, 12, Tébessa
+379, 12016, Gorriguer, 12, Tébessa
+380, 12017, Bekkaria, 12, Tébessa
+381, 12018, Boukhadra, 12, Tébessa
+382, 12019, Ouenza, 12, Tébessa
+383, 12020, El Ma El Biodh, 12, Tébessa
+384, 12021, Oum Ali, 12, Tébessa
+385, 12022, Thlidjene, 12, Tébessa
+386, 12023, Ain Zerga, 12, Tébessa
+387, 12024, El Meridj, 12, Tébessa
+388, 12025, Boulhaf Dyr, 12, Tébessa
+389, 12026, Bedjene, 12, Tébessa
+390, 12027, El Mazeraa, 12, Tébessa
+391, 12028, Ferkane, 12, Tébessa
+392, 13001, Tlemcen, 13, Tlemcen
+393, 13002, Beni Mester, 13, Tlemcen
+394, 13003, Ain Tallout, 13, Tlemcen
+395, 13004, Remchi, 13, Tlemcen
+396, 13005, El Fehoul, 13, Tlemcen
+397, 13006, Sabra, 13, Tlemcen
+398, 13007, Ghazaouet, 13, Tlemcen
+399, 13008, Souani, 13, Tlemcen
+400, 13009, Djebala, 13, Tlemcen
+401, 13010, El Gor, 13, Tlemcen
+402, 13011, Oued Chouly, 13, Tlemcen
+403, 13012, Ain Fezza, 13, Tlemcen
+404, 13013, Ouled Mimoun, 13, Tlemcen
+405, 13014, Amieur, 13, Tlemcen
+406, 13015, Ain Youcef, 13, Tlemcen
+407, 13016, Zenata, 13, Tlemcen
+408, 13017, Beni Snous, 13, Tlemcen
+409, 13018, Bab El Assa, 13, Tlemcen
+410, 13019, Dar Yaghmouracene, 13, Tlemcen
+411, 13020, Fellaoucene, 13, Tlemcen
+412, 13021, Azails, 13, Tlemcen
+413, 13022, Sebbaa Chioukh, 13, Tlemcen
+414, 13023, Terni Beni Hediel, 13, Tlemcen
+415, 13024, Bensekrane, 13, Tlemcen
+416, 13025, Ain Nehala, 13, Tlemcen
+417, 13026, Hennaya, 13, Tlemcen
+418, 13027, Maghnia, 13, Tlemcen
+419, 13028, Hammam Boughrara, 13, Tlemcen
+420, 13029, Souahlia, 13, Tlemcen
+421, 13030, Msirda Fouaga, 13, Tlemcen
+422, 13031, Ain Fetah, 13, Tlemcen
+423, 13032, El Aricha, 13, Tlemcen
+424, 13033, Souk Thlata, 13, Tlemcen
+425, 13034, Sidi Abdelli, 13, Tlemcen
+426, 13035, Sebdou, 13, Tlemcen
+427, 13036, Beni Ouarsous, 13, Tlemcen
+428, 13037, Sidi Medjahed, 13, Tlemcen
+429, 13038, Beni Boussaid, 13, Tlemcen
+430, 13039, Marsa Ben Mhidi, 13, Tlemcen
+431, 13040, Nedroma, 13, Tlemcen
+432, 13041, Sidi Djillali, 13, Tlemcen
+433, 13042, Beni Bahdel, 13, Tlemcen
+434, 13043, El Bouihi, 13, Tlemcen
+435, 13044, Honaine, 13, Tlemcen
+436, 13045, Tianet, 13, Tlemcen
+437, 13046, Ouled Riyah, 13, Tlemcen
+438, 13047, Bouhlou, 13, Tlemcen
+439, 13048, Souk El Khemis, 13, Tlemcen
+440, 13049, Ain Ghoraba, 13, Tlemcen
+441, 13050, Chetouane, 13, Tlemcen
+442, 13051, Mansourah, 13, Tlemcen
+443, 13052, Beni Semiel, 13, Tlemcen
+444, 13053, Ain Kebira, 13, Tlemcen
+445, 14001, Tiaret, 14, Tiaret
+446, 14002, Medroussa, 14, Tiaret
+447, 14003, Ain Bouchekif, 14, Tiaret
+448, 14004, Sidi Ali Mellal, 14, Tiaret
+449, 14005, Ain Zarit, 14, Tiaret
+450, 14006, Ain Deheb, 14, Tiaret
+451, 14007, Sidi Bakhti, 14, Tiaret
+452, 14008, Medrissa, 14, Tiaret
+453, 14009, Zmalet El Emir Aek, 14, Tiaret
+454, 14010, Madna, 14, Tiaret
+455, 14011, Sebt, 14, Tiaret
+456, 14012, Mellakou, 14, Tiaret
+457, 14013, Dahmouni, 14, Tiaret
+458, 14014, Rahouia, 14, Tiaret
+459, 14015, Mahdia, 14, Tiaret
+460, 14016, Sougueur, 14, Tiaret
+461, 14017, Sidi Abdelghani, 14, Tiaret
+462, 14018, Ain El Hadid, 14, Tiaret
+463, 14019, Ouled Djerad, 14, Tiaret
+464, 14020, Naima, 14, Tiaret
+465, 14021, Meghila, 14, Tiaret
+466, 14022, Guertoufa, 14, Tiaret
+467, 14023, Sidi Hosni, 14, Tiaret
+468, 14024, Djillali Ben Amar, 14, Tiaret
+469, 14025, Sebaine, 14, Tiaret
+470, 14026, Tousnina, 14, Tiaret
+471, 14027, Frenda, 14, Tiaret
+472, 14028, Ain Kermes, 14, Tiaret
+473, 14029, Ksar Chellala, 14, Tiaret
+474, 14030, Rechaiga, 14, Tiaret
+475, 14031, Nadorah, 14, Tiaret
+476, 14032, Tagdemt, 14, Tiaret
+477, 14033, Oued Lilli, 14, Tiaret
+478, 14034, Mechraa Safa, 14, Tiaret
+479, 14035, Hamadia, 14, Tiaret
+480, 14036, Chehaima, 14, Tiaret
+481, 14037, Takhemaret, 14, Tiaret
+482, 14038, Sidi Abderrahmane, 14, Tiaret
+483, 14039, Serghine, 14, Tiaret
+484, 14040, Bougara, 14, Tiaret
+485, 14041, Faidja, 14, Tiaret
+486, 14042, Tidda, 14, Tiaret
+487, 15001, Tizi Ouzou, 15, Tizi Ouzou
+488, 15002, Ain El Hammam, 15, Tizi Ouzou
+489, 15003, Akbil, 15, Tizi Ouzou
+490, 15004, Freha, 15, Tizi Ouzou
+491, 15005, Souamaa, 15, Tizi Ouzou
+492, 15006, Mechtrass, 15, Tizi Ouzou
+493, 15007, Irdjen, 15, Tizi Ouzou
+494, 15008, Timizart, 15, Tizi Ouzou
+495, 15009, Makouda, 15, Tizi Ouzou
+496, 15010, Draa El Mizan, 15, Tizi Ouzou
+497, 15011, Tizi Ghenif, 15, Tizi Ouzou
+498, 15012, Bounouh, 15, Tizi Ouzou
+499, 15013, Ait Chaffaa, 15, Tizi Ouzou
+500, 15014, Frikat, 15, Tizi Ouzou
+501, 15015, Beni Aissi, 15, Tizi Ouzou
+502, 15016, Beni Zmenzer, 15, Tizi Ouzou
+503, 15017, Iferhounene, 15, Tizi Ouzou
+504, 15018, Azazga, 15, Tizi Ouzou
+505, 15019, Iloula Oumalou, 15, Tizi Ouzou
+506, 15020, Yakouren, 15, Tizi Ouzou
+507, 15021, Larba Nait Irathen, 15, Tizi Ouzou
+508, 15022, Tizi Rached, 15, Tizi Ouzou
+509, 15023, Zekri, 15, Tizi Ouzou
+510, 15024, Ouaguenoun, 15, Tizi Ouzou
+511, 15025, Ain Zaouia, 15, Tizi Ouzou
+512, 15026, Mkira, 15, Tizi Ouzou
+513, 15027, Ait Yahia, 15, Tizi Ouzou
+514, 15028, Ait Mahmoud, 15, Tizi Ouzou
+515, 15029, Maatkas, 15, Tizi Ouzou
+516, 15030, Ait Boumehdi, 15, Tizi Ouzou
+517, 15031, Abi Youcef, 15, Tizi Ouzou
+518, 15032, Beni Douala, 15, Tizi Ouzou
+519, 15033, Illilten, 15, Tizi Ouzou
+520, 15034, Bouzguen, 15, Tizi Ouzou
+521, 15035, Ait Aggouacha, 15, Tizi Ouzou
+522, 15036, Ouadhia, 15, Tizi Ouzou
+523, 15037, Azzefoun, 15, Tizi Ouzou
+524, 15038, Tigzirt, 15, Tizi Ouzou
+525, 15039, Ait Aissa Mimoun, 15, Tizi Ouzou
+526, 15040, Boghni, 15, Tizi Ouzou
+527, 15041, Ifigha, 15, Tizi Ouzou
+528, 15042, Ait Oumalou, 15, Tizi Ouzou
+529, 15043, Tirmitine, 15, Tizi Ouzou
+530, 15044, Akerrou, 15, Tizi Ouzou
+531, 15045, Yatafen, 15, Tizi Ouzou
+532, 15046, Beni Ziki, 15, Tizi Ouzou
+533, 15047, Draa Ben Khedda, 15, Tizi Ouzou
+534, 15048, Ouacif, 15, Tizi Ouzou
+535, 15049, Idjeur, 15, Tizi Ouzou
+536, 15050, Mekla, 15, Tizi Ouzou
+537, 15051, Tizi Nthlata, 15, Tizi Ouzou
+538, 15052, Beni Yenni, 15, Tizi Ouzou
+539, 15053, Aghrib, 15, Tizi Ouzou
+540, 15054, Iflissen, 15, Tizi Ouzou
+541, 15055, Boudjima, 15, Tizi Ouzou
+542, 15056, Ait Yahia Moussa, 15, Tizi Ouzou
+543, 15057, Souk El Thenine, 15, Tizi Ouzou
+544, 15058, Ait Khelil, 15, Tizi Ouzou
+545, 15059, Sidi Naamane, 15, Tizi Ouzou
+546, 15060, Iboudraren, 15, Tizi Ouzou
+547, 15061, Aghni Goughran, 15, Tizi Ouzou
+548, 15062, Mizrana, 15, Tizi Ouzou
+549, 15063, Imsouhal, 15, Tizi Ouzou
+550, 15064, Tadmait, 15, Tizi Ouzou
+551, 15065, Ait Bouadou, 15, Tizi Ouzou
+552, 15066, Assi Youcef, 15, Tizi Ouzou
+553, 15067, Ait Toudert, 15, Tizi Ouzou
+554, 16001, Alger Centre, 16, Alger
+555, 16002, Sidi Mhamed, 16, Alger
+556, 16003, El Madania, 16, Alger
+557, 16004, Hamma Anassers, 16, Alger
+558, 16005, Bab El Oued, 16, Alger
+559, 16006, Bologhine, 16, Alger
+560, 16007, Casbah, 16, Alger
+561, 16008, Oued Koriche, 16, Alger
+562, 16009, Bir Mourad Rais, 16, Alger
+563, 16010, El Biar, 16, Alger
+564, 16011, Bouzareah, 16, Alger
+565, 16012, Birkhadem, 16, Alger
+566, 16013, El Harrach, 16, Alger
+567, 16014, Baraki, 16, Alger
+568, 16015, Oued Smar, 16, Alger
+569, 16016, Bourouba, 16, Alger
+570, 16017, Hussein Dey, 16, Alger
+571, 16018, Kouba, 16, Alger
+572, 16019, Bachedjerah, 16, Alger
+573, 16020, Dar El Beida, 16, Alger
+574, 16021, Bab Azzouar, 16, Alger
+575, 16022, Ben Aknoun, 16, Alger
+576, 16023, Dely Ibrahim, 16, Alger
+577, 16024, Bains Romains, 16, Alger
+578, 16025, Rais Hamidou, 16, Alger
+579, 16026, Djasr Kasentina, 16, Alger
+580, 16027, El Mouradia, 16, Alger
+581, 16028, Hydra, 16, Alger
+582, 16029, Mohammadia, 16, Alger
+583, 16030, Bordj El Kiffan, 16, Alger
+584, 16031, El Magharia, 16, Alger
+585, 16032, Beni Messous, 16, Alger
+586, 16033, Les Eucalyptus, 16, Alger
+587, 16034, Birtouta, 16, Alger
+588, 16035, Tassala El Merdja, 16, Alger
+589, 16036, Ouled Chebel, 16, Alger
+590, 16037, Sidi Moussa, 16, Alger
+591, 16038, Ain Taya, 16, Alger
+592, 16039, Bordj El Bahri, 16, Alger
+593, 16040, Marsa, 16, Alger
+594, 16041, Haraoua, 16, Alger
+595, 16042, Rouiba, 16, Alger
+596, 16043, Reghaia, 16, Alger
+597, 16044, Ain Benian, 16, Alger
+598, 16045, Staoueli, 16, Alger
+599, 16046, Zeralda, 16, Alger
+600, 16047, Mahelma, 16, Alger
+601, 16048, Rahmania, 16, Alger
+602, 16049, Souidania, 16, Alger
+603, 16050, Cheraga, 16, Alger
+604, 16051, Ouled Fayet, 16, Alger
+605, 16052, El Achour, 16, Alger
+606, 16053, Draria, 16, Alger
+607, 16054, Douera, 16, Alger
+608, 16055, Baba Hassen, 16, Alger
+609, 16056, Kheraicia, 16, Alger
+610, 16057, Saoula, 16, Alger
+611, 17001, Djelfa, 17, Djelfa
+612, 17002, Moudjebara, 17, Djelfa
+613, 17003, El Guedid, 17, Djelfa
+614, 17004, Hassi Bahbah, 17, Djelfa
+615, 17005, Ain Maabed, 17, Djelfa
+616, 17006, Sed Rahal, 17, Djelfa
+617, 17007, Feidh El Botma, 17, Djelfa
+618, 17008, Birine, 17, Djelfa
+619, 17009, Bouira Lahdeb, 17, Djelfa
+620, 17010, Zaccar, 17, Djelfa
+621, 17011, El Khemis, 17, Djelfa
+622, 17012, Sidi Baizid, 17, Djelfa
+623, 17013, Mliliha, 17, Djelfa
+624, 17014, El Idrissia, 17, Djelfa
+625, 17015, Douis, 17, Djelfa
+626, 17016, Hassi El Euch, 17, Djelfa
+627, 17017, Messaad, 17, Djelfa
+628, 17018, Guettara, 17, Djelfa
+629, 17019, Sidi Ladjel, 17, Djelfa
+630, 17020, Had Sahary, 17, Djelfa
+631, 17021, Guernini, 17, Djelfa
+632, 17022, Selmana, 17, Djelfa
+633, 17023, Ain Chouhada, 17, Djelfa
+634, 17024, Oum Laadham, 17, Djelfa
+635, 17025, Dar Chouikh, 17, Djelfa
+636, 17026, Charef, 17, Djelfa
+637, 17027, Beni Yacoub, 17, Djelfa
+638, 17028, Zaafrane, 17, Djelfa
+639, 17029, Deldoul, 17, Djelfa
+640, 17030, Ain El Ibel, 17, Djelfa
+641, 17031, Ain Oussera, 17, Djelfa
+642, 17032, Benhar, 17, Djelfa
+643, 17033, Hassi Fedoul, 17, Djelfa
+644, 17034, Amourah, 17, Djelfa
+645, 17035, Ain Fekka, 17, Djelfa
+646, 17036, Tadmit, 17, Djelfa
+647, 18001, Jijel, 18, Jijel
+648, 18002, Erraguene, 18, Jijel
+649, 18003, El Aouana, 18, Jijel
+650, 18004, Ziamma Mansouriah, 18, Jijel
+651, 18005, Taher, 18, Jijel
+652, 18006, Emir Abdelkader, 18, Jijel
+653, 18007, Chekfa, 18, Jijel
+654, 18008, Chahna, 18, Jijel
+655, 18009, El Milia, 18, Jijel
+656, 18010, Sidi Maarouf, 18, Jijel
+657, 18011, Settara, 18, Jijel
+658, 18012, El Ancer, 18, Jijel
+659, 18013, Sidi Abdelaziz, 18, Jijel
+660, 18014, Kaous, 18, Jijel
+661, 18015, Ghebala, 18, Jijel
+662, 18016, Bouraoui Belhadef, 18, Jijel
+663, 18017, Djmila, 18, Jijel
+664, 18018, Selma Benziada, 18, Jijel
+665, 18019, Boussif Ouled Askeur, 18, Jijel
+666, 18020, El Kennar Nouchfi, 18, Jijel
+667, 18021, Ouled Yahia Khadrouch, 18, Jijel
+668, 18022, Boudria Beni Yadjis, 18, Jijel
+669, 18023, Kemir Oued Adjoul, 18, Jijel
+670, 18024, Texena, 18, Jijel
+671, 18025, Djemaa Beni Habibi, 18, Jijel
+672, 18026, Bordj Taher, 18, Jijel
+673, 18027, Ouled Rabah, 18, Jijel
+674, 18028, Ouadjana, 18, Jijel
+675, 19001, Setif, 19, Sétif
+676, 19002, Ain El Kebira, 19, Sétif
+677, 19003, Beni Aziz, 19, Sétif
+678, 19004, Ouled Sidi Ahmed, 19, Sétif
+679, 19005, Boutaleb, 19, Sétif
+680, 19006, Ain Roua, 19, Sétif
+681, 19007, Draa Kebila, 19, Sétif
+682, 19008, Bir El Arch, 19, Sétif
+683, 19009, Beni Chebana, 19, Sétif
+684, 19010, Ouled Tebben, 19, Sétif
+685, 19011, Hamma, 19, Sétif
+686, 19012, Maaouia, 19, Sétif
+687, 19013, Ain Legraj, 19, Sétif
+688, 19014, Ain Abessa, 19, Sétif
+689, 19015, Dehamcha, 19, Sétif
+690, 19016, Babor, 19, Sétif
+691, 19017, Guidjel, 19, Sétif
+692, 19018, Ain Lahdjar, 19, Sétif
+693, 19019, Bousselam, 19, Sétif
+694, 19020, El Eulma, 19, Sétif
+695, 19021, Djemila, 19, Sétif
+696, 19022, Beni Ouartilane, 19, Sétif
+697, 19023, Rosfa, 19, Sétif
+698, 19024, Ouled Addouane, 19, Sétif
+699, 19025, Belaa, 19, Sétif
+700, 19026, Ain Arnat, 19, Sétif
+701, 19027, Amoucha, 19, Sétif
+702, 19028, Ain Oulmane, 19, Sétif
+703, 19029, Beidha Bordj, 19, Sétif
+704, 19030, Bouandas, 19, Sétif
+705, 19031, Bazer Sakhra, 19, Sétif
+706, 19032, Hammam Essokhna, 19, Sétif
+707, 19033, Mezloug, 19, Sétif
+708, 19034, Bir Haddada, 19, Sétif
+709, 19035, Serdj El Ghoul, 19, Sétif
+710, 19036, Harbil, 19, Sétif
+711, 19037, El Ouricia, 19, Sétif
+712, 19038, Tizi Nbechar, 19, Sétif
+713, 19039, Salah Bey, 19, Sétif
+714, 19040, Ain Azal, 19, Sétif
+715, 19041, Guenzet, 19, Sétif
+716, 19042, Talaifacene, 19, Sétif
+717, 19043, Bougaa, 19, Sétif
+718, 19044, Beni Fouda, 19, Sétif
+719, 19045, Tachouda, 19, Sétif
+720, 19046, Beni Mouhli, 19, Sétif
+721, 19047, Ouled Sabor, 19, Sétif
+722, 19048, Guellal, 19, Sétif
+723, 19049, Ain Sebt, 19, Sétif
+724, 19050, Hammam Guergour, 19, Sétif
+725, 19051, Ait Naoual Mezada, 19, Sétif
+726, 19052, Ksar El Abtal, 19, Sétif
+727, 19053, Beni Hocine, 19, Sétif
+728, 19054, Ait Tizi, 19, Sétif
+729, 19055, Maouklane, 19, Sétif
+730, 19056, Guelta Zerka, 19, Sétif
+731, 19057, Oued El Barad, 19, Sétif
+732, 19058, Taya, 19, Sétif
+733, 19059, El Ouldja, 19, Sétif
+734, 19060, Tella, 19, Sétif
+735, 20001, Saida, 20, Saïda
+736, 20002, Doui Thabet, 20, Saïda
+737, 20003, Ain El Hadjar, 20, Saïda
+738, 20004, Ouled Khaled, 20, Saïda
+739, 20005, Moulay Larbi, 20, Saïda
+740, 20006, Youb, 20, Saïda
+741, 20007, Hounet, 20, Saïda
+742, 20008, Sidi Amar, 20, Saïda
+743, 20009, Sidi Boubekeur, 20, Saïda
+744, 20010, El Hassasna, 20, Saïda
+745, 20011, Maamora, 20, Saïda
+746, 20012, Sidi Ahmed, 20, Saïda
+747, 20013, Ain Sekhouna, 20, Saïda
+748, 20014, Ouled Brahim, 20, Saïda
+749, 20015, Tircine, 20, Saïda
+750, 20016, Ain Soltane, 20, Saïda
+751, 21001, Skikda, 21, Skikda
+752, 21002, Ain Zouit, 21, Skikda
+753, 21003, El Hadaik, 21, Skikda
+754, 21004, Azzaba, 21, Skikda
+755, 21005, Djendel Saadi Mohamed, 21, Skikda
+756, 21006, Ain Cherchar, 21, Skikda
+757, 21007, Bekkouche Lakhdar, 21, Skikda
+758, 21008, Benazouz, 21, Skikda
+759, 21009, Es Sebt, 21, Skikda
+760, 21010, Collo, 21, Skikda
+761, 21011, Beni Zid, 21, Skikda
+762, 21012, Kerkera, 21, Skikda
+763, 21013, Ouled Attia, 21, Skikda
+764, 21014, Oued Zehour, 21, Skikda
+765, 21015, Zitouna, 21, Skikda
+766, 21016, El Harrouch, 21, Skikda
+767, 21017, Zerdazas, 21, Skikda
+768, 21018, Ouled Hebaba, 21, Skikda
+769, 21019, Sidi Mezghiche, 21, Skikda
+770, 21020, Emdjez Edchich, 21, Skikda
+771, 21021, Beni Oulbane, 21, Skikda
+772, 21022, Ain Bouziane, 21, Skikda
+773, 21023, Ramdane Djamel, 21, Skikda
+774, 21024, Beni Bachir, 21, Skikda
+775, 21025, Salah Bouchaour, 21, Skikda
+776, 21026, Tamalous, 21, Skikda
+777, 21027, Ain Kechra, 21, Skikda
+778, 21028, Oum Toub, 21, Skikda
+779, 21029, Bein El Ouiden, 21, Skikda
+780, 21030, Fil Fila, 21, Skikda
+781, 21031, Cheraia, 21, Skikda
+782, 21032, Kanoua, 21, Skikda
+783, 21033, El Ghedir, 21, Skikda
+784, 21034, Bouchtata, 21, Skikda
+785, 21035, Ouldja Boulbalout, 21, Skikda
+786, 21036, Kheneg Mayoum, 21, Skikda
+787, 21037, Hamadi Krouma, 21, Skikda
+788, 21038, El Marsa, 21, Skikda
+789, 22001, Sidi Bel Abbes, 22, Sidi Bel Abbès
+790, 22002, Tessala, 22, Sidi Bel Abbès
+791, 22003, Sidi Brahim, 22, Sidi Bel Abbès
+792, 22004, Mostefa Ben Brahim, 22, Sidi Bel Abbès
+793, 22005, Telagh, 22, Sidi Bel Abbès
+794, 22006, Mezaourou, 22, Sidi Bel Abbès
+795, 22007, Boukhanafis, 22, Sidi Bel Abbès
+796, 22008, Sidi Ali Boussidi, 22, Sidi Bel Abbès
+797, 22009, Badredine El Mokrani, 22, Sidi Bel Abbès
+798, 22010, Marhoum, 22, Sidi Bel Abbès
+799, 22011, Tafissour, 22, Sidi Bel Abbès
+800, 22012, Amarnas, 22, Sidi Bel Abbès
+801, 22013, Tilmouni, 22, Sidi Bel Abbès
+802, 22014, Sidi Lahcene, 22, Sidi Bel Abbès
+803, 22015, Ain Thrid, 22, Sidi Bel Abbès
+804, 22016, Makedra, 22, Sidi Bel Abbès
+805, 22017, Tenira, 22, Sidi Bel Abbès
+806, 22018, Moulay Slissen, 22, Sidi Bel Abbès
+807, 22019, El Hacaiba, 22, Sidi Bel Abbès
+808, 22020, Hassi Zehana, 22, Sidi Bel Abbès
+809, 22021, Tabia, 22, Sidi Bel Abbès
+810, 22022, Merine, 22, Sidi Bel Abbès
+811, 22023, Ras El Ma, 22, Sidi Bel Abbès
+812, 22024, Ain Tindamine, 22, Sidi Bel Abbès
+813, 22025, Ain Kada, 22, Sidi Bel Abbès
+814, 22026, Mcid, 22, Sidi Bel Abbès
+815, 22027, Sidi Khaled, 22, Sidi Bel Abbès
+816, 22028, Ain El Berd, 22, Sidi Bel Abbès
+817, 22029, Sfissef, 22, Sidi Bel Abbès
+818, 22030, Ain Adden, 22, Sidi Bel Abbès
+819, 22031, Oued Taourira, 22, Sidi Bel Abbès
+820, 22032, Dhaya, 22, Sidi Bel Abbès
+821, 22033, Zerouala, 22, Sidi Bel Abbès
+822, 22034, Lamtar, 22, Sidi Bel Abbès
+823, 22035, Sidi Chaib, 22, Sidi Bel Abbès
+824, 22036, Sidi Dahou Dezairs, 22, Sidi Bel Abbès
+825, 22037, Oued Sbaa, 22, Sidi Bel Abbès
+826, 22038, Boudjebaa El Bordj, 22, Sidi Bel Abbès
+827, 22039, Sehala Thaoura, 22, Sidi Bel Abbès
+828, 22040, Sidi Yacoub, 22, Sidi Bel Abbès
+829, 22041, Sidi Hamadouche, 22, Sidi Bel Abbès
+830, 22042, Belarbi, 22, Sidi Bel Abbès
+831, 22043, Oued Sefioun, 22, Sidi Bel Abbès
+832, 22044, Teghalimet, 22, Sidi Bel Abbès
+833, 22045, Ben Badis, 22, Sidi Bel Abbès
+834, 22046, Sidi Ali Benyoub, 22, Sidi Bel Abbès
+835, 22047, Chetouane Belaila, 22, Sidi Bel Abbès
+836, 22048, Bir El Hammam, 22, Sidi Bel Abbès
+837, 22049, Taoudmout, 22, Sidi Bel Abbès
+838, 22050, Redjem Demouche, 22, Sidi Bel Abbès
+839, 22051, Benachiba Chelia, 22, Sidi Bel Abbès
+840, 22052, Hassi Dahou, 22, Sidi Bel Abbès
+841, 23001, Annaba, 23, Annaba
+842, 23002, Berrahel, 23, Annaba
+843, 23003, El Hadjar, 23, Annaba
+844, 23004, Eulma, 23, Annaba
+845, 23005, El Bouni, 23, Annaba
+846, 23006, Oued El Aneb, 23, Annaba
+847, 23007, Cheurfa, 23, Annaba
+848, 23008, Seraidi, 23, Annaba
+849, 23009, Ain Berda, 23, Annaba
+850, 23010, Chetaibi, 23, Annaba
+851, 23011, Sidi Amer, 23, Annaba
+852, 23012, Treat, 23, Annaba
+853, 24001, Guelma, 24, Guelma
+854, 24002, Nechmaya, 24, Guelma
+855, 24003, Bouati Mahmoud, 24, Guelma
+856, 24004, Oued Zenati, 24, Guelma
+857, 24005, Tamlouka, 24, Guelma
+858, 24006, Oued Fragha, 24, Guelma
+859, 24007, Ain Sandel, 24, Guelma
+860, 24008, Ras El Agba, 24, Guelma
+861, 24009, Dahouara, 24, Guelma
+862, 24010, Belkhir, 24, Guelma
+863, 24011, Ben Djarah, 24, Guelma
+864, 24012, Bou Hamdane, 24, Guelma
+865, 24013, Ain Makhlouf, 24, Guelma
+866, 24014, Ain Ben Beida, 24, Guelma
+867, 24015, Khezara, 24, Guelma
+868, 24016, Beni Mezline, 24, Guelma
+869, 24017, Bou Hachana, 24, Guelma
+870, 24018, Guelaat Bou Sbaa, 24, Guelma
+871, 24019, Hammam Maskhoutine, 24, Guelma
+872, 24020, El Fedjoudj, 24, Guelma
+873, 24021, Bordj Sabat, 24, Guelma
+874, 24022, Hamman Nbail, 24, Guelma
+875, 24023, Ain Larbi, 24, Guelma
+876, 24024, Medjez Amar, 24, Guelma
+877, 24025, Bouchegouf, 24, Guelma
+878, 24026, Heliopolis, 24, Guelma
+879, 24027, Ain Hessania, 24, Guelma
+880, 24028, Roknia, 24, Guelma
+881, 24029, Salaoua Announa, 24, Guelma
+882, 24030, Medjez Sfa, 24, Guelma
+883, 24031, Boumahra Ahmed, 24, Guelma
+884, 24032, Ain Reggada, 24, Guelma
+885, 24033, Oued Cheham, 24, Guelma
+886, 24034, Djeballah Khemissi, 24, Guelma
+887, 25001, Constantine, 25, Constantine
+888, 25002, Hamma Bouziane, 25, Constantine
+889, 25003, El Haria, 25, Constantine
+890, 25004, Zighoud Youcef, 25, Constantine
+891, 25005, Didouche Mourad, 25, Constantine
+892, 25006, El Khroub, 25, Constantine
+893, 25007, Ain Abid, 25, Constantine
+894, 25008, Beni Hamiden, 25, Constantine
+895, 25009, Ouled Rahmoune, 25, Constantine
+896, 25010, Ain Smara, 25, Constantine
+897, 25011, Mesaoud Boudjeriou, 25, Constantine
+898, 25012, Ibn Ziad, 25, Constantine
+899, 26001, Medea, 26, Médéa
+900, 26002, Ouzera, 26, Médéa
+901, 26003, Ouled Maaref, 26, Médéa
+902, 26004, Ain Boucif, 26, Médéa
+903, 26005, Aissaouia, 26, Médéa
+904, 26006, Ouled Deide, 26, Médéa
+905, 26007, El Omaria, 26, Médéa
+906, 26008, Derrag, 26, Médéa
+907, 26009, El Guelbelkebir, 26, Médéa
+908, 26010, Bouaiche, 26, Médéa
+909, 26011, Mezerena, 26, Médéa
+910, 26012, Ouled Brahim, 26, Médéa
+911, 26013, Damiat, 26, Médéa
+912, 26014, Sidi Ziane, 26, Médéa
+913, 26015, Tamesguida, 26, Médéa
+914, 26016, El Hamdania, 26, Médéa
+915, 26017, Kef Lakhdar, 26, Médéa
+916, 26018, Chelalet El Adhaoura, 26, Médéa
+917, 26019, Bouskene, 26, Médéa
+918, 26020, Rebaia, 26, Médéa
+919, 26021, Bouchrahil, 26, Médéa
+920, 26022, Ouled Hellal, 26, Médéa
+921, 26023, Tafraout, 26, Médéa
+922, 26024, Baata, 26, Médéa
+923, 26025, Boghar, 26, Médéa
+924, 26026, Sidi Naamane, 26, Médéa
+925, 26027, Ouled Bouachra, 26, Médéa
+926, 26028, Sidi Zahar, 26, Médéa
+927, 26029, Oued Harbil, 26, Médéa
+928, 26030, Benchicao, 26, Médéa
+929, 26031, Sidi Damed, 26, Médéa
+930, 26032, Aziz, 26, Médéa
+931, 26033, Souagui, 26, Médéa
+932, 26034, Zoubiria, 26, Médéa
+933, 26035, Ksar El Boukhari, 26, Médéa
+934, 26036, El Azizia, 26, Médéa
+935, 26037, Djouab, 26, Médéa
+936, 26038, Chahbounia, 26, Médéa
+937, 26039, Meghraoua, 26, Médéa
+938, 26040, Cheniguel, 26, Médéa
+939, 26041, Ain Ouksir, 26, Médéa
+940, 26042, Oum El Djalil, 26, Médéa
+941, 26043, Ouamri, 26, Médéa
+942, 26044, Si Mahdjoub, 26, Médéa
+943, 26045, Tlatet Eddoair, 26, Médéa
+944, 26046, Beni Slimane, 26, Médéa
+945, 26047, Berrouaghia, 26, Médéa
+946, 26048, Seghouane, 26, Médéa
+947, 26049, Meftaha, 26, Médéa
+948, 26050, Mihoub, 26, Médéa
+949, 26051, Boughezoul, 26, Médéa
+950, 26052, Tablat, 26, Médéa
+951, 26053, Deux Bassins, 26, Médéa
+952, 26054, Draa Essamar, 26, Médéa
+953, 26055, Sidi Errabia, 26, Médéa
+954, 26056, Bir Ben Laabed, 26, Médéa
+955, 26057, El Ouinet, 26, Médéa
+956, 26058, Ouled Antar, 26, Médéa
+957, 26059, Bouaichoune, 26, Médéa
+958, 26060, Hannacha, 26, Médéa
+959, 26061, Sedraia, 26, Médéa
+960, 26062, Medjebar, 26, Médéa
+961, 26063, Khams Djouamaa, 26, Médéa
+962, 26064, Saneg, 26, Médéa
+963, 27001, Mostaganem, 27, Mostaganem
+964, 27002, Sayada, 27, Mostaganem
+965, 27003, Fornaka, 27, Mostaganem
+966, 27004, Stidia, 27, Mostaganem
+967, 27005, Ain Nouissy, 27, Mostaganem
+968, 27006, Hassi Maameche, 27, Mostaganem
+969, 27007, Ain Tadles, 27, Mostaganem
+970, 27008, Sour, 27, Mostaganem
+971, 27009, Oued El Kheir, 27, Mostaganem
+972, 27010, Sidi Bellater, 27, Mostaganem
+973, 27011, Kheiredine , 27, Mostaganem
+974, 27012, Sidi Ali, 27, Mostaganem
+975, 27013, Abdelmalek Ramdane, 27, Mostaganem
+976, 27014, Hadjadj, 27, Mostaganem
+977, 27015, Nekmaria, 27, Mostaganem
+978, 27016, Sidi Lakhdar, 27, Mostaganem
+979, 27017, Achaacha, 27, Mostaganem
+980, 27018, Khadra, 27, Mostaganem
+981, 27019, Bouguirat, 27, Mostaganem
+982, 27020, Sirat, 27, Mostaganem
+983, 27021, Ain Sidi Cherif, 27, Mostaganem
+984, 27022, Mesra, 27, Mostaganem
+985, 27023, Mansourah, 27, Mostaganem
+986, 27024, Souaflia, 27, Mostaganem
+987, 27025, Ouled Boughalem, 27, Mostaganem
+988, 27026, Ouled Maallah, 27, Mostaganem
+989, 27027, Mezghrane, 27, Mostaganem
+990, 27028, Ain Boudinar, 27, Mostaganem
+991, 27029, Tazgait, 27, Mostaganem
+992, 27030, Safsaf, 27, Mostaganem
+993, 27031, Touahria, 27, Mostaganem
+994, 27032, El Hassiane, 27, Mostaganem
+995, 28001, Msila, 28, M'Sila
+996, 28002, Maadid, 28, M'Sila
+997, 28003, Hammam Dhalaa, 28, M'Sila
+998, 28004, Ouled Derradj, 28, M'Sila
+999, 28005, Tarmount, 28, M'Sila
+1000, 28006, Mtarfa, 28, M'Sila
+1001, 28007, Khoubana, 28, M'Sila
+1002, 28008, Mcif, 28, M'Sila
+1003, 28009, Chellal, 28, M'Sila
+1004, 28010, Ouled Madhi, 28, M'Sila
+1005, 28011, Magra, 28, M'Sila
+1006, 28012, Berhoum, 28, M'Sila
+1007, 28013, Ain Khadra, 28, M'Sila
+1008, 28014, Ouled Addi Guebala, 28, M'Sila
+1009, 28015, Belaiba, 28, M'Sila
+1010, 28016, Sidi Aissa, 28, M'Sila
+1011, 28017, Ain El Hadjel, 28, M'Sila
+1012, 28018, Sidi Hadjeres, 28, M'Sila
+1013, 28019, Ouanougha, 28, M'Sila
+1014, 28020, Bou Saada, 28, M'Sila
+1015, 28021, Ouled Sidi Brahim, 28, M'Sila
+1016, 28022, Sidi Ameur, 28, M'Sila
+1017, 28023, Tamsa, 28, M'Sila
+1018, 28024, Ben Srour, 28, M'Sila
+1019, 28025, Ouled Slimane, 28, M'Sila
+1020, 28026, El Houamed, 28, M'Sila
+1021, 28027, El Hamel, 28, M'Sila
+1022, 28028, Ouled Mansour, 28, M'Sila
+1023, 28029, Maarif, 28, M'Sila
+1024, 28030, Dehahna, 28, M'Sila
+1025, 28031, Bouti Sayah, 28, M'Sila
+1026, 28032, Khettouti Sed Djir, 28, M'Sila
+1027, 28033, Zarzour, 28, M'Sila
+1028, 28034, Oued Chair, 28, M'Sila
+1029, 28035, Benzouh, 28, M'Sila
+1030, 28036, Bir Foda, 28, M'Sila
+1031, 28037, Ain Fares, 28, M'Sila
+1032, 28038, Sidi Mhamed, 28, M'Sila
+1033, 28039, Ouled Atia, 28, M'Sila
+1034, 28040, Souamaa, 28, M'Sila
+1035, 28041, Ain El Melh, 28, M'Sila
+1036, 28042, Medjedel, 28, M'Sila
+1037, 28043, Slim, 28, M'Sila
+1038, 28044, Ain Errich, 28, M'Sila
+1039, 28045, Beni Ilmane, 28, M'Sila
+1040, 28046, Oultene, 28, M'Sila
+1041, 28047, Djebel Messaad, 28, M'Sila
+1042, 29001, Mascara, 29, Mascara
+1043, 29002, Bou Hanifia, 29, Mascara
+1044, 29003, Tizi, 29, Mascara
+1045, 29004, Hacine, 29, Mascara
+1046, 29005, Maoussa, 29, Mascara
+1047, 29006, Teghennif, 29, Mascara
+1048, 29007, El Hachem, 29, Mascara
+1049, 29008, Sidi Kada, 29, Mascara
+1050, 29009, Zelmata, 29, Mascara
+1051, 29010, Oued El Abtal, 29, Mascara
+1052, 29011, Ain Ferah, 29, Mascara
+1053, 29012, Ghriss, 29, Mascara
+1054, 29013, Froha, 29, Mascara
+1055, 29014, Matemore, 29, Mascara
+1056, 29015, Makdha, 29, Mascara
+1057, 29016, Sidi Boussaid, 29, Mascara
+1058, 29017, El Bordj, 29, Mascara
+1059, 29018, Ain Fekan, 29, Mascara
+1060, 29019, Benian, 29, Mascara
+1061, 29020, Khalouia, 29, Mascara
+1062, 29021, El Menaouer, 29, Mascara
+1063, 29022, Oued Taria, 29, Mascara
+1064, 29023, Aouf, 29, Mascara
+1065, 29024, Ain Fares, 29, Mascara
+1066, 29025, Ain Frass, 29, Mascara
+1067, 29026, Sig, 29, Mascara
+1068, 29027, Oggaz, 29, Mascara
+1069, 29028, Alaimia, 29, Mascara
+1070, 29029, El Gaada, 29, Mascara
+1071, 29030, Zahana, 29, Mascara
+1072, 29031, Mohammadia, 29, Mascara
+1073, 29032, Sidi Abdelmoumene, 29, Mascara
+1074, 29033, Ferraguig, 29, Mascara
+1075, 29034, El Ghomri, 29, Mascara
+1076, 29035, Sedjerara, 29, Mascara
+1077, 29036, Moctadouz, 29, Mascara
+1078, 29037, Bou Henni, 29, Mascara
+1079, 29038, Guettena, 29, Mascara
+1080, 29039, El Mamounia, 29, Mascara
+1081, 29040, El Keurt, 29, Mascara
+1082, 29041, Gharrous, 29, Mascara
+1083, 29042, Gherdjoum, 29, Mascara
+1084, 29043, Chorfa, 29, Mascara
+1085, 29044, Ras Ain Amirouche, 29, Mascara
+1086, 29045, Nesmot, 29, Mascara
+1087, 29046, Sidi Abdeldjebar, 29, Mascara
+1088, 29047, Sehailia, 29, Mascara
+1089, 30001, Ouargla, 30, Ouargla
+1090, 30002, Ain Beida, 30, Ouargla
+1091, 30003, Ngoussa, 30, Ouargla
+1092, 30004, Hassi Messaoud, 30, Ouargla
+1093, 30005, Rouissat, 30, Ouargla
+1094, 30006, Balidat Ameur, 30, Ouargla
+1095, 30007, Tebesbest, 30, Ouargla
+1096, 30008, Nezla, 30, Ouargla
+1097, 30009, Zaouia El Abidia, 30, Ouargla
+1098, 30010, Sidi Slimane, 30, Ouargla
+1099, 30011, Sidi Khouiled, 30, Ouargla
+1100, 30012, Hassi Ben Abdellah, 30, Ouargla
+1101, 30013, Touggourt, 30, Ouargla
+1102, 30014, El Hadjira, 30, Ouargla
+1103, 30015, Taibet, 30, Ouargla
+1104, 30016, Tamacine, 30, Ouargla
+1105, 30017, Benaceur, 30, Ouargla
+1106, 30018, Mnaguer, 30, Ouargla
+1107, 30019, Megarine, 30, Ouargla
+1108, 30020, El Allia, 30, Ouargla
+1109, 30021, El Borma, 30, Ouargla
+1110, 31001, Oran, 31, Oran
+1111, 31002, Gdyel, 31, Oran
+1112, 31003, Bir El Djir, 31, Oran
+1113, 31004, Hassi Bounif, 31, Oran
+1114, 31005, Es Senia, 31, Oran
+1115, 31006, Arzew, 31, Oran
+1116, 31007, Bethioua, 31, Oran
+1117, 31008, Marsat El Hadjadj, 31, Oran
+1118, 31009, Ain Turk, 31, Oran
+1119, 31010, El Ancar, 31, Oran
+1120, 31011, Oued Tlelat, 31, Oran
+1121, 31012, Tafraoui, 31, Oran
+1122, 31013, Sidi Chami, 31, Oran
+1123, 31014, Boufatis, 31, Oran
+1124, 31015, Mers El Kebir, 31, Oran
+1125, 31016, Bousfer, 31, Oran
+1126, 31017, El Karma, 31, Oran
+1127, 31018, El Braya, 31, Oran
+1128, 31019, Hassi Ben Okba, 31, Oran
+1129, 31020, Ben Freha, 31, Oran
+1130, 31021, Hassi Mefsoukh, 31, Oran
+1131, 31022, Sidi Ben Yabka, 31, Oran
+1132, 31023, Messerghin, 31, Oran
+1133, 31024, Boutlelis, 31, Oran
+1134, 31025, Ain Kerma, 31, Oran
+1135, 31026, Ain Biya, 31, Oran
+1136, 32001, El Bayadh, 32, El Bayadh
+1137, 32002, Rogassa, 32, El Bayadh
+1138, 32003, Stitten, 32, El Bayadh
+1139, 32004, Brezina, 32, El Bayadh
+1140, 32005, Ghassoul, 32, El Bayadh
+1141, 32006, Boualem, 32, El Bayadh
+1142, 32007, El Abiodh Sidi Cheikh, 32, El Bayadh
+1143, 32008, Ain El Orak, 32, El Bayadh
+1144, 32009, Arbaouat, 32, El Bayadh
+1145, 32010, Bougtoub, 32, El Bayadh
+1146, 32011, El Kheither, 32, El Bayadh
+1147, 32012, Kef El Ahmar, 32, El Bayadh
+1148, 32013, Boussemghoun, 32, El Bayadh
+1149, 32014, Chellala, 32, El Bayadh
+1150, 32015, Krakda, 32, El Bayadh
+1151, 32016, El Bnoud, 32, El Bayadh
+1152, 32017, Cheguig, 32, El Bayadh
+1153, 32018, Sidi Ameur, 32, El Bayadh
+1154, 32019, El Mehara, 32, El Bayadh
+1155, 32020, Tousmouline, 32, El Bayadh
+1156, 32021, Sidi Slimane, 32, El Bayadh
+1157, 32022, Sidi Tifour, 32, El Bayadh
+1158, 33001, Illizi, 33, Illizi
+1159, 33002, Djanet, 33, Illizi
+1160, 33003, Debdeb, 33, Illizi
+1161, 33004, Bordj Omar Driss, 33, Illizi
+1162, 33005, Bordj El Haouasse, 33, Illizi
+1163, 33006, In Amenas, 33, Illizi
+1164, 34001, Bordj Bou Arreridj, 34, Bordj Bou Arreridj
+1165, 34002, Ras El Oued, 34, Bordj Bou Arreridj
+1166, 34003, Bordj Zemoura, 34, Bordj Bou Arreridj
+1167, 34004, Mansoura, 34, Bordj Bou Arreridj
+1168, 34005, El Mhir, 34, Bordj Bou Arreridj
+1169, 34006, Ben Daoud, 34, Bordj Bou Arreridj
+1170, 34007, El Achir, 34, Bordj Bou Arreridj
+1171, 34008, Ain Taghrout, 34, Bordj Bou Arreridj
+1172, 34009, Bordj Ghdir, 34, Bordj Bou Arreridj
+1173, 34010, Sidi Embarek, 34, Bordj Bou Arreridj
+1174, 34011, El Hamadia, 34, Bordj Bou Arreridj
+1175, 34012, Belimour, 34, Bordj Bou Arreridj
+1176, 34013, Medjana, 34, Bordj Bou Arreridj
+1177, 34014, Teniet En Nasr, 34, Bordj Bou Arreridj
+1178, 34015, Djaafra, 34, Bordj Bou Arreridj
+1179, 34016, El Main, 34, Bordj Bou Arreridj
+1180, 34017, Ouled Brahem, 34, Bordj Bou Arreridj
+1181, 34018, Ouled Dahmane, 34, Bordj Bou Arreridj
+1182, 34019, Hasnaoua, 34, Bordj Bou Arreridj
+1183, 34020, Khelil, 34, Bordj Bou Arreridj
+1184, 34021, Taglait, 34, Bordj Bou Arreridj
+1185, 34022, Ksour, 34, Bordj Bou Arreridj
+1186, 34023, Ouled Sidi Brahim, 34, Bordj Bou Arreridj
+1187, 34024, Tafreg, 34, Bordj Bou Arreridj
+1188, 34025, Colla, 34, Bordj Bou Arreridj
+1189, 34026, Tixter, 34, Bordj Bou Arreridj
+1190, 34027, El Ach, 34, Bordj Bou Arreridj
+1191, 34028, El Anseur, 34, Bordj Bou Arreridj
+1192, 34029, Tesmart, 34, Bordj Bou Arreridj
+1193, 34030, Ain Tesra, 34, Bordj Bou Arreridj
+1194, 34031, Bir Kasdali, 34, Bordj Bou Arreridj
+1195, 34032, Ghilassa, 34, Bordj Bou Arreridj
+1196, 34033, Rabta, 34, Bordj Bou Arreridj
+1197, 34034, Haraza, 34, Bordj Bou Arreridj
+1198, 35001, Boumerdes, 35, Boumerdès
+1199, 35002, Boudouaou, 35, Boumerdès
+1200, 35004, Afir, 35, Boumerdès
+1201, 35005, Bordj Menaiel, 35, Boumerdès
+1202, 35006, Baghlia, 35, Boumerdès
+1203, 35007, Sidi Daoud, 35, Boumerdès
+1204, 35008, Naciria, 35, Boumerdès
+1205, 35009, Djinet, 35, Boumerdès
+1206, 35010, Isser, 35, Boumerdès
+1207, 35011, Zemmouri, 35, Boumerdès
+1208, 35012, Si Mustapha, 35, Boumerdès
+1209, 35013, Tidjelabine, 35, Boumerdès
+1210, 35014, Chabet El Ameur, 35, Boumerdès
+1211, 35015, Thenia, 35, Boumerdès
+1212, 35018, Timezrit, 35, Boumerdès
+1213, 35019, Corso, 35, Boumerdès
+1214, 35020, Ouled Moussa, 35, Boumerdès
+1215, 35021, Larbatache, 35, Boumerdès
+1216, 35022, Bouzegza Keddara, 35, Boumerdès
+1217, 35025, Taourga, 35, Boumerdès
+1218, 35026, Ouled Aissa, 35, Boumerdès
+1219, 35027, Ben Choud, 35, Boumerdès
+1220, 35028, Dellys, 35, Boumerdès
+1221, 35029, Ammal, 35, Boumerdès
+1222, 35030, Beni Amrane, 35, Boumerdès
+1223, 35031, Souk El Had, 35, Boumerdès
+1224, 35032, Boudouaou El Bahri, 35, Boumerdès
+1225, 35033, Ouled Hedadj, 35, Boumerdès
+1226, 35035, Laghata, 35, Boumerdès
+1227, 35036, Hammedi, 35, Boumerdès
+1228, 35037, Khemis El Khechna, 35, Boumerdès
+1229, 35038, El Kharrouba, 35, Boumerdès
+1230, 36001, El Tarf, 36, El Tarf
+1231, 36002, Bouhadjar, 36, El Tarf
+1232, 36003, Ben Mhidi, 36, El Tarf
+1233, 36004, Bougous, 36, El Tarf
+1234, 36005, El Kala, 36, El Tarf
+1235, 36006, Ain El Assel, 36, El Tarf
+1236, 36007, El Aioun, 36, El Tarf
+1237, 36008, Bouteldja, 36, El Tarf
+1238, 36009, Souarekh, 36, El Tarf
+1239, 36010, Berrihane, 36, El Tarf
+1240, 36011, Lac Des Oiseaux, 36, El Tarf
+1241, 36012, Chefia, 36, El Tarf
+1242, 36013, Drean, 36, El Tarf
+1243, 36014, Chihani, 36, El Tarf
+1244, 36015, Chebaita Mokhtar, 36, El Tarf
+1245, 36016, Besbes, 36, El Tarf
+1246, 36017, Asfour, 36, El Tarf
+1247, 36018, Echatt, 36, El Tarf
+1248, 36019, Zerizer, 36, El Tarf
+1249, 36020, Zitouna, 36, El Tarf
+1250, 36021, Ain Kerma, 36, El Tarf
+1251, 36022, Oued Zitoun, 36, El Tarf
+1252, 36023, Hammam Beni Salah, 36, El Tarf
+1253, 36024, Raml Souk, 36, El Tarf
+1254, 37001, Tindouf, 37, Tindouf
+1255, 37002, Oum El Assel, 37, Tindouf
+1256, 38001, Tissemsilt, 38, Tissemsilt
+1257, 38002, Bordj Bou Naama, 38, Tissemsilt
+1258, 38003, Theniet El Had, 38, Tissemsilt
+1259, 38004, Lazharia, 38, Tissemsilt
+1260, 38005, Beni Chaib, 38, Tissemsilt
+1261, 38006, Lardjem, 38, Tissemsilt
+1262, 38007, Melaab, 38, Tissemsilt
+1263, 38008, Sidi Lantri, 38, Tissemsilt
+1264, 38009, Bordj El Emir Abdelkader, 38, Tissemsilt
+1265, 38010, Layoune, 38, Tissemsilt
+1266, 38011, Khemisti, 38, Tissemsilt
+1267, 38012, Ouled Bessem, 38, Tissemsilt
+1268, 38013, Ammari, 38, Tissemsilt
+1269, 38014, Youssoufia, 38, Tissemsilt
+1270, 38015, Sidi Boutouchent, 38, Tissemsilt
+1271, 38016, Larbaa, 38, Tissemsilt
+1272, 38017, Maasem, 38, Tissemsilt
+1273, 38018, Sidi Abed, 38, Tissemsilt
+1274, 38019, Tamalaht, 38, Tissemsilt
+1275, 38020, Sidi Slimane, 38, Tissemsilt
+1276, 38021, Boucaid, 38, Tissemsilt
+1277, 38022, Beni Lahcene, 38, Tissemsilt
+1278, 39001, El Oued, 39, El Oued
+1279, 39002, Robbah, 39, El Oued
+1280, 39003, Oued El Alenda, 39, El Oued
+1281, 39004, Bayadha, 39, El Oued
+1282, 39005, Nakhla, 39, El Oued
+1283, 39006, Guemar, 39, El Oued
+1284, 39007, Kouinine, 39, El Oued
+1285, 39008, Reguiba, 39, El Oued
+1286, 39009, Hamraia, 39, El Oued
+1287, 39010, Taghzout, 39, El Oued
+1288, 39011, Debila, 39, El Oued
+1289, 39012, Hassani Abdelkrim, 39, El Oued
+1290, 39013, Hassi Khelifa, 39, El Oued
+1291, 39014, Taleb Larbi, 39, El Oued
+1292, 39015, Douar El Ma, 39, El Oued
+1293, 39016, Sidi Aoun, 39, El Oued
+1294, 39017, Trifaoui, 39, El Oued
+1295, 39018, Magrane, 39, El Oued
+1296, 39019, Beni Guecha, 39, El Oued
+1297, 39020, Ourmas, 39, El Oued
+1298, 39021, Still, 39, El Oued
+1299, 39022, Mrara, 39, El Oued
+1300, 39023, Sidi Khellil, 39, El Oued
+1301, 39024, Tendla, 39, El Oued
+1302, 39025, El Ogla, 39, El Oued
+1303, 39026, Mih Ouansa, 39, El Oued
+1304, 39027, El Mghair, 39, El Oued
+1305, 39028, Djamaa, 39, El Oued
+1306, 39029, Oum Touyour, 39, El Oued
+1307, 39030, Sidi Amrane, 39, El Oued
+1308, 40001, Khenchela, 40, Khenchela
+1309, 40002, Mtoussa, 40, Khenchela
+1310, 40003, Kais, 40, Khenchela
+1311, 40004, Baghai, 40, Khenchela
+1312, 40005, El Hamma, 40, Khenchela
+1313, 40006, Ain Touila, 40, Khenchela
+1314, 40007, Taouzianat, 40, Khenchela
+1315, 40008, Bouhmama, 40, Khenchela
+1316, 40009, El Oueldja, 40, Khenchela
+1317, 40010, Remila, 40, Khenchela
+1318, 40011, Cherchar, 40, Khenchela
+1319, 40012, Djellal, 40, Khenchela
+1320, 40013, Babar, 40, Khenchela
+1321, 40014, Tamza, 40, Khenchela
+1322, 40015, Ensigha, 40, Khenchela
+1323, 40016, Ouled Rechache, 40, Khenchela
+1324, 40017, El Mahmal, 40, Khenchela
+1325, 40018, Msara, 40, Khenchela
+1326, 40019, Yabous, 40, Khenchela
+1327, 40020, Khirane, 40, Khenchela
+1328, 40021, Chelia, 40, Khenchela
+1329, 41001, Souk Ahras, 41, Souk Ahras
+1330, 41002, Sedrata, 41, Souk Ahras
+1331, 41003, Hanancha, 41, Souk Ahras
+1332, 41004, Mechroha, 41, Souk Ahras
+1333, 41005, Ouled Driss, 41, Souk Ahras
+1334, 41006, Tiffech, 41, Souk Ahras
+1335, 41007, Zaarouria, 41, Souk Ahras
+1336, 41008, Taoura, 41, Souk Ahras
+1337, 41009, Drea, 41, Souk Ahras
+1338, 41010, Haddada, 41, Souk Ahras
+1339, 41011, Khedara, 41, Souk Ahras
+1340, 41012, Merahna, 41, Souk Ahras
+1341, 41013, Ouled Moumen, 41, Souk Ahras
+1342, 41014, Bir Bouhouche, 41, Souk Ahras
+1343, 41015, Mdaourouche, 41, Souk Ahras
+1344, 41016, Oum El Adhaim, 41, Souk Ahras
+1345, 41017, Ain Zana, 41, Souk Ahras
+1346, 41018, Ain Soltane, 41, Souk Ahras
+1347, 41019, Quillen, 41, Souk Ahras
+1348, 41020, Sidi Fredj, 41, Souk Ahras
+1349, 41021, Safel El Ouiden, 41, Souk Ahras
+1350, 41022, Ragouba, 41, Souk Ahras
+1351, 41023, Khemissa, 41, Souk Ahras
+1352, 41024, Oued Keberit, 41, Souk Ahras
+1353, 41025, Terraguelt, 41, Souk Ahras
+1354, 41026, Zouabi, 41, Souk Ahras
+1355, 42001, Tipaza, 42, Tipaza
+1356, 42002, Menaceur, 42, Tipaza
+1357, 42003, Larhat, 42, Tipaza
+1358, 42004, Douaouda, 42, Tipaza
+1359, 42005, Bourkika, 42, Tipaza
+1360, 42006, Khemisti, 42, Tipaza
+1361, 42010, Aghabal, 42, Tipaza
+1362, 42012, Hadjout, 42, Tipaza
+1363, 42013, Sidi Amar, 42, Tipaza
+1364, 42014, Gouraya, 42, Tipaza
+1365, 42015, Nodor, 42, Tipaza
+1366, 42016, Chaiba, 42, Tipaza
+1367, 42017, Ain Tagourait, 42, Tipaza
+1368, 42022, Cherchel, 42, Tipaza
+1369, 42023, Damous, 42, Tipaza
+1370, 42024, Meurad, 42, Tipaza
+1371, 42025, Fouka, 42, Tipaza
+1372, 42026, Bou Ismail, 42, Tipaza
+1373, 42027, Ahmer El Ain, 42, Tipaza
+1374, 42030, Bou Haroun, 42, Tipaza
+1375, 42032, Sidi Ghiles, 42, Tipaza
+1376, 42033, Messelmoun, 42, Tipaza
+1377, 42034, Sidi Rached, 42, Tipaza
+1378, 42035, Kolea, 42, Tipaza
+1379, 42036, Attatba, 42, Tipaza
+1380, 42040, Sidi Semiane, 42, Tipaza
+1381, 42041, Beni Milleuk, 42, Tipaza
+1382, 42042, Hadjerat Ennous, 42, Tipaza
+1383, 43001, Mila, 43, Mila
+1384, 43002, Ferdjioua, 43, Mila
+1385, 43003, Chelghoum Laid, 43, Mila
+1386, 43004, Oued Athmenia, 43, Mila
+1387, 43005, Ain Mellouk, 43, Mila
+1388, 43006, Telerghma, 43, Mila
+1389, 43007, Oued Seguen, 43, Mila
+1390, 43008, Tadjenanet, 43, Mila
+1391, 43009, Benyahia Abderrahmane, 43, Mila
+1392, 43010, Oued Endja, 43, Mila
+1393, 43011, Ahmed Rachedi, 43, Mila
+1394, 43012, Ouled Khalouf, 43, Mila
+1395, 43013, Tiberguent, 43, Mila
+1396, 43014, Bouhatem, 43, Mila
+1397, 43015, Rouached, 43, Mila
+1398, 43016, Tessala Lamatai, 43, Mila
+1399, 43017, Grarem Gouga, 43, Mila
+1400, 43018, Sidi Merouane, 43, Mila
+1401, 43019, Tassadane Haddada, 43, Mila
+1402, 43020, Derradji Bousselah, 43, Mila
+1403, 43021, Minar Zarza, 43, Mila
+1404, 43022, Amira Arras, 43, Mila
+1405, 43023, Terrai Bainen, 43, Mila
+1406, 43024, Hamala, 43, Mila
+1407, 43025, Ain Tine, 43, Mila
+1408, 43026, El Mechira, 43, Mila
+1409, 43027, Sidi Khelifa, 43, Mila
+1410, 43028, Zeghaia, 43, Mila
+1411, 43029, Elayadi Barbes, 43, Mila
+1412, 43030, Ain Beida Harriche, 43, Mila
+1413, 43031, Yahia Beniguecha, 43, Mila
+1414, 43032, Chigara, 43, Mila
+1415, 44001, Ain Defla, 44, Aïn Defla
+1416, 44002, Miliana, 44, Aïn Defla
+1417, 44003, Boumedfaa, 44, Aïn Defla
+1418, 44004, Khemis Miliana, 44, Aïn Defla
+1419, 44005, Hammam Righa, 44, Aïn Defla
+1420, 44006, Arib, 44, Aïn Defla
+1421, 44007, Djelida, 44, Aïn Defla
+1422, 44008, El Amra, 44, Aïn Defla
+1423, 44009, Bourached, 44, Aïn Defla
+1424, 44010, El Attaf, 44, Aïn Defla
+1425, 44011, El Abadia, 44, Aïn Defla
+1426, 44012, Djendel, 44, Aïn Defla
+1427, 44013, Oued Chorfa, 44, Aïn Defla
+1428, 44014, Ain Lechiakh, 44, Aïn Defla
+1429, 44015, Oued Djemaa, 44, Aïn Defla
+1430, 44016, Rouina, 44, Aïn Defla
+1431, 44017, Zeddine, 44, Aïn Defla
+1432, 44018, El Hassania, 44, Aïn Defla
+1433, 44019, Bir Ouled Khelifa, 44, Aïn Defla
+1434, 44020, Ain Soltane, 44, Aïn Defla
+1435, 44021, Tarik Ibn Ziad, 44, Aïn Defla
+1436, 44022, Bordj Emir Khaled, 44, Aïn Defla
+1437, 44023, Ain Torki, 44, Aïn Defla
+1438, 44024, Sidi Lakhdar, 44, Aïn Defla
+1439, 44025, Ben Allal, 44, Aïn Defla
+1440, 44026, Ain Benian, 44, Aïn Defla
+1441, 44027, Hoceinia, 44, Aïn Defla
+1442, 44028, Barbouche, 44, Aïn Defla
+1443, 44029, Djemaa Ouled Chikh, 44, Aïn Defla
+1444, 44030, Mekhatria, 44, Aïn Defla
+1445, 44031, Bathia, 44, Aïn Defla
+1446, 44032, Tachta Zegagha, 44, Aïn Defla
+1447, 44033, Ain Bouyahia, 44, Aïn Defla
+1448, 44034, El Maine, 44, Aïn Defla
+1449, 44035, Tiberkanine, 44, Aïn Defla
+1450, 44036, Belaas, 44, Aïn Defla
+1451, 45001, Naama, 45, Naâma
+1452, 45002, Mechria, 45, Naâma
+1453, 45003, Ain Sefra, 45, Naâma
+1454, 45004, Tiout, 45, Naâma
+1455, 45005, Sfissifa, 45, Naâma
+1456, 45006, Moghrar, 45, Naâma
+1457, 45007, Assela, 45, Naâma
+1458, 45008, Djeniane Bourzeg, 45, Naâma
+1459, 45009, Ain Ben Khelil, 45, Naâma
+1460, 45010, Makman Ben Amer, 45, Naâma
+1461, 45011, Kasdir, 45, Naâma
+1462, 45012, El Biod, 45, Naâma
+1463, 46001, Ain Temouchent, 46, Aïn Témouchent
+1464, 46002, Chaabet El Ham, 46, Aïn Témouchent
+1465, 46003, Ain Kihal, 46, Aïn Témouchent
+1466, 46004, Hammam Bouhadjar, 46, Aïn Témouchent
+1467, 46005, Bou Zedjar, 46, Aïn Témouchent
+1468, 46006, Oued Berkeche, 46, Aïn Témouchent
+1469, 46007, Aghlal, 46, Aïn Témouchent
+1470, 46008, Terga, 46, Aïn Témouchent
+1471, 46009, Ain El Arbaa, 46, Aïn Témouchent
+1472, 46010, Tamzoura, 46, Aïn Témouchent
+1473, 46011, Chentouf, 46, Aïn Témouchent
+1474, 46012, Sidi Ben Adda, 46, Aïn Témouchent
+1475, 46013, Aoubellil, 46, Aïn Témouchent
+1476, 46014, El Malah, 46, Aïn Témouchent
+1477, 46015, Sidi Boumediene, 46, Aïn Témouchent
+1478, 46016, Oued Sabah, 46, Aïn Témouchent
+1479, 46017, Ouled Boudjemaa, 46, Aïn Témouchent
+1480, 46018, Ain Tolba, 46, Aïn Témouchent
+1481, 46019, El Amria, 46, Aïn Témouchent
+1482, 46020, Hassi El Ghella, 46, Aïn Témouchent
+1483, 46021, Hassasna, 46, Aïn Témouchent
+1484, 46022, Ouled Kihal, 46, Aïn Témouchent
+1485, 46023, Beni Saf, 46, Aïn Témouchent
+1486, 46024, Sidi Safi, 46, Aïn Témouchent
+1487, 46025, Oulhaca El Gheraba, 46, Aïn Témouchent
+1488, 46026, Tadmaya, 46, Aïn Témouchent
+1489, 46027, El Emir Abdelkader, 46, Aïn Témouchent
+1490, 46028, El Messaid, 46, Aïn Témouchent
+1491, 47001, Ghardaia, 47, Ghardaïa
+1492, 47002, El Meniaa, 47, Ghardaïa
+1493, 47003, Dhayet Bendhahoua, 47, Ghardaïa
+1494, 47004, Berriane, 47, Ghardaïa
+1495, 47005, Metlili, 47, Ghardaïa
+1496, 47006, El Guerrara, 47, Ghardaïa
+1497, 47007, El Atteuf, 47, Ghardaïa
+1498, 47008, Zelfana, 47, Ghardaïa
+1499, 47009, Sebseb, 47, Ghardaïa
+1500, 47010, Bounoura, 47, Ghardaïa
+1501, 47011, Hassi Fehal, 47, Ghardaïa
+1502, 47012, Hassi Gara, 47, Ghardaïa
+1503, 47013, Mansoura, 47, Ghardaïa
+1504, 48001, Relizane, 48, Relizane
+1505, 48002, Oued Rhiou, 48, Relizane
+1506, 48003, Belaassel Bouzegza, 48, Relizane
+1507, 48004, Sidi Saada, 48, Relizane
+1508, 48005, Ouled Aiche, 48, Relizane
+1509, 48006, Sidi Lazreg, 48, Relizane
+1510, 48007, El Hamadna, 48, Relizane
+1511, 48008, Sidi Mhamed Ben Ali, 48, Relizane
+1512, 48009, Mediouna, 48, Relizane
+1513, 48010, Sidi Khettab, 48, Relizane
+1514, 48011, Ammi Moussa, 48, Relizane
+1515, 48012, Zemmoura, 48, Relizane
+1516, 48013, Beni Dergoun, 48, Relizane
+1517, 48014, Djidiouia, 48, Relizane
+1518, 48015, El Guettar, 48, Relizane
+1519, 48016, Hamri, 48, Relizane
+1520, 48017, El Matmar, 48, Relizane
+1521, 48018, Sidi Mhamed Ben Aouda, 48, Relizane
+1522, 48019, Ain Tarek, 48, Relizane
+1523, 48020, Oued Essalem, 48, Relizane
+1524, 48021, Ouarizane, 48, Relizane
+1525, 48022, Mazouna, 48, Relizane
+1526, 48023, Kalaa, 48, Relizane
+1527, 48024, Ain Rahma, 48, Relizane
+1528, 48025, Yellel, 48, Relizane
+1529, 48026, Oued El Djemaa, 48, Relizane
+1530, 48027, Ramka, 48, Relizane
+1531, 48028, Mendes, 48, Relizane
+1532, 48029, Lahlef, 48, Relizane
+1533, 48030, Beni Zentis, 48, Relizane
+1534, 48031, Souk El Haad, 48, Relizane
+1535, 48032, Dar Ben Abdellah, 48, Relizane
+1536, 48033, El Hassi, 48, Relizane
+1537, 48034, Had Echkalla, 48, Relizane
+1538, 48035, Bendaoud, 48, Relizane
+1539, 48036, El Ouldja, 48, Relizane
+1540, 48037, Merdja Sidi Abed, 48, Relizane
+1541, 48038, Ouled Sidi Mihoub, 48, Relizane
