@@ -1,4 +1,4 @@
-id,adresse,ville,tel,fax,email,lon,lat,code,wilaya
+id,adresse,ville,tel,fax,email,long,lat,code,wilaya
 0,Ancien siège de la wilaya,ADRAR,049.36.12.38,049.36.12.35,mohamed.rahmouni@ansej.dz,-0.293594599,27.86921245,1,ADRAR
 1,Ancien siège de la daïra d’Aoulef,AOULEF,049.32.71.32,049.32.71.32,ahmed.drissi@ansej.dz,1.080871224,26.97150853,1,ADRAR
 2,Siège Inspection du travail,TIMIMOUN,049.90.02.32,049.90.02.32,mhammed.ouledbihi@ansej.dz,0.235929787,29.26963817,1,ADRAR
