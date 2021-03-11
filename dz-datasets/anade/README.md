@@ -23,6 +23,5 @@ The datasets consists of branches of the ANADE (Agence Nationale d'Appui et de D
 
 ## Dataset creation steps
 
-1. Getting data from  [CNAC site](https://promoteur.ansej.dz/Annexes/Trouver_Annexe) using the [script]() .
-2. Geocoding with Awesome Geocoding add-on in google sheets.
-3. Data validation and correction using QGIS
+1. Getting data from  [ANADE site](https://promoteur.ansej.dz/Annexes/Trouver_Annexe) using the [script]() .
+2. Data validation and correction using QGIS
