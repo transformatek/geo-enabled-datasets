@@ -1,0 +1,159 @@
+id,nom,adresse,tel,fax,email,lat,long,code
+0,Direction Générale            ," 5, Passage Abou Hamou Moussa (ex-Daguerre), Alger", 021 78 21 28, 021 78 21 28, contact@casnos.com.dz,36.769734,3.054099,16
+1,ADRAR, Cité 50 villa rue de bouda, 049 35 15 17, 049 35 15 41, casnos1@casnos.com.dz,27.878449,-0.301357,1
+2,ADRAR Timimoun            , Cité hassi rambo timimoun, 049 90 07 31, 049 90 07 31, casnos1@casnos.com.dz,29.265135,0.234078,1
+3,ADRAR Reggane            , Marché couvert reggane, 049 97 11 15, 049 97 11 16, casnos1@casnos.com.dz,26.717961,0.174206,1
+4,CHLEF            , HAY BENSOUNA BT CNEP BLOC (E) CHLEF BP N 179, 027 77 44 58, 027 77 92 71, casnos02@casnos.com.dz,36.160921,1.315595,2
+5,LAGHOUAT            , BP 1074 LAGHOUAT, 029 14 22 73, 029 14 22 73, casnos3@casnos.com.dz,33.7972551,2.8694065,3
+6,OUM EL BOUAGHI            , RUE BOUKHERCHOUFA MED TAHAR OEB, 032 54 52 94, 032 54 55 83, casnos4@casnos.com.dz,35.866484,7.112439,4
+7,BATNA            , Cite 1020 Logts Kechida Batna, 033 29 43 77, 033 29 43 74, casnos5@casnos.com.dz,35.5545,6.1798,5
+8,BATNA AIN TOUTA            , Ain Touta, 033 35 58 36,, casnos5@casnos.com.dz,35.3912,5.9108,5
+9,BATNA ARRIS            , Rue Mostafa Ben Boulaid Arris, 033 34 33 81, 033 34 33 81, casnos5@casnos.com.dz,35.3039,6.3555,5
+10,BATNA BARIKA            , 68 Bloc 40 Cite 712 Logts Barika, 033 98 48 11, 033 98 48 11, casnos5@casnos.com.dz,35.3935,5.2981,5
+11,BATNA MEROUANA            , Rue 1er Novembre Merouana, 033 33 00 17, 033 33 00 17, casnos5@casnos.com.dz,35.6305,5.9106,5
+12,BATNA NGAOUS            , Cite administ. Fenarou Ngaous, 033 47 21 41,, casnos5@casnos.com.dz,35.5568,5.5947,5
+13,BEJAIA            , BVD KRIM BELKACEM BEJAIA, 034 11 30 62, 034 11 30 63, casnos6@casnos.com.dz,36.745672,5.0484,6
+14,BEJAIA G.S.AKBOU            , Cité 130/400 RHP AKBOU, 034 33 80 45, 034 33 80 45, casnos6@casnos.com.dz,36.459708,4.537895,6
+15,BEJAIA G.S.KHERRATA            , CER KHERRATA, 034 39 25 76,, casnos6@casnos.com.dz,36.482267,5.275531,6
+16,BEJAIA G.S.TAZMALT            , Rue Meziane chabane TAZMALT, 034 31 39 11,, casnos6@casnos.com.dz,36.386034,4.399448,6
+17,BEJAIA G.S SIDI AICH            ," Route de la Gare, Sidi-Aïch", 034 86 05 57,, casnos6@casnos.com.dz,36.610119,4.694488,6
+18,BEJAIA G.S. AOKAS            , Batiment Ex mtlie AOKAS, 034 23 25 93,, casnos6@casnos.com.dz,36.636886,5.240474,6
+19,BISKRA            , Boulevard Du 20 Aout 1955 BISKRA (07000), 033 51 96 62, 033 51 96 60, casnos7@casnos.com.dz,34.856241,5.710523,7
+20,BECHAR            ," cité 68 logements BP 59, Béchar", 049 80 11 77, 049 80 10 40, casnos8@casnos.com.dz,31.61728,-2.212664,8
+21,BLIDA            , Bd Mohamed Boudiaf Bloc A1 Blida, 025 20 75 40/43,, casnos9@casnos.com.dz,36.484435,2.830919,9
+22,BLIDA El Wouroud            ," Centre des affaires EL WOUROUD, Local88/89 Bab Dzair Blida", 025 21 54 86/85, 025 21 54 85, casnos9@casnos.com.dz,36.473061,2.83143,9
+23,BLIDA Boufarik            ," Rue Si Ben Youcef N°70, Boufarik", 025 48 11 09, 025 48 11 09, casnos9@casnos.com.dz,36.571421,2.914328,9
+24,BLIDA Larbaa            ," Centre payeur CNAS, Larbaa", 025 46 91 28, 025 46 91 28, casnos9@casnos.com.dz,36.568441,3.149005,9
+25,BOUIRA            ," Cité 130 logts Gouizi Said, Bouira", 026 72 41 37, 026 72 41 38, casnos10@casnos.com.dz,36.375679,3.891727,10
+26,BOUIRA            ," Grand Boulevard (Djezzy), Bouira", 026 73 51 65, 026 73 51 65, casnos10@casnos.com.dz,36.382353,3.889216,10
+27,BOUIRA M'chedallah            ," Cité 10 logts FNPOS, M'chedallah", 026 95 42 88, 026 95 42 88, casnos10@casnos.com.dz,36.364686,4.273784,10
+28,BOUIRA Lakhdaria            ," Cité 15 logts ZDEK ALI, Lakhdaria", 026 71 24 92, 026 71 24 92, casnos10@casnos.com.dz,36.559423,3.596539,10
+29,BOUIRA Ain bessam            , Cité 16 logts face de la gare Ain Bessam, 026 87 72 94, 026 87 72 94, casnos10@casnos.com.dz,36.292375,3.68108,10
+30,BOUIRA Sour El Ghozlane            , 20 logts FNPOS( en face de la gare routière)Sour El Ghozlane, 026 96 69 63, 026 96 69 63, casnos10@casnos.com.dz,36.134767,3.696103,10
+31,TAMANRASSET            , CITE ELOUIAM ELMADANI, 029 32 01 26, 029 32 01 28, casnos11@casnos.com.dz,22.804124,5.512149,11
+32,TAMANRASSET IN SALAH            , CITE 80 LOGTS, 029 38 31 26, 029 38 31 26, casnos11@casnos.com.dz,27.203742,2.483852,11
+33,TEBESSA            ," BOULVARD, HAOUARI BOUMEDIENE TEBESSA", 037 50 67 62, 037 50 67 64, casnos12@casnos.com.dz,35.400177,8.110596,12
+34,TLEMCEN            , Résidence el-andaloussia mansourah, 043 21 23 89, 043 21 54 33, casnos13@casnos.com.dz,34.885528,-1.333889,13
+35,TLEMCEN MAGHNIA            , Hai ouad ouardfou-maghnia, 043 51 63 44,, casnos13@casnos.com.dz,34.8445,-1.749056,13
+36,TLEMCEN GAZAOUAT            , Rue hadj hamza -ghazaouet, 043 46 99 41,, casnos13@casnos.com.dz,35.0965,-1.8645,13
+37,TLEMCEN SEBDOU            , APC Sebdou, 043 54 60 35,, casnos13@casnos.com.dz,34.639917,-1.329944,13
+38,TLEMCEN NEDROMA            , Rue bouanani ahmed nedrouma, 043 45 65 78,, casnos13@casnos.com.dz,34.639917,-1.329944,13
+39,TLEMCEN OULED-MIMOUN            , N°19 cite 20 duplexe ouled mimoun, 043 36 18 36,, casnos13@casnos.com.dz,34.905222,-1.032361,13
+40,TLEMCEN REMCHI            , CNAS RMECHI, 043 57 51 22,, casnos13@casnos.com.dz,35.057722,-1.429778,13
+41,TLEMCEN FELLAOUSSEN            , CNAS fellaoussen,,, casnos13@casnos.com.dz,35.017806,-1.569361,13
+42,TLEMCEN BENSKARNE            , CNAS bensekrane, 043 59 85 88,, casnos13@casnos.com.dz,35.073583,-1.228417,13
+43,TLEMCEN BENI-SENOUS            , CNAS benisnous,,, casnos13@casnos.com.dz,34.659472,-1.544833,13
+44,TIARET            , Route Ain Guesma BP 305 Tiaret, 046 21 19 25, 047 21 19 53, casnos14@casnos.com.dz,35.3537266,1.3260194,14
+45,TIARET SOUGUEUR            , CNAS SOUGUEUR, 046 28 64 08, 047 28 64 08, casnos14@casnos.com.dz,35.185404,1.492365,14
+46,TIARET FRENDA            , FRENDA, 046 40 80 72, 047 40 80 72, casnos14@casnos.com.dz,35.0610027,1.0459827,14
+47,TIARET KSAR CHELLALA            , CNAS KSAR CHELLAL, 046 46 75 64, 046 46 75 64, casnos14@casnos.com.dz,35.217229,2.316095,14
+48,TIARET RAHOUIA            , CNAS RAHOUIA, 046 46 75 64, 046 46 75 64, casnos14@casnos.com.dz,35.52852,1.015047,14
+49,TIZI-OUZOU            ," Cité 108 logements Boulevard Krim Belkacem Nouvelle ville, Tizi ouzou", 026 20 67 52, 026 20 67 53, casnos15@casnos.com.dz,36.702126,4.057529,15
+50,TIZI-OUZOU Annexe Nouvelle ville            ," 72, logement EPLP Nouvelle ville ,Tizi ouzou", 026 18 34 49, 026 18 34 49, casnos15@casnos.com.dz,36.698544,4.047831,15
+51,TIZI-OUZOU G/S Larbraa Nath Iraten            ," CITE DES 24 LGTS, ROUTE DU LYCEE ILLOULI LNI, Tizi Ozou", 026 49 20 21, 026 49 20 21, casnos15@casnos.com.dz,36.636679,4.206589,15
+52,TIZI-OUZOU G/S Azazga            ," RUE BELKACEM HANAFI AZAZGA, Tizi Ozou", 026 14 10 25, 026 14 10 25, casnos15@casnos.com.dz,36.734386,4.366791,15
+53,TIZI-OUZOU G/S ABI YOUCEF            ," TACHKIRT ABI YOUCEF Ain el Hammam, Tizi Ozou", 026 48 21 91, 026 48 21 91, casnos15@casnos.com.dz,36.538835,4.343005,15
+54,TIZI-OUZOU G/S Boghni            ," 32 LGTS LSP (A COTE DE LA CNAS) BOGHNI, Tizi ouzou", 026 38 41 81, 026 38 41 81, casnos15@casnos.com.dz,36.541055,3.955875,15
+55,TIZI-OUZOU G/S Ouacif            ," Rue de la gare routière Oucifs, Tizi Ouzou", 026 33 18 73, 026 33 18 73, casnos15@casnos.com.dz,36.524401,4.205023,15
+56,TIZI-OUZOU G/S Tigzirt            ," Cité des 60 logements axe Lycée Toumi Tigzirt, Tizi Ozou", 026 15 85 03, 026 15 85 03, casnos15@casnos.com.dz,36.889928,4.121,15
+57,TIZI-OUZOU G/S Azeffoun            ," Stade communal Azeffoun, Tizi Ozou", 026 45 04 02, 026 45 04 02, casnos15@casnos.com.dz,36.890997,4.422925,15
+58,ALGER EST Victor Hugo et Agence            , 09 Boulevard Victor Hugo Alger Centre, 021 71 55 12, 021 71 55 12, casnos16@casnos.com.dz,36.765972,3.05475,16
+60,ALGER EST Ain Malha            , Cité AADL 1516 logts bt H4 Ain Malha gue de constantine, 023 53 04 03, 023 53 04 03, casnos16@casnos.com.dz,36.734417,3.067722,16
+61,ALGER EST Reghaia            , Cité 92 logts LSP (EX DNC) Reghaia, 021 85 77 99, 021 85 77 99, casnos16@casnos.com.dz,36.747333,3.345583,16
+62,ALGER OUEST Hydra            , 48 Rue 11 Décembre 1960 Chemin Makley Val Hydra El Biar Alger, 021 79 72 47, 021 79 72 47, casnos16@casnos.com.dz,36.7417,3.0378,16
+63,ALGER OUEST Staouali            , Cité Mimouza Staouali Alger, 023 39 30 09, 023 39 30 09, casnos16@casnos.com.dz,36.7517,2.8882,16
+64,ALGER OUEST Zeralda            , Centre d'affaire Zeralda, 023 32 92 78, 023 32 92 80, casnos16@casnos.com.dz,36.7167,2.85,16
+65,ALGER OUEST Cheraga            , Centre commercial El Kods Cheraga Alger, 021 34 18 04, 021 34 18 05, casnos16@casnos.com.dz,36.7667,2.95,16
+66,ALGER OUEST 1er Novembre            , 06 Rue 1er Novembre Alger, 021 43 03 02, 021 43 03 19, casnos16@casnos.com.dz,36.7869,3.063,16
+67,DJELFA            , CITE BENDJERMAIN N 12 EN FACE CNR - DJELFA, 027 93 87 83, 027 93 87 84, casnos17@casnos.com.dz,34.666611,3.248194,17
+68,DJELFA GUICHET DE PROXIMITE AIN OUSSERE            , CITE ESSALAM 100 LOGTS FNPOS AIN OUSSERA, 027 80 30 88,, casnos17@casnos.com.dz,35.457,2.888417,17
+69,DJELFA GUICHET DE PROXIMITE MESSAAD            , RUE ELAMIR ABDELKADER - MESSAAD, 027 98 67 99,, casnos17@casnos.com.dz,34.152361,3.495528,17
+70,JIJEL            , CITE PLAGE W JIJEL 18000, 034 47 72 44, 034 47 20 22, casnos18@casnos.com.dz,36.810132,5.775796,18
+71,JIJEL GS EL MILIA            ," Rue 20 août 1955, El-Milia, Algérie",, 034 52 47 42, casnos18@casnos.com.dz,36.751891,6.274974,18
+72,JIJEL GS EL KENNAR NOUCHFI            , EL KENNAR NOUCHFI CENTRE W JIJEL,, 034 56 42 64, casnos18@casnos.com.dz,36.82568,5.962771,18
+73,SETIF            , Cité financière 600 Lgts SETIF, 036 51 22 23, 036 51 24 68, casnos19@casnos.com.dz,36.195072,5.409956,19
+74,SETIF EL EULMA            , Cité Houari Boumediene Bvd Sakhri, 036 76 18 41, 036 76 17 69, casnos19@casnos.com.dz,36.1074,5.850172,19
+75,SETIF BIZART            , 21 Rue Bakri Khier SETIF, 036 82 17 80, 036 82 18 93, casnos19@casnos.com.dz,36.183919,5.407925,19
+76,SAIDA            , N° 18 RUE MERABET AHMED SAIDA BP 295, 048 43 47 58, 048 43 48 21, casnos20@casnos.com.dz,34.833354,0.148552,20
+80,SIDI BEL ABBES            , Bd abbane ramdane prolongee sidi-bel-abbes, 048 74 63 55, 048 74 63 60, casnos22@casnos.com.dz,35.2022,-0.6298,22
+81,SIDI BEL ABBES Telagh            , Rue mohamed khemisti telagh, 048 78 12 19, 048 78 12 19, casnos22@casnos.com.dz,34.7949,-0.544691,22
+82,SIDI BEL ABBES Sfisef            , 100 lgts Sfisef, 048 79 10 71, 048 79 10 71, casnos22@casnos.com.dz,35.2365,-0.280787,22
+83,ANNABA            ," Cite Oued Eddeheb 2, Bt ENCOBAT N°04 BP 312 RP, Annaba", 038 43 40 26/27, 038 43 40 34, casnos23@casnos.com.dz,36.892281,7.738699,23
+84,, Avenue A/Hamid BENBADIS (BAB SKIKDA) BP 89 24000 Guelma, 037 15 14 32/33/34/35, 037 15 14 32/34, casnos24@casnos.com.dz,36.4668,7.4286,24
+85,GUELMA GS OUED ZENATI            , Avenue AMAR GHIBA OUED ZENATI, 037 18 82 26, 037 18 82 26, casnos24@casnos.com.dz,36.3192,7.1679,24
+86,GUELMA GS BOUCHEGOUF            , CENTRE PAYEUR CNAS BOUCHEGOUF,,, casnos24@casnos.com.dz,36.4701,7.7267,24
+87,CONSTANTINE            , 8 Rue Abanne Ramadane, 031 92 33 70 / 031 91 27 50, 031 91 27 50, casnos25@casnos.com.dz,36.3626006,6.6080574,25
+88,CONSTANTINE DAKSI            , Cite daksi Abessalem BP 139, 031 73 20 35 / 031 73 20 34, 031 73 20 34, casnos25@casnos.com.dz,36.353601,6.639391,25
+89,CONSTANTINE EL KHROUB            , Cite 400 logts DAIRA El-Khroub, 031 80 12 61, 031 80 12 61, casnos25@casnos.com.dz,36.26862,6.691327,25
+90,CONSTANTINE ALI MENDJLI            , Sis « UV01 » siège CACOBATH- ALI MENDJELI, 031 77 74 51, 031 77 74 51, casnos25@casnos.com.dz,36.255498,6.580654,25
+91,CONSTANTINE BAB ELKANTARA            , Centre payeur CNAS-Rue MADAOUI BOUDJEMAA, 031 88 40 10, 031 88 40 10, casnos25@casnos.com.dz,36.367718,6.6199,25
+92,CONSTANTINE HAMMA            , Centre Payeur CNAS Ain Sdari -hamma bouziane, 031 84 33 79, 031 84 33 79, casnos25@casnos.com.dz,36.426752,6.605669,25
+93,MEDEA            , RUE 24 FEVRIER - 26000 MEDEA, 025 78 11 57, 025 78 11 57," casnos26@casnos,com,dz",36.2853847,2.7680247,26
+94,MEDEA BERROUAGHIA            , C.N.A.S BERROUAGHIA- MEDEA, 025 77 54 99, 025 77 54 99," casnos26@casnos,com,dz",36.1625653,2.917595,26
+95,MEDEA KSAR EL BOUKHARI            , QUARTIER ROUMANETTE KSAR EL BOUKHARI -MEDEA, 025 69 35 51, 025 69 35 51," casnos26@casnos,com,dz",35.8729994,3.7481176,26
+96,MEDEA BENI SLIMANE            , QUARTIER 05 JUILLET BENI SLIMANE - MEDEA, 025 71 51 51, 025 71 51 51," casnos26@casnos,com,dz",36.2283487,3.3086777,26
+97,MEDEA TABLAT            , SOUK EL HAD (LOCAUX DUPRESIDENT) TABLAT- MEDEA, 025 71 10 09, 025 71 10 09," casnos26@casnos,com,dz",36.4121257,3.318747,26
+98,MEDEA CHELLALET EL ADHAOURA            , EX DAIRA CHELLALET EL ADHAOURA- MEDEA, 025 75 24 66, 025 75 24 66," casnos26@casnos,com,dz",35.9325946,3.3993751,26
+99,MOSTAGANEM            , 11 Route du Littoral Tigditt, 045 39 68 86, 045 39 68 88, casnos27@casnos.com.dz,35.942133,0.097368,27
+100,M'SILA            , cité administrative m'sila, 035 55 08 55, 035 55 08 55, casnos28@casnos.com.dz,35.70325,4.536767,28
+101,MASCARA Mohammadia            , Boulevard Emir Khaled Mohammadia, 045 95 81 47, 045 95 81 47, casnos29@casnos.com.dz,35.586667,0.06975,29
+102,MASCARA            , 44 Logements Cité administrative zone 08, 045 71 40 82, 045 71 40 82, casnos29@casnos.com.dz,35.405167,0.139861,29
+103,MASCARA Tighennif            , Rue Amirouche 1926-1959 Tighennif, 045 97 24 48, 045 97 24 48, casnos29@casnos.com.dz,35.417083,0.328694,29
+104,MASCARA Ghriss            , Cité 269 Logements Ghiss, 045 74 96 13, 045 74 96 13, casnos29@casnos.com.dz,35.236806,0.168,29
+105,OUARGLA AGENCE D'OUARGLA            , CITE ABDELKADER OUARGLA, 029 71 90 08, 029 71 13 58, casnos30@casnos.com.dz,31.951868,5.321178,30
+106,OUARGLA GPHASSI MESSAOUD            , Cité Logement AADL Hassi-Meesaoud, 029 78 96 21, 029 78 96 21, casnos30@casnos.com.dz,31.686033,6.074464,30
+107,OUARGLA TOUGGOURT            , BOULVARD MED KHMISTI TOUGGOURT, 029 68 40 08, 029 68 40 08, casnos30@casnos.com.dz,33.102036,6.064458,30
+108,OUARGLA GP EL-HDJIRA            , CENTRE VILLE, 029 61 23 29, 029 61 23 29, casnos30@casnos.com.dz,32.611849,5.517537,30
+109,OUARGLA GP BENNACEUR            , CENTRE VILLE, 029 62 54 44, 029 62 54 44, casnos30@casnos.com.dz,33.111642,6.43353,30
+110,ORAN BIR EL DJIR            , Cooperative Ennhda Bir Eldjir, 041 87 50 09, 041 87 50 05, casnos31@casnos.com.dz,35.736594,0,31
+111,ORAN GDYEL            , CIT2 212 Logts (LSP), 041 68 12 39, 041 68 12 39, casnos31@casnos.com.dz,35.775887,-0.43363,31
+112,ORAN AIN TURCK            , Cit2 400 Logts hai tarik ain turck, 041 60 23 76, 041 60 23 76, casnos31@casnos.com.dz,,,31
+113,ORAN LARBI BEN MHIDI            ," 53, Rue larbi ben mhidi", 041 33 07 83, 041 33 07 83, casnos31@casnos.com.dz,35.703189,0,31
+114,ORAN CENTRE VILLE            , 03 Rue BelOmari Mohammed, 041 36 19 04, 041 36 19 05, casnos31@casnos.com.dz,35.703189,0,31
+115,, CITE FRERES ZACHE 150 LOG, 049 67 33 12, 049 67 33 12, casnos32@casnos.com.dz,33.692053,1.014631,32
+116,EL BAYADH GS BOUGTOB            , RUE ZIANI HAMZA BP N 02, 049 62 34 11, 049 62 34 11, casnos32@casnos.com.dz,,,32
+117,EL BAYADH GS L'ABIODH SIDI CHIKH            , PLACE DES MARTYRES, 049 63 62 80, 049 63 62 80, casnos32@casnos.com.dz,,,32
+118,ILLIZI            , Avenue 11 Decembre 1960 Zhun Illizi, 029 41 11 10, 029 41 11 03, casnos33@casnos.com.dz,26.5094,8.4733,33
+119,BOURDJ BOU ARRERIDJ            , Rue Meguedemi Mohamed Rte de Medjana BBA 34000, 035 76 44 42, 035 76 44 42, casnos34@casnos.com.dz,36.074439,4.749892,34
+120,, Immeuble E14 route n°24 Boumerdes, 024 79 97 99, 024 79 92 29, casnos35@casnos.com.dz,36.750232,3.470499,35
+121,BOUMERDES DELLYS            , Sidi El Medjeni Dellys, 024 98 72 80, 024 98 72 80, casnos35@casnos.com.dz,36.9167,3.8833,35
+122,BOUMERDES OULED MOUSSA            , Centre ville Ouled Moussa, 024 93 75 19, 024 93 75 19, casnos35@casnos.com.dz,36.6831,3.3681,35
+123,BOUMERDES BORDJ MENAIEL            , Cité Hai AIT KACEM MED, 024 78 85 84, 024 78 85 84, casnos35@casnos.com.dz,36.7417,3.7231,35
+124,EL TAREF            , Cité Laabidi Ramdane EL TAREF, 038 30 00 59, 038 30 00 59 / 038 30 00 73, casnos36@casnos.com.dz,36.765016,8.31882,36
+125,EL TAREF Ben M'hidi            , Cité 202 logts EPLF ben mhidi W EL TAREF, 038 34 66 04, 038 34 66 04, casnos36@casnos.com.dz,36.772132,7.903132,36
+126,EL TAREF G/S Drean            , Cité 1300 logts Drean W EL TAREF, 038 38 42 07, 038 38 42 07, casnos36@casnos.com.dz,36.682721,7.7439,36
+127,TINDOUF            , CITE ENNASR 04 LOGT TINDOUF, 049 38 30 24, 049 38 39 50," casnos37@casnos,com,dz",27.675327,-8.132077,37
+128,TISSEMSILT            , Rue 1er Novembre Tissemsilt, 046 57 46 40, 046 57 46 53, casnos38@CASNOS.COM.DZ,35.607667,1.810167,38
+129,EL-OUED            , CITE 19 MARES, 032 13 00 50 / 032 13 00 51, 032 13 00 47, casnos39@CASNOS.COM.DZ,33.342863,6.863211,39
+130,EL-OUED DJAMAA            , CITE HOPITAL, 032 15 62 77, 032 15 62 78, casnos39@CASNOS.COM.DZ,33.535849,5.988961,39
+131,EL-OUED EL-MEGHAIER            , CITE 01 NOVEMBRE, 032 19 50 95, 032 19 50 96, casnos39@CASNOS.COM.DZ,33.955496,5.92612,39
+132,EL-OUED GUEMAR            , CITE CHOUHADA 80 LOGEMENT,,, casnos39@CASNOS.COM.DZ,33.499513,6.797882,39
+133,EL-OUED TAGHZOUT            , CITE BULLE VUE, 032 13 83 05,, casnos39@CASNOS.COM.DZ,33.47266,6.799781,39
+134,KHENCHELA            , CITE DES 150 LOGEMENTS (PRES DE LA WILAYA) KHENCHELA, 032 72 72 35, 032 72 72 35, casnos40@CASNOS.COM.DZ,35.431536,7.142005,40
+135,KHENCHELA KAIS            , EX SIEGE DE LA DAIRA KAIS WILAYA DE KHENCHELA, 032 77 21 67, 032 77 21 67, casnos40@CASNOS.COM.DZ,35.492231,6.92683,40
+136,KHENCHELA CHECHAR            ," CITE RABHI LAALALI, BLOC ADMINISTRATIF (02) 1er ETAGE N°32 CHECHAR WILAYA DE KHENCHELA", 032 75 55 66, 032 75 55 66, casnos40@CASNOS.COM.DZ,35.049646,7.015715,40
+137,SOUK AHRAS            , CITE 1700 logs soukahras, 037 82 47 35, 037 82 47 37, casnos41@CASNOS.COM.DZ,36.281389,7.943341,41
+138,TIPAZA            , CITE 80 LOGTS ROUTE D'ALGER KOLEA, 024 36 37 50, 024 36 37 51, casnos42@casnos.com.dz,36.645228,2.773738,42
+139,TIPAZA HADJOUT            , CITE DES FRERES GUENDOUZ N° HADJOUT, 024 39 58 87, 024 39 59 83, casnos42@casnos.com.dz,36.515722,2.4165,42
+140,TIPAZA CHERCHELL            , CITE 40 LOGTS BT 'E' CHERCHELL, 024 34 40 57, 024 34 40 57, casnos42@casnos.com.dz,36.599444,2.176389,42
+141,MILA            , 02 RUE ZEGHDOUD YOUCEF MILA, 031 47 39 87, 031 47 39 87, casnos43@casnos.com.dz,36.452766,6.263816,43
+142,MILA CHELGHOUM LAID            , 120 LOGMENTS CHELGHOUM LAID, 031 42 65 06, 031 42 65 06, casnos43@casnos.com.dz,36.166796,6.179063,43
+143,MILA FERDJIOUA            , CNAS FERDJIOUA, 031 49 50 16, 031 49 50 16, casnos43@casnos.com.dz,36.411462,5.938827,43
+144,AIN DEFLA            , Cité 300 logts Ain Defla, 027 50 54 74,, casnos44@casnos.com.dz,36.261502,1.952333,44
+145,AIN DEFLA EL ATTAF            , Rue khemisti El Attaf, 027 63 49 51,, casnos44@casnos.com.dz,36.223442,1.662628,44
+146,AIN DEFLA KHEMIS MILIANA            , Rue farsi mustapha Khemis Miliana, 027 56 21 05,, casnos44@casnos.com.dz,36.259162,2.216091,44
+147,NAAMA            , CITE SOUMMAM AIN SEFRA B P 77A, 049 76 92 38, 049 76 92 38, casnos45@casnos.com.dz,32.7563332,-0.5778033,45
+148,NAAMA ELHAMMAR(GS)-AIN SEFRA            , HAI 17 OCTOBRE AIN SEFRA B P 77A, 049 56 45 08, 049 56 45 09, casnos45@casnos.com.dz,32.7563332,-0.5778033,45
+149,NAAMA MECHERIA(GS)            , CITE 88 LOG HAI WIAAM MECHERIA, 049 58 74 41, 049 58 74 41, casnos45@casnos.com.dz,33.549999,-0.283333,45
+150,AIN TEMOUCHENT            , Bd.Complexe OPGI Route d'ORAN Ain Témouchent, 043 79 58 01, 043 79 17 15, casnos46@casnos.com.dz,35.306167,-1.142528,46
+152,GHARDAIA            , Place 1er mai Ghardaia, 029 28 94 17, 029 28 51 00, casnos47@casnos.com.dz,32.492429,3.682384,47
+153,GHARDAIA GUERRARA            , HAY EL AKID LOTFI, 029 26 17 06, 029 26 17 06, casnos47@casnos.com.dz,32.789122,4.490734,47
+154,GHARDAIA METLLILI            , RUE 08 MAI 1945, 029 29 26 30, 029 29 26 30, casnos47@casnos.com.dz,32.268886,3.631154,47
+155,GHARDAIA BERRIANE            , PLACE DU MARCHE, 029 24 69 13, 029 24 69 13, casnos47@casnos.com.dz,32.825719,3.763879,47
+156,GHARDAIA EL MENEA            , RUE LARBI BEN M'HIDI, 029 21 12 40, 029 21 12 40, casnos47@casnos.com.dz,30.59753,2.885344,47
+157,RELIZANE            , CITE DIAR EL WARD, 046 76 03 34, 046 76 03 34, casnos48@casnos.com.dz,35.736347,0.557419,48
+59,ALGER EST Mohammedia            ," Centre de Commerce et des Affaires""Mohammedia Mol"" 6ème étage", 023 80 40 02, 023 80 40 02, casnos16@casnos.com.dz,36.7344166666667,3.14638888888889,16
+77,SKIKDA            ," 46,47 CITE LES ALLEES DU 20 AOUT 55", 038 72 16 92, 038 92 16 92, casnos21@casnos.com.dz,36.8701072777778,6.912174,21
+78,SKIKDA COLLO            , RUE de la PALESTINE COLLO W SKIKDA, 038 90 53 18, 038 90 53 18, casnos21@casnos.com.dz,37.007189,6.564936,21
+79,SKIKDA Contrôle medicale            , Boulevard Brahim Maiza, 038 75 45 64, 038 75 45 64, casnos21@casnos.com.dz,36.883382,6.908158,21
+151,AIN TEMOUCHENT G.S Béni Saf            , Rue Aissette Idir Sidi Boucif Béni Saf, 043 74 20 68, 043 74 20 68, casnos46@casnos.com.dz,35.3045259,-1.3822607,46
