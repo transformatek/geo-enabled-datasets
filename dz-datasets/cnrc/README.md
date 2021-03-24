@@ -27,3 +27,6 @@ The datasets consists of branches of the National Centre of Trade Register (CNRC
 2. Geocoding with Awesome Geocoding add-on in google sheets.
 3. Data validation and correction using QGIS
 
+
+
+Dataset created on 15 February 2021
