@@ -11,10 +11,11 @@ The datasets consists of branches of the National Centre of Trade Register (CNRC
 
 | Key          | Description | 
 | ------------ | -----------------------|
-| code| Wilaya code of where the branch is located |
+| id| Identification number |
+| code| Wilaya code |
 | wilaya |Wilaya name                |
 | city       |City name |
-| adresse |Address of the branch |
+| address |Address of the branch |
 | tel | Telephone number(s)                 |
 | fax | Fax number(s) |
 | long | Longitude                 |
