@@ -12,7 +12,7 @@ This dataset was produced from the adresses collected from the following URL
 
 | Key          | Description | 
 | ------------ | -----------------------|
-| num       | Sequential number |
+| id   | identification number |
 | branch       |Branch name |
 | adresse |Address of the branch |
 | wilaya |Wilaya name                |
