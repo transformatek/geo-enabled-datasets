@@ -24,5 +24,5 @@ The datasets consists of branches of the CASNOS(caisse nationale de sécurité s
 
 ## Dataset creation steps
 
-1. Getting data from  [CASNOS site](http://casnos.com.dz/nos-agences/) using the [script]() .
+1. Getting data from  [CASNOS site](http://casnos.com.dz/nos-agences/) using the [script](https://github.com/transformatek/geo-enabled-datasets/blob/main/dz-datasets/casnos/scrap.ipynb) .
 2. Data validation and correction using QGIS
