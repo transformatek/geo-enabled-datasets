@@ -12,10 +12,13 @@ This dataset was produced from the javascript code collected availabale at the f
 
 ## Format for wilayas 
 
-| Key          | Description | 
-| ------------ | -----------------------|
-| code| Wilaya code |
-| nom |Wilaya name                |
+| Key     | Description | 
+| ------- | -----------------------|
+| num     | Sequential number |
+| code    | Wilaya code |
+| nom     | Wilaya name in lower case  |
+| nom_maj | Wilaya name in upper case  |
+| nom_ar  | Wilaya name in arabic  |
 
 ## Format for Communes 
 
