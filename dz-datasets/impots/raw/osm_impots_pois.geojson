@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "osm_impots_pois",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "153107861", "code": 2099, "fclass": "public_building", "name": "Receveur des impots - Dely brahim" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 2.9887979, 36.7488176 ], [ 2.988971, 36.7488605 ], [ 2.9890361, 36.7487004 ], [ 2.9888604, 36.7486609 ], [ 2.9888162, 36.7487693 ], [ 2.9887979, 36.7488176 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "196930892", "code": 2099, "fclass": "public_building", "name": "Inspection des impôts" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 6.3515325, 35.2570321 ], [ 6.3516044, 35.2570641 ], [ 6.3516404, 35.2570269 ], [ 6.3518012, 35.2571168 ], [ 6.3518689, 35.2570416 ], [ 6.3516362, 35.256912 ], [ 6.3515325, 35.2570321 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "552216646", "code": 2099, "fclass": "public_building", "name": "ISPECTION DES IMPOT" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 3.3692033, 36.6825089 ], [ 3.3692288, 36.6825474 ], [ 3.3692917, 36.6826427 ], [ 3.3693438, 36.6827207 ], [ 3.3694405, 36.6826458 ], [ 3.3692951, 36.6824622 ], [ 3.3692033, 36.6825089 ] ] ] ] } }
+]
+}

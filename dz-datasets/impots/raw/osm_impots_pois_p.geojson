@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "osm_impots_pois_p",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "4118555402", "code": 2601, "fclass": "bank", "name": "Service des impôts" }, "geometry": { "type": "Point", "coordinates": [ 3.1932226, 36.7478019 ] } }
+]
+}
