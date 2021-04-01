@@ -16,15 +16,15 @@ The dataset was created : 30/03/2021
 
 | Key          | Description | 
 | ------------ | -----------------------|
-|num| sequentiel number |
+|id| sequentiel number |
 |code| Wilaya offcial number |
-|nom| Name of the banche (agency) |
+|name| Name of the banche (agency) |
 |type| Branche type : Agency or Antenne |
-|adresses| Postal adresse |
+|address| Postal adresse |
 |e-mail| Mail addresse |
 |fax| Fax number |
 |tel| Phone number |
-|wilayas de rattachement| Affilated Wilayas, usful for Antennes  |
+|wilayas of attachment | Affilated Wilayas, usful for Antennes  |
 |lat| Latitude coordinate |
 |lon| Longitude coordinate |
 
