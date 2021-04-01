@@ -24,8 +24,13 @@ This dataset was produced from the javascript code collected availabale at the f
 
 | Key          | Description | 
 | ------------ | -----------------------|
-| num       | Sequential number |
-| code| Commune code   |
-| nom |Wilaya name     |
-| cod_wil |Wilaya code |
-| nom_wil| Wilaya name |
+| num          | Sequential number |
+| cod_wil      | Wilaya code |
+| code         | Commune code |
+| code_5       | Commune code with 05 significant numbers|
+| code_48      | Commune code in 48 wilayas subdivision  1984 |
+| code_58      | Commune code in 58 wilayas subdivision  2019-2021 |
+| nom          | Commune name in lower case  |
+| nom_maj      | Commune name in upper case  |
+| nom_ar       | Commune name in arabic  |
+
