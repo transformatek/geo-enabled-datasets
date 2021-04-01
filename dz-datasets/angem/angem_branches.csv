@@ -1,4 +1,4 @@
-num,code,nom,type,adresses,e-mail,fax,tel,wilayas de rattachement,lat,lon
+id,code,nom,type,address,e-mail,fax,tel,wilayas of attachment,lat,lon
 1,1,ADRAR,Agence,"CITE 500 VILLAS CNEP N°40, ADRAR",adrar@angem.dz,049 96 76 19,049 96 46 74,ADRAR,27.8801383862469,-0.281886521071581
 2,2,CHLEF,Agence,"RUE DJOUBA, HAY BEN SOUNA, CHLEF ",chlef@angem.dz,027 79 21 59,027 79 21 58,CHLEF,36.1609205,1.3155951
 3,3,LAGHOUAT,Agence,AVENUE 05 JUILLET MAAMOURAH-LAGHOUAT,laghouat@angem.dz,029 13 25 37,029 13 25 38,LAGHOUAT,33.8078341,2.8628294
