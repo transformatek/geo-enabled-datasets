@@ -1,4 +1,4 @@
-num,num_inscription,raison_sociale,forme_juridique,adresse,wilaya,tel,fax,email,lat,lon
+num,num_inscription,commercial_nam,legal_form,adress,wilaya,tel,fax,email,lat,lon
 1,1557,FID ACCOUNTING,SARL,"LOT  N""94 6eme ETAGE DU QUARTIER DES AFFAIRES  DE BAB EZZOUAR - ALGER",Alger,,,,36.7135242,3.1993084
 2,1713,ALOUANI,SOCIETE CIVILE,"HAMIZ 4 GROUPE 10 LOT N""07,DAR EL BEIDA - ALGER",Alger,0 21 86 97 11,0 2186 97 27,alouani_audit@yaho o.fr,36.734664,3.2365862
 3,2126,BETA PERFORMANCE,EURL,"69, COOPERATIVE 20 AOUT BIR KHADEM - ALGER",Alger,0 216315 30,0 2163 15 30,h.mazouz@betaperformance.com,36.7160675,3.0496695
