@@ -8,7 +8,8 @@ Geo-enabled datasets built from open sources freely available on the internet
     * [caisse nationale de sécurité sociale des non-salariés (CASNOS)](./dz-datasets/casnos/casnos_branches.csv)
     * [Caisse nationale d'assurance chômage (CNAC)](./dz-datasets/cnac/cnac_branches.csv)
     * [Centre nationale des regisitres de commerce (CNRC)](./dz-datasets/cnrc/cnrc_branches.csv)
-    * [Office National des statistiques (ONS](./dz-datasets/ons/ons_branches.csv)
+    * [Office National des statistiques (ONS)](./dz-datasets/ons/ons_branches.csv)
+    * [Impots](./dz-datasets/impots/impots.csv)
 
 * Insurance companies 
     * [Société Algérienne d'Assurance (SAA)](./dz-datasets/insurance/saa-assurance/saa_branches.csv)
@@ -24,6 +25,14 @@ Geo-enabled datasets built from open sources freely available on the internet
     * [Accountants moral persons (companies)](./dz-datasets/accountants/accountants_moral.csv)
     * []()
 
+
+## View on a Map 
+
+All the above datasets are available in the TransformaTek's Location Intelligence Platform Geoweba.
+
+[https://geoweba.transformatek.dz](https://geoweba.transformatek.dz)
+
+Please feel free to check them and comment if necessary.
 
 ## Terms and conditions
 
