@@ -30,7 +30,7 @@ Geo-enabled datasets built from open sources freely available on the internet
 
 All the above datasets are available in the TransformaTek's Location Intelligence Platform Geoweba.
 
-[https://geoweba.transformatek.dz](https://geoweba.tranformatek.dz)
+[https://geoweba.transformatek.dz](https://geoweba.transformatek.dz)
 
 Please feel free to check them and comment if necessary.
 
