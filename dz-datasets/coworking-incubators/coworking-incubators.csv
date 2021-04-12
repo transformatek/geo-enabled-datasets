@@ -1,0 +1,23 @@
+num,name,address,wilaya,code_wil,email,type,lat,lon
+1,Crearena,"05, Avenue Kritli Mokhtar 09001 Blida",Blida,8,hello@crearena.co,incubator,36.4747066,2.8324664
+2,ACSE,"107 bis, Boulevard Des Martyrs, Sidi M’Hamed, Alger",Alger,16,contact@acsedz.com,incubator,36.7504849,3.0562856
+3,Bab 08,"08, rue Didouche Mourad, Place Audin, Alger",Alger,16,,coworking,36.7692411,3.0549448
+4,Bulle Space,"4 Rue Mohamed Abdou, El Mouradia, Alger",Alger,16,,coworking,36.7488139,3.0532663
+5,Capcowork,"Cité du Paradou, Hydra, Alger",Alger,16,,coworking,36.7427378,3.0300754
+6,ENP Incubator by Djezzy,"Rue des frères Oudek, Hacen Badi, BP 182 El Harrach Alger",Alger,16,pic@g.enp.edu.dz,incubator,36.7231786,3.1507671
+7,InCubMe,"lot Bouchaoui 03, N° 333, Chéraga, Alger",Alger,16,contact@incubme.com,incubator,36.758372,2.9188999
+8,Le 95,"95, rue Didouche Mourad, Alger Centre",Alger,16,,coworking,36.76509,3.0493387
+9,Leancubator,"Cité des petits bois, Sidi yahia, Alger",Alger,16,contact@leancubator.co,incubator,36.7427378,3.0300754
+10,Naql Tech,"Siège de l’ETUSA, au 21 Avenue Ahmed Ghermoul, Sidi M’Hamed, Alger",Alger,16,hello@naqltech.com,incubator,36.760274,3.0496045
+11,Orbit,"Rue Mercurie, Boulevard Mohamed 5, Alger Centre",Alger,16,,coworking,36.7669068,3.0485221
+12,Sylabs,"08 Rue Capitaine Hassani, Alger Centre",Alger,16,,coworking,36.7740164,3.0608326
+13,The Address Mohammadia,"4e étage, n° 1163, Centre commercial Mohammadia Mall, Tamaris, Alger",Alger,16,,coworking,36.7353763,3.1751436
+14,The Address Sidi Yahia,"36 Chemin Sidi Yahia, Hydra, Alger",Alger,16,,coworking,36.7405094,3.0413652
+15,The Annex,"T3 lotissement El Hamiz, 12 Chemin Sidi Yahia, Hydra, Alger",Alger,16,,coworking,36.7385941,3.0370662
+16,Tsart Ooredoo,"Ouled Fayet, Alger",Alger,16,,incubator,36.745487,2.9499848
+17,WomWork-Anissa Business Angels,"Hydra, Alger",Alger,16,,incubator,36.7449116,3.0288743
+18,InnovaCo Space,"78, Boulevard du 1er nouvember, El-Eulma 19600, Setif",Sétif,19,,coworking,36.1513937,5.6918962
+19,Tsart Ooredoo,Annaba,Annaba,23,,incubator,36.8941801,7.7567144
+20,CosyCoffice,"Cité 500 logements (1100), BT 08, N° 11, AIN EL BEY, Constantine",Constantine,25,,coworking,36.3143021,6.6324912
+21,Knowlab coworking space,Médea,Medea,26,contact@almaahed.com,incubator,36.2657617,2.7903997
+22,Niwa,"Bâtiment N°10, Apt 3, Place Hoche, Rue Larbi ben M’hidi, Oran",Oran,31,,coworking,35.7023799,-0.640055
