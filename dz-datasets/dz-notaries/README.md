@@ -1,24 +1,41 @@
 # Notaries dataset
 Dataset for official notaries in Algeria
 
-
 ## Source
-[Page maghreb](https://www.lespagesmaghreb.com).
-(https://www.lespagesmaghreb.com/annuaire/algerie/notaires/1641f19)
- 
 
+* Offical table of Algerian notaries 
+
+## Date 
+
+The dataset was created : 15/04/2021 
+
+ 
 ## Data format
 
 | Key          | Description | 
 | ------------ | -----------------------|
-| code| Wilaya code of where the notary works |
-| nom |Name of the notary               |
-| adresse |Address of the notary |
-| long | Longitude                 | 
-| lat |Latitude            |
+| name         | Name of the notary               |
+| address      | Address of the notary |
+| long         | Longitude                 | 
+| lat          | Latitude            |
+| code_wil     | Wilaya code of where the notary works |
 
 ## Dataset creation steps
 
-1. Getting data from  [Page Maghreb ](https://www.lespagesmaghreb.com/annuaire/algerie/notaires/1641f19) using the [script]() .
-2. Geocoding with Awesome Geocoding add-on in google sheets.
-3. Data validation and correction using QGIS
+1. Automatic Text recognition of the offical table of Algerian 
+1. Cross check with some online phonebooks
+1. Check that location are within their corresponding Wilayas limits with home built Pyhton JupyterNotebooks 
+1. Check that locations are near OSM Buildings with home built Pyhton JupyterNotebooks  
+1. Data validation and errors correction manually using QGIS
+
+## Comments
+
+Branches are related to 48 wilayas not to the new 58 Wialya (Provinces) of Algeria.
+
+## Terms and conditions
+
+Datasets are provided to you under a Creative Commons Attribution 4.0 International License (CC BY 4.0) which can be accessed [here](https://creativecommons.org/licenses/by/4.0/).
+
+TRANSFORMATEK DISCLAIMS ALL WARRANTIES OF ANY KIND RELATED TO THE PROVISION OF THE DATASETS.
+
+
