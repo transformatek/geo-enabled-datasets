@@ -1,4 +1,4 @@
-Unnamed: 0,name,address,phone_number,category,organization,lat,lon,commune_name,wilaya_name,type_name,type_id,code_wil
+num,name,address,phone_number,category,organization,lat,lon,commune_name,wilaya_name,type_name,type_id,code_wil
 "380",CCLS ADRAR,CCLS ADRAR,,pv,OAIC,27.89778568627,-0.290856016773514,ADRAR,ADRAR,Légumes secs,"5","1"
 "408",CCLS TENES,Station Ouled Farres RN 19 centre Ouled Fares ,,pv,OAIC,36.226154,1.23458,OULED FARES,CHLEF,Légumes secs,"5","2"
 "410",CCLS TENES,Cite Abou  Abou El Hassen,,pv,OAIC,36.4161533933345,1.19330689803688,ABOU EL HASSEN,CHLEF,Légumes secs,"5","2"
