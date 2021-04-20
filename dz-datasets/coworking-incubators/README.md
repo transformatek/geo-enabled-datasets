@@ -25,7 +25,6 @@ The dataset was created : 11/04/2021
 |lat             | Latitude coordinate |
 |lon             | Longitude coordinate |
 
-num,name,address,wilaya,code_wil,email,type,lat,lon
 
 ## Processing steps
 
