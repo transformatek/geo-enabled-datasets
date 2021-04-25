@@ -7,18 +7,21 @@ Dataset for official notaries in Algeria
 
 ## Date 
 
-The dataset was created : 15/04/2021 
+The dataset was created : 25/04/2021 
 
- 
 ## Data format
 
 | Key          | Description | 
 | ------------ | -----------------------|
-| name         | Name of the notary               |
-| address      | Address of the notary |
-| long         | Longitude                 | 
-| lat          | Latitude            |
-| code_wil     | Wilaya code of where the notary works |
+|num           | Sequentiel number |
+|name          | Name of the notary               |
+|address       | Address of the notary |
+|code_wil      | Wilaya offcial number |
+|court         | Court of attachement for the notary |
+|tel           | Phone number |
+|status        | The Notary legal status physical, company or chamber|
+|lat           | Latitude coordinate |
+|lon           | Longitude coordinate |
 
 ## Dataset creation steps
 
