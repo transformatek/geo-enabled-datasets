@@ -29,6 +29,10 @@ Geo-enabled datasets built from open sources freely available on the internet
     * [Coworking spaces and Incubators](./dz-datasets/coworking-incubators/coworking-incubators.csv)
     * []()
 
+* Agriculture   
+    * [Entities of Algerian Ministry of Argiculture](./dz-datasets/agriculture/madr_entities.csv)
+    * [Sales points for argicultural products](./dz-datasets/agriculture/sales_points_agriculture.csv)
+
 * Tourism and Culture   
     * [Archeological sites in Algeria](./dz-datasets/archeology/archeological_sites.csv)
 
