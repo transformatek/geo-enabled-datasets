@@ -1,27 +1,26 @@
-# Dataset for incubators and Coworking spaces in Algeria
-This dataset includes all known incubators and coworking spaces in Algeria 
+# Dataset Archeological sites in Algeria
+
+This dataset includes known archeological sites available in the CNRA Atlas (Centre National de Recherche en Archéology)  
 
 ## Source
 
-This dataset is prduced from the folowing publication 
-[http://geekyalgeria.com/liste-complete-incubateurs-actifs-algerie-en-2021/](http://geekyalgeria.com/liste-complete-incubateurs-actifs-algerie-en-2021/)
+This dataset is produced from following url 
+[http://cnra.dz/atlas/latlas/](http://cnra.dz/atlas/latlas/)
+
 
 ## Date 
 
-The dataset was created : 11/04/2021
+The dataset was created : 20/04/2021
 
 ## Data format
-
 
 | Key            | Description | 
 | ------------   | -----------------------|
 |num             | Sequentiel number |
-|name            | The name of the incubator or the coworking space  |
-|address         | Postal adresse |
-|wilaya          | Wilayas name |
+|title           | The title of the archeological site  |
+|categories      | Categories of the site |
+|permalink       | Link to more information on the Atlas |
 |code_wil        | Wilaya offcial number |
-|email           | Mail address |
-|typr            | Coworking or Incubator |
 |lat             | Latitude coordinate |
 |lon             | Longitude coordinate |
 
@@ -29,7 +28,7 @@ The dataset was created : 11/04/2021
 ## Processing steps
 
 1. Data collection from online ressources
-1. Geocoding
+1. Conversion to CSV file
 1. Data validation and errors correction manually using QGIS
 
 ## Comments
