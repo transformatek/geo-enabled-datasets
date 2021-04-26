@@ -25,7 +25,7 @@ Geo-enabled datasets built from open sources freely available on the internet
     * [Accountants physical persons](./dz-datasets/accountants/accountants_physical.csv)
     * [Accountants moral persons (companies)](./dz-datasets/accountants/accountants_moral.csv)
 
-* Entrepreneurship organisations   
+* Entrepreneurship organizations   
     * [Coworking spaces and Incubators](./dz-datasets/coworking-incubators/coworking-incubators.csv)
     * []()
 
