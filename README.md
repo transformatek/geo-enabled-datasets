@@ -21,11 +21,11 @@ Geo-enabled datasets built from open sources freely available on the internet
     * [Banque Nationale d'Algérie (BNA)](./dz-datasets/banks/bna/bna_branches.csv)
 
 * Liberal professions  
+    * [Notaries](./dz-datasets/notaries/notaries.csv)
     * [Accountants physical persons](./dz-datasets/accountants/accountants_physical.csv)
     * [Accountants moral persons (companies)](./dz-datasets/accountants/accountants_moral.csv)
-    * []()
 
-* Entrepreneurship organisations   
+* Entrepreneurship organizations   
     * [Coworking spaces and Incubators](./dz-datasets/coworking-incubators/coworking-incubators.csv)
     * []()
 
