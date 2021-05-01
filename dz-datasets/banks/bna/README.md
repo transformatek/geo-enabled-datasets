@@ -1,27 +1,27 @@
-# AGB Bank branches dataset
-The datasets consists of branches of the AGB Bank of Algeria 
+# BNA Bank branches dataset
+The datasets consists of branches of the Algerian Bank BNA (Banque Nationale d'Algérie) 
 
 
 ## Source
 
 This dataset has been produced using the following link
-[https://www.agb.dz/javascript/agbMap.min.js](https://www.agb.dz/javascript/agbMap.min.js).
 
- 
+[https://www.bna.dz/fr/contact.html](https://www.bna.dz/fr/contact.html).
+
+
 ## Data format
 
-| Key       | Description | 
-| --------- | -----------------------|
-|num        | sequencial number |
-|wilaya     | Wilaya name|
-|name       | Branche name |
-|address    | Postal Address|
-|city       | City|
-|phone      | Phone number|
-|fax        | Fax number|
-|email      | Email Address|
-|lat        | Latitude coordiante|
-|lon        | Longitude Coordinate|
+| Key           | Description | 
+| ------------- | -----------------------|
+| num           | Seqience number | 
+| name          | Branche name | 
+| email         | Email address | 
+| address       | Postal address | 
+| tel           | Phone number | 
+| fax           | Fax number | 
+| code_wil      | Wialya code | 
+| lat           | latitude coordinate | 
+| lon           | Longitude coordinate | 
 
 
 ## Processing steps

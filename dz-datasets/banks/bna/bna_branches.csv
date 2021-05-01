@@ -1,4 +1,4 @@
-id,nom,email,adresse,wilaya,code_wilay,tel,fax,long,lat
+num,name,email,address,wilaya,code_wil,tel,fax,lon,lat
 "0",250 - Agence ADRAR,agadrar250@bna.dz,Grande Place des Martyrs - 01000 Adrar,Adrar,"1",(049) 36 78 43 - (049) 36 78 42,(049) 36 78 46,-0.289821413459744,27.871741298803833
 "1",251 - Agence TIMIMOUN,agtimimoun251@bna.dz,Place du 1er Novembre - 01400 Timimoune,Adrar,"1",(049) 30 03 87 - (049) 30 03 90,(049) 30 03 92,0.241596400000000,29.261691100000000
 "2",413 - Agence AOULEF,agaoulef413@bna.dz,Marché Couvert Place Aoulef - 01300 Aoulef,Adrar,"1",(049) 32 77 47 - (049) 32 77 77,(049) 32 77 62,1.081003100000000,26.972326400000000
