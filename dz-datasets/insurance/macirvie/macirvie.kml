@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Réseau Macirvie</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Macirvie</name>
+      <Placemark>
+        <name>Adrar</name>
+        <description><![CDATA[<img src="https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/0vk2qtn2kkdgaf678ooejh5n6c/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpMvc_7PUJHTJF9XhEQ36o3OT_j-wWL_XQo-C0vtRHGXgoNXRY27KDMmUvLNBSFk6lJkd1B5Rm3k5lrT9Kun9n8UclVy3N0wHMZSorumADeZu9-5-GWy0XEkEZfJL5mw0CVL90VaiLM_xLDNqOeSVUsOx2x7tOwPbZxDjchS7ik3s5f8pFqHHsXAWTdPfU7yw-b2V2a?session=0&fife" height="200" width="auto" /><br><br>Code agence : 5140<br>Adresse postale : Rue Abdelkader Benslimane <br>Numéro de téléphone : 049.367.430<br>Numéro de mobile : 0660,39,03,85<br>Numéro de fax : 049.367.430<br>Adresse email : b.lalou@macirvie.com<br>-----------------------------------------------<br>Code agence : 5141<br>Adresse postale : Marché couvert, Timimoun<br>Numéro de téléphone : 049.904.275<br>Numéro de mobile : 0660,39,03,85<br>Numéro de fax : 049.904.275<br>Adresse email : b.lalou@macirvie.com<br>-----------------------------------------------<br><br>Lat: 27.97163<br>Long: -0.18696<br><br><img src="https://doc-04-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/bvvnq4ti2mp3igdprqq74elt9k/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALo0400Osxh_gFq_2rvdiHchlX3PLUpmxSpC_DfAyek580MLIsr8uWu_SI1isTZOFRflqIaI56EY4yZh4XbQR2ro8FzxIbaa6fsmKs7_AhDhsjhc6NLC2m4eKVO1DhGbgk8-jwDXEk431tXp1tQfBbmNZobjowH-wpVE3LV_h1Z6w7jEH-3GnTOwYQ0gHwhl5waOjVUPGWZUKKbrKdo0aJhIe4X5jQ?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>27.97163</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.18696</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/0vk2qtn2kkdgaf678ooejh5n6c/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpMvc_7PUJHTJF9XhEQ36o3OT_j-wWL_XQo-C0vtRHGXgoNXRY27KDMmUvLNBSFk6lJkd1B5Rm3k5lrT9Kun9n8UclVy3N0wHMZSorumADeZu9-5-GWy0XEkEZfJL5mw0CVL90VaiLM_xLDNqOeSVUsOx2x7tOwPbZxDjchS7ik3s5f8pFqHHsXAWTdPfU7yw-b2V2a?session=0&fife https://doc-04-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/bvvnq4ti2mp3igdprqq74elt9k/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALo0400Osxh_gFq_2rvdiHchlX3PLUpmxSpC_DfAyek580MLIsr8uWu_SI1isTZOFRflqIaI56EY4yZh4XbQR2ro8FzxIbaa6fsmKs7_AhDhsjhc6NLC2m4eKVO1DhGbgk8-jwDXEk431tXp1tQfBbmNZobjowH-wpVE3LV_h1Z6w7jEH-3GnTOwYQ0gHwhl5waOjVUPGWZUKKbrKdo0aJhIe4X5jQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.18696,27.97163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ain Defla</name>
+        <description><![CDATA[<img src="https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3jrh7l65hjsd2hptdra0s8p7m8/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqMA6kp-5uot3iiy-ne6e36FISglNb994B2nMQn7vLTHvZo9-xW9pbiWINQlsyDMiRrqhHprxz-SzLAaXMTyXkBRHqAqz3po3SXOzfnWiwB87OXl_91cvg9JAdrFbVi6Bigsd6pvmsxeHFb-nE-BdZTVakF0rIB681Ktm10bOW0DmCWvZrCgn1yYZdO5OERMnpxe0N2?session=0&fife" height="200" width="auto" /><br><br>Code agence : 2120<br>Adresse postale : Rue Med Khemisti, El Attaf<br>Numéro de téléphone : 027.632.725<br>Numéro de mobile : 0550 90 33 29<br>Numéro de fax : 027.632.725<br>Adresse email : a.zane@macirvie.com<br>-----------------------------------------------<br>Code agence : 2123<br>Adresse postale : Cité CHOUAL n° 121<br>Numéro de téléphone : 027.510.141<br>Numéro de mobile : 0550 90 33 31<br>Numéro de fax : 027.510.141<br>Adresse email : a.zane@macirvie.com<br>-----------------------------------------------<br>Code agence : 2140<br>Adresse postale : Rue du 20 Août - Cité EPLF, Khemis Miliana<br>Numéro de téléphone : 027.663.316<br>Numéro de mobile : 0.561.604.758<br>Numéro de fax : 027.663.316<br>Adresse email : K.zoubeidi@mcirvie.com<br>-----------------------------------------------<br>Code agence : 2141<br>Adresse postale : Rue du 20 Août, Sidi Lakhdar<br>Numéro de téléphone : 027.688.191<br>Numéro de mobile : 0.561.604.758<br>Numéro de fax : 027.688.191<br>Adresse email : K.zoubeidi@mcirvie.com<br>-----------------------------------------------<br>Code agence : 2142<br>Adresse postale : 59, Rue Emir Abdelkader, Bou Medfaa<br>Numéro de téléphone : 027.544.338<br>Numéro de mobile : 0.561.604.758<br>Numéro de fax : 027.544.338<br>Adresse email : K.zoubeidi@mcirvie.com<br>-----------------------------------------------<br>Code agence : 2180<br>Adresse postale : Haï des frères METAI (NADJAM)<br>Numéro de téléphone : 027.504.188<br>Numéro de mobile : 0.560.932.554<br>Numéro de fax : 027.504.188<br>Adresse email : s.hadjoucif@macirvie.com<br>-----------------------------------------------<br>Code agence : 2250<br>Adresse postale : 201, Rue BELSAADI Abdelkader, Khemis Miliana<br>Numéro de téléphone : 027.560.427<br>Numéro de mobile : 0550 59 56 55<br>Numéro de fax : 027.560.427<br>Adresse email : a.azizou@macirvie.com<br>-----------------------------------------------<br>Code agence : 2251<br>Adresse postale : Cité LSP 18 logements bat B n° 4, Djelida<br>Numéro de téléphone : 027.612.127<br>Numéro de mobile : 0550 59 56 55<br>Numéro de fax : 027.612.127<br>Adresse email : a.azizou@macirvie.com<br>-----------------------------------------------<br>Code agence : 2410<br>Adresse postale : Rue Benchaaben Abdelhafidh, Miliana<br>Numéro de téléphone : 027.640.707<br>Numéro de mobile : 0.561.604.759<br>Numéro de fax : 027.640.707<br>Adresse email : r.bougherara@macirvie.com<br>-----------------------------------------------<br>Code agence : 2411<br>Adresse postale : Lot n°45 - Rue Zouaoui Miloud (en face DAIRA), Djendel<br>Numéro de téléphone : 027.541.314<br>Numéro de mobile : 0.561.604.759<br>Numéro de fax : 027.541.314<br>Adresse email : r.bougherara@macirvie.com<br>-----------------------------------------------<br>Code agence : 2252A<br>Adresse postale : Rue Principale, Bir Ould Khelifa<br>Numéro de téléphone : 027.56.04.27<br>Numéro de mobile : 0.561.604.759<br>Numéro de fax : 027.541.314<br>Adresse email : r.bougherara@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.26318<br>Long: 1.9641<br><br><img src="https://doc-08-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/b2qf0vnfr51nejg9oupj4l6f80/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqxLkXGaAX9Z7MbOWck2PWpLfogLnkEFkbEJw8gH7f23IyR5_Ba7uHuteCHrj8diapL2hfO601Cb6MxrVmyUp4OyCA_Al6bDvbqSeV-cj3rvCp0F8wkf6_NIWDGJy87ZeUvsJ32Ai_svM9n2ijhgM8JrroGoD7e_gzhkj1t-XESev7lYanRNJBQFsAIaAjEl0EQqUZgjbBBd6QCYTz5R3pXRxBbpw?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.26318</value>
+          </Data>
+          <Data name="Long">
+            <value>1.9641</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3jrh7l65hjsd2hptdra0s8p7m8/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqMA6kp-5uot3iiy-ne6e36FISglNb994B2nMQn7vLTHvZo9-xW9pbiWINQlsyDMiRrqhHprxz-SzLAaXMTyXkBRHqAqz3po3SXOzfnWiwB87OXl_91cvg9JAdrFbVi6Bigsd6pvmsxeHFb-nE-BdZTVakF0rIB681Ktm10bOW0DmCWvZrCgn1yYZdO5OERMnpxe0N2?session=0&fife https://doc-08-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/b2qf0vnfr51nejg9oupj4l6f80/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqxLkXGaAX9Z7MbOWck2PWpLfogLnkEFkbEJw8gH7f23IyR5_Ba7uHuteCHrj8diapL2hfO601Cb6MxrVmyUp4OyCA_Al6bDvbqSeV-cj3rvCp0F8wkf6_NIWDGJy87ZeUvsJ32Ai_svM9n2ijhgM8JrroGoD7e_gzhkj1t-XESev7lYanRNJBQFsAIaAjEl0EQqUZgjbBBd6QCYTz5R3pXRxBbpw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.9641,36.26318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alger</name>
+        <description><![CDATA[<img src="https://doc-0k-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/e5sql5sacoi79c6b9j6glhaf30/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqwUZnKlTw9prZIIfCzhidVW5zei2JS_pD5JAst_McwLtAXiEYJQdmBatQsSW-FAaKGZI0D9pAGW71JWkHzEYi6HZJG-ZNnhtfqpI9GFagIUdhU44aefk1uHKrWmNv2P5Aob6qeQuMpGZfAVlZ8Kl9xZHMkns32nGmTyZtdaWgmW1-6F87_ZZPOR2X3BVXiFK7cIfsE?session=0&fife" height="200" width="auto" /><br><br>Code agence : 9110<br>Adresse postale : Résidence Sahraoui - Esplanade 02 - 1H Deux Bassins , Oued Roumane.<br>Numéro de téléphone : /<br>Numéro de mobile : 05 61 86 94 53<br>Numéro de fax : 0770.102.757<br>Adresse email : macir9110@macirvie.com<br>-----------------------------------------------<br>Code agence : 9110/1<br>Adresse postale : 43 Rue Amani Belkacem Paradou, Hydra<br>Numéro de téléphone : 0 21 60 90 42 <br>Numéro de mobile : 07 70 12 03 60<br>Numéro de fax : 0 21 60 90 42<br>Adresse email : macir9110/aa@macirvie.com<br>-----------------------------------------------<br>Code agence : 915<br>Adresse postale: Chemin MCKLEY /Ben Aknoun<br>Numéro de téléphone : 021 91 53 54<br>Numéro de mobile : 05 56 15 13 71<br>-----------------------------------------------<br>Code agence : 9120<br>Adresse postale : Bois Des Cars N° 1, Dely Ibrahim<br>Numéro de téléphone : /<br>Numéro de mobile : 07 70 9870 59<br>Numéro de fax : /<br>Adresse email : macir910@macirvie.com<br>-----------------------------------------------<br>Code agence : 9130<br>Adresse postale : MOHAMED V, Alger centre<br>Numéro de téléphone : /<br>Numéro de mobile : 07 70 96 95 84<br>Numéro de fax : /<br>Adresse email : macir9130@macirvie.com<br>-----------------------------------------------<br>Code agence : 9150<br>Adresse postale : Cité 1200 logements lotissement les pins N°01 niveau RDC, BAB EZZOUAR<br>Numéro de téléphone : /<br>Numéro de mobile : 07 70 99 45 30<br>Numéro de fax : /<br>Adresse email : macir9150@macirvie.com<br>-----------------------------------------------<br>Code agence : 9170<br>Adresse postale : N° 38 Rue AHMED CHARIFI, KOUBA<br>Numéro de téléphone : /<br>Numéro de mobile : 07 70 95 92 64<br>Numéro de fax : /<br>Adresse email : macir9170@macirvie.com<br>-----------------------------------------------<br>Code agence : 1110<br>Adresse postale : Centre commercial lot N° 13, Ain Naadja<br>Numéro de téléphone : 021.835.004 <br>Numéro de mobile : 0.561.604.592<br>Numéro de fax : 021.838.036<br>Adresse email : z.mahieddine@macirvie.com<br>-----------------------------------------------<br>Code agence : 1110/1<br>Adresse postale : Cité SONELGAZ-Villa N°02 B.P.15, Gué de Constantine<br>Numéro de téléphone : 021.835.154<br>Numéro de mobile : 0.561.604.591<br>Numéro de fax : /<br>Adresse email : z.mahieddine@macirvie.com<br>-----------------------------------------------<br>Code agence : 1120<br>Adresse postale : 13, Rue des frères HOCINE (Parc des pins), El Biar<br>Numéro de téléphone : 021.835.154 <br>Numéro de mobile : 05 61 04 06 46<br>Numéro de fax : 021.790.849<br>Adresse email : m.hassani@macirvie.com<br>-----------------------------------------------<br>Code agence : 1130<br>Adresse postale : 29, route nationale n°1, Bir Mourad Rais<br>Numéro de téléphone : 023.540.033 <br>Numéro de mobile : 0.561.604.596<br>Numéro de fax : 023.540.037<br>Adresse email : a.haicheur@macirvie.com<br>-----------------------------------------------<br>Code agence : 1140<br>Adresse postale : Cité du 1er Novembre 1954 – Local D5, Dar El Beida<br>Numéro de téléphone : /<br>Numéro de mobile : /<br>Numéro de fax : /<br>Adresse email : S.benhabiles@macirvie.com<br>-----------------------------------------------<br>Code agence : 1150<br>Adresse postale : 14, lot Said Hamdine, Hydra<br>Numéro de téléphone : 021.602.531<br>Numéro de mobile : 0.561.604.755<br>Numéro de fax : /<br>Adresse email : d.yadi@macirvie.com<br>-----------------------------------------------<br>Code agence : 1160<br>Adresse postale : Lotissement CADAT n°72 - Les Sources, Bir Mourad Rais<br>Numéro de téléphone : 021.445.755 <br>Numéro de mobile : 05 61 60 46 37<br>Numéro de fax : 021.446.172<br>Adresse email : k.henni@macirvie.com<br>-----------------------------------------------<br>Code agence : 1161<br>Adresse postale : Enceinte portuaire , Alger<br>Numéro de téléphone : 021.447.782<br>Numéro de mobile : 05 61 60 45 38<br>Numéro de fax : /<br>Adresse email : k.henni@macirvie.com<br>-----------------------------------------------<br>Code agence : 1180<br>Adresse postale : Coop. Ryma Local C6 – Said Hamdine<br>Numéro de téléphone : 021.546.348 <br>Numéro de mobile : 05 50 90 85 35<br>Numéro de fax : 021.546.770<br>Adresse email : y.doudou@macirvie.com<br>-----------------------------------------------<br>Code agence : 1220<br>Adresse postale : 111, chemin de wilaya, Draria<br>Numéro de téléphone : 023.330.107<br>Numéro de mobile : 0.561.604.643<br>Numéro de fax : /<br>Adresse email : a.boulasbaa@macirvie.com<br>----------------------------------------------<br>Code agence : 1230<br>Adresse postale : Cité Ibtissem - R.N. n°05, Mohammadia<br>Numéro de téléphone : 021.824.347<br>Numéro de mobile : 0771.13.72.42<br>Numéro de fax : /<br>Adresse email : b.feddoul@macirvie.com<br>-----------------------------------------------<br>Code agence : 1231<br>Adresse postale : HAI ADALA bt E2 N°2, Eucalyptus<br>Numéro de téléphone : 023.897.192<br>Numéro de mobile : 05 61 40 64 98 / 05 52 36 69 16<br>Numéro de fax : /<br>Adresse email : b.feddoul@macirvie.com<br>-----------------------------------------------<br>Code agence : 1240<br>Adresse postale : 27, rue Amar SOUIKI, El Biar<br>Numéro de téléphone : 023.388.795 <br>Numéro de mobile : 0.561.690.801<br>Numéro de fax : 023.388.574<br>Adresse email : f.chernai@macirvie.com<br>-----------------------------------------------<br>Code agence : 1270<br>Adresse postale : 06, rue Kaddour Rahim, Hussein Dey<br>Numéro de téléphone : 023.776.689<br>Numéro de mobile : 0772.18.40.05<br>Numéro de fax : /<br>Adresse email : b.ailane@macirvie.com<br>-----------------------------------------------<br>Code agence : 1271<br>Adresse postale : Lotissement n° 04 – Route de l’Arbaâ, Sidi Moussa<br>Numéro de téléphone : 021.776.725<br>Numéro de mobile : 0661.56.59.55<br>Numéro de fax : /<br>Adresse email : b.ailane@macirvie.com<br>-----------------------------------------------<br>Code agence : 1310<br>Adresse postale : 02 Bat D 29, Cité des Anassers II, Kouba<br>Numéro de téléphone : 023.704.266<br>Numéro de mobile : 0561.604.744<br>Numéro de fax : /<br>Adresse email : h.azizi@macirvie.com<br>-----------------------------------------------<br>Code agence : 1320<br>Adresse postale : 16 bis, Rue abou Nouas, Hydra<br>Numéro de téléphone : 021.608.025<br>Numéro de mobile : 0561.565.955<br>Numéro de fax : /<br>Adresse email : m.houat@macirvie.com<br>-----------------------------------------------<br>Code agence : 1321<br>Adresse postale : 13 Coopérative el istiklal, Texraine, Birkhadem<br>Numéro de téléphone : /<br>Numéro de mobile : 0661.565.955<br>Numéro de fax : /<br>Adresse email : m.houat@macirvie.com<br>-----------------------------------------------<br>Code agence : 1370<br>Adresse postale : 118, rue Didouche Mourad, Alger<br>Numéro de téléphone : 021.610.410<br>Numéro de mobile : 0770.542.027<br>Numéro de fax : /<br>Adresse email : f.benatchba@macirvie.com<br>-----------------------------------------------<br>Code agence : 1390<br>Adresse postale : Villa n° 13, cité colonel lotfi - Alger Plage, Bordj El Bahri<br>Numéro de téléphone : 021.862.117<br>Numéro de mobile : 0561.689.900<br>Numéro de fax : /<br>Adresse email : f.hadja_aissa@macirvie.com<br>-----------------------------------------------<br>Code agence : 1400<br>Adresse postale : Cité EPLF 1080 logements, Bat. 26 - Local 03 - EL ALIA, Bab Ezzouar<br>Numéro de téléphone : 021.249.775<br>Numéro de mobile : 0561.674.478<br>Numéro de fax : /<br>Adresse email : r.ouhib@macirvie.com<br>-----------------------------------------------<br>Code agence : 1420<br>Adresse postale : Rue des frères BELHAFIDH - Le Paradou, Hydra<br>Numéro de téléphone : 021.480.779 <br>Numéro de mobile : 0561.604.686<br>Numéro de fax : 021.606.545<br>Adresse email : b.gaga@macirvie.com<br>-----------------------------------------------<br>Code agence : 1440<br>Adresse postale : 17, rue Cherif TAIBI - Chateauneuf, El Biar<br>Numéro de téléphone : 021.925.091<br>Numéro de mobile : 0556.583.949<br>Numéro de fax : /<br>Adresse email : z.maiza@macirvie.com<br>-----------------------------------------------<br>Code agence : 1450<br>Adresse postale : Coop. Essalem - Lot n° 5 - Route Wilaya, Bir Khadem<br>Numéro de téléphone : 021.552.435<br>Numéro de mobile : 0561.604.750<br>Numéro de fax : /<br>Adresse email : y.kheloufi@macirvie.com<br>-----------------------------------------------<br>Code agence : 1470<br>Adresse postale : Cité Jolie vue - Groupe 4 n° 15, Kouba<br>Numéro de téléphone : 021.719.253 <br>Numéro de mobile : 0771.590.461<br>Numéro de fax : 021.719.254<br>Adresse email : k.bekhaled@macirvie.com<br>-----------------------------------------------<br>Code agence : 1480<br>Adresse postale : Lotissement les vergers - Bat 53 local A, Bir Mourad Rais<br>Numéro de téléphone : 023.550.692 <br>Numéro de mobile : 0552.976.457<br>Numéro de fax : 023.550.693<br>Adresse email : y.chemlal@macirvie.com<br>-----------------------------------------------<br>Code agence : 1540<br>Adresse postale : 32, rue Mohamed Benkahla - Local n° 2 - 1er Etage, Kouba<br>Numéro de téléphone : 021.286.600<br>Numéro de mobile : 0561.604.685<br>Numéro de fax : /<br>Adresse email : s.krache@macirvie.com<br>-----------------------------------------------<br>Code agence : 1570<br>Adresse postale : 107, Bd Mohamed - V , Alger<br>Numéro de téléphone : 023.490.024<br>Numéro de mobile : 0661.500.630<br>Numéro de fax : /<br>Adresse email : a.berbar@macirvie.com<br>-----------------------------------------------<br>Code agence : 1590<br>Adresse postale : Rue SAIDI Ahmed - Lot 115 n°01, Bordj El Kiffan<br>Numéro de téléphone : 023.974.469<br>Numéro de mobile : 0561.604.515<br>Numéro de fax : /<br>Adresse email : m.benachour@macirvie.com<br>-----------------------------------------------<br>Code agence : 1610<br>Adresse postale : Bt E N° 02 Garidi, Kouba<br>Numéro de téléphone : 023.708.080<br>Numéro de mobile : 0561.604.755<br>Numéro de fax : /<br>Adresse email : h.nadir@macirvie.com<br>-----------------------------------------------<br>Code agence : 1630<br>Adresse postale : RN n°36 - Villa n°2 - Grands vents, Dely Ibrahim<br>Numéro de téléphone : 023.312.331<br>Numéro de mobile : 0669.151.899<br>Numéro de fax : /<br>Adresse email : k.belguerdouh@macirvie.com<br>-----------------------------------------------<br>Code agence : 1640<br>Adresse postale : Cité Coopérative immobilière Bt06 n° 04, Bach Djerah<br>Numéro de téléphone : 021.265.578 <br>Numéro de mobile : 05 56 14 73 14 / 07 70 02 00 44<br>Numéro de fax : 021.584.769<br>Adresse email : f.naamani@macirvie.com<br>-----------------------------------------------<br>Code agence : 1650<br>Adresse postale : Cité MIMOUNI 5A N°16Bis, Bordj El Kiffan<br>Numéro de téléphone : 021.215.426 <br>Numéro de mobile : 0661.35.20.58<br>Numéro de fax : 021.212.429<br>Adresse email : n.abdelkrim@macirvie.com<br>-----------------------------------------------<br>Code agence : 1660<br>Adresse postale : Cité ABILA Ali 13 N° 19, Bordj El Kiffan<br>Numéro de téléphone : 021.216.945<br>Numéro de mobile : 0.561.490.932<br>Numéro de fax : /<br>Adresse email : s.gouni@macirvie.com<br>-----------------------------------------------<br>Code agence : 1700<br>Adresse postale : Rue 15 villa N° 69 Beaulieu Oued smar , El HArrach<br>Numéro de téléphone : 023.930.599<br>Numéro de mobile : 0.561.604.494<br>Numéro de fax : 023.930.599<br>Adresse email : b.benmokhtar@macirvie.com<br>-----------------------------------------------<br>Code agence : 1750<br>Adresse postale : Cité zerhouni mokhtar bt 12 loc 1 les bananiers, Mohammadia<br>Numéro de téléphone : 021.897.988<br>Numéro de mobile : 06 60 20 49 99<br>Numéro de fax : 021.897.988<br>Adresse email : m.benali@macirvie.com<br>-----------------------------------------------<br>Code agence : 4110<br>Adresse postale : 10, Rue Ali BOUMENDJEL - Les Orangers, Rouiba<br>Numéro de téléphone : 023.861.729<br>Numéro de mobile : 0.561.604.645<br>Numéro de fax : 023.861.008<br>Adresse email : m.saadaoui@macirvie.com<br>-----------------------------------------------<br>Code agence : 4121<br>Adresse postale : Cours Aissat Idir BT09 N°365, El Harrach<br>Numéro de téléphone : /<br>Numéro de mobile : 05 50 01 20 61<br>Numéro de fax : /<br>Adresse email : m.mehenni@macirvie.com<br>-----------------------------------------------<br>Code agence : 4150<br>Adresse postale : Coopérative immobilière HORIZON, Réghaia<br>Numéro de téléphone : 021.848.984<br>Numéro de mobile : 05 50 13 89 63<br>Numéro de fax : 021.848.984<br>Adresse email : b.boufroun@macirvie.com<br>-----------------------------------------------<br>Code agence : 4180<br>Adresse postale : Lotissement Communal n°17, Rouiba<br>Numéro de téléphone : 021.811.442<br>Numéro de mobile : 0.561.604.757<br>Numéro de fax : 021.811.442<br>Adresse email : n.bouzerara@macirvie.com<br>-----------------------------------------------<br>Code agence : 4210<br>Adresse postale : 38, Boulevard Emir KHALED, Ain Taya<br>Numéro de téléphone : 023.876.058<br>Numéro de mobile : 07 70 94 27 29<br>Numéro de fax : /<br>Adresse email : m.hammami@macirvie.com<br>-----------------------------------------------<br>Code agence : 4260<br>Adresse postale : N° 13, Rue Ali Bouderbala ZHUN Aissat Mustapha, Réghaia<br>Numéro de téléphone : /<br>Numéro de mobile : 06 56 60 06 13<br>Numéro de fax : /<br>Adresse email : n.Abdelaziz@macirvie.com<br>-----------------------------------------------<br>Code agence : 1190<br>Adresse postale : Cité Med Boudiaf, villa n° 173, Ouled Fayet<br>Numéro de téléphone : 021.384.430<br>Numéro de mobile : 0661.76.53.79<br>Numéro de fax : 021.384.430<br>Adresse email : n.mecherara@macirvie.com<br>-----------------------------------------------<br>Code agence : 1290<br>Adresse postale : 9D, Amar Idriss faycal, Ain Benian<br>Numéro de téléphone : 023.225.338<br>Numéro de mobile : 0.561.604.671/72/73<br>Numéro de fax : 023.225.341<br>Adresse email : s.osmani@macirvie.com<br>-----------------------------------------------<br>Code agence : 1300<br>Adresse postale : Rue Ali Remli, Bouzereah<br>Numéro de téléphone : 023.270.432<br>Numéro de mobile : 0661.70.68.88<br>Numéro de fax : 023.270.432<br>Adresse email : a.chemma@macirvie.com<br>-----------------------------------------------<br>Code agence : 1330<br>Adresse postale : Hay Sidi SAADI, n°22 - 1er étage, Beni Messous<br>Numéro de téléphone :021.933.825<br>Numéro de mobile : 0559.17.15.99<br>Numéro de fax : 021.933.825<br>Adresse email : a.rais@macirvie.com<br>-----------------------------------------------<br>Code agence : 1340<br>Adresse postale : 3,rue Mohamed Seghir SAADAOUI, Bab El Oued<br>Numéro de téléphone : 021.965.305<br>Numéro de mobile : 0773.91.38.35<br>Numéro de fax : 021.965.305<br>Adresse email : h.zanoun@macirvie.com<br>-----------------------------------------------<br>Code agence : 1410<br>Adresse postale : Route de Dely Brahim n°35, Cheraga<br>Numéro de téléphone : 021.342.145<br>Numéro de mobile : 0.561.604.650/51<br>Numéro de fax : 021.342.145<br>Adresse email : f.benaziba@macirvie.com<br>-----------------------------------------------<br>Code agence : 1460<br>Adresse postale : Résidence les Mimosas Bt A1 N°05, Staoueli<br>Numéro de téléphone : 023.393.085<br>Numéro de mobile : 0.561.604.657<br>Numéro de fax : 023.393.085<br>Adresse email : r.boughaba@macirvie.com<br>-----------------------------------------------<br>Code agence : 1490<br>Adresse postale : Cité 98 logts bat 1 n° 6, Dely Ibrahim<br>Numéro de téléphone : 021.917.459<br>Numéro de mobile : 0.561.604.657<br>Numéro de fax : 021.917.459<br>Adresse email : n.boudia@macirvie.com<br>-----------------------------------------------<br>Code agence : 1510<br>Adresse postale : Avenue Askri Ahcène Bt 59b, Oued Koriche<br>Numéro de téléphone : 021.971.532<br>Numéro de mobile : 05 50 85 64 50<br>Numéro de fax : 021.971.570<br>Adresse email : n.hebboul@macirvie.com<br>-----------------------------------------------<br>Code agence : 1520<br>Adresse postale : 228 lot Amara - Boulangerie industrielle, Cheraga<br>Numéro de téléphone : 021.361.191<br>Numéro de mobile : 0551.99.57.36<br>Numéro de fax : 021.361.191<br>Adresse email : m.bouaziz@macirvie.com<br>-----------------------------------------------<br>Code agence : 1560<br>Adresse postale : 125, rue RAMLI, Bouzareah<br>Numéro de téléphone : 023.181.747<br>Numéro de mobile : 0.561.604.682/83/84<br>Numéro de fax : /<br>Adresse email : r.belacel@macirvie.com<br>-----------------------------------------------<br>Code agence : 1580<br>Adresse postale : 13,rue Hassiba Ben Bouali, Clairval<br>Numéro de téléphone : 021.791.073<br>Numéro de mobile : 0550.21.68.48<br>Numéro de fax : 021.791.073<br>Adresse email : a.khelout@macirvie.com<br>-----------------------------------------------<br>Code agence : 1581<br>Adresse postale : Villa n° 16 - Coopérative El Amel, Ain Naadja<br>Numéro de téléphone : /<br>Numéro de mobile : 0556.13.81.46<br>Numéro de fax : /<br>Adresse email : a.khelout@macirvie.com<br>-----------------------------------------------<br>Code agence : 1600<br>Adresse postale : Lotissement 24 logements local 6 n° 2, Bouchaoui<br>Numéro de téléphone : 023.276.637<br>Numéro de mobile : 0 6 61 12 45 48<br>Numéro de fax : 023.276.638<br>Adresse email : s.zerguit@macirvie.com<br>-----------------------------------------------<br>Code agence : 1620<br>Adresse postale : Coopérative AMAL - Lot n° 16, Khraicia<br>Numéro de téléphone : 023.313.675<br>Numéro de mobile : 05 60 10 12 19<br>Numéro de fax : 023.313.675<br>Adresse email : a.mesgou@macirvie.com<br>-----------------------------------------------<br>Code agence : 2150<br>Adresse postale : Route de Khréscia, Bir Touta<br>Numéro de téléphone : 023.580.396<br>Numéro de mobile : 0551.49.25.36<br>Numéro de fax : 021.444.071<br>Adresse email : k.kihel@macirvie.com<br>-----------------------------------------------<br>Code agence : 2152<br>Adresse postale : N° 44, Lotissement Urbain, Baba Hassen<br>Numéro de téléphone : 021.349.764<br>Numéro de mobile : 0551.49.25.36<br>Numéro de fax : 021.349.826<br>Adresse email : k.kihel@macirvie.com<br>-----------------------------------------------<br>Code agence : 2153<br>Adresse postale : N88, rue des frères ABZIOU, Douera<br>Numéro de téléphone : 021.415.431<br>Numéro de mobile : 0551.49.25.36<br>Numéro de fax : 021.415.431<br>Adresse email : k.kihel@macirvie.com<br>-----------------------------------------------<br>Code agence : 8140<br>Adresse postale : Local N°02 Coopérative AMAL - Lot N° 16<br>Numéro de téléphone : /<br>Numéro de mobile : 0550.63.54.81<br>Numéro de fax : /<br>Adresse email : a.naitelhocine@macirvie.com<br>-----------------------------------------------<br>Code agence : 5181<br>Adresse postale : 17, rue TALEB Messaoud - Ex, Carnot, El Biar<br>Numéro de téléphone : 021.926.446<br>Numéro de mobile : 0.561.604.639<br>Numéro de fax : 021.926.441<br>Adresse email : h.bensafi@macirvie.com<br>-----------------------------------------------<br>Code agence : 1321A<br>Adresse postale : 13, coopérative el istiklal, Tixeraine, Birkhadem<br>Numéro de téléphone : 023.59.77.24<br>Numéro de mobile : 0561 565 955<br>Numéro de fax : /<br>Adresse email : m.houhat@macirvie.com<br>-----------------------------------------------<br>Code agence : 1770A<br>Adresse postale : 32 Rue Bouchami Djaffar, El Mouradia<br>Numéro de téléphone : 021.69.07.50<br>Numéro de mobile : 0.557.540.676 <br>Numéro de fax : /<br>Adresse email : a.bachircherif@macirvie.com<br>-----------------------------------------------<br>Code agence : 1780A<br>Adresse postale : Groupe de propriété N° 467, section N° 02, parcelle, Draria<br>Numéro de téléphone : 021.311.775<br>Numéro de mobile : 0.550.016.214<br>Numéro de fax : /<br>Adresse email : a.dilmi@macirvie.com<br>-----------------------------------------------<br>Code agence : 8110A<br>Adresse postale : 10, rue des frères MERZOUG, Mahelma<br>Numéro de téléphone : /<br>Numéro de mobile : 0.554.158.732 / 0.554.158.732<br>Numéro de fax : /<br>Adresse email : A.alioua@macirvie.com<br>-----------------------------------------------<br>Code agence : 8141A<br>Adresse postale : N° 107 lotissement communal C Étendu, Draria<br>Numéro de téléphone : 0 24 32 99 43<br>Numéro de mobile : 0.554.158.732 / 0.554.158.732<br>Numéro de fax : /<br>Adresse email : a.nait@macirvie.com<br>-----------------------------------------------<br>Code agence : 9310A<br>Adresse postale : 06 Rue Hassiba Ben Bouali<br>Numéro de téléphone : 023.85.51.54<br>Numéro de mobile : 0790.54.89.06<br>Numéro de fax : /<br>Adresse email : nsaadaoui_aga16114@allianceassurances.com.dz<br>-----------------------------------------------<br><br>Lat: 36.74768<br>Long: 3.04321<br><br><img src="https://doc-10-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/luvfff7s06d1rc4dfn5ksdk00c/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqrlErRuBoO1mrjvVaXPiLIqZHcu9xJdNRZ4eG_gy1w-wHBZJHwvcFVLv7EggQzmSW0JtuqnyA4BgEFXnkYDlFSp3oZfG7e6PBvpo3e4RU0dkGwb414RaJeqRPQYGC5ctNxMz4Xxm2OVmPQCPlmW-TtnsKOvyLIpXZcQwNzCu8Q4KUsWZz7yfxqf17aOXdxidpaabXZfIk-H46Sq1vpXsPmwUeEoQ?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.74768</value>
+          </Data>
+          <Data name="Long">
+            <value>3.04321</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/e5sql5sacoi79c6b9j6glhaf30/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqwUZnKlTw9prZIIfCzhidVW5zei2JS_pD5JAst_McwLtAXiEYJQdmBatQsSW-FAaKGZI0D9pAGW71JWkHzEYi6HZJG-ZNnhtfqpI9GFagIUdhU44aefk1uHKrWmNv2P5Aob6qeQuMpGZfAVlZ8Kl9xZHMkns32nGmTyZtdaWgmW1-6F87_ZZPOR2X3BVXiFK7cIfsE?session=0&fife https://doc-10-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/luvfff7s06d1rc4dfn5ksdk00c/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqrlErRuBoO1mrjvVaXPiLIqZHcu9xJdNRZ4eG_gy1w-wHBZJHwvcFVLv7EggQzmSW0JtuqnyA4BgEFXnkYDlFSp3oZfG7e6PBvpo3e4RU0dkGwb414RaJeqRPQYGC5ctNxMz4Xxm2OVmPQCPlmW-TtnsKOvyLIpXZcQwNzCu8Q4KUsWZz7yfxqf17aOXdxidpaabXZfIk-H46Sq1vpXsPmwUeEoQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            3.04321,36.74768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Annaba</name>
+        <description><![CDATA[<img src="https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/hlv1holmiii5o0sgtmors3sj40/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpPfUE-jejoslGh67UKKUFd2cegC-Qcad2-jFeIGrueSPy2PdMN4xtQYcfL9AepCMheC94HEGy_MUx2oxLmG7FxKHHiy5DSyY3TracHq0kp9R-226fFiRmUaCmU2MKWy3rHX3eo5oJsBpNnihoPlqhGxre6RGZucHatWAvv-OjdPAuQpUSWJhkmb8wmM-q39iFIr9Hl?session=0&fife" height="200" width="auto" /><br><br>Code agence : 7100<br>Adresse postale : Angle Rue du Maroc et Libéria<br>Numéro de téléphone : 038.860.694 Numéro de mobile :0.561.604.469  Numéro de fax : /<br>Adresse email :  a.lakhdara@macirvie.com                      ---------------------------------------------<br>Code agence : 7180<br>Adresse postale : Angle des rues 17 octobre n° 01 et rue Bouscarin<br>Numéro de téléphone : /<br>Numéro de mobile: 0.560.951.365 numéro de fax : /<br>Adresse email : h.boubir@macirvie.com ----------------------------------------------<br>Code agence : 7230<br>Adresse postale : 33, rue Emir Abdelkader, El Hadjar<br>Numéro de téléphone : 038.591.690<br>Numéro de mobile : 0.561.604.628 /0.561.604.628                                    numéro de fax : /<br>Adresse email : m.riahi@macirvie.com----------------------------------------------<br>Code agence : 7260<br>Adresse postale : Cité du 19 mai 1956 - N°163<br>Numéro de téléphone : 038.430.227<br>Numéro de mobile : 0.560.951.377 /    0.661.680.816                                  numéro de fax : /<br>Adresse email : c.nadjoua@macirvie.com<br>-----------------------------------------------<br>Code agence : 7261<br>Adresse postale : Cité SIDI Ali, Berrahal<br>Numéro de téléphone : 038.544.227<br>Numéro de mobile : 0672.57.51.51<br>Numéro de fax : /<br>Adresse email : c.nadjoua@macirvie.com<br>-----------------------------------------------<br>Code agence : 7212A<br>Adresse postale : Cité Bellevue - 900 logts n°5<br>Numéro de téléphone : 038.523.712<br>Numéro de mobile 0.779.544.896 /   0.665.109.840                                      Numéro de fax : /<br>Adresse email : b.zitouni@macirvie.com<br><br>Lat: 36.90598<br>Long: 7.76733]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.90598</value>
+          </Data>
+          <Data name="Long">
+            <value>7.76733</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/hlv1holmiii5o0sgtmors3sj40/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpPfUE-jejoslGh67UKKUFd2cegC-Qcad2-jFeIGrueSPy2PdMN4xtQYcfL9AepCMheC94HEGy_MUx2oxLmG7FxKHHiy5DSyY3TracHq0kp9R-226fFiRmUaCmU2MKWy3rHX3eo5oJsBpNnihoPlqhGxre6RGZucHatWAvv-OjdPAuQpUSWJhkmb8wmM-q39iFIr9Hl?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.76733,36.90598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Batna</name>
+        <description><![CDATA[<img src="https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ba4evcdeklvgeg7con7cgrh7f0/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqOO-GPJnnf5Y2MRMPWGSCD8Qm9msp642-2XVMmxL3K0R72-ZukFTAWtHzsikRTCvO7Df650KWPlpfIdCXJkx_uSPCdvzIOL6YO2wbmmT5dGei6RX5AiPb_kpTdsLTKTOqTemNXfdN19vWd9ri_sTbBdl_g6mWW5kPOYEGd1ChsBlGKPSgsToYtcHp9cW005YZRI5po?session=0&fife" height="200" width="auto" /><br><br>Code agence : 6140<br>Adresse postale : 111, Rue Hadj ABDESSAMED<br>Numéro de téléphone : 033.805.481<br>Numéro de mobile : 0.560.941.715<br>Numéro de fax : 033.805.481<br>Adresse email : t.bourki@macirvie.com<br>-----------------------------------------------<br><br>Lat: 35.56102<br>Long: 6.17391<br><br><img src="https://doc-04-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/0k0vk8731p3mjdi0b5eljb0kq4/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqYm-kqVsonbn-04KwcFbbNKt1mGSe_n_KpebB7PMvzImCWCJ7vd9jNQdJAZgR6jjlVhmrZ5xTe_Jk0vg17w_yPRDLnhG__oQH0RlQu8QAgMRF0Owf5SS1c8oJWIWUY29THviwkRUtmePSLK71X0unpOsuu4fYs0BhJuzj9KAUijeZXNcrYgv9QjFKs7LkDSNwO5UjAEYvQzwo3PycKt1tgk99r_w?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>35.56102</value>
+          </Data>
+          <Data name="Long">
+            <value>6.17391</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ba4evcdeklvgeg7con7cgrh7f0/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqOO-GPJnnf5Y2MRMPWGSCD8Qm9msp642-2XVMmxL3K0R72-ZukFTAWtHzsikRTCvO7Df650KWPlpfIdCXJkx_uSPCdvzIOL6YO2wbmmT5dGei6RX5AiPb_kpTdsLTKTOqTemNXfdN19vWd9ri_sTbBdl_g6mWW5kPOYEGd1ChsBlGKPSgsToYtcHp9cW005YZRI5po?session=0&fife https://doc-04-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/0k0vk8731p3mjdi0b5eljb0kq4/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqYm-kqVsonbn-04KwcFbbNKt1mGSe_n_KpebB7PMvzImCWCJ7vd9jNQdJAZgR6jjlVhmrZ5xTe_Jk0vg17w_yPRDLnhG__oQH0RlQu8QAgMRF0Owf5SS1c8oJWIWUY29THviwkRUtmePSLK71X0unpOsuu4fYs0BhJuzj9KAUijeZXNcrYgv9QjFKs7LkDSNwO5UjAEYvQzwo3PycKt1tgk99r_w?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.17391,35.56102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bejaia</name>
+        <description><![CDATA[<img src="https://doc-0c-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/k2p643fbk8d0u216t3dp05d1bg/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqrfr8k5qO39wiOrry3jjd_r_kQ3tlJugXI_oisc0oHzuGiW_SscH-UcQShh8TI7hWs2yOhFDXu_eUALvCvIDP5mI1oMmSao9A01NDSCYfks0C6Ay68LbHYhmTqQ6SeTlQTCG2iK7dX6VsLWjoh8rbZGyku1GO3NjfYHualnlSJAVlBJkT6llWDpUN9S6tWCW7pNyek?session=0&fife" height="200" width="auto" /><br><br>Code agence : 4140<br>Adresse postale : Résidence le Phoenix Z.I , route Mahfoud fatah, Bejaia<br>Numéro de téléphone : 034.187.228<br>Numéro de mobile : 0.561.604.655<br>Numéro de fax : 034.187.229<br>Adresse email : d.aoudj@macirvie.com<br>-----------------------------------------------<br>Code agence : 4190<br>Adresse postale : Av. du 1er Novembre, Akbou<br>Numéro de téléphone : 034.334.245<br>Numéro de mobile : 07 74 00 20 92<br>Numéro de fax : /<br>Adresse email : s.ifis@macirvie.com<br>-----------------------------------------------<br>Code agence : 4220<br>Adresse postale : Cité des 34 logements Bâtiment 02 – Cité Seghir , Bejaia<br>Numéro de téléphone : 034.211.785<br>Numéro de mobile : 05 60 09 73 17<br>Numéro de fax : 034.211.785<br>Adresse email : b.sihassen@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.75089<br>Long: 5.05673]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.75089</value>
+          </Data>
+          <Data name="Long">
+            <value>5.05673</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/k2p643fbk8d0u216t3dp05d1bg/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqrfr8k5qO39wiOrry3jjd_r_kQ3tlJugXI_oisc0oHzuGiW_SscH-UcQShh8TI7hWs2yOhFDXu_eUALvCvIDP5mI1oMmSao9A01NDSCYfks0C6Ay68LbHYhmTqQ6SeTlQTCG2iK7dX6VsLWjoh8rbZGyku1GO3NjfYHualnlSJAVlBJkT6llWDpUN9S6tWCW7pNyek?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.05673,36.75089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biskra</name>
+        <description><![CDATA[<img src="https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/5rbdrjue3l514octhiebkpbbv4/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrHWcBFYCIHZMJoCelgsg_0snXv_4iCfQb5vJ20LiaB7fM6J4yYLC9yneIMbZtGTEb6yXN8fLnszIQhdH1qWpLSJE-faBn6cAIMIASeAoO_TEgS9ch3ifBZ2LyzzfPGSGh7vwdJwaCzhKgStm5Grpu7RXnA4Ed8Ju8tV4glFynHZv50TmT7Bdi712JcX77DGD-gZHXy?session=0&fife" height="200" width="auto" /><br><br>Code agence : 6450A<br>Adresse postale : Rue Hamouda Ahmed, Classe 91 Groupe de propriété 257 Lot N° 07<br>Numéro de téléphone : 0.33.53.68.41<br>Numéro de mobile : 0.561.693.331<br>Numéro de fax : /<br>Adresse email : y.hamidi@macirvie.com<br>-----------------------------------------------<br><br>Lat: 34.5878<br>Long: 4.89356]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.5878</value>
+          </Data>
+          <Data name="Long">
+            <value>4.89356</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/5rbdrjue3l514octhiebkpbbv4/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrHWcBFYCIHZMJoCelgsg_0snXv_4iCfQb5vJ20LiaB7fM6J4yYLC9yneIMbZtGTEb6yXN8fLnszIQhdH1qWpLSJE-faBn6cAIMIASeAoO_TEgS9ch3ifBZ2LyzzfPGSGh7vwdJwaCzhKgStm5Grpu7RXnA4Ed8Ju8tV4glFynHZv50TmT7Bdi712JcX77DGD-gZHXy?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.89356,34.5878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blida</name>
+        <description><![CDATA[<img src="https://doc-0k-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7cb70nade5nrnbomu1d1h49a48/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALoTslJJ0rpoIq-MQLRYaMNSiSdMVz472ZXO8s9rbGHZYhYrYlFNisVbeyHsfDrchWI1ENfSWKCBjB8xl_hdCGRL330mkChAJJ6Rm3JQ9BZ9c7tFjYxxwoQZTcfcFYo72IXxK4LZGYQhNb3OddvfORH--QdkgkxeuDT8qiaJbQkfOBKGFjWPzUAJ6CJXygDi6FvkUfzE?session=0&fife" height="200" width="auto" /><br><br>Code agence : 2151<br>Adresse postale : Lotissement Division n° 8, Boufarik<br>Numéro de téléphone : 025.282.271<br>Numéro de mobile : 0551.49.25.36<br>Numéro de fax : 025.282.271<br>Adresse email : k.kihel@macirvie.com<br>-----------------------------------------------<br>Code agence : 2110<br>Adresse postale : 86, Rue Cherif TCHALABI<br>Numéro de téléphone :025.226.833  Numéro de mobile : 0.554.214.696 /0.661.610.371                                Numéro de fax : 025.226.869        Adresse email : m.boukhedmi@macirvie.com<br>-----------------------------------------------<br>Code agence : 2124<br>Adresse postale : RUE BELKACEM OUZERI<br>Numéro de téléphone : 025.305.587 Numéro de mobile : 0.663.791.590/0.674.126.712        Numéro de fax : 025.305.587        Adresse email : m.boughrara@macirvie.com                    ----------------------------------------------<br>Code agence : 2130<br>Adresse postale : 49, Boulevard Emir ABDELKADER, Larbaa<br>Numéro de téléphone : 025.341.080<br>Numéro de mobile : 0.561.604.597/ 0.550.756.636                                          Numero de fax :025.341.080          ,      Adresse email : A.bourahla@macirvie.com<br>-----------------------------------------------<br>Code agence : 2131<br>Adresse postale : 06, Route de Blida, Bougara<br>Numéro de téléphone : 025.254.164<br>Numéro de mobile :0.661.300.505/0.557.135.513                  Numéro de fax : 025.254.164<br>Adresse email : A.bourahla@macirvie.com<br>-----------------------------------------------<br>Code agence : 2220<br>Adresse postale : Cité RAHNI - Bat C n° 120, Boufarik<br>Numéro de téléphone 025.285.294 Numéro de mobile : 0.561.689.901<br>Numéro de fax : 025.285.294          Adresse email : m.hanou@macirvie.com<br>-----------------------------------------------<br>Code agence : 2190<br>Adresse postale : 19, Rue HATTAB Amar, Mouzaia<br>Numéro de téléphone : 025.249.053 Numéro de mobile : 0561 60 47 46<br>Numéro de fax : 025.249.053        Adresse email : b.eddalia@macirvie.com<br>-----------------------------------------------<br>Code agence : 2260<br>Adresse postale : Rue ZEGHOUANI, Ouled Yaich<br>Numéro de téléphone : 025.423.239<br>Numéro de mobile : 0.561.604.578<br>Numéro de fax : 025.431.130<br>Adresse email : n.gharbi@macirvie.com<br>-----------------------------------------------<br>Code agence : 2350<br>Adresse postale : Quartier ZABANA, rue C n° 12<br>Numéro de téléphone : 025.209.818<br>Numéro de mobile : 0.561.604.662<br>Numéro de fax : 025.209.818<br>Adresse email : b.chergui@macirvie.com<br>-----------------------------------------------<br>Code agence : 2351<br>Adresse postale : RUE DES FRERES ZEDRI, Beni Tamou<br>Numéro de téléphone : 025.277.485 Numéro de mobile : 0.561.604.636  Numéro de fax : 025.277.485        Adresse email : b.chergui@macirvie.com<br>-----------------------------------------------<br>Code agence : 2400<br>Adresse postale : 2, rue KAID Hocine, Beni Mered<br>Numéro de téléphone : 025.276.232<br>Numéro de mobile : 0.555.367.523/0.550.367.523        Numéro de fax : 025.276.232<br>Adresse email : b.boughrara@macirvie.com<br>-----------------------------------------------<br>Code agence : 2401<br>Adresse postale : Bd Ouazeri Belkacem - Bat 5 n°9<br>Numéro de téléphone : 025.305.587<br>Numéro de mobile : 0.663.791.590/0.674.126.712        Numéro de fax : 025.305.587<br>Adresse email : b.boughrara@macirvie.com<br>-----------------------------------------------<br>Code agence : 2420<br>Adresse postale : 6, rue Mekerkeb Benyoucef<br>Numéro de téléphone : 025.213.037<br>Numéro de mobile : 0771 73 05 02<br>Numéro de fax : 025.213.037<br>Adresse email : A.soufi@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.48314<br>Long: 2.80151]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.48314</value>
+          </Data>
+          <Data name="Long">
+            <value>2.80151</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7cb70nade5nrnbomu1d1h49a48/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALoTslJJ0rpoIq-MQLRYaMNSiSdMVz472ZXO8s9rbGHZYhYrYlFNisVbeyHsfDrchWI1ENfSWKCBjB8xl_hdCGRL330mkChAJJ6Rm3JQ9BZ9c7tFjYxxwoQZTcfcFYo72IXxK4LZGYQhNb3OddvfORH--QdkgkxeuDT8qiaJbQkfOBKGFjWPzUAJ6CJXygDi6FvkUfzE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            2.80151,36.48314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bordj Bou Arreridj</name>
+        <description><![CDATA[<img src="https://doc-08-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ptdcltsfcfbmqfq1vnbooh3m3c/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpLovbvir0YS7dVZ13ma016TL4hwqXimcMYU1ptI0H06aohGlQZxL1AlJo-uZG8hjnTguOF8tMdy8GsEKPG6iBfS0tSHgHmMPW7Ee5o-0AxUqBAFtyJysb1S012ItVWFkoNj51gqAMgdS7rKsmXjvYZNWAdoZYgey-aMgPDXAp5Xm_7OnmYaC5RDfN5avsrXOozgmYN?session=0&fife" height="200" width="auto" /><br><br>Code agence : 6120<br>Adresse postale : Rue KHIAR Aek - Faubourg de la gare<br>Numéro de téléphone : 035.738.209<br>Numéro de mobile : 0.561.604.634<br>Numéro de fax : 035.738.209<br>Adresse email : t.debbi@macirvie.com<br>-----------------------------------------------<br>Code agence : 6122<br>Adresse postale : 6, Rue Mohamed Zerouki Bazar Dehili Centre ville<br>Numéro de téléphone : 035.739.215<br>Numéro de mobile : 0.561.604.634<br>Numéro de fax : 035.739.215<br>Adresse email : t.debbi@macirvie.com<br>-----------------------------------------------<br>Code agence : 6220<br>Adresse postale : Quartier des 12 logts n° 47 <br>Numéro de téléphone : 035.722.110<br>Numéro de mobile : 0.561.604.761<br>Numéro de fax : 035.722.110<br>Adresse email : n.aidel@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.07997<br>Long: 4.81059]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.07997</value>
+          </Data>
+          <Data name="Long">
+            <value>4.81059</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ptdcltsfcfbmqfq1vnbooh3m3c/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpLovbvir0YS7dVZ13ma016TL4hwqXimcMYU1ptI0H06aohGlQZxL1AlJo-uZG8hjnTguOF8tMdy8GsEKPG6iBfS0tSHgHmMPW7Ee5o-0AxUqBAFtyJysb1S012ItVWFkoNj51gqAMgdS7rKsmXjvYZNWAdoZYgey-aMgPDXAp5Xm_7OnmYaC5RDfN5avsrXOozgmYN?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.81059,36.07997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bouira</name>
+        <description><![CDATA[<img src="https://doc-08-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/nvhogphkodbq91c2amjkgnag1k/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqxcBJkEHwxh4FEcha83I4seIhXpbQ_kWwgvTDZpVTCyI2QFdZqtXrP_6QnMK0j4LUvdua-7mECaIvX-IY7tuFdOf5qxet5ZNtK_QRxHv7dLSm41qT0Dvq42IbeqcSwWkSqsPJm_iOofg1bdyXqJtplK4zmaSEPP-YEdwage98Qg8iDzeJWhGX5jMiuU4-GbRK4-8Pl?session=0&fife" height="200" width="auto" /><br><br>Code agence : 4250<br>Adresse postale : Cité 48 Logts - Promotion Bouabdellah - Bloc C N°04<br>Numéro de téléphone : 026.720.044/66/88<br>Numéro de mobile : 0560.00.37.56<br>Numéro de fax : /<br>Adresse email : s.addouche@macirvie.com<br><br>Lat: 36.28353<br>Long: 3.98784]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.28353</value>
+          </Data>
+          <Data name="Long">
+            <value>3.98784</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/nvhogphkodbq91c2amjkgnag1k/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqxcBJkEHwxh4FEcha83I4seIhXpbQ_kWwgvTDZpVTCyI2QFdZqtXrP_6QnMK0j4LUvdua-7mECaIvX-IY7tuFdOf5qxet5ZNtK_QRxHv7dLSm41qT0Dvq42IbeqcSwWkSqsPJm_iOofg1bdyXqJtplK4zmaSEPP-YEdwage98Qg8iDzeJWhGX5jMiuU4-GbRK4-8Pl?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            3.98784,36.28353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boumerdes</name>
+        <description><![CDATA[<img src="https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/1l5adr9mkjqj0qj2bsl1jb3h7k/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpz7FAd6JPJYT3UicVaovoahogyV_BvmKORZPlB9fHM-k10ID-finsZ0E-ooL05Rc3U8cRHQrhn6Qq-RqtY7ysgvExJK78E_kX9H_HBUmY7zeb6zxVc8qocdsYMPI4JcqSyf5-nV_2d_ek0-rXe5wh8cqq8g8h3fbRH-rk_vI3C_yyGTH6K0GIvJBmfOlkWg3vYvOPh?session=0&fife" height="200" width="auto" /><br><br>Code agence : 4120<br>Adresse postale : 75, Lot 2 - Avenue du 1er Novembre, Boudouaou<br>Numéro de téléphone : 024.741.298/76<br>Numéro de mobile : 05 50 01 20 61<br>Numéro de fax : /<br>Adresse email : m.mehenni@macirvie.com<br>-----------------------------------------------<br>Code agence : 4160<br>Adresse postale : Résidence Ysref, locaux 11 et 12 Cité Ain Abdellah, Boumerdes<br>Numéro de téléphone : 024.943.141/49<br>Numéro de mobile : 05 55 03 11 56<br>Numéro de fax : /<br>Adresse email : a.seghilani@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.76759<br>Long: 3.70289]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.76759</value>
+          </Data>
+          <Data name="Long">
+            <value>3.70289</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/1l5adr9mkjqj0qj2bsl1jb3h7k/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpz7FAd6JPJYT3UicVaovoahogyV_BvmKORZPlB9fHM-k10ID-finsZ0E-ooL05Rc3U8cRHQrhn6Qq-RqtY7ysgvExJK78E_kX9H_HBUmY7zeb6zxVc8qocdsYMPI4JcqSyf5-nV_2d_ek0-rXe5wh8cqq8g8h3fbRH-rk_vI3C_yyGTH6K0GIvJBmfOlkWg3vYvOPh?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            3.70289,36.76759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chlef</name>
+        <description><![CDATA[<img src="https://doc-04-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/53jfk6apc4js48ee3346mi2hdo/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqMYcc3ELy5-iW56VZ4DqbTM7MgQsSMw8ObcFxh_uI736XJ7-YAZBeULy24i0xCTbPXmArJ4GQGZ04EO9YyYmqJHZCCKgvx26-CuAUwAP-mAW75jbv7983qqZBqMgtvU2wFN2-KauQuBQ33YZmsyy3xJSp6g9jA9ISl_KHimTA8yMh6CWpBgZu0ljkBCGtCrpbr9rx6?session=0&fife" height="200" width="auto" /><br><br>Code agence : 2121<br>Adresse postale : 24, cité des fonctionnaires<br>Numéro de téléphone : 027.771.058<br>Numéro de mobile : 0550 90 33 31<br>Numéro de fax : 027.771.058<br>Adresse email : a.zane@macirvie.com<br>-----------------------------------------------<br>Code agence : 2122<br>Adresse postale : Rue de la république - ex Ibn Rochd<br>Numéro de téléphone : 027.778.307<br>Numéro de mobile : 0550 90 32 13<br>Numéro de fax : 027.778.307<br>Adresse email : a.zane@macirvie.com<br>-----------------------------------------------<br>Code agence : 9210A<br>Adresse postale : Ouled Fares centre, Chlef<br>Numéro de téléphone : 027.729.161<br>Numéro de mobile : 0.551.123.550<br>Numéro de fax : /<br>Adresse email : sbenzerga@gam.dz<br>-----------------------------------------------<br><br>Lat: 36.14742<br>Long: 1.30836]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.14742</value>
+          </Data>
+          <Data name="Long">
+            <value>1.30836</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/53jfk6apc4js48ee3346mi2hdo/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqMYcc3ELy5-iW56VZ4DqbTM7MgQsSMw8ObcFxh_uI736XJ7-YAZBeULy24i0xCTbPXmArJ4GQGZ04EO9YyYmqJHZCCKgvx26-CuAUwAP-mAW75jbv7983qqZBqMgtvU2wFN2-KauQuBQ33YZmsyy3xJSp6g9jA9ISl_KHimTA8yMh6CWpBgZu0ljkBCGtCrpbr9rx6?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.30836,36.14742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Constantine</name>
+        <description><![CDATA[<img src="https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/nevgibl6bap14j2h7q96qjnqe8/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALq17PmghqUz20Bbm6bmp8YgthNcRLpZC9Qrg511zz0eg4s5XjFWsXNf33BGKH6b3S6QD5fuBbH9u9AiVwns-14ACxluKWcn_8z54zJ5DjDr87nKYGU1MOdkO4unXUPDTrFzpLL5hxSjsYqcYFxtf7OQxdltW3E5mmW6F4a67VoYrT5drpPlp_Vv6HNXyfJ1iDSWC25m?session=0&fife" height="200" width="auto" /><br><br>Code agence : 6211<br>Adresse postale : Cité le Bosquet - Sidi Mabrouk<br>Numéro de téléphone : 031.631.234<br>Numéro de mobile : 0560.94.17.16<br>Numéro de fax : 031.631.234<br>Adresse email : m.chaibi@macirvie.com<br>-----------------------------------------------<br>Code agence : 7330<br>Adresse postale : 24, rue BERKAT Lakhdar - Belle-vue<br>Numéro de téléphone : 031.920.893<br>Numéro de mobile : 05 55 26 52 02<br>Numéro de fax : /<br>Adresse email : s.semai@macirvie.com<br>-----------------------------------------------<br>Code agence : 5132<br>Adresse postale : Chalet des PINS n° 7<br>Numéro de téléphone : 031.636.363<br>Numéro de mobile : 05 61 60 45 95<br>Numéro de fax : 031.632.222<br>Adresse email : a.cherafa@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.36015<br>Long: 6.64243]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.36015</value>
+          </Data>
+          <Data name="Long">
+            <value>6.64243</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/nevgibl6bap14j2h7q96qjnqe8/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALq17PmghqUz20Bbm6bmp8YgthNcRLpZC9Qrg511zz0eg4s5XjFWsXNf33BGKH6b3S6QD5fuBbH9u9AiVwns-14ACxluKWcn_8z54zJ5DjDr87nKYGU1MOdkO4unXUPDTrFzpLL5hxSjsYqcYFxtf7OQxdltW3E5mmW6F4a67VoYrT5drpPlp_Vv6HNXyfJ1iDSWC25m?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.64243,36.36015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Djelfa</name>
+        <description><![CDATA[<img src="https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/264uqul98483eed50als0rb8ok/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqjOn_Q5nD95uRkzte-eAau64MPpUcEX3RXfU42VYAo5E71G8LJtWfq5JegMoX-fHDWJDPwo7JZnKNtwfqdHUa_Kpu70RwW9vjC46GNz7cYxF1KkPUv2fbFdRNn0uEUQqtWV9ab9RiEkbwojW3lX4s8Hs_qWy4gfhcbfVw0mbNpxROOE9n1k89ALLlpN6P8t_11zXU0?session=0&fife" height="200" width="auto" /><br><br>Code agence : 5190<br>Adresse postale : Cité BANJERMAIN Bloc 366 n°1<br>Numéro de téléphone : 027.938.496<br>Numéro de mobile : 0.561.604.631<br>Numéro de fax : 027.938.496<br>Adresse email : l.bentchich@macirvie.com<br>-----------------------------------------------<br>Code agence : 5191<br>Adresse postale : Cité 5 juillet (en face CRMA)<br>Numéro de téléphone : /<br>Numéro de mobile : 05 56 91 98 97<br>Numéro de fax : /<br>Adresse email : l.bentchich@macirvie.com<br>-----------------------------------------------<br><br>Lat: 34.67516<br>Long: 3.26842]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.67516</value>
+          </Data>
+          <Data name="Long">
+            <value>3.26842</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/264uqul98483eed50als0rb8ok/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqjOn_Q5nD95uRkzte-eAau64MPpUcEX3RXfU42VYAo5E71G8LJtWfq5JegMoX-fHDWJDPwo7JZnKNtwfqdHUa_Kpu70RwW9vjC46GNz7cYxF1KkPUv2fbFdRNn0uEUQqtWV9ab9RiEkbwojW3lX4s8Hs_qWy4gfhcbfVw0mbNpxROOE9n1k89ALLlpN6P8t_11zXU0?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            3.26842,34.67516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Bayadh</name>
+        <description><![CDATA[<img src="https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/lpf6c0t9v3gclppr4i74avo8cc/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALoVKWHeLhfTofnUWKE3noVRU7QLyyV868NDDsMbM3l0pHwcFujF0VeQ47wCSGhVdVZ4LTrOfZ5m4GEZT6607vyO_SE6VCr45MbYluhY2ckaTTZ-w5_Sb9oiRODMTBES3XWPPnDlvILZSboGrCzUbSIAT39aaXy3TTxCZDeJNswyhnU0DTB-6onrzPF5A8ZzeZlVwIwQ?session=0&fife" height="200" width="auto" /><br><br>Code agence : 5250<br>Adresse postale : Cité Essedikia 05/111 - EL BAYADH <br>Numéro de téléphone : 049.673.563<br>Numéro de mobile : 05 55 99 00 80<br>Numéro de fax : 049.673.563<br>Adresse email : b.karim@macirvie.com<br>-----------------------------------------------<br><br>Lat: 33.663144<br>Long: 1.052618]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.663144</value>
+          </Data>
+          <Data name="Long">
+            <value>1.052618</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/lpf6c0t9v3gclppr4i74avo8cc/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALoVKWHeLhfTofnUWKE3noVRU7QLyyV868NDDsMbM3l0pHwcFujF0VeQ47wCSGhVdVZ4LTrOfZ5m4GEZT6607vyO_SE6VCr45MbYluhY2ckaTTZ-w5_Sb9oiRODMTBES3XWPPnDlvILZSboGrCzUbSIAT39aaXy3TTxCZDeJNswyhnU0DTB-6onrzPF5A8ZzeZlVwIwQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.052618,33.663144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Oued</name>
+        <description><![CDATA[<img src="https://doc-0g-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/n3ct539k1gaom35s507hm7lak4/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALprawLbhix8w_V3UVxJ8kTmpZNU44gmTnB8caORdFxjlLuDnR30su_RubtVcxnMDWQOaMj7_gO9hv-TM9FiL8yZ6y22E3Mc15rkYxpvfXmI5mIArIf-eMPkGwYGu8aybatrTQTvq7rq5QbV9b_xMu0tM94q0A6q6S4s9pVtbLptaOTrhJCU5kqZmAwHGelfcgNjJjn9?session=0&fife" height="200" width="auto" /><br><br>Code agence : 5110<br>Adresse postale : Rue LAMAMRA Bachir - Cité du 1er Mai<br>Numéro de téléphone : 032.149.304<br>Numéro de mobile : 0.561.604.629<br>Numéro de fax : 032.149.304<br>Adresse email : m.driss@macirvie.com<br>-----------------------------------------------<br>Code agence : 5111<br>Adresse postale : Route Nationale n°16, Debila<br>Numéro de téléphone : 032.208.734<br>Numéro de mobile : 05 61 60 46 29<br>Numéro de fax : 032.208.734<br>Adresse email : m.driss@macirvie.com<br>-----------------------------------------------<br><br>Lat: 33.37133<br>Long: 6.84796]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.37133</value>
+          </Data>
+          <Data name="Long">
+            <value>6.84796</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/n3ct539k1gaom35s507hm7lak4/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALprawLbhix8w_V3UVxJ8kTmpZNU44gmTnB8caORdFxjlLuDnR30su_RubtVcxnMDWQOaMj7_gO9hv-TM9FiL8yZ6y22E3Mc15rkYxpvfXmI5mIArIf-eMPkGwYGu8aybatrTQTvq7rq5QbV9b_xMu0tM94q0A6q6S4s9pVtbLptaOTrhJCU5kqZmAwHGelfcgNjJjn9?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.84796,33.37133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Taref</name>
+        <description><![CDATA[<img src="https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/f1hsodnf6r5mmrn10pb9ccb8go/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqXi13iyTh3fGNpYFD8XTzIAI9jbKnaoKty1Q6zCCMjlEpjlpENn3kKgLCS7ZBEh06ECdiufUl2ur37XsAKANL1g85M6Gl_1mOIsuEEArXdnlH_PWX2xsMDeST2e5Hegx0sPFDCmRQ7Htf5GTeV0ajHwHJ348hxR9GDW7MXakEd986NXn5UVJdieCNGC_OyhOBAF4Tr?session=0&fife" height="200" width="auto" /><br><br>Code agence : 7150<br>Adresse postale : Cité El Hana bp 499, Drean<br>Numéro de téléphone : 0 32 44 85 51<br>Numéro de mobile : 05 61 69 33 31<br>Numéro de fax : /<br>Adresse email : b.dib@macirvie.com<br>-----------------------------------------------<br>Code agence : 7231<br>Adresse postale : Rue LADACI Rabah<br>Numéro de téléphone : 038.346.688<br>Numéro de mobile : 0550 98 14 28<br>Numéro de fax : /<br>Adresse email : b.rahalia@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.75585<br>Long: 8.22129]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.75585</value>
+          </Data>
+          <Data name="Long">
+            <value>8.22129</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/f1hsodnf6r5mmrn10pb9ccb8go/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqXi13iyTh3fGNpYFD8XTzIAI9jbKnaoKty1Q6zCCMjlEpjlpENn3kKgLCS7ZBEh06ECdiufUl2ur37XsAKANL1g85M6Gl_1mOIsuEEArXdnlH_PWX2xsMDeST2e5Hegx0sPFDCmRQ7Htf5GTeV0ajHwHJ348hxR9GDW7MXakEd986NXn5UVJdieCNGC_OyhOBAF4Tr?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.22129,36.75585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gherdaia</name>
+        <description><![CDATA[<img src="https://doc-0k-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/nb6uj1tp0v069lna1qevgsf4eg/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALoseI2xfIGER2pmRUq3KpSH-X6Xrc88deWDfjATtO_5DBQxbKBkK-bWlHZ_FSBrcgY_abItiWWAF87_kft0Qi-UpFZmcc_XNjhoyHZ0DC1kzbTXreLOqk0FDrdmUhFIWlsm86ZM8BpwXPyNRJWzqYUIyUo5EE2gW209blph0JMdvETBBqGd5GwW1NQ9kQ2Qk8c35FR7?session=0&fife" height="200" width="auto" /><br><br>Code agence : 5100<br>Adresse postale : Rue Benhamouda larbi- Cerrefour Bouhraoua<br>Numéro de téléphone : 029.281.722<br>Numéro de mobile : 0.561.604.554<br>Numéro de fax : 029.281.722<br>Adresse email : macir5100@macirvie.com<br>-----------------------------------------------<br>Code agence : 5100<br>Adresse postale : Rue Benhamouda Larbi - Cerrefour Bouhraoua<br>Numéro de téléphone : 029.281.098 <br>Numéro de mobile : 0.561.604.474<br>Numéro de fax : 029.282.609<br>Adresse email : h.bouhoune@macirvie.com<br>-----------------------------------------------<br><br>Lat: 32.49238<br>Long: 3.67286]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>32.49238</value>
+          </Data>
+          <Data name="Long">
+            <value>3.67286</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/nb6uj1tp0v069lna1qevgsf4eg/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALoseI2xfIGER2pmRUq3KpSH-X6Xrc88deWDfjATtO_5DBQxbKBkK-bWlHZ_FSBrcgY_abItiWWAF87_kft0Qi-UpFZmcc_XNjhoyHZ0DC1kzbTXreLOqk0FDrdmUhFIWlsm86ZM8BpwXPyNRJWzqYUIyUo5EE2gW209blph0JMdvETBBqGd5GwW1NQ9kQ2Qk8c35FR7?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            3.67286,32.49238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guelma</name>
+        <description><![CDATA[<img src="https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/385nrdta64v9ead9m395ddivk8/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrNAaoEINSHfMuY64DXdsCG9WWKt2u7b198KB1orreIZx8jlO7PrkJeTXVf6LR3HcQLI9I8quyeFhhHmKrQHoYLdP8p7f3cS5e18qxetZ_63QYSk6qlisCDwDgex27K0UGo0f8H1W3XjiXcV2qEmf1qJNkGjyvsoBjCpnFvPr5xI77t931S6cILGKRJf39tUXbl_F5l?session=0&fife" height="200" width="auto" /><br><br>Code agence : 7180<br>Adresse postale : Rue MIHOUBI Ben Tayeb n° 23<br>Numéro de téléphone : 037.143.668<br>Numéro de mobile : 0.561.604.641<br>Numéro de fax : /<br>Adresse email : h.boudjehem@macirvie.com<br>-----------------------------------------------<br>Code agence : 7210A<br>Adresse postale : Rue Ferdas Hocine n° 59, Guelma<br>Numéro de téléphone : 037.150.268<br>Numéro de mobile : 0.561.604.623<br>Numéro de fax : /<br>Adresse email : b.zitouni@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.45897<br>Long: 7.43272]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.45897</value>
+          </Data>
+          <Data name="Long">
+            <value>7.43272</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/385nrdta64v9ead9m395ddivk8/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrNAaoEINSHfMuY64DXdsCG9WWKt2u7b198KB1orreIZx8jlO7PrkJeTXVf6LR3HcQLI9I8quyeFhhHmKrQHoYLdP8p7f3cS5e18qxetZ_63QYSk6qlisCDwDgex27K0UGo0f8H1W3XjiXcV2qEmf1qJNkGjyvsoBjCpnFvPr5xI77t931S6cILGKRJf39tUXbl_F5l?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.43272,36.45897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jijel</name>
+        <description><![CDATA[<img src="https://doc-0g-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/tgpkfui8jvb0vfg54voo1mrkfs/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpRvxrHMjmqFYNEn3hnhQP9HWGzUDoNfog8KBJYSQ-0zZwcuipJWWXZjDkIFSD6UKYBcWDIW1SzVRnuOOS-Ltq1eNQT980VSuMNQkEdycY_6yYFXkjrb5T_wbYhFoPFn7G84RRhccF550PaTlBJMaNgAqlMQ9A8Lgmc4w9q9-T5p7gzk2xaFdGKdKtI6K4xWqoZimIj?session=0&fife" height="200" width="auto" /><br><br>Code agence : 6260<br>Adresse postale : 13 lot, lotissement des 15 logts (El Kantara)<br>Numéro de téléphone : 034.495.956<br>Numéro de mobile : 0.561.604.584<br>Numéro de fax : 034.495.956<br>Adresse email : m.bouzaout@macirvie.com<br>-----------------------------------------------<br>Code agence : 6390A<br>Adresse postale : Cité AL Kafour, El Milia<br>Numéro de téléphone : 034.524.547<br>Numéro de mobile : 0.542.664.684/0.561.604.766<br>Numéro de fax : /<br>Adresse email : n.bounnekar@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.81673<br>Long: 5.74909]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.81673</value>
+          </Data>
+          <Data name="Long">
+            <value>5.74909</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/tgpkfui8jvb0vfg54voo1mrkfs/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpRvxrHMjmqFYNEn3hnhQP9HWGzUDoNfog8KBJYSQ-0zZwcuipJWWXZjDkIFSD6UKYBcWDIW1SzVRnuOOS-Ltq1eNQT980VSuMNQkEdycY_6yYFXkjrb5T_wbYhFoPFn7G84RRhccF550PaTlBJMaNgAqlMQ9A8Lgmc4w9q9-T5p7gzk2xaFdGKdKtI6K4xWqoZimIj?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.74909,36.81673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khenchela</name>
+        <description><![CDATA[<img src="https://doc-08-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jptgpb3mp9fg6qoovk1dikdqpg/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrV7lVsLtwbBJDmZ1Tk9bx5ZFnv1veR6wKhbfBuaUowV799yOgrWPWqc-BGw4uAy7i4azwl9sVaQILXFRMaGkib28RykfR8EPgLEDD00n08Mk9xb4UWrzW_U2MHOdbNCtXudMbtpBmQMuK5WDeGvoVAzoZe4aeMEbw-ocr2nLB2dmdu_pLZP_vjAv1QhVU18lSwX4Tz?session=0&fife" height="200" width="auto" /><br><br>Code agence : 7190<br>Adresse postale : 6, rue Abbès Laghrour<br>Numéro de téléphone : 032.701.040/43<br>Numéro de mobile : 0.561.604.642<br>Numéro de fax : /<br>Adresse email : s.zeggada@macirvie.com<br>-----------------------------------------------<br>Code agence : 7191<br>Adresse postale : Cité du 17 Juin , Kais<br>Numéro de téléphone : 032.774.040<br>Numéro de mobile : 06 76 96 15 00<br>Numéro de fax : /<br>Adresse email : s.zeggada@macirvie.com<br>-----------------------------------------------<br>Code agence : 7192<br>Adresse postale : Cité jolie vue, Cherchar<br>Numéro de téléphone : 032.753.380<br>Numéro de mobile : 0665.67.56.03<br>Numéro de fax : /<br>Adresse email : s.zeggada@macirvie.com<br>-----------------------------------------------<br><br>Lat: 35.19291<br>Long: 6.92091]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>35.19291</value>
+          </Data>
+          <Data name="Long">
+            <value>6.92091</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jptgpb3mp9fg6qoovk1dikdqpg/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrV7lVsLtwbBJDmZ1Tk9bx5ZFnv1veR6wKhbfBuaUowV799yOgrWPWqc-BGw4uAy7i4azwl9sVaQILXFRMaGkib28RykfR8EPgLEDD00n08Mk9xb4UWrzW_U2MHOdbNCtXudMbtpBmQMuK5WDeGvoVAzoZe4aeMEbw-ocr2nLB2dmdu_pLZP_vjAv1QhVU18lSwX4Tz?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.92091,35.19291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laghouat</name>
+        <description><![CDATA[<img src="https://doc-08-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7hm5h4tdc3t8qn5mus75efii20/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALo_HLVmCu3UU0p_oxn2TQ-nI8DzHAVwOcymE1TZJErBu-Uzgp1__wMBaz8QbL8zq5kjvruIeES5yDVn1MttMT66fxTiNKpQVvNoQYE-1NCheps0tlrvuEHzCQJQyV5DYPX8sw_bwpdeHewhfLUN5rm6t3UP6jDYKt70mgShcWR81dFAj8_B3GR0I7JBqBABiqselpBu?session=0&fife" height="200" width="auto" /><br><br>Code agence : 5170<br>Adresse postale : Cité BOUAMEUR - MAAMOURAH<br>Numéro de téléphone : 029.131.446<br>Numéro de mobile : 0.561.604.748<br>Numéro de fax : 029.131.446<br>Adresse email : K.cheriguene@macirvie.com<br>-----------------------------------------------<br>Code agence : 5240<br>Adresse postale : Route Nationale 23 - Route de Tiaret, Aflou<br>Numéro de téléphone : 029.176.112<br>Numéro de mobile : 07 71 99 24 67<br>Numéro de fax : 029.176.114<br>Adresse email : o.karim@macirvie.com<br>-----------------------------------------------<br><br>Lat: 33.40738<br>Long: 2.77798]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>33.40738</value>
+          </Data>
+          <Data name="Long">
+            <value>2.77798</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7hm5h4tdc3t8qn5mus75efii20/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALo_HLVmCu3UU0p_oxn2TQ-nI8DzHAVwOcymE1TZJErBu-Uzgp1__wMBaz8QbL8zq5kjvruIeES5yDVn1MttMT66fxTiNKpQVvNoQYE-1NCheps0tlrvuEHzCQJQyV5DYPX8sw_bwpdeHewhfLUN5rm6t3UP6jDYKt70mgShcWR81dFAj8_B3GR0I7JBqBABiqselpBu?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            2.77798,33.40738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[M'Sila]]></name>
+        <description><![CDATA[<img src="https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3rrhquprm5k5jpgclc7raaa96g/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALq8Mkrjwg32NdFmdVCUvxv6IEzEginS86ihDeQhNskdWL77vfxi__IARJnRQGeAfLjrI0AV_JWPHyG6VMZoJ7z8OoyP3-XuFGNPFuuclGxRCIOaG3oCwVQa1ZY8iS3cA0Ipo9Cn632beCKUKNG1hs0ejIu_uEQO3DS129nKbMOB41Wq58j_9xyFnWSTclJwe3zVmcal?session=0&fife" height="200" width="auto" /><br><br>Code agence : 6121<br>Adresse postale : 3, Coopérative El oustakbel<br>Numéro de téléphone : 035.338.875<br>Numéro de mobile : 0.561.604.635<br>Numéro de fax : 035.338.875<br>Adresse email : t.debbi@macirvie.com<br>-----------------------------------------------<br>Code agence : 6210<br>Adresse postale : 39, Boulevard de l'A L N, Oued El Outhmania<br>Numéro de téléphone : 031.488.853<br>Numéro de mobile : 0.560.941.716<br>Numéro de fax : 031.488.853<br>Adresse email : m.chaibi@macirvie.com<br>-----------------------------------------------<br>Code agence : 6212<br>Adresse postale : Cité du stade communal, Tadjenanet<br>Numéro de téléphone : 031.533.604<br>Numéro de mobile : 0.560.941.716<br>Numéro de fax : 031.533.604<br>Adresse email : m.chaibi@macirvie.com<br>-----------------------------------------------<br><br>Lat: 35.31663<br>Long: 4.23333]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>35.31663</value>
+          </Data>
+          <Data name="Long">
+            <value>4.23333</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3rrhquprm5k5jpgclc7raaa96g/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALq8Mkrjwg32NdFmdVCUvxv6IEzEginS86ihDeQhNskdWL77vfxi__IARJnRQGeAfLjrI0AV_JWPHyG6VMZoJ7z8OoyP3-XuFGNPFuuclGxRCIOaG3oCwVQa1ZY8iS3cA0Ipo9Cn632beCKUKNG1hs0ejIu_uEQO3DS129nKbMOB41Wq58j_9xyFnWSTclJwe3zVmcal?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.23333,35.31663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mascara</name>
+        <description><![CDATA[<img src="https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ma56vra1ls7slajlm2b1tuivmo/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpKBHsmIAoTyZDBnLt0pMkKyEHT8CbeD88WDMO2H5SF2N7lAncjliN1HWpxkPAq8LjYy1hz8i_hWZdRyGB7IxX7aPaM4lClOFoB0E0nIkKBTnToM8Xh8zuZBXAPa0NMX6AawoZ3q8OdI05budDp8NxjhoGvkqUiDUdsHkWtRqu9fo0-bT2bTIhOiWctXt2j8ZM4m9B_?session=0&fife" height="200" width="auto" /><br><br>Code agence : 3191<br>Adresse postale : 31, Rue Larbi BOULENOUAR, Sig<br>Numéro de téléphone : 045625410<br>Numéro de mobile : 0555,11,37,22<br>Numéro de fax : 045625410<br>Adresse email : r.mebrek@macirvie.com<br>-----------------------------------------------<br>Code agence : 3310<br>Adresse postale : 59, rue Bentata Mohamed - Cité 71 logts<br>Numéro de téléphone : 045.717.976<br>Numéro de mobile : 0662,57,59,55<br>Numéro de fax : 045.717.976<br>Adresse email : a.seddik@macirvie.com<br>-----------------------------------------------<br><br>Lat: 35.39041<br>Long: 0.14949]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>35.39041</value>
+          </Data>
+          <Data name="Long">
+            <value>0.14949</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ma56vra1ls7slajlm2b1tuivmo/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALpKBHsmIAoTyZDBnLt0pMkKyEHT8CbeD88WDMO2H5SF2N7lAncjliN1HWpxkPAq8LjYy1hz8i_hWZdRyGB7IxX7aPaM4lClOFoB0E0nIkKBTnToM8Xh8zuZBXAPa0NMX6AawoZ3q8OdI05budDp8NxjhoGvkqUiDUdsHkWtRqu9fo0-bT2bTIhOiWctXt2j8ZM4m9B_?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.14949,35.39041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Medea</name>
+        <description><![CDATA[<img src="https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/kmleh6t476s16ecb00g26d2gjg/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALq2HovylmotbhGedI0T7lwK3hKM-ZzjJ0eWvSFsPr_Qsx6u8b7_emGzgUM7AF6_xIutzzFJzebJ7DcdxuvL4NBuWUvXBR9j7E6mWCaz3cbR279ZnZ60boWSGTGs8OndgdaBt0y73qmPppV64aT6D54d0p-y1wFBJVjLMnxr2cn66oyLMLKZ7JDeztw7CfPZflncAkzm?session=0&fife" height="200" width="auto" /><br><br>Code agence : 2240<br>Adresse postale : Cité SEMMANA Local n°03 (Ex. ACACIAS)<br>Numéro de téléphone : 025.782.550<br>Numéro de mobile : 0.561.604.598<br>Numéro de fax : 025.782.550<br>Adresse email : m.bersali@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.05348<br>Long: 2.93757]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.05348</value>
+          </Data>
+          <Data name="Long">
+            <value>2.93757</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/kmleh6t476s16ecb00g26d2gjg/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALq2HovylmotbhGedI0T7lwK3hKM-ZzjJ0eWvSFsPr_Qsx6u8b7_emGzgUM7AF6_xIutzzFJzebJ7DcdxuvL4NBuWUvXBR9j7E6mWCaz3cbR279ZnZ60boWSGTGs8OndgdaBt0y73qmPppV64aT6D54d0p-y1wFBJVjLMnxr2cn66oyLMLKZ7JDeztw7CfPZflncAkzm?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            2.93757,36.05348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mila</name>
+        <description><![CDATA[<img src="https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/5n59do9rg20u0uti3ncek1g410/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALosi1Y6ajmaT72QFpo04q7RgTAztdq6G9QDbS3Ee6wZEqdoJOBN2Q-2gD1p6FXww-FG18P0Kt8v5lDRD20JQ4KDQvl7DKqb7bvNsq7jEARYdYn1tHAo1HNQrdlOixzRUSfWa5gypa_haJGMR6odL96zzFwFtoML5_iFFHh9-vjykE9U-FPMaorGGPqrNBnUdgFn-x-T?session=0&fife" height="200" width="auto" /><br><br>Code agence : 5133<br>Adresse postale : Bouilef Supérieur – Arres – BP 90, Chelghoum Laid<br>Numéro de téléphone : 031 45 51 21<br>Numéro de mobile : 05 61 50 36 03<br>Numéro de fax : 031 45 51 21<br>Adresse email : a.cherafa@macirvie.com<br>-----------------------------------------------<br>Code agence : 6330<br>Adresse postale : 26, rue du 5 juillet 1962, Chelghoum Laid<br>Numéro de téléphone : 031.536.730<br>Numéro de mobile : 0561.60.47.63<br>Numéro de fax : 031.536.730<br>Adresse email : a.boudjiza@macirvie.com<br>-----------------------------------------------<br>Code agence : 6440<br>Adresse postale : N° 23, Cité Château d'Eau, Mila<br>Numéro de téléphone : /<br>Numéro de mobile : 0561.60.47.63<br>Numéro de fax : /<br>Adresse email : D.khedoune@macirvie.com<br>-----------------------------------------------<br>Code agence : 5133A<br>Adresse postale : Bouilef Supérieur – Arres – BP 90<br>Numéro de téléphone : 0 31 45 51 21<br>Numéro de mobile : 05 61 50 36 03<br>Numéro de fax : /<br>Adresse email : a.cherafa@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.450797<br>Long: 6.252937]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.450797</value>
+          </Data>
+          <Data name="Long">
+            <value>6.252937</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/5n59do9rg20u0uti3ncek1g410/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALosi1Y6ajmaT72QFpo04q7RgTAztdq6G9QDbS3Ee6wZEqdoJOBN2Q-2gD1p6FXww-FG18P0Kt8v5lDRD20JQ4KDQvl7DKqb7bvNsq7jEARYdYn1tHAo1HNQrdlOixzRUSfWa5gypa_haJGMR6odL96zzFwFtoML5_iFFHh9-vjykE9U-FPMaorGGPqrNBnUdgFn-x-T?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.252937,36.450797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mostaganem</name>
+        <description><![CDATA[<img src="https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/4u1qqieuunbbf0tuqqv0f89p40/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALo1Bun4kUC-ttiMwfIdxuqOm-33ckYE3mCG8fVUQA-6ULiYdBS7n590PLDn-A-fY9GwxbPunMooTjuc7dtIcFyhzy6WSwl2u1H4pjQ-rZV6OQXRupH81i8pIJ2paJKrnjBJVlqiUnxDmn5KpZfRWnDf0YzvTc8iafKeGaLNieiXCE_qDJky0Rn8GRJhEnq1N-fvSZQq?session=0&fife" height="200" width="auto" /><br><br>Code agence : 3240<br>Adresse postale : 31, rue OULD AISSA Belkacem - Bloc n°1<br>Numéro de téléphone : 045.427.721<br>Numéro de mobile : 0.561.604.693<br>Numéro de fax : 045.427.721<br>Adresse email : s.benabadis@macirvie.com<br>-----------------------------------------------<br>Code agence : 3290<br>Adresse postale : Cité Cheikh Hamada L4 n°1 - Route d'Oran<br>Numéro de téléphone : 045.307.950<br>Numéro de mobile : 0772,09,03,33<br>Numéro de fax : 045.307.950<br>Adresse email : O.bensikaddour@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.01312<br>Long: 0.14013]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.01312</value>
+          </Data>
+          <Data name="Long">
+            <value>0.14013</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/4u1qqieuunbbf0tuqqv0f89p40/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALo1Bun4kUC-ttiMwfIdxuqOm-33ckYE3mCG8fVUQA-6ULiYdBS7n590PLDn-A-fY9GwxbPunMooTjuc7dtIcFyhzy6WSwl2u1H4pjQ-rZV6OQXRupH81i8pIJ2paJKrnjBJVlqiUnxDmn5KpZfRWnDf0YzvTc8iafKeGaLNieiXCE_qDJky0Rn8GRJhEnq1N-fvSZQq?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.14013,36.01312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oran</name>
+        <description><![CDATA[<img src="https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/m2j6jbsl05dt11uvtbqbq23jkc/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrWCAtWi3o3wA05NIeClUiSmaV0Kqm9s84vwyrkTdFMpqzxiiaGUSm06mnGMm5w6PW-Wxr0R8l6vz1CBqjFmz25SUgUeyK9NS8JbGqVjNPFj0xXTxZc3W0Zu7W9K1g1XdWLYD_AR-YVKupxCph6_id9lM2G5HLSsbhWojGKJNI9k6CXmWkJebqsxmQYJ-crjNVeUdgo?session=0&fife" height="200" width="auto" /><br><br>Code agence : 9140<br>Adresse postale : 17 rue Brahim djelloul Ex rue NANCY <br>Numéro de téléphone : 0 41 40 90 34<br>Numéro de mobile : 0770,97,65,72<br>Numéro de fax : 0 41 40 90 34<br>Adresse email : macir9140@macirvie.com<br>-----------------------------------------------<br>Code agence : 3110<br>Adresse postale : 03, Rue Brahim DJELLOUL (ex. Arago)<br>Numéro de téléphone : 041.405.853<br>Numéro de mobile : 0771.21.92.06<br>Numéro de fax : 041.405.853<br>Adresse email : h.behloul@macirvie.com<br>-----------------------------------------------<br>Code agence : 3111<br>Adresse postale : 2, rue Emir Abdelkader, Oued Tlelat<br>Numéro de téléphone : 041.187.681<br>Numéro de mobile : 0541.58.73.64<br>Numéro de fax : 041.187.681<br>Adresse email : h.behloul@macirvie.com<br>-----------------------------------------------<br>Code agence : 3150<br>Adresse postale : Cité des 340 Logts Bt A 11 App. N°2 - Seddikia<br>Numéro de téléphone : 041.748.879<br>Numéro de mobile : 0560.05.52.76<br>Numéro de fax : 041.748.879<br>Adresse email : l.gourara@macirvie.com<br>-----------------------------------------------<br>Code agence : 3151<br>Adresse postale : N° 22 Rue Slimani Mohamed Ex. Jules Vinson <br>Numéro de téléphone : /<br>Numéro de mobile : 0560.05.52.76<br>Numéro de fax : /<br>Adresse email : l.gourara@macirvie.com<br>-----------------------------------------------<br>Code agence : 3170<br>Adresse postale : 6, Rue de GRENOBLE<br>Numéro de téléphone : 041.414.161<br>Numéro de mobile : 05 55 06 47 48<br>Numéro de fax : 041.414.193<br>Adresse email : r.bendjaber@macirvie.com<br>-----------------------------------------------<br>Code agence : 3171<br>Adresse postale : Port d'oran gare maritime bloc 06<br>Numéro de téléphone : 041.415.832<br>Numéro de mobile : 0560,05,52,76<br>Numéro de fax : 041.415.832<br>Adresse email : r.bendjaber@macirvie.com<br>-----------------------------------------------<br>Code agence : 3172<br>Adresse postale : 16, rue Docteur BELHOCINE 6 Local n° 02 - Cité des moudjahidines<br>Numéro de téléphone : 041.400.864<br>Numéro de mobile : 05 55 06 47 46<br>Numéro de fax : 041.402.294<br>Adresse email : r.bendjaber@macirvie.com<br>-----------------------------------------------<br>Code agence : 3190<br>Adresse postale : 17, rue Kadari Sid Ahmed, cité Khalidia<br>Numéro de téléphone : 041.746.937<br>Numéro de mobile : 0550.07.17.80<br>Numéro de fax : 041.746.937<br>Adresse email : r.mebrek@macirvie.com<br>-----------------------------------------------<br>Code agence : 3210<br>Adresse postale : Cité Ibn Rochd, N° 56 Rue BENTAYEB Mohamed - Seddikia<br>Numéro de téléphone : /<br>Numéro de mobile : 0561.62.31.04<br>Numéro de fax : /<br>Adresse email : m.guelati@macirvie.com<br>-----------------------------------------------<br>Code agence : 3280<br>Adresse postale : Rue d'arcol n° 39 - Gambetta<br>Numéro de téléphone : 041.426.984<br>Numéro de mobile : 0770.79.10.93<br>Numéro de fax : 041.426.984<br>Adresse email : w.iles@macirvie.com<br>-----------------------------------------------<br>Code agence : 3281<br>Adresse postale : Cité des 550 logements - Hai Khemisti N° 05 Bâtiment 04 Ilot 2-4<br>Numéro de téléphone : /<br>Numéro de mobile : 0770.79.10.93<br>Numéro de fax : /<br>Adresse email : w.iles@macirvie.com<br>-----------------------------------------------<br>Code agence : 3300<br>Adresse postale : Batiment D2 - Cité Ibn Khaldoun (SOTIBA) AKID Lotfi<br>Numéro de téléphone : 041.720.795<br>Numéro de mobile : /<br>Numéro de fax : 041.720.795<br>Adresse email : l.arab@macirvie.com<br>-----------------------------------------------<br>Code agence : 3320<br>Adresse postale : Résidence Beau séjour, Bt B N°31 - Boulevard du Millénium<br>Numéro de téléphone : 041.741.340<br>Numéro de mobile : 0770.14.64.13<br>Numéro de fax : 041.741.340<br>Adresse email : s.benbadis@macirvie.com<br>-----------------------------------------------<br>Code agence : 3321<br>Adresse postale : Coopérative ENNOUR - Local n° 5 - Les castors<br>Numéro de téléphone : 041646381<br>Numéro de mobile : 0770.14.64.13<br>Numéro de fax : 041646381<br>Adresse email : s.benbadis@macirvie.com<br>-----------------------------------------------<br>Code agence : 3350<br>Adresse postale : CN°1, rue de Normandie Claire fontaine, Ain Turck<br>Numéro de téléphone : 041.447.855<br>Numéro de mobile : 0.561.604.651<br>Numéro de fax : 041.447.855<br>Adresse email : l.hebali@macirvie.com<br>-----------------------------------------------<br>Code agence : 3370<br>Adresse postale : Résidence Nassim El Bahr – Ilôt E2 - Bâtiment 4 – Akid Lotfi <br>Numéro de téléphone : 041.745.507<br>Numéro de mobile : 0551.01.65.43<br>Numéro de fax : 041.745.507<br>Adresse email : a.aous@macirvie.com<br>-----------------------------------------------<br>Code agence : 3390<br>Adresse postale : Cité El Khaldia Bt B23 rue de l'ourcq - DELMONTE <br>Numéro de téléphone : 0.41.46.66.28<br>Numéro de mobile : 06 61.20.60.71<br>Numéro de fax : 0.41.46.66.28<br>Adresse email : a.nadour@macirvie.com<br>-----------------------------------------------<br><br>Lat: 35.70191<br>Long: -0.62622]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>35.70191</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.62622</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/m2j6jbsl05dt11uvtbqbq23jkc/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrWCAtWi3o3wA05NIeClUiSmaV0Kqm9s84vwyrkTdFMpqzxiiaGUSm06mnGMm5w6PW-Wxr0R8l6vz1CBqjFmz25SUgUeyK9NS8JbGqVjNPFj0xXTxZc3W0Zu7W9K1g1XdWLYD_AR-YVKupxCph6_id9lM2G5HLSsbhWojGKJNI9k6CXmWkJebqsxmQYJ-crjNVeUdgo?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.62622,35.70191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ouargla</name>
+        <description><![CDATA[<img src="https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7ig6qda2pggk2f796i2ijrtft0/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqeKky0MliltyllOuB6no2-EfAxVvJ64r5ZSzV7O_GMIp1rG_j9NROXVOO0O_rAPJhOcCEiAskTExmoGUqFehEStiBW44oNWs-7x4NTQy1OBPWqHK-mQKs3SPF0YtVtV6TZe0xAusKWGJDB3paT_kSlX2rvhqOVKXj6nMcG0-c_ixO-66i7UdWtNq-BUDxnk2Kp5aPK?session=0&fife" height="200" width="auto" /><br><br>Code agence : 5130<br>Adresse postale : Cité 1850 Villas (face villa 2262) BP 1118, Hassi Messaoud<br>Numéro de téléphone : 029.793.332<br>Numéro de mobile : 0661 39 68 27<br>Numéro de fax : 029.793.332<br>Adresse email : a.cherafa@macirvie.com<br>-----------------------------------------------<br>Code agence : 5131<br>Adresse postale : 4, Boulevard de la Palestine<br>Numéro de téléphone : 029.793.330<br>Numéro de mobile : 05 61 60 45 93/94<br>Numéro de fax : 029.793.330<br>Adresse email : a.cherafa@macirvie.com<br>-----------------------------------------------<br>Code agence : 5180<br>Adresse postale : Lot n°01, cité des 442 logements, Hassi Messaoud<br>Numéro de téléphone : 029.735.041<br>Numéro de mobile : 0.561.604.654<br>Numéro de fax : 029.735.041<br>Adresse email : h.bensafi@macirvie.com<br>-----------------------------------------------<br>Code agence : 1601A<br>Adresse postale : Cité 460 Logements Bt H N° 116 ,Ouargla<br>Numéro de téléphone : /<br>Numéro de mobile : 0.671.042.725<br>Numéro de fax : /<br>Adresse email : s.zerguit@macirvie.com<br>-----------------------------------------------<br><br>Lat: 32.16778<br>Long: 4.97665]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>32.16778</value>
+          </Data>
+          <Data name="Long">
+            <value>4.97665</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7ig6qda2pggk2f796i2ijrtft0/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqeKky0MliltyllOuB6no2-EfAxVvJ64r5ZSzV7O_GMIp1rG_j9NROXVOO0O_rAPJhOcCEiAskTExmoGUqFehEStiBW44oNWs-7x4NTQy1OBPWqHK-mQKs3SPF0YtVtV6TZe0xAusKWGJDB3paT_kSlX2rvhqOVKXj6nMcG0-c_ixO-66i7UdWtNq-BUDxnk2Kp5aPK?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.97665,32.16778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oum El Bouaghi</name>
+        <description><![CDATA[<img src="https://doc-10-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/9culcjs9hn8foak7j6alk2d00g/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrq-ipEXY806EU5kpnLMf6hpU5uLHtmME7Ex_jpZRp-sA0T8UBGThAucY3aq2cekWwm-6F4Fhe_BqXUqF3dRX7bdc8BmrHHaq461jRSh76MyfqR9wZSh15IOeC17As59rCWhIcMW0BUO6QsaHKff6C9k432_3BPcpv_6GIAtO-dRrm1lQSLHiYh4YjpXMk2whye7ZEe?session=0&fife" height="200" width="auto" /><br><br>Code agence : 7220<br>Adresse postale : Cite el mostakbel n05<br>Numéro de téléphone : 032.562.430<br>Numéro de mobile : 0558.23.77.47<br>Numéro de fax : /<br>Adresse email : n.gastel@macirvie.com<br>-----------------------------------------------<br>Code agence : 7221<br>Adresse postale : Lotissement Amel, Ain Beida<br>Numéro de téléphone : 032.683.591<br>Numéro de mobile : 05 58 86 31 17<br>Numéro de fax : /<br>Adresse email : n.gastel@macirvie.com<br>-----------------------------------------------<br>Code agence : 7280<br>Adresse postale : 26, cité Djenane Ezzitoune - Bat 3<br>Numéro de téléphone : 032.556.394<br>Numéro de mobile : 0.560.951.374<br>Numéro de fax : /<br>Adresse email : h.makhloufi@macirvie.com<br>-----------------------------------------------<br>Code agence : 7281<br>Adresse postale : Cité El Afak 3, Ain Fakroun<br>Numéro de téléphone : /<br>Numéro de mobile : 0.560.951.374<br>Numéro de fax : /<br>Adresse email : h.makhloufi@macirvie.com<br>-----------------------------------------------<br>Code agence : 7350<br>Adresse postale : Cité El Hana, Ain Mlila<br>Numéro de téléphone : /<br>Numéro de mobile : 05 61 69 33 31<br>Numéro de fax : /<br>Adresse email : b.dib@macirvie.com<br>-----------------------------------------------<br>Code agence : 7282A<br>Adresse postale : Cité El Nasr 02 Ain Beida Oum El Bouaghi<br>Numéro de téléphone : 0 32 55 63 94<br>Numéro de mobile : 0.560.951.374<br>Numéro de fax : /<br>Adresse email : h.makhloufi@macirvie.com<br>-----------------------------------------------<br><br>Lat: 35.78814<br>Long: 7.17902]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>35.78814</value>
+          </Data>
+          <Data name="Long">
+            <value>7.17902</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/9culcjs9hn8foak7j6alk2d00g/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrq-ipEXY806EU5kpnLMf6hpU5uLHtmME7Ex_jpZRp-sA0T8UBGThAucY3aq2cekWwm-6F4Fhe_BqXUqF3dRX7bdc8BmrHHaq461jRSh76MyfqR9wZSh15IOeC17As59rCWhIcMW0BUO6QsaHKff6C9k432_3BPcpv_6GIAtO-dRrm1lQSLHiYh4YjpXMk2whye7ZEe?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.17902,35.78814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Relizane</name>
+        <description><![CDATA[<img src="https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/asvjpv9ltj55t2jfqjb3nhc2hs/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALq0_4Swu4uZHnfjKqILXXQFmlj8j2JLbWIfj0pEkrnwtzogNl5dhmj7eaBqRgHC2AfLqAT5BRdQv2r2m0vOYVlQ__ftKquIMhoT1amT4QX1hFQKQjmcGo8-EDoa6se18vO2OIjrlj_0S_-QVK0pU4yvwoUxvxdrlzUjfJU7FG71uYaD69AJpERfiAyysy5PGN_mGEcM?session=0&fife" height="200" width="auto" /><br><br>Code agence : 2181<br>Adresse postale : Route Principale n°84<br>Numéro de téléphone : 046.940.663<br>Numéro de mobile : 0560 93 25 54<br>Numéro de fax : 046.940.663<br>Adresse email : s.hadjoucif@macirvie.com<br>-----------------------------------------------<br><br>Lat: 35.73834<br>Long: 0.75328]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>35.73834</value>
+          </Data>
+          <Data name="Long">
+            <value>0.75328</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/asvjpv9ltj55t2jfqjb3nhc2hs/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALq0_4Swu4uZHnfjKqILXXQFmlj8j2JLbWIfj0pEkrnwtzogNl5dhmj7eaBqRgHC2AfLqAT5BRdQv2r2m0vOYVlQ__ftKquIMhoT1amT4QX1hFQKQjmcGo8-EDoa6se18vO2OIjrlj_0S_-QVK0pU4yvwoUxvxdrlzUjfJU7FG71uYaD69AJpERfiAyysy5PGN_mGEcM?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.75328,35.73834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Setif</name>
+        <description><![CDATA[<img src="https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/i8pkd3nqv6ramu41qm75lnb5ak/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrOip8-A7yCT_Nih-XdFtQ13S7ZALr62KV932sIkNJc_kBJnl__lpCvFTuGOb1W31LXpUcJ3rSH__a4OppkqNgiflV7xHPmplBT-j3p3XBXQ1IyUTonW3ZSbbxkdpKn5LPG_XefW1lPyoXh_I1gM1XYpzmq_AEHoZe8ufYTvUXSpyhxLDXaB84V7Ah6DYWSG_Ru9L4u?session=0&fife" height="200" width="auto" /><br><br>Code agence : 6110<br>Adresse postale : Lotissement 72 logts - Rue des tours - Bat A n°2 <br>Numéro de téléphone : 036.664.107<br>Numéro de mobile : 0558.69.72.01/0.560.941.714      Numéro de fax : 036.664.107<br>Adresse email : m.mezdad@macirvie.com<br>-----------------------------------------------<br>Code agence : 6190<br>Adresse postale : 01, rue Mohamed SABER - Cité TLIDJENE<br>Numéro de téléphone : 036.825.256<br>Numéro de mobile : 0.561.604.625<br>Numéro de fax : 036.825.256<br>Adresse email : m.tebtoub@macirvie.com<br>-----------------------------------------------<br>Code agence : 9220A<br>Adresse postale : Cité 100 Logements El Eulma<br>Numéro de téléphone : 035.737.430 Numéro de mobile : 0.541.836.022<br>Numéro de fax : 035.737.430        Adresse email : h.douadi@macirvie.com                             ----------------------------------------------        Code agence : <br>Adresse postale : Cité Hachemi - Coopérative El Amel - Local n° 04 -Numéro de téléphone : 036.527.784 Numéro de mobile : 0.556.514.355 Numéro de fax : 036.527.784        Adresse email : n.faid@macirvie.com     ----------------------------------------------<br><br>Lat: 36.20882<br>Long: 5.40527]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.20882</value>
+          </Data>
+          <Data name="Long">
+            <value>5.40527</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/i8pkd3nqv6ramu41qm75lnb5ak/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALrOip8-A7yCT_Nih-XdFtQ13S7ZALr62KV932sIkNJc_kBJnl__lpCvFTuGOb1W31LXpUcJ3rSH__a4OppkqNgiflV7xHPmplBT-j3p3XBXQ1IyUTonW3ZSbbxkdpKn5LPG_XefW1lPyoXh_I1gM1XYpzmq_AEHoZe8ufYTvUXSpyhxLDXaB84V7Ah6DYWSG_Ru9L4u?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.40527,36.20882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skikda</name>
+        <description><![CDATA[<img src="https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/a8t7d194buojqs3bsc56br0nd4/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALoVN7YH2DzWTjgxujiXBWYE5pcqtyrAyF09CclZJGujXe69AmzQMItvRUeeYwmT8h4vE-q-CnzB9nIDZunQFp4zwl6mswN78L3IaAKTryXMplz1qoYBTaWTFx8TnfvhC8PglG1y1bmIJEExg8ba7vdg22R4Ow4giteEN-BGttjMweIOlBbgEl5s9UjYJvwuEvoYcysk?session=0&fife" height="200" width="auto" /><br><br>Code agence : 7120<br>Adresse postale : Bd Houari BOUMEDIENE - EPLF 80 logts Bat D1<br>Numéro de téléphone : 038.766.789<br>Numéro de mobile : 0560.95.14.22<br>Numéro de fax : /<br>Adresse email : a.redjem@macirvie.com<br>-----------------------------------------------<br>Code agence : 7170<br>Adresse postale : Cité des frères Bouhedja - Villa 267<br>Numéro de téléphone : 038.705.161<br>Numéro de mobile : 0.560.951.366<br>Numéro de fax : /<br>Adresse email : f.remita@macirvie.com<br>-----------------------------------------------<br>Code agence : 7270<br>Adresse postale : 3, lot Salah BOULKEROUA - 1er étage<br>Numéro de téléphone : 038.707.418<br>Numéro de mobile : 0560.95.13.75<br>Numéro de fax : /<br>Adresse email : c.benembark@macirvie.com<br>-----------------------------------------------<br>Code agence : 7320<br>Adresse postale : Cité 160 logts Bat 4 n° 02, Azzaba<br>Numéro de téléphone : 038.956.213<br>Numéro de mobile : 05 61 60 46 40<br>Numéro de fax : /<br>Adresse email : h.bendjeddou@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.870822<br>Long: 6.91337]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.870822</value>
+          </Data>
+          <Data name="Long">
+            <value>6.91337</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/a8t7d194buojqs3bsc56br0nd4/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALoVN7YH2DzWTjgxujiXBWYE5pcqtyrAyF09CclZJGujXe69AmzQMItvRUeeYwmT8h4vE-q-CnzB9nIDZunQFp4zwl6mswN78L3IaAKTryXMplz1qoYBTaWTFx8TnfvhC8PglG1y1bmIJEExg8ba7vdg22R4Ow4giteEN-BGttjMweIOlBbgEl5s9UjYJvwuEvoYcysk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.91337,36.870822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Souk Ahras</name>
+        <description><![CDATA[<img src="https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/877eq9d242o989svfi6hsmtd04/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALruf3cuPHKjLo28r60KwNzcDiCH3SWF3GAKcQ1In0Pej-1nbK-CBPyDtppi-0xdZDcldA3vUxK3O1EG-n284ygi3OAGt8WcDijulMrBjqaIRuG51oBNNGnuGog56Zz05GSmGnCE6PAzKiUkK91wWu3YSKhEA1mRXFvXbgPmnWKHQBYxjuUoqHAwVJP9qfyVbSlKH672?session=0&fife" height="200" width="auto" /><br><br>Code agence : 7160<br>Adresse postale : 01, rue du 1er Novembre 1954, Sedrata<br>Numéro de téléphone : 037.778.741/43/47/48<br>Numéro de mobile : 0.561.604.62<br>Numéro de fax : /<br>Adresse email : b.rahalia@macirvie.com<br>-----------------------------------------------<br>Code agence : 7161<br>Adresse postale : Lot n°50 BEHIDJI Mansour<br>Numéro de téléphone : 037.824.888<br>Numéro de mobile : 0.561.604.62<br>Numéro de fax : /<br>Adresse email : b.rahalia@macirvie.com<br>-----------------------------------------------<br>Code agence : 7162<br>Adresse postale : Rue de l'indépendance, M'daourouche<br>Numéro de téléphone : 037.831.325/26<br>Numéro de mobile : 0.561.604.62<br>Numéro de fax : /<br>Adresse email : b.rahalia@macirvie.com<br>-----------------------------------------------<br>Code agence : 7211A<br>Adresse postale : Cité ELOUZ (Route de l'Université) Souk Ahras<br>Numéro de téléphone : 037.724.256<br>Numéro de mobile : 0.560.951.372<br>Numéro de fax : /<br>Adresse email : b.zitouni@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.274523<br>Long: 7.948758]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.274523</value>
+          </Data>
+          <Data name="Long">
+            <value>7.948758</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/877eq9d242o989svfi6hsmtd04/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALruf3cuPHKjLo28r60KwNzcDiCH3SWF3GAKcQ1In0Pej-1nbK-CBPyDtppi-0xdZDcldA3vUxK3O1EG-n284ygi3OAGt8WcDijulMrBjqaIRuG51oBNNGnuGog56Zz05GSmGnCE6PAzKiUkK91wWu3YSKhEA1mRXFvXbgPmnWKHQBYxjuUoqHAwVJP9qfyVbSlKH672?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.948758,36.274523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tamenrasset</name>
+        <description><![CDATA[<img src="https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/alh19b2v36uolbvqhk9jfli8k0/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqvdaGSiCDIgUf_gNJ-KBeH639pt7M8nBVit99Azn5_cYJ72FYMswXVSCJX-Lm3TKxjWdS15GYf34vQlLWAcceLeXMSfaNEITOn4p_lsSQNf4vD28_7SHdCJT0llnEQTKsle3s7Rqck9Mko68hig_hagSVpUthUllpr8BbJplJ4dcWcBgXsmJefusdGDJpLBTOTZxqc?session=0&fife" height="200" width="auto" /><br><br>Code agence : 5142<br>Adresse postale : Centre ville, Ain Salah<br>Numéro de téléphone : 029.366.537<br>Numéro de mobile : 0660,39,03,85<br>Numéro de fax : 029.366.537<br>Adresse email : b.lalou@macirvie.com<br>-----------------------------------------------<br><br>Lat: 22.800974<br>Long: 5.356171]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>22.800974</value>
+          </Data>
+          <Data name="Long">
+            <value>5.356171</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/alh19b2v36uolbvqhk9jfli8k0/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALqvdaGSiCDIgUf_gNJ-KBeH639pt7M8nBVit99Azn5_cYJ72FYMswXVSCJX-Lm3TKxjWdS15GYf34vQlLWAcceLeXMSfaNEITOn4p_lsSQNf4vD28_7SHdCJT0llnEQTKsle3s7Rqck9Mko68hig_hagSVpUthUllpr8BbJplJ4dcWcBgXsmJefusdGDJpLBTOTZxqc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.356171,22.800974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tebessa</name>
+        <description><![CDATA[<img src="https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/vt3mjbmqi56alil1437gqa1pt0/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALr3CHCw5FR6z4ZGBokMWXA9GreTp3NIw5Rl-HG4_C3PJs83kI50sFea8hegTgHtIsaOSZkcV8LKdqExlIvf9qjiK9z9vp3Y3mu2B5bXsKivCNDlCzQYg0HpD5ekrcKU0NlEcFLJT28uvXhS4MGXor4D4W6idB4jaT4hHCJvqAfXvnvRaFdna1-5L7oaCswnBMeSnwfx?session=0&fife" height="200" width="auto" /><br><br>Code agence : 7340<br>Adresse postale : Cité Farès Yahia - Bd Houari Boumediène<br>Numéro de téléphone : 037.516.410<br>Numéro de mobile : 06 61 41 15 17<br>Numéro de fax : /<br>Adresse email : s.nezzar@macirvie.com<br>-----------------------------------------------<br><br>Lat: 35.12906<br>Long: 7.95928]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>35.12906</value>
+          </Data>
+          <Data name="Long">
+            <value>7.95928</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/vt3mjbmqi56alil1437gqa1pt0/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALr3CHCw5FR6z4ZGBokMWXA9GreTp3NIw5Rl-HG4_C3PJs83kI50sFea8hegTgHtIsaOSZkcV8LKdqExlIvf9qjiK9z9vp3Y3mu2B5bXsKivCNDlCzQYg0HpD5ekrcKU0NlEcFLJT28uvXhS4MGXor4D4W6idB4jaT4hHCJvqAfXvnvRaFdna1-5L7oaCswnBMeSnwfx?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.95928,35.12906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tiaret</name>
+        <description><![CDATA[<img src="https://doc-04-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/84fndmg7jvfhaq20fba4oosm9g/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALooRF_KRaG1ccZZzOgaRtI9xq9wUQxbg0iyUp0ZrTU9pt23CviDAm9NQUnI4Jt_0Sc4SLCFZ_lWvfCIRm8EB345dTXB_T8UFN5JIpNC1TK0OgTCKuTY3VBDimjbNcsdf1exg9bya2sbF_tCBCVJLdfutiHdGRjekfWVyrrJDuH9oimcGN8PYxeANd5-_MrhAJcvHfnX?session=0&fife" height="200" width="auto" /><br><br>Code agence : 3140<br>Adresse postale : Cité des frères Guitoun - 12 logts<br>Numéro de téléphone : 046.221.435<br>Numéro de mobile : 0.561.604.576<br>Numéro de fax : 046.221.436<br>Adresse email : b.maarouf@macirvie.com<br>-----------------------------------------------<br><br>Lat: 34.85294<br>Long: 1.52086]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.85294</value>
+          </Data>
+          <Data name="Long">
+            <value>1.52086</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/84fndmg7jvfhaq20fba4oosm9g/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALooRF_KRaG1ccZZzOgaRtI9xq9wUQxbg0iyUp0ZrTU9pt23CviDAm9NQUnI4Jt_0Sc4SLCFZ_lWvfCIRm8EB345dTXB_T8UFN5JIpNC1TK0OgTCKuTY3VBDimjbNcsdf1exg9bya2sbF_tCBCVJLdfutiHdGRjekfWVyrrJDuH9oimcGN8PYxeANd5-_MrhAJcvHfnX?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.52086,34.85294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tipaza</name>
+        <description><![CDATA[<img src="https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/gfgtsu9dtf6b63dvoqtnd89c2k/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALoMWGGsbDB_u_GzACHkKAJss0-tV656n2PkYmzVBMtJtOTozZfO5x8INiSvGOAphbsSgMKVgi8XRGDbSNqs3dZ-LXKPtaqnjJ1KF_iZinm4wljvsmplD8oQnclh4gnBDPlLxJzUGNjutZPwCQoviEJopEKUDUSakMhRdUd1EqZw3zK3bP5tRPMbM1JAOEI3dvaOHt9v?session=0&fife" height="200" width="auto" /><br><br>Code agence : 1541<br>Adresse postale : Résidence Les Oliviers - Bâtiment M3 N° C37, Douaouda<br>Numéro de téléphone : /<br>Numéro de mobile : 06 61 50 06 30<br>Numéro de fax : /<br>Adresse email : s.krache@macirvie,com<br>-----------------------------------------------<br>Code agence : 2200<br>Adresse postale : Rue des jardins lotissement la glacière n°28, Bou Ismail<br>Numéro de téléphone : 024.322.403<br>Numéro de mobile : 0.561.604.670/ 0.561.604.765<br>Numéro de fax : 024.322.403<br>Adresse email : l.cherif@macirvie.com<br>-----------------------------------------------<br>Code agence : 2230<br>Adresse postale : Cité CNEP, Kolea<br>Numéro de téléphone : 024.485.555<br>Numéro de mobile : 0.561.604.621<br>Numéro de fax : 024.485.555<br>Adresse email : y.kherrat@macirvie.com<br>-----------------------------------------------<br>Code agence : 8150<br>Adresse postale : Cité LSP 100/52 Logements – Bâtiment 8 – locaux 22 et 23<br>Numéro de téléphone : /<br>Numéro de mobile : 0542.33.11.89<br>Numéro de fax : /<br>Adresse email : S.Kessaissia@macirvie.com<br>-----------------------------------------------<br>Code agence : 2170<br>Adresse postale : Centre commercial n°21, Cherchell<br>Numéro de téléphone : 024.335.136<br>Numéro de mobile : 0.561.604.745<br>Numéro de fax : 024.335.136<br>Adresse email : R.bouhennache@macirvie.com<br>-----------------------------------------------<br>Code agence : 2300<br>Adresse postale : Rue du 1er novembre, Ahmeur El Ain<br>Numéro de téléphone : 024.499.140<br>Numéro de mobile : 0.561.604.741<br>Numéro de fax : 024.559.602<br>Adresse email : S.hadjali@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.588414<br>Long: 2.438893]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.588414</value>
+          </Data>
+          <Data name="Long">
+            <value>2.438893</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/gfgtsu9dtf6b63dvoqtnd89c2k/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALoMWGGsbDB_u_GzACHkKAJss0-tV656n2PkYmzVBMtJtOTozZfO5x8INiSvGOAphbsSgMKVgi8XRGDbSNqs3dZ-LXKPtaqnjJ1KF_iZinm4wljvsmplD8oQnclh4gnBDPlLxJzUGNjutZPwCQoviEJopEKUDUSakMhRdUd1EqZw3zK3bP5tRPMbM1JAOEI3dvaOHt9v?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            2.438893,36.588414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TIZI OUZOU</name>
+        <description><![CDATA[<img src="https://doc-0g-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/4gl9jtl7cc7vfijoo2ktf2jgks/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALraf59BK-_yQTJE2vBdaCLFKgdkRVT6Xm4cGtZjF9PhDlx2XzeuFuVzcpWr2Qxs9xBbOm1Sb_FR-sPXcUPneqy_5WVR7Z26ziHcVfOtmbkjZCv5QFmFJ2Sk3yvhZaalPH9_GHSBLWyt5SUTXITOCxKd4cIPJ3rdGMDIL9DJbuK2rQYLcA4VSaVGXIX1RJy2LK3ndGd-?session=0&fife" height="200" width="auto" /><br><br>Code agence : 4161<br>Adresse postale : 40, rue des frères belhadj - Nouvelle Ville<br>Numéro de téléphone : 026.111.924<br>Numéro de mobile : 05 55 03 11 56<br>Numéro de fax : 026.111.924<br>Adresse email : a.seghilani@macirvie.com<br>-----------------------------------------------<br>Code agence : 4162<br>Adresse postale : Cité des 40 logts - Bat. A n° 4, Azazga<br>Numéro de téléphone : 026.341.544<br>Numéro de mobile : 05 55 03 11 60<br>Numéro de fax : /<br>Adresse email : a.seghilani@macirvie.com<br>-----------------------------------------------<br>Code agence : 1710<br>Adresse postale : N° 02 Béni Douala Centre, Beni Douala<br>Numéro de téléphone : /<br>Numéro de mobile : 0556.52.89.56<br>Numéro de fax : /<br>Adresse email : N.zeram@macirvie.com<br>-----------------------------------------------<br><br>Lat: 36.61781<br>Long: 4.31542]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>36.61781</value>
+          </Data>
+          <Data name="Long">
+            <value>4.31542</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/4gl9jtl7cc7vfijoo2ktf2jgks/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALraf59BK-_yQTJE2vBdaCLFKgdkRVT6Xm4cGtZjF9PhDlx2XzeuFuVzcpWr2Qxs9xBbOm1Sb_FR-sPXcUPneqy_5WVR7Z26ziHcVfOtmbkjZCv5QFmFJ2Sk3yvhZaalPH9_GHSBLWyt5SUTXITOCxKd4cIPJ3rdGMDIL9DJbuK2rQYLcA4VSaVGXIX1RJy2LK3ndGd-?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.31542,36.61781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tlemcen</name>
+        <description><![CDATA[<img src="https://doc-0k-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/cpe4ijnanaoecocdi76s69pgfc/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALry2m3aFMrgma0iYYd0KIlojIk8aBoUrsoljRQArOsNX37XVA2E3lxXmIE9MfOisT-zjGyOCkhwoVXR_pMW3qnZmgs0mVBfNT_oWJDw2BdkCguoHvwNXZ6Zmlhnh_pAS6PrwpAXV1o7q_w9IdYR7BNFl0-YNtlyyZqJNsxzPw7y_l3PMU_6BBcufSY6FIWzD-m8RO8U?session=0&fife" height="200" width="auto" /><br><br>Code agence : 3250<br>Adresse postale : 55, avenue des dahlias - El Kiffane<br>Numéro de téléphone : 043.267.930<br>Numéro de mobile : 0.561.604.693<br>Numéro de fax : 043.267.930<br>Adresse email : z.kasmi@macirvie.com<br>-----------------------------------------------<br><br>Lat: 34.8884<br>Long: -1.318]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>34.8884</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.318</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-ao-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/cpe4ijnanaoecocdi76s69pgfc/1619458200000/ytoW1m9Dal9XfYyzwHLZWg4ozR-Iju9d/*/6AF2TALry2m3aFMrgma0iYYd0KIlojIk8aBoUrsoljRQArOsNX37XVA2E3lxXmIE9MfOisT-zjGyOCkhwoVXR_pMW3qnZmgs0mVBfNT_oWJDw2BdkCguoHvwNXZ6Zmlhnh_pAS6PrwpAXV1o7q_w9IdYR7BNFl0-YNtlyyZqJNsxzPw7y_l3PMU_6BBcufSY6FIWzD-m8RO8U?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.318,34.8884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tindouf</name>
+        <description><![CDATA[Code agence : 5143A<br>Adresse postale : Groupe de propriété N° 117A, section N° 15, Cité el ksabi, N° 02<br>Numéro de téléphone : /<br>Numéro de mobile : 0660.417.155<br>Numéro de fax : /<br>Adresse email : b.lalou@macirvie.com<br>-----------------------------------------------<br><br>Lat: 27.672956<br>Long: -8.144129]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>27.672956</value>
+          </Data>
+          <Data name="Long">
+            <value>-8.144129</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.144129,27.672956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
