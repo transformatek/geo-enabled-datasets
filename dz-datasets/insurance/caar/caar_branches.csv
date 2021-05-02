@@ -1,0 +1,154 @@
+num,Name,localite,code_agence,succursale,address,phone,fax,code_wil,lat,lon
+"0",01-Adrar,Adrar,"408",Oran (400),"N° 03, Centre Commercial ""AMRAD"" - Adrar",049 36 78 83 / 049 36 78 85,049 36 78 85,"1",27.8705130980418,-0.287824176225546
+"1",02-Chlef,Chlef,"607",Bouzaréah (600),"Rue Ibn Rochd, BP. 137 - Chlef",027 77 15 73,027 77 81 58,"2",36.170123,1.334741
+"2",02-Chlef,Chlef,"732",Bouzaréah (600),"Cite des fonctionnaires, Bt. 1 N°06 - Chlef",027 79 04 20,027 79 04 20,"2",36.169331,1.341806
+"3",03-Laghouat,Laghouat,"621",Bouzaréah (600),"Bloc H, cité des 600 Logements Makam - Laghouat",029 11 73 79,029 11 73 84,"3",33.7954963197057,2.85692932626698
+"4",04-Oum El Bouaghi,Meskiana,"306",Annaba (300),"Route Radai Amar, Code 04250, Meskiana - Oum El Bouaghi",032 47 18 96,032 66 22 58,"4",35.6334765,7.6674872
+"5",04-Oum El Bouaghi,Oum El Bouaghi,"514",Constantine (500),"Cité Hihi El Mekki, BP 344 - Oum El Bouaghi  ",032 56 00 31,032 56 00 31,"4",35.8705589,7.1146963
+"6",04-Oum El Bouaghi,Aïn Beïda,"717",Annaba (300),"Résidence FLN BP. 369, code 04200, Aïn Beïda - Oum El Bouaghi",032 68 56 98,032 68 56 98,"4",35.793667,7.377667
+"7",04-Oum El Bouaghi,Aïn M'lila,"798",Constantine (500),"01, Cité des 100 Logements, Aïn M'lila - Oum El Bouaghi",032 50 43 31,032 50 43 31,"4",36.0430239,6.5726147
+"8",05-Batna,Batna,"307",Annaba (300),"02, Rue Hamid Benchaabane, la Verdure - Batna",033 80 76 14 / 033 80 76 09,033 80 76 29 / 033 36 18 78,"5",35.551601,6.172301
+"9",05-Batna,Aïn Touta,"308",Annaba (300),"BP. 142, Route Maaoufa, Code 05500, Aïn Touta - Batna",033 35 87 92 / 033 35 83 26,033 35 83 26,"5",35.3700217363938,5.89345545644153
+"10",05-Batna,Barika,"309",Annaba (300),"06, Avenue Emir Abdelkader, Barika - Batna",033 39 18 82,033 39 18 83,"5",35.383917,5.369711
+"11",05-Batna,Arris,"759",Constantine (500),"01, Rue Ahmed Ben Abderezak, Arris - Batna",033 34 30 83,033 34 30 83,"5",35.2607,6.34787
+"12",05-Batna,Barika,"773",Annaba (300),"06, Rue Bouradi Ismail, Barika - Batna",033 38 98 01,033 38 98 02,"5",35.3878253,5.3672937
+"17",06-Béjaïa,Béjaïa,"776",Chéraga (200),"Cité Administrative Somacob, Bt. C2, 1er étage, Boulevard Krim Belkacem - Béjaïa",034 12 01 11,034 12 00 99,"6",36.74465,5.0492
+"16",06-Béjaïa,Akbou,"774",Chéraga (200),"26, Rue Larbi Touati, Akbou - Bejaïa",034 35 86 86 ,034 35 98 83,"6",36.47771,4.556552
+"14",06-Béjaïa,Béjaïa,"216",Chéraga (200),Centre des affaires Big Centre Boulevard Krim Belkacem - Béjaïa ,034 11 31 05/48,034 11 33 90,"6",36.744932,5.048108
+"13",06-Béjaïa,Béjaïa,"206",Chéraga (200),"Bt. N° D11 ET D12, Boulevard de la Révolution, Quartier Séghir - Béjaïa",034 12 56 84 / 034 12 56 87                                              ,034 12 56 83,"6",36.749219,5.060497
+"15",06-Béjaïa,Béjaïa,"758",Chéraga (200),"12, Boulevard Bouaouina - Bejaïa",034 18 64 01 / 034 18 64 03,034 18 64 00,"6",36.756718,5.085644
+"18",07-Biskra,Biskra,"509",Constantine (500),"Cité des 1000 logemets, EL Amel, BP 88 - Biskra",033 54 15 22,033 54 10 32,"7",34.8451721,5.7126274
+"19",08-Béchar,Béchar,"406",Oran (400),"N° 65, Four à chaux, Rue Guyen Van Troy - Béchar",049 21 52 35 / 049 21 52 36,049 21 52 36,"8",31.6187349223794,-2.2182855303275
+"20",09-Blida,Blida,"604",Bouzaréah (600),"77, Boulevard Mohamed Boudiaf - Blida",025 21 58 26,025 21 58 27,"9",36.4784627485847,2.81924833517234
+"21",10-Bouira,Lakhdaria,"215",Chéraga (200),"Cité des 39 Logts., Route Nationale N° 05, BP 127, Lakhdaria - Bouira",026 71 20 39,026 71 20 40,"10",36.563939,3.596601
+"22",10-Bouira,Bouira,"223",Chéraga (200),Axe des Finances - Bouira ,026 73 93 01 / 026 73 93 05,026 73 93 62,"10",36.376085,3.889071
+"23",10-Bouira,Bouira,"749",Chéraga (200),"Cité LSP 50 Lgts. Hamana Omar, local N° 49, Bloc A12,Lakhdaria - Bouira",026 70 53 01,026 70 53 01,"10",36.5654174384801,3.59825984821614
+"24",12-Tebessa,Tebessa,"310",Annaba (300),"Bordj Larbi Boudiba, BP. 198 - Tebessa",037 55 54 61,037 55 50 67,"12",35.402086,8.115716
+"25",12-Tebessa,Ouenza,"312",Annaba (300),"Boulevard 1er Novembre 1954, BP. 171, Ouenza - Tebessa",037 67 87 00,037 67 89 63,"12",35.951838,8.132996
+"26",12-Tebessa,Tebessa,"754",Annaba (300),"Cité Oued Neghs, Nouvelle Gare Routière - Tébessa                 ",037 59 24 25 / 0560 48 10 97,037 59 24 25,"12",35.4151586,8.1089036
+"31",13-Tlemcen,Tlemcen,747/01,Oran (400),"21, Boulevard ZERROUKI Abdelkarim - Tlemcen",043 42 76 96,043 42 76 96,"13",34.8794146728001,-1.30812403450628
+"30",13-Tlemcen,Nedroma,417 Bis,Oran (400),"Ilot N° 36, N° 09, Nedroma - Tlemcen",043 45 62 99,043 45 62 95,"13",35.0101594501899,-1.74654600392597
+"29",13-Tlemcen,Ghazaouet,"417",Oran (400),"Porte de Nedroma, Ghazaouet - Tlemcen",043 46 72 88 / 043 46 72 89,043 46 72 87,"13",35.0990207303066,-1.85805649506857
+"28",13-Tlemcen,Maghnia,"416",Oran (400),"Rue Mohamed Khemisti, BP 461, Maghnia - Tlemcen",043 50 27 23 / 043 50 27 24,043 50 27 24,"13",34.847607821776,-1.72902048177931
+"27",13-Tlemcen,Tlemcen,"404",Oran (400),"Résidence El Mitak 01, Bloc BC El Kiffan - Tlemcen",043 26 71 46 / 043 26 71 48,043 26 71 49,"13",34.885680356155,-1.32693768201249
+"32",14-Tiaret,Tiaret,"405",Oran (400),"CIA la Colline, Rue de La Palestine - Tiaret",046 21 29 36,046 21 29  37,"14",35.3775239067389,1.32035737034393
+"38",15-Tizi Ouzou,Beni Douala,205-Bis ,Chéraga (200),"Bt. N° 06 Appt. N° 04, 2ème Etage, Centre Beni Douala - Tizi Ouzou",026 40 63 42,026 25 63 44,"15",36.623111,4.079728
+"37",15-Tizi Ouzou,Draa Ben Khedda,"768",Chéraga (200),"Rue KASRI Ahmed îlot central N° 39, Draa Ben Khedda - Tizi Ouzou",026 27 30 28,026 27 30 28,"15",36.73227,3.96579
+"36",15-Tizi Ouzou,Tizi Ouzou,"739",Chéraga (200),"Tours Villa N° 37, Rue des Frères Slimani - Tizi Ouzou",026 12 49 31,026 12 65 17,"15",36.71701,4.04146
+"39",15-Tizi Ouzou,Tizi Ouzou,727/03,Chéraga (200),"600 Lgts. Cité Génie Sider, Rue Salah Louanchi, Bt. N° 04Rez de chaussée, Local N° 05 - Tizi Ouzou",026 10 16 20,027 10 16 20,"15",36.695469,4.044174
+"34",15-Tizi Ouzou,Larabaâ Nath Irathen,"228",Chéraga (200),"Route du Lycée, Larabaâ Nath Irathen -Tizi Ouzou",026 49 26 28,026 49 26 32,"15",36.63485,4.205765
+"33",15-Tizi Ouzou,Tizi Ouzou,"205",Chéraga (200),"Boulevard des Frères Belhadj, Nouvelle ville - Tizi Ouzou",026 11 74 86 / 026 11 38 39 / 026 11 05 41,026 11 21 63,"15",36.702034,4.049709
+"35",15-Tizi Ouzou,Azzazga,"234",Chéraga (200),"Cité 300 Logts. AADL,  Azzazga - Tizi Ouzou",026 34 11 96 / 026 34 10 01    ,026 34 14 16,"15",36.747593,4.359077
+"69",16-Alger,Bab Ezzouar,"765",Chéraga (200),"Cité El Djorf, Bt. 57 C N° 02, Baba Ezzouar - Alger",021 24 82 96,021 24 82 96,"16",36.72242,3.176618
+"62",16-Alger,Alger Centre,"712",Chéraga (200),"31, Rue du Capitaine Menani - Alger ",021 65 84 33 / 021 66 26 92,021 65 20 39,"16",36.763878,3.051291
+"63",16-Alger,Chéraga,"713",Bouzaréah (600),"04, Place Ben Badis, Cheraga - Alger",023 35 81 19,023 35 81 18,"16",36.767102,2.962718
+"64",16-Alger,Alger Centre,"718",Chéraga (200),"53, Rue Didouche Mourad - Alger ",021 73 68 69 / 021 73 68 51 / 021 74 49 27 / 021 74 49 85,021 74 41 47 / 021 71 19 73,"16",36.766692,3.052709
+"65",16-Alger,Chéraga,"719",Bouzaréah (600),"20, Lotissement Giroud ""Petit Staoueli"", Cheraga - Alger",023 36 73 77,023 36 73 77,"16",36.7546029803669,2.96376407516469
+"66",16-Alger,Reghaïa,"742",Chéraga (200),"Coopérative El Mostakbel, Aissat Mustapha, Reghaia - Alger",023  84 21 51,023  84 21 51,"16",36.725798,3.334801
+"67",16-Alger,Zeralda,"755",Bouzaréah (600),"Cité 50 logements, Bt. 07 N° 01, Zeralda - Alger",0657 88 60 64 / 0667 95 74 89,,"16",36.7146066367648,2.84463652924234
+"68",16-Alger,Ouled Fayet,"760",Bouzaréah (600),"Cooperative El Mostakbal lots N° 01, actuellement cite Mohamed Boudiaf N° 03, Ouled Fayet - Alger",0560 92 75 30 / 0560 92 75 32,023 32 45 64,"16",36.739689,2.948404
+"70",16-Alger,Bir Khadem,"770",Bouzaréah (600),"Cité 194 logements, Bt. 07 N°20, Texeraine - Alger",021 40 20 09,021 40 20 09,"16",36.7263986036983,3.02921667655236
+"75",16-Alger,Reghaïa,"799",Chéraga (200),"Cité Ahmed Faoussi, Reghaia - Alger",023 74 66 07,023 74 66 07,"16",36.739458,3.356079
+"72",16-Alger,Alger Centre,"785",Bouzaréah (600),"1, Rue Didouche Mourad - Alger",023 49 24 51,023 49 24 53,"16",36.771292,3.057282
+"73",16-Alger,Hussein-Dey,"796",Chéraga (200),"71, Rue Djenan Ben Danoune, Hussein Dey - Alger ",023 70 93 05,023 70 93 05,"16",36.734531,3.097918
+"74",16-Alger,Bab Ezzouar,"797",Chéraga (200),"Cité 1577 logts., Bt. 15 S2, 05 Juillet, Bab Ezzouar - Alger",023 92 86 78,023 92 86 78,"16",36.715754,3.188243
+"61",16-Alger,Rouiba,"711",Chéraga (200),"Cité du Lycée Abdelmoumène, Rouiba - ALGER",021 81 51 10,021 81 51 10,"16",36.74107,3.28655
+"77",16-Alger,Bab El Oued,767/01,Bouzaréah (600),"18, Bouzid Ezzine, Oued Koriche, Bab El Oued - Alger",023 05 10 76,023 05 10 76,"16",36.7661683371812,3.02937185625096
+"78",16-Alger,,767/03,Bouzaréah (600),Cité AADL - Tipaza,,,"42",36.651732,2.769685
+"79",16-Alger,Douira,767/04,Bouzaréah (600),"N° 14 C, Rue des frères Larbi BEN M'HIDI, Douira - Alger",023 32 80 69,023 32 80 69,"16",36.66889920708,2.94430799735146
+"80",16-Alger,,767/05,Bouzaréah (600),Bousmail - Tipaza,,,"42",36.6444299934563,2.68963532723661
+"71",16-Alger,EL Biar,"781",Bouzaréah (600),"72, Boulevard Bougara, El biar - Alger",021 92 84 15 ,021 92 84 15 ,"16",36.766171,3.03674
+"60",16-Alger,Bab Ezzouar,"708",Chéraga (200),"Cité 2068 logements Lot N° 39, Bab Ezzouar - Alger",023 93 82 09,023 93 82 09,"16",36.7173,3.18683
+"76",16-Alger,Kouba,727/02,Chéraga (200),"Cité 302 Logements, Haï El Badr, Bt. A21 N° 16 - Alger",023 88 51 20,,"16",36.72185,3.1048
+"58",16-Alger,Zeralda,"636",Bouzaréah (600),"Cité 2750 Logts. AADL, Bt. A7-08, Sidi Addellah, Mhalma,Zeralda - Alger",044 08 50 00,044 08 50 50,"16",36.690521,2.854198
+"40",16-Alger,Belouizded,"203",Chéraga (200),"23, Rue Mohamed Belouizded - Alger",021 65 10 24 / 021 65 40 92,021 66 06 76,"16",36.75833,3.055971
+"41",16-Alger,Kouba,"210",Chéraga (200),"Cité Serbat Bt. A9 GARIDI 1, Kouba - Alger",023 70 01 60,023 70 01 57,"16",36.730145,3.066458
+"42",16-Alger,Baraki,"212",Chéraga (200),"Cité 2004 Logements, Bt. 43 A ET B, Baraki - Alger",023 90 61 41/43,023 90 61 42,"16",36.789635,3.262313
+"43",16-Alger,Hussein-Dey,"213",Chéraga (200),"Rue Bachir Aoun, Brossette, Hussein-Dey - Alger ",021 23 46 88 / 021 23 31 50,021 23 23 94,"16",36.739716,3.101389
+"59",16-Alger,Alger Centre,"701",Chéraga (200),"27, Boulevard Victor Hugo - Alger ",021 73 32 07,021 73 83 71,"16",36.766306,3.052556
+"44",16-Alger,Rouiba,"226",Chéraga (200),"31, Avenue du 1ER Novembre, Rouiba - Alger ",023 85 54 46,023 85 42 58,"16",36.736113,3.280854
+"45",16-Alger,Chéraga,"229",Chéraga (200),"Entrée Esplanade N° 14, Centre Commercial Et d'Affaires El Qods, Chéraga - Alger",021 34 10 34 / 021 34 10 35,021 34 10 35,"16",36.759903,2.964061
+"46",16-Alger,Bab Ezzouar,"230",Chéraga (200),"Cité EPLF 1408/2038 Logts. N° 67, Bab Ezzouar - Alger",021 24 18 90,021 24 19 01,"16",36.719237,3.182492
+"47",16-Alger,El Harrach,"232",Chéraga (200),"02, Rue  des Frères Djelli, Boumati, El Harrach - Alger ",021 52 30 77,021 52 61 00,"16",36.718528,3.139752
+"48",16-Alger,Aïn Naâdja,"233",Chéraga (200),"Cité 1516 Logts., Bt. D6 , Aïn El Malha, Aïn Naâdja - Alger",023 53 00 28,023 53 00 27,"16",36.6936987,3.06532
+"49",16-Alger,Belouizded,"601",Bouzaréah (600),"Cité El Djaouhara, Bt. N° 63, Les Halles, Belouizded - Alger",021 67 46 93 / 021 67 46 94,021 67 46 92,"16",36.755362,3.066307
+"50",16-Alger,Alger Centre,"602",Bouzaréah (600),"74, Rue Didouche Mourad - Alger",023 50 49 65 / 023 50 49 89,023 50 49 90,"16",36.765588,3.050308
+"51",16-Alger,El Madania,"609",Bouzaréah (600),"Niveau 104, Local 1 A 03, Riadh El Feth, BT. 570,  El Madania - Alger",021 67 89 07,021 67 89 06,"16",36.742739,3.068246
+"52",16-Alger,Bouzaréah,"611",Bouzaréah (600),"Centre Commercial, Bouzaréah - Alger",023 18 15 85,023 18 15 84,"16",36.789895,3.016365
+"53",16-Alger,EL Biar,"622",Bouzaréah (600),"16, Place Kennedy, El Biar - Alger",023 37 72 15 / 023 37 72 19,023 37 72 17,"16",36.769127,3.031004
+"54",16-Alger,Alger Centre,"630",Bouzaréah (600),"27, Rue Didouche Mourad - Alger",021 63 38 94 / 021 63 37 53,021 63 37 55,"16",36.7693624940486,3.05509500348323
+"55",16-Alger,El Achour,"632",Bouzaréah (600),"Cité 1071 Logts. Bt. D35, Oued Romane, El Achour - Alger",023 15 31 49,023 15 31 56,"16",36.7475317553749,2.99921589588787
+"56",16-Alger,Beni Messous,"633",Bouzaréah (600),"01, Avenue de la Révolution, Beni Messous - Alger",023 13 60 72 / 023 13 60 75,023 13 60 74,"16",36.780177,2.974103
+"57",16-Alger,Aïn Benian,"635",Bouzaréah (600),"Cité 873 Logts. AADL Dar Chabane, Bt. N°04 Local 4/5/6/7, Aïn Benian - Alger",023 21 98 62,023 21 98  61,"16",36.798718,2.930057
+"81",17-Djelfa,Djelfa,"631",Bouzaréah (600),"Cité Wiam, BT. N° 30 - Djelfa",027 92 61 55,027 92 61 54,"17",34.66755,3.275673
+"84",18-Jijel,El Milia,"778",Constantine (500),"34, Rue de l'ALN, El Milia - Jijel",034 52 67 95,034 52 67 95,"18",36.7498562,6.2728051
+"82",18-Jijel,Jijel,"507",Constantine (500),"Centre Commercial, Rue Larbi Ben M’Hidi - Jijel",034 47 12 27,034 47 56 28,"18",36.820369,5.768548
+"83",18-Jijel,Jijel,"724",Constantine (500),"05, Avenue Emir Abdelkader - Jijel",034 47 11 90,034 47 11 90,"18",36.824137,5.766731
+"85",19-Sétif,Sétif,"506",Constantine (500),"Cité Financière, Boulevard Port Said - Sétif",036 82 56 90 / 036 82 56 87,036 82 56 88,"19",36.194421,5.411657
+"86",19-Sétif,El Eulma,"511",Constantine (500),"Cité des 800 logements, locaux N° 33 et 06 , El Eulma - Sétif",036 48 12 60,036 48 12 60,"19",36.15301,5.70222
+"87",20-Saida, Saida,"407",Oran (400),"N° 08 Zaouia, Boulevard Mouloud Feraoun - Saida",048 41 24 45 / 048 41 25 20,048 41 25 20,"20",34.8283967124531,0.1527288636635
+"94",21-Skikda,Skikda,"706",Annaba (300),"14, Cité Mohamed Namous - Skikda",038 75 73 08,038 75 73 08,"21",36.869478,6.90645
+"88",21-Skikda,Béni Malek ,"304",Annaba (300),"Cité des Frères KHALDI, Béni Malek - Skikda                                                                                                                                                           ",038 76 27 73 / 038 76 10 77 / 038 76 32 10,038 76 28 96,"21",36.881184,6.89702
+"89",21-Skikda,Skikda,"315",Annaba (300),"01, Rue Mohamed Nadir - Skikda",038 75 75 00,038 75 75 77,"21",36.882851,6.906431
+"90",21-Skikda,Skikda,"316",Annaba (300),"Cité 30 Logts., Mordj Dib,BT. MD 01, les Platanes - Skikda",038 93 85 90,038 93 86 09,"21",36.7596787,6.8945243
+"91",21-Skikda,Skikda,"317",Annaba (300),"Rue Omar Tayeb, Ramdane Djamel code 21425 - Skikda",038 94 11 72,038 94 11 72,"21",36.753471,6.89818
+"92",21-Skikda,El Harrouche,"318",Annaba (300),"Cité 164 Logements, Rue Bachir Boukadoum, El Harrouche - Skikda",038 79 10 90,038 79 29 29,"21",36.651308,6.834195
+"93",21-Skikda,Azzaba,"319",Annaba (300),"Rue du 1er Novembre 1954, Azzaba - Skikda                      ",038 96 97 97,038 96 98 98,"21",36.742106,7.108976
+"95",22-Sidi Bel-Abbès,Sidi Bel-Abbès,"402",Oran (400),N°04 citè 108 Logements - Sidi Bel Abbes,048 74 62 72 / 048 74 62 70,048 74 62 71,"22",35.1928653404851,-0.61769283937085
+"96",22-Sidi Bel-Abbès,Sidi Bel-Abbès,"411",Oran (400),"N°18, Residence El Feth, 20 Août, 1° Etage - Sidi Bel Abbes",048 74 13 86 / 048 74 13 90 ,048 74 13 88,"22",35.1890563030008,-0.636163406296157
+"97",22-Sidi Bel-Abbès,Sidi Bel-Abbès,"786",Oran (400),"22, Rue Résidence- El Fateh - Sidi Bel Abbes",048 74 14 14 / 048 74 13 84,048 74 13 83,"22",35.1888188937993,-0.636137107838354
+"102",23-Annaba,Annaba,"757",Annaba (300),"Coopérative Menzel El Amel, cité 05 Juillet Bt. N° 05Rez de chaussée - Annaba",038 42 12 99,038 42 10 70,"23",36.8905743,7.7165052
+"101",23-Annaba,Annaba,"729",Annaba (300),"Cité les Santos, N° 03 Entrée 01, Local N° 03 - Annaba",038 45 21 27 / 038 45 25 25,038 45 21 24,"23",36.9026594,7.7592489
+"103",23-Annaba,Annaba,"788",Annaba (300),"Coopérative Basma, Local N° 03, Route de Bouhdid - Annaba",038 41 08 66,038 41 08 66,"23",36.892863,7.719582
+"99",23-Annaba,Annaba,"302",Annaba (300),"12, Place Salah Eddine El Ayoubi - Annaba                                                                                                                                              ",038 45 79 06,038 45 79 06,"23",36.9013777,7.757899
+"98",23-Annaba,Annaba,"301",Annaba (300),"18, Rue ATTIA Ahmed - Annaba",038 44 53 51 / 038 44 53 57 / 030 83 09 57,038 44 53 54 / 038 44 53 76,"23",36.894745,7.754908
+"100",23-Annaba,Annaba,"323",Annaba (300),"Boulevard Seddik Benyahia, Plaine Ouest - Annaba",038 48 55 93 / 030 83 15 57,038 48 55 93,"23",36.901577,7.737081
+"104",23-Annaba,Annaba,737/01,Annaba (300),"Cité 1028 Logements, Plaine Ouest, Bt. N° 87 N° 124 - Annaba",038 41 95 65,038 41 95 65,"23",36.8882378,7.7267324
+"106",24-Guelma,Guelma,"727",Annaba (300),"15, Rue SERIDI Mohamed Tahar - Guelma",037 27 46 32 / 037 26 74 15,037 26 74 14,"24",36.464174,7.431038
+"105",24-Guelma,Guelma,"321",Annaba (300),Rue Patrice Lumumba - Guelma,037 14 37 87,037 14 37 69,"24",36.464423,7.43162
+"118",25-Constantine,Ali Mendjli,"795",Constantine (500),"Cité Aïn El Bey, 290 Logements, Bt. 138, Nouvelle Ville - Constantine",031 77 60 69,031 77 60 69,"25",36.262343,6.574134
+"117",25-Constantine,Constantine,"794",Constantine (500),Cité Benboulaid Bt. 10  Rez de chaussée N° 07 - Constantine,031 60 94 49,031 60 94 49,"25",36.340797,6.602717
+"115",25-Constantine,Constantine,"769",Constantine (500),Chalet des Pins N°160 - Constantine,031 62 71  23,031 62 71  23,"25",36.3473556,6.642426
+"114",25-Constantine,El Khroub,"763",Constantine (500),"12, Rue Izlioui Ali, El Khroub - Constantine",031 75 86 83,031 75 86 83,"25",36.262107,6.69075
+"113",25-Constantine,Constantine,"761",Constantine (500),Cité Boussouf Bt. H N° 01 au RDC - Constantine,031 60 35 02/01,031 60 35 02,"25",36.335236,6.576483
+"116",25-Constantine,Emir Abdelkader,"784",Constantine (500),"01, Rue Chihabi Bachir, Cité Emir Abdelkader - Constantine",031 84 68 02,031 84 68 02,"25",36.3742569,6.6234338
+"111",25-Constantine,Ali Mendjli,"515",Constantine (500),Unité de voisinage 07 Ali Mendjli - Constantine,031 74 80 20 / 031 74 82 28,031 74 80 12,"25",36.2616759,6.5826338
+"110",25-Constantine,Daksi,"512",Constantine (500),Arrondissement administratif Daksi - Constantine,031 63 80 74,031 61 11 75,"25",36.3576944444444,6.63966666666667
+"109",25-Constantine,Hamma Bouziane,"505",Constantine (500),"01, Boulevard de L'ALN , Hamma Bouziane - Constantine",031 84 06 71,031 84 06 71,"25",36.41542,6.59729
+"108",25-Constantine,Constantine,"503",Constantine (500),"55, Avenue Aouati Mostefa - Constantine",031 91 10 10 / 031 92 94 90,031 92 94 91,"25",36.35719,6.608236
+"107",25-Constantine,Constantine,"502",Constantine (500),"Cité Boussouf, Bt. 7, locaux N° 157/158 - Constantine",031 60 27 22,031 60 20 52,"25",36.331741,6.5813103
+"112",25-Constantine,Aïn El Bey,"721",Constantine (500),"Cité 564 Logements Tour 39 N° 01, Aïn El Bey - Constantine",031 69 00 41,031 69 00 40,"25",36.299681,6.619157
+"119",26-Médéa,Médéa,"629",Bouzaréah (600),Tour d'affaires Theniet El Hadjer - Médéa,025 73 23 03,025 73 23 04,"26",36.2704503923002,2.77716531513197
+"120",27-Mostaganem,Mostaganem,"403",Oran (400),"18, Place du 1er Novembre 1954 - Mostaganem",045 41 32 36 / 045 41 32 37,045 41 32 25,"27",35.9327319536416,0.089323618679311
+"121",28-M’Sila,M’Sila,"508",Constantine (500),"Cité 44 Logements, BP 612 - M’Sila",035 33 65 88,035 33 65 89,"28",35.6983892,4.5347565
+"122",28-M’Sila,M’Sila,"767",Constantine (500),Lotissement 924 - M’Sila,035 38 00 68,035 38 00 68,"28",35.7255833333333,4.546
+"123",29-Mascara,Mascara,"419",Oran (400),"Avenue de L'ALN, cité Bel-Air - Mascara",045 72 16 50 / 045 81 45 08,045 72 16 46,"29",35.4012054329909,0.140870989385736
+"126",30-Ouargla,Touggourt,"314",Annaba (300),"Place Houari Boumédiene, 2ème étage, BP. 277, Touggourt - Ouargla",029 66 14 13 / 029 66 12 05,029 66 14 13,"30",33.10586,6.067271
+"124",30-Ouargla,Ouargla,"214",Chéraga (200),Rue du 24 Février (EX Silice) - Ouargla,029 71 38 60,029 71 47 73,"30",31.946858,5.31866
+"125",30-Ouargla,Hassi Messaoud,"219",Chéraga (200),"Cité Chaabani N° 01, BP. 548, Hassi Messaoud - Ouargla",029 78 96 08,029 78 96 09,"30",31.68627,6.073704
+"127",30-Ouargla,Hassi Messaoud,"705",Chéraga (200),"Coopérative El Wifak N° 2, Hassi Messaoud - Ouargla",029 79 91 03 / 029 79 90 89,029 79 91 18,"30",31.692217,6.058057
+"129",31-Oran,Oran,"409",Oran (400),"04, Rue Belhachemi Mouley - Oran",041 33 25 66 / 041 33 60 09,041 33 19 50,"31",35.7036910065216,-0.644336393132765
+"133",31-Oran,Oran,"792",Oran (400),"Résidence Aribi, 116 logements, Bloc A1 B, Colonel Lotfi - Oran",041 74 53 34,041 74 53 33,"31",35.7223105120928,-0.59344200670662
+"132",31-Oran,Oran,"752",Oran (400),Oran Est Millenium Cité Khemisti - Oran,041 73 54 58,041 73 54 56,"31",35.7173483053842,-0.597385338682777
+"128",31-Oran,Oran,"401",Oran (400),"15, Avenue Hammou Mokhtar El Makkari, Ex Saint Eugène - Oran",041 28 17 52 /041 28 17 46,041 28 17 48 ,"31",35.6988280830736,-0.628832476688024
+"130",31-Oran,Arzew,"412",Oran (400),"24, Boulevard Emir Abdelkader, Arzew - Oran",041 77 16 18,041 77 16 18,"31",35.8579177773423,-0.308913044702905
+"131",31-Oran,Oran,"413",Oran (400),"Cité Administrative Zhun Usto, îlot 26 - Oran",041 70 68 09,041 70 68 09,"31",35.7006966614527,-0.59848673022762
+"134",34-Bordj Bou Arreridj,Bordj Bou Arreridj,"510",Constantine (500),"Cité des 500 logements, BP 470 - Bordj Bou Arreridj",035 69 75 20,035 69 81 62,"34",36.0790676,4.7647313
+"135",34-Bordj Bou Arreridj,Bordj Bou Arreridj,757/02,Constantine (500),Cité 360/750 Bt. C09 N° 01 - Bordj Bou Arreridj,035 87 59 90,035 87 59 90,"34",36.081038,4.744332
+"136",34-Bordj Bou Arreridj,Bordj Bou Arreridj ,"743",Chéraga (200),"BP. 484, Villa A1, Promotion EPLF Faubourg des Jardins - Bordj Bou Arréridj ",035 73 00 78 / 035 73 09 24,035 73 00 78,"34",36.0756,4.76817
+"137",35-Boumerdès,Boumerdès,"231",Chéraga (200),"Centre Commercial Oued Tatareg, locaux 2 & 3 - Boumerdes",024 94 77 07 / 024 94 77 08 / 024 94 77 10,024 94 77 09,"35",36.763003,3.465574
+"138",36-El-Tarf,36-El-Tarf,"303",Annaba (300),"Route du Sahara, BP. 62, El Kala - El Tarf",038 35 02 56,038 66 24 36,"36",36.896726,8.445768
+"139",36-El-Tarf,36-El-Tarf,"322",Annaba (300),Rue Frikh Taif - El Tarf,038 30 12 67,038 30 17 51,"36",36.766485,8.312143
+"140",38-Tissemsilt,Tissemsilt,"418",Oran (400),"Boulevard Zeffan Abed îlot 67, Coopérative 389 - Tissemsilt",046 57 13 23,046 57 13 42,"38",35.6091010701262,1.81159783869131
+"141",39-El Oued,El Oued,"320",Annaba (300),"Cité du 17 Octobre, BP. 18 - El Oued",032 11 46 40  /032 11 46 41,032 11 46 39,"39",33.361486,6.845923
+"142",40-Khenchella, Khenchella,"311",Annaba (300),"Cité 100 logements, Route de Batna - Khenchela",032 72 55 39,032 72 55 38,"40",35.426515,7.146094
+"143",41-Souk Ahras,Souk Ahras,"313",Annaba (300),"Cité 1700 Logements, B 30, N° 01 - Souk Ahras",037 76 70 19,037 76 70 28,"41",36.2821334997247,7.94346860924202
+"144",42-Tipaza,Koléa,"620",Bouzaréah (600),"Cité 128 Logts. 13 LSP, Route de Bousmail, Koléa - Tipaza",024 38 49 00,024 38 49 01,"42",36.638819,2.751881
+"145",42-Tipaza,Cherchell,"625",Bouzaréah (600),"Centre Commercial, N° 25, Cherchell - Tipaza",024 33 51 41,024 33 51 42,"42",36.6055646748202,2.18682731765418
+"146",42-Tipaza,Tipaza,"634",Bouzaréah (600),"Cité 150 Logts. LSP, B 03, N° 10 2401 - Tipaza",024 37 43 75/76,024 37 43 73,"42",36.586141,2.431119
+"147",43-Mila,Mila,"504",Constantine (500),"Cité Boutout Salah, BP. 24 - Mila",031 47 47 21,031 47 47 20,"43",36.455317,6.266223
+"148",43-Mila,Chelghoum Laid,"793",Constantine (500),"Cité du 1er Nouvembre 1954, Chelghoum Laid - Mila",031 41 65 18,031 41 65 18,"43",36.15892,6.159697
+"149",44-Aïn Defla,Khemis Miliana,"627",Bouzaréah (600),"14, Rue Djitli Mustapha, Khemis Miliana - Aïn Defla",027 56 38 09,027 56 38 08,"44",36.259506,2.21762
+"150",46-Ain Temouchent,Ain Temouchent,"415",Oran (400),Boulevard Mohamed Boudiaf - Ain Temouchent,043 77 82 82 /043 77 43 85,043 77 86 10,"46",35.3074184140525,-1.13840851279563
+"151",47-Ghardaïa,Sidi Abbaz,"208",Chéraga (200),"BP. 24, Sidi Abbaz - Ghardaïa",029 25 53 25,029 25 54 60,"47",32.486888,3.697482
+"152",48-Relizane,Relizane,"414",Oran (400),Boulevard Mohamed Khemisti - Relizane,046 72 36 06 / 046 72 34 55,046 72 35 08,"48",35.7446713147738,0.556412355398369
