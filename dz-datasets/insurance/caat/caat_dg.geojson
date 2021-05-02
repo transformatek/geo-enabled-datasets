@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "caat_dg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "CAAT ASSURANCES", "description": "52,AVENUE DES FRÈRES BOUADOU, BIR MOURAD RAÏS - ALGER\n\n", "E_Mail": "info@caat.dz" }, "geometry": { "type": "Point", "coordinates": [ 3.062218, 36.7385644, 0.0 ] } }
+]
+}
