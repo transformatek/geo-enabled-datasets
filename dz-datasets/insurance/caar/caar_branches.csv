@@ -1,4 +1,4 @@
-num,Name,localite,code_agence,succursale,address,phone,fax,code_wil,lat,lon
+num,name,localite,code_agence,succursale,address,phone,fax,code_wil,lat,lon
 "0",01-Adrar,Adrar,"408",Oran (400),"N° 03, Centre Commercial ""AMRAD"" - Adrar",049 36 78 83 / 049 36 78 85,049 36 78 85,"1",27.8705130980418,-0.287824176225546
 "1",02-Chlef,Chlef,"607",Bouzaréah (600),"Rue Ibn Rochd, BP. 137 - Chlef",027 77 15 73,027 77 81 58,"2",36.170123,1.334741
 "2",02-Chlef,Chlef,"732",Bouzaréah (600),"Cite des fonctionnaires, Bt. 1 N°06 - Chlef",027 79 04 20,027 79 04 20,"2",36.169331,1.341806
