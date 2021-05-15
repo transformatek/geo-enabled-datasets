@@ -1,0 +1,180 @@
+num,id,title,street,city,phone,fax,categories,lat,lon,code_wil
+0,1616, 05-01.10 - Agence BOUABSA,08 avenue les frères BOUABSA-BATNA,Batna  ,07 82 29 14 75 / 05 54 80 21 39,,108.0,35.554867,6.176896,5
+1,1591, 21.2.Y.BOULECHFAR,Route National El Hrouche SKIKDA ,Sidi Mezghiche,07 70 99 41 07,,105.0,36.655703,6.84046,25
+2,1534, 44-04.10 - Agence KHEMIS MELIANA,Cité 56 logts LSP khmis miliana ,Khemis Miliana , 07 82 29 14 37 / 05 54 80 30 71,,94.0,36.256575,2.220505,44
+3,1506, DZ001 - Agence CHERAGA,Chéraga Ouled Fayet N° 57 Alger,Chéraga, 07 82 29 15 86,,91.0,36.755765,2.951391,16
+4,1525,02-01.50, RDC Batiment 4 N°1 commune et daira de Chlef ,Chlef ,0782 16 44 39 /  0554 84 86 74,,98.0,36.1645864,1.3318918,2
+5,1528,02.1.S.BENZERGA,"N°12 Hay Bensouna, Route d’oran chlef  ",Chlef,05 51 12 35 50,,98.0,36.160921,1.315595,2
+6,1530,02.1.S.TAHAR-DJEBBAR,Rue de la gare - Bâtiment OPGI - Oued Sly - W.Chlef,Oued Sly,06 65 63 44 48,,98.0,36.104424,1.19619,2
+7,1527,02.B.MESSABIH,"31, Rue Aspirant Dahmane - Chlef - W.Chlef",chlef,07 80 58 43 04,,98.0,36.154817,1.325696,2
+8,1529,02.S.TAHAR-DJEBBAR,Rue Ghoulami - Boukadir - W.Chlef,Boukadir,06 65 63 44 48,,98.0,36.05694,1.120912,2
+9,1533,03-01.20 - Agence LAGHOUAT,Cité El maamoura Lghouat,Laghouat,07 82 29 15 94 / 05 54 84 41 58,,99.0,33.798062,2.866655,3
+10,1607,05.1.Y.DEKHINET,Boulevard Ariouat Boubaker Barika W-BATNA,Barika,07 82 29 14 76,,108.0,35.384593,5.289343,5
+11,1604,05.L.BOUDARN,Rue Ahmed Ben Abderrezak  Arris,Arris,07 82 29 14 77,,108.0,35.300537,6.354517,5
+12,1606,05.Y.DEKHINET,06 Rue Gaouda Moustapha Cité EL NASR Batna,Batna  ,07 82 29 14 76,,108.0,35.561022,6.173912,5
+13,1639,06.1.M.ABDELKADER,cité des 68 logements Bt5 N°522 LES Hamadite,Bejaia,07 82 29 16 14,,117.0,36.673332,5.147442,6
+14,1643,06.2.I.CHERIFI,"04, Chemins Ouzelaguen - Bejaia",Bejaia,07 78 72 51 49,,117.0,36.554343,4.57276,6
+15,1644,06.3.I.CHERIFI,"Cité ihaddaden, prommotion immobiliére SOMACOB BEDJAIA  ",Bejaia,07 78 72 51 49,,117.0,36.743873,5.050526,6
+16,1641,06.A.IKHLEF,Rue Boutekrabt Ahmed Souk Eltenine Bejaia. ,Souk Eltenine ,06 67 86 82 83,,117.0,36.625652,5.336022,6
+17,1645,06.H.KHELIFATI,Route Nationale N°26 Hotel Syfax  -Tazamalt ,Tazmalt   ,07 82 29 15 08,,117.0,36.379845,4.396449,6
+18,1646,06.h.rabhi,Cité98 logts Bloc 14 AMIZOUR ,Amizour ,07 82 29 15 53,,117.0,36.642116,4.903334,6
+19,1642,06.I.CHERIFI,cté 130 / 200 logt RHP BT E N°15 et 16 Akbou Bejaia,Akbou,07 78 72 51 49,,117.0,36.459016,4.533478,6
+20,1647,06.L.OUHENDI,56 logts la grande baie local N°23 RD CITE TOBALE ,Bedjaia ,07 82 29 15 06,,117.0,36.750008,5.071744,6
+21,1638,06.M.ABDELKADER," RC Tichy centre,route nationale N°05 commune et daira de Tichy wilaya de BEJAIA",Tychy ,07 82 29 16 14 ,,117.0,36.668272,5.155088,6
+22,1640,06.R.BENZAID,Agmoune commune Barbacha W BEJAIA,Berbacha,0560 77 47 59 ,,117.0,36.484172,4.747158,6
+23,1648,06.W.HAMMAOUI,Centre Commercial Lot 130-131 El Kseur Bejaia,El Kseur,07 82 29 15 07,,117.0,36.677564,4.849324,6
+24,1617,07-01.10 - Agence BISKRA,Rue AISSA OUAER N°01 Biskra,Biskra  ,07 82 29 14 78 / 05 54 80 30 67,,109.0,34.8551757,5.724128,7
+25,1538,09-01.20 - Agence LES PALMIERS ,Avenue Kritli  Mokhtar  N°17 B     Blida ,Blida    ,07 82 29 14 70 / 05 54 80 38 23,,96.0,36.475039,2.832578,9
+26,1540,09-04.20 - Agence OUED EL ALLEUG,"Boulevard principal, Royal Groupe N°175. Section 10 commune Oued El Alleug BLIDA",Oued El Alleug,07 82 29 13 43 / 05 54 80 21 19 ,,96.0,36.566583,2.768025,9
+27,1531,09-07.10 - Agence OULED YAICH,Cité 1652 LGTS AADL BT 10 local N°03 OULED YAICH,Ouled Yaich   ,07 82 29 14 57,,96.0,36.475793,2.829758,9
+28,1536,09-14.10 - Agence SOUMAA,Route Nationale n°29 local 1 lot soumaa-BLIDA ,Soumaa ,07 82 29 14 56 / 05 54 84 87 18,,96.0,36.498475,2.907609,9
+29,1535,09-20.10 - Agence BOUFARIK,03 Rue des frères Bouza  Boufarik  W. Blida ,Boufarik ,07 82 29 14 58,,96.0,36.584859,2.907609,9
+30,1588,10-01.10 - Agence BOUIRA,Cité l'indepenance BT A N°06 BOUIRA ,Bouira  ,07 82 29 14 43 / 05 54 80 28 38,,104.0,36.374022,3.898986,10
+31,1671,11-01.10 - Agence TAMENGHASSET,Hai el Kaser el Fougani Tamanrast,Tamanrast,07 82 29 15 15 / 05 54 84 18 07,,127.0,22.799724,5.524223,11
+32,1635,12-01.10 - Agence TEBESSA CENTRE,Rue El Amir Abdelkader Route de Constantine Tebessa,Tebessa,07 82 29 14 79 / 05 54 80 31 82,,115.0,35.4078,8.112599,12
+33,1634,12-02.10 - Agence BIR EL ATER,"Cité 150 logts, Centre Bir el Ater Tebessa",Bir El Ater ,07 82 29 14 80 / 05 54 84 87 27,,115.0,34.761089,8.05743,12
+34,1631,12.A.CHAIB,"Cité nouvelle el Biadha,rue 1er novembre -el ouenza-tebessa",Ouenza,07 82 29 16 21 ,,115.0,35.948996,8.139318,12
+35,1692,13-01.20 - Agence TLEMCEN,Rue BOULVARD DERRAR ANBDERAHMANE  KIFANE  -TELEMCEN,Tlemcen,05 54 80 39 02 / 07 82 29 15 61  ,,130.0,34.889277,-1.335138,13
+36,1693,14-01.10 - Agence TIARET,Boulevard Maouf Ahmed D117  n°6 Tiaret,Tiaret   ,07 82 29 15 18 / 05 54 80 40 58,,131.0,35.366873,1.317641,14
+37,1589,15-01.10 - Agence LE DRUGSTORE," Centre Commercial ""Le Drugstore"" Tizi Ouzou",Tizi Ouzou  ,07 82 29 14 31 / 05 54 84 86 68,,102.0,36.705504,4.056044,15
+38,1583,15-01.20 - Agence CITE 05 JUILLET,Cité 5 juillet Bt 05 local 01 Tizi Ouzou,Tizi Ouzou  ,07 82 29 14 32 / 05 54 80 16 26,,102.0,36.711821,4.051717,15
+39,1585,15-01.30 - Agence NOUVELLE VILLE ,"Rue des fréres OUDAHMANE, nouvelle ville Tizi Ouzou",Tizi Ouzou  ,07 82 29 14 33 / 05 54 80 21 01,,102.0,36.707375,4.043373,15
+40,1584,15-34.10 - Agence BOUZEGUENE,Centre de Bouzeguene Tizi Ouzou,Bouzeguene  ,07 82 29 14 65 / 05 54 83 16 98,,102.0,36.61413,4.472591,15
+41,1587,15-38.10 - Agence TIGZIRT,"04, Rue Ghers Bousbene Tigzirt",Tigzirt  ,07 82 29 14 74 / 05 54 80 28 53,,102.0,36.890586,4.126784,15
+42,1582,15-40.10 - Agence BOUGHNI,Rue  des fréres BENAKLI 15003 cne BOGHNI,Boghni  ,07 82 29 14 34 / 05 54 80 41 06,,102.0,36.541055,3.955875,15
+43,1569,15.1.Achabni,Immeuble Ait Ali locale n° 3 Tikobiene ; ouaguenoune . Tizi Ouzou ,Ouaguenoune,07 82 29 15 33,,102.0,36.770094,4.175088,15
+44,1570,15.3.A.CHABNI,N°7 1er étage bouhamdoune maatkas w Tiziouzou,Meatka ,07 82 29 15 33,,102.0,36.619436,3.957237,15
+45,1571,15.5.ACHABNI,"Zone industrielle AISSET Idir,Taadja immeuble YEFSAF lot 95 local n°13CNE Tizi Rached ",Tizi Rached ,07 82 29 15 33,,102.0,36.692784,4.137303,15
+46,1572,15.6.A.CHABNI,B7 Route Nationnale N°15 Larabaa Nathirathen W-Tiziouzou,Larabaa Natherathen,07 82 29 15 33,,102.0,36.617812,4.315422,15
+47,1568,15.A.Chabni,"9, Avenue Abane Ramdane - Tizi Ouzou - W.Tizi Ouzou",Tizi Ouzou  ,07 82 29 15 33,,102.0,36.712903,4.048736,15
+48,1573,15.A.MESSAOUDENE,Route de Aïn El Hammam - Azazga - W.Tizi Ouzou,Azazga,07 82 29 15 46,,102.0,36.558442,4.274197,15
+49,1567,15.B.AITIDDIR,Freha centre sur ancienne route d'AZAZGA Tizi Ouzou,Freha,07 82 29 14 35,,102.0,36.734386,4.366791,15
+50,1578,15.M.AMMAD,"Arkoub Nath Kaci Village Timizart loghbar, N°05 commune Ait Aissa Mimoune. Tizi ouzou",Ait Aissa Mimoune,05 57 92 35 53 ,,102.0,36.725451,4.087435,15
+51,1562,16-09.10 - Agence LES SOURCES ,KADAT LES SOURCES BIRMOURAD RAIS,Les Sources, 07 82 29 14 62 / 05 54 80 30 91 ,,91.0,36.735349,3.050374,16
+52,1563,16-12.10 - Agence BIR KHADEM, Place taleb mohamed ameziane commune et daira de bir khadel ,Birkhadem ,07 82 29 14 69 / 05 54 84 87 20,,91.0,36.717067,3.049006,16
+53,1558,16-13.20 - Agence BELLE VUE,"15, Rue Abderrahmane Sebaa Bellevue El Harrach",El Harrach ,07 82 29 14 60 / 05 54 80 31 28,,91.0,36.725893,3.139072,16
+54,1559,16-18.10 - Agence BAB EZZOUAR,cité 1200 logts copérative ESSANOUBER lot N° 02 BAB EZZOUAR  ,Bab Ezouar, 07 82 29 14 68 / 05 54 84 85 42 ,,91.0,36.720625,3.185497,16
+55,1561,16-20.10 - Agence DAR EL BEIDA,"18,Rue Mohamed Khemisti, Local 49 dar el beida",Dar El Beida, 07 82 29 14 53 / 05 54 84 86 61,,91.0,36.715659,3.208498,16
+56,1560,16-30.10 - Agence BORDJ EL KIFANE ,Cité les Hirondelles Bloc 24 local N°02 lido Bordj el kifan,Bordj el kifan  ,07 82 29 14 47,,91.0,36.747187,3.190432,16
+57,1546,16.1.N.MEDJOUTI,Route Nationale N°24 Brise Marine Bordj el bahri,Bordj el bahri,07 71 15 00 10 ,,91.0,36.785524,3.249345,16
+58,1547,16.1.r.amroun,coop 05 juillet N° 70 route de bougara sidi moussa,Sidi moussa ,07 82 29 13 50 ,,91.0,36.622979,3.107728,16
+59,1503,16.1.Y.YOUNSI,Rue Djaiche Ettahrir El Watani N°03 Tassala El Merdja-Alger,Tassala Elmerdja,07 82 29 15 32 ,,91.0,36.622256,2.922589,16
+60,1548,16.2.R.AMROUN,Cité la montagne bloc 1 E 15 BOUROUBA - Alger,Bourouba,07 82 29 13 50 ,,91.0,36.711707,3.115248,16
+61,1505,16.3.N.OMARI,116 Rue des Frères Nadir Baba-Hassen  ALGER,Baba Hassen,06 61 51 12 53,,91.0,36.732998,3.085546,16
+62,1554,16.4.N.OMARI,Cité 632 logts BT37 n°1 EL MOHAMMADIA ,El Mohammadia ,0661 51 12 53,,91.0,36.73039,3.147224,16
+63,1551,16.B.BERBAR,"10, Rue des Fréres Oughlis el mouradia W.Alger ",El Mouaradia, 05 41 13 84 22,,91.0,36.745235,3.050518,16
+64,1549,16.B.GRIBI, Lot A7 LOT 7 BIS Ain-naadja local N° 01 W-Alger ,Gue de constantine,07 82 29 14 50,,91.0,36.704473,3.082667,16
+65,1552,16.F.KACED,"14, Avenue Abdelhamid Khodja Kouba",Kouba  ,07 82 29 14 49,,91.0,36.726673,3.081495,16
+66,1504,16.M.BOULASBAA,Oued el tarfa route el achour Bt 07 S3 -Draria -Alger.,Draria,05 50 10 11 05,,91.0,36.719165,2.981306,16
+67,1502,16.n.berraf,13 Route de Cheraga Ouled fayet ALGER ,Ouled Fayet ,05 51 15 48 32 ,,91.0,36.758156,2.933685,16
+68,1545,16.N.MEDJOUTI,Lot du lycée Abdelmoumène n°97 – Rouiba,Rouiba,07 71 15 00 10 ,,91.0,36.74093,3.287165,16
+69,1557,16.N.NACERI,"35 Coopérative Erroched Vieux Kouba, Kouba - Alger.",Kouba  ,07 71 93 79 33,,91.0,36.730015,3.078247,16
+70,1500,16.N.OMARI,"56, lotissement Souk El Fellah - Douéra - W.Alger",Douera,0661 51 12 53,,91.0,36.649094,2.927584,16
+71,1553,16.N.SAIDI,"454 Baraki, Route de l'Arbaa Alger",Beraki ,07 82 29 15 39,,91.0,36.667295,3.09858,16
+72,1501,16.R.amroun,"20, Rue El Djamila Ain el Benian Alger",Ain Benian ,07 82 29 13 50 ,,91.0,36.803256,2.900121,16
+73,1556,16.R.MADDOUI,Cité ravanal lot n°18 BEN TALHA -BERRAKI ,Berraki ,05 41 60 72 05,,91.0,36.648084,3.075152,16
+74,1498,16.Y.YOUNSI,Cité 297 logts CNEP Birtouta,Birtouta ,07 82 29 15 32 ,,91.0,36.646094,3.047605,16
+75,1555,16.Z.SIDAZARA,Cité 406 logts AADL Bt 01 local N°04 eucalyptus Alger,Eucalyptus,07 82 29 15 34,,91.0,36.664526,3.167926,16
+76,1630,17-01.20 - Agence Djelfa,Local cité Chaabani mohamed coopératif Ahmed Zabana 999 N° 14 section 161 lot 746 (B) Wilaya Djelfa,Djelfa,07 82 29 13 85 / 05 54 82 03 69 ,,,34.663222,3.2605,17
+77,1608,18.B.DJAOUI,14 Rue Amra taher tahir jijel,Taher   ,07 82 29 14 83,,107.0,36.77536,5.909275,18
+78,1672,19-01.10 - Agence DALLAS,24 Brarma Abdellah Cité 1er novembre 1954 Dalas-w-SETIF,Setif  ,07 82 29 15 04 / 05 54 84 85 22,,93.0,36.191775,5.429484,19
+79,1673,19-01.40 - Agence COOPERATIVE EL AMEL,Cité Hachemi cooperative EL AMEL rue ALEM Mokhtar n° 05 -SETIF,Sétif ,07 82 29 15 14 / 05 54 84 86 46,,93.0,36.179269,5.398209,19
+80,1675,19-03.10 - Agence BENI AZIZ,rue khemkhoum saadi -beni Aziz w setif,Beni Azize,07 82 29 15 13 / 05 54 84 85 75,,93.0,36.196903,5.415087,19
+81,1676,19-20.20 - Agence EL EULMA,Rue du 1er novembre 54 El Eulma,El Eulma   ,07 82 29 15 11 / 05 54 84 85 21,,93.0,36.152913,5.679733,19
+82,1654,19.1.H.DOUADI,Cité 100 logts Bt El-Eulma Sétif. ,El Eulma  ,07 82 29 13 95,,93.0,36.160301,5.698398,19
+83,1655,19.2.H.DOUADI,Cité des 400 Logements Commune et Daïra de Sétif wilaya de Sétif,Setif   ,07 82 29 13 95,,93.0,36.160325,5.448174,19
+84,1652,19.F.AIFA,02 Rue Ouari Mokhtar Cité Yahyaoui EX C A3 N°62 setif,Setif   ,07 82 29 15 05,,93.0,36.198737,5.424066,19
+85,1653,19.H.DOUADI,COMMUNE HAMMAM SOKHNA CENTRE W-SETIF,Hammam Soukhna,07 82 29 13 95,,93.0,35.9756954,5.8058058,19
+86,1650,19.S.GUELLATI,Cité Houari Boumedienne Rue OUADA El hanachi El Eulma,El Eulma,07 82 29 15 47,,93.0,36.162341,5.683927,19
+87,1656,19.Z.YAHIA,cité Houari Boumediene Rue Amar Goumidi N°1- El Eulma,El Eulma  ,07 82 29 15 10,,93.0,36.160301,5.698398,19
+88,1685,20-01.20 - Agence Saïda,La rue de la révolution N°23 commune et daira de Saida W-SAIDA,Saïda,07 82 89 76 39 / 05 54 80 37 31,,129.0,34.829672,0.153324,20
+89,1632,21-01.10 - Agence SKIKDA,Hay salah Boukeroua maison N°33 local N°03 Skikda,Skikda  ,07 82 29 14 84 / 05 54 80 21 46,,110.0,36.87152,6.910181,21
+90,1618,21.1.Y.BOULECHFAR,Cité 20 août 1956 - Sidi Mezghiche - W.Skikda,El Hrouche,07 70 99 41 07,,110.0,36.680092,6.718628,21
+91,1622,21.B.1.BOULGAMH,Les allées du 20 Août 1955 - Minitour n°5 - Skikda - W.Skikda,Skikda,07 82 29 14 86,,110.0,36.871325,6.912445,21
+92,1620,21.B.2.BOULGAMH,Cité Rahouadj - Tamalous - W.Skikda,Tamalous,07 82 29 14 85,,110.0,36.835754,6.645105,21
+93,1619,21.B.BOULGAMH,"Kerkra, Ziroud Youcef wilaya de  SKIKDA",Skikda,07 82 29 14 84,,110.0,36.931331,6.587682,21
+94,1694,22-01.20 - Agence MAQAM ECHAHID,"N° 07; Cité des 119 Villas, Maqam' Echahid;SIDI BELABBES",Sidi Belabbes ,07 82 29 16 09 / 05 54 80 31 98,,132.0,35.202225,-0.629892,22
+95,1633,23-01.20 - Agence ANNABA,154 Maatar Lakhdar ex Rue des viollettes Annaba,Annaba  , 07 82 29 14 88 / 05 54 80 36 43,,112.0,36.902302,7.768223,23
+96,1624,23.1.a.LAOUBI,11 Rue SAYOUD Achour ; Annaba,Annaba,05 61 75 71 88,,112.0,36.908243,7.759208,23
+97,1625,23.5.a.laoubi,3 rue el Moukrani ain berda Annaba ,Ain El Berda,05 61 75 71 88,,112.0,36.644917,7.590099,23
+98,1626,23.6.a.laoubi,"Route nationale locale, N°01 El Chat - EL TARF",EL TARF,05 61 75 71 88,,113.0,36.755858,8.221298,36
+99,1623,23.A.LAOUBI,Boulevard 1er novembre coopérayive El Wafa El Bouni  Annaba,Annaba,05 61 75 71 88,,112.0,36.908017,7.7605,23
+100,1599,24-01.10 - Agence Guelma,Cité 19 Juin rue Bounar Salah N°1 commune et daira de Guelma Wilaya de GUELMA,Guelma,0782 29 15 06 / 05 54 84 86 96,,,36.4506801,7.4181747,24
+101,1613,25-01.10, Cité filali les arcades Emir Abdelkader Constantine,Constantine  ,07 82 29 14 90 / 05 54 80 17 14,,105.0,36.360155,6.642433,25
+102,1609,25-01.60 - Agence SIDI MABROUK,"31, Cité Ali Besbes sidi mabrouk Constantine",Sidi Mabrouk ,07 82 29 14 94 / 05 54 80 21 00,,105.0,36.35663,6.633082,25
+103,1610,25-01.90 - Agence CITE ALI MENJEL,Cité ALI MENDJELI 392 Lgts N°1-Constantine ,Constantine  ,07 82 29 15 82 / 05 54 83 29 43,,105.0,36.245553,6.567662,25
+104,1612,25-02.10 - Agence HAMMAM BOUZIANE ,Cité Ain Sidera  N°142 Hamma Bouziane   Constantine,Hamma Bouziane  ,07 82 29 14 99 / 05 54 84 87 61,,105.0,36.418199,6.567662,25
+105,1611,25-03.10 - Agence AIN ABID,Cité Bouguetaia Med N°72 Ain Abid Constantine,Ain Abid ,07 82 29 14 96 / 05 54 84 87 45,,105.0,36.213591,6.942384,25
+106,1595,25.D.BENOTMANE,Cité Bchir Hamma Bouziene Constantine,Hamma Bouziane  ,07 82 29 16 22,,105.0,36.418199,6.567662,25
+107,1592,25.D.DERARDJA,Cité el meleh N°372 Constantine,Constantine  ,07 82 29 15 54,,105.0,36.360155,6.642433,25
+108,1596,25.F.MAGRAOUI,"11 Cité Bouhali Laid, El Khroub Constantine",El Khroub ,07 82 29 14 97,,105.0,36.264492,6.687879,25
+109,1593,25.I.DJOUABI,Route Nationale N°05 Ain Smara Constantine,Ain Smara ,07 82 29 14 98,,105.0,36.283187,6.471658,25
+110,1597,25.S.BEZIANE,Cité DAHDOUH Hocine n°81  Didouche Mourad,Didouche Mourad  ,07 82 29 14 91,,105.0,36.456566,6.653122,25
+111,1590,25.Y.BOULECHFAR,Cité 55 logements n°32 - Zighoud Youcef - W.Constantine,Constantine ,07 70 99 41 07,,105.0,36.530919,6.70289,25
+112,1518,26.1.M.L.HAMMOUDI,Cité mohamedi N°43 Berrouaghia Medea,Berrouaghia,07 82 29 15 36,,97.0,36.162565,2.917596,26
+113,1517,26.M.L.HAMMOUDI,Rue Mokadem  Ben Youcef  ( Hammam Bouchou ) Medea ,Médéa ,07 82 29 15 36,,97.0,36.285385,2.768025,26
+114,1679,27.A.REZALI,"Cité 72 logts, route d'Oran, bâtiment B N°13 Mostaganem.",Mostaganem,07 72 90 44 43,,128.0,35.917746,0.075159,27
+115,1680,27.S.BENMEHAL, Cté 122  logts Bt A5 N°24 Mechouma Mostaganem.,Mostaganem  ,07 82 29 15 21,,128.0,36.013124,0.140138,27
+116,1670,28-01.10 - Agence M'SILA,Cité administratif M'sila,M'sila  ,07 82 29 16 23 / 05 54 80 34 24,,,35.707783,4.535624,28
+117,1658,28.1.R.TIOUB,Cité 110 LSP BTS E local E5 - M'sila,M'sila,07 82 29 15 45,,,35.677109,4.541814,28
+118,1659,28.2.R.TIOUB,Local N°51/37  RDC Bat N°07 Ouled Derradj Wilaya de M'sila ,Ouled Derradj  ,07 82 29 15 45,,,35.623889,4.789873,28
+119,1660,28.3.R.TIOUB,Cité Houari Boumedienne Berhoum  - M'sila,Berhoum,07 82 29 15 45,,,35.647765,5.007845,28
+120,1661,28.B.BOUCHERIF,Cité  19  juin 1965 baladiat  Sidi  Aissa  W.  M’SILA,Sidi Aissa,07 82 29 15 50 ,,,35.814777,3.7029,28
+121,1657,28.R.TIOUB,CITE ELHOURANE HAMMAM DALAA,Hammam Delaa,07 82 29 15 45,,,35.944519,4.37707,28
+122,1695,29-01.10 - Agence MASCARA,"03, rue IKHLEF Bélaid - Mascara",Mascara,07 82 29 15 22 / 05 54 80 32 44,,133.0,35.394474,0.14102,29
+123,1515,30.L.Merizgui, Cité Fadila Saadane commune et daira de Hassi Massaoud wilaya de OUARGLA,Hassi Messaoud,07 70 63 29 63,,95.0,30.416772,5.393955,30
+124,1686,31-01.10 - Agence POINT DU JOUR,123 Rue A cité point du jour Oran ,Oran,07 82 29 15 23 / 05 54 80 22 64,,92.0,35.709364,-0.601621,31
+125,1687,31-01.20 - Agence GENERAL FERRADO,88 rue Général HAMRI (EX Général FERRADO ) SEDDIKIA  -Oran,Oran,07 82 29 15 24 / 05 54 80 33 17,,92.0,35.710145,-0.611252,31
+126,1688,31-01.30 - Agence MUSTAPHA BEN BOULAID,"88, Avenue Mustapha  Ben Boulaid; ORAN ",Oran ,07 82 29 15 25 / 05 54 80 39 86,,92.0,35.687611,-0.661744,31
+127,1689,31-01.50 - Agence AIN TURK,Plateau de trouville nich n°871 Ain Turck -Oran,Ain turk,07 82 29 15 31 / 05 54 80 20 87,,92.0,35.735737,-0.744172,31
+128,1678,31.1 .K.BENNOURA,Cité 287 logts (USTO) husn el djiwar BT C/3 local N°04 Oran,Maraval,07 82 29 15 26,,92.0,35.725774,-0.572924,31
+129,1677,31.K.BENNOURA,02 Cité Kastor Maraval Oran. J38,Oran,07 82 29 15 26,,92.0,35.670659,-0.651221,31
+130,1683,31.M.Bendella," Hai Khemisti lot N°290 plan de morcellement 283 lot, Bir Eldjir Oran. ",Bir Eldjir, 05 52 38 06 01,,92.0,35.736515,-0.570441,31
+131,1664,34.1.B.MERZOUGUI,Cité KELALECH AHMIMID HARRACH commune Bordj Bou Arreredj,Mhir BBA,07 82 29 13 77,,125.0,36.070419,4.756405,34
+132,1666,34.1.H.DERRARDJA,Cité 64 logts cop N° 17 bordj Ghedir Bordj Bou Arreredj,Bordj el guedir,07 82 29 15 12,,125.0,35.91248,4.924707,34
+133,1663,34.B.MERZOUGUI,1ere rue zone urbaine Bourdj Bou Arreridj,Bordj Bou Arerridj   ,07 82 29 13 77,,125.0,36.070419,4.756405,34
+134,1665,34.H.DERRARDJA,29 BDV HOUARI BOUMEDIEN BBA,Bordj Bou Arerridj   ,07 82 29 15 12,,125.0,36.07379,4.758967,34
+135,1667,34.S.MOHAMEDSEGHIR,"Lotissement Bouda, RUE A N°49 Bordj Bou Arreredj",Bordj Bou Arerridj   ,07 82 29 15 09,,125.0,36.070419,4.756405,34
+136,1586,35-02.10 - Agence BOUDOUAOU,"Cité El Merdja 08 mai 1945 , Coopérative N°127 ,Section 16 Lot N°03 , Boudouaou , BOUMERDES ",Boudouaou,07 99 12 95 04  / 05 54 84 87 39,,103.0,36.7004,3.429645,35
+137,1581,35-10.30 - Agence ROUTE N°3,"Route nationale N°24 local N°03- Boumerdes,",Boumerdes,07 82 29 16 10 / 05 54 84 85 37,,103.0,36.751256,3.472567,35
+138,1580,35-20.10 - Agence OULED MOUSSA,Rue de la pacerelle ouled moussa,Ouled Moussa  ,07 82 29 14 73 / 05 54 84 85 58,,103.0,36.680005,3.389289,35
+139,1575,35.1.GBOUDERBALA,04 DELLYS -Boumerdes ,Dellys ,07 82 29 15 52 ,,103.0,36.9064414,3.9011635,35
+140,1577,35.2.A.DJADEL,cité 11 Decembre 1960 coopérative el Badr bt 63 commune -wilaya Boumerdes,Boumerdes,07 82 19 16 34,,103.0,36.756782,3.458039,35
+141,1576,35.A.DJADEL,Coopérative El Moustaqbel - Rue Colonel Amirouche - Les Issers - W.Boumerdes,Les Issers,07 82 19 16 34,,103.0,36.69318,3.672465,35
+142,1574,35.G.BOUDERBALA,Rue principale - Baghlia - W.Boumerdes,Baghlia,07 82 29 15 52 ,,103.0,36.794378,3.875712,35
+143,1636,39-01.10 - Agence OUED SOUF,Cité 400 logts El Oued,Oued Souf ,07 82 29 14 81 / 05 54 80 41 79,,116.0,33.358833,6.856208,39
+144,1629,40.S.FILALI,Rue Abbas Leghrour Khenchela,Khenchela  ,07 82 29 14 82,,114.0,35.430515,7.148818,40
+145,1543,42-01.10 - Agence RUE DU STADE,Cité  des 140 logts rue du stade Tipaza ,Tipaza,07 82 29 14 66 / 05 54 80 16 45,,100.0,36.617879,2.391236,42
+146,1537,42-12.10 - Agence HADJOUT,Rue LAARBI BOUKELFOUNE Hadjout Tipaza,Hadjout  ,07 82 29 14 71 / 05 54 80 17 07,,100.0,36.5110787,2.4083219,42
+147,1542,42-22.10 - Agence CHERCHEL,3 RUE YOUCEF KHOUDJA MOHAMED - Cherchell - W.Tipaza,Cherchel,07 82 29 14 18 / 05 54 84 87 24,,100.0,36.567504,2.203993,42
+148,1541,42-26.10 - Agence BOUSMAIL,Rue 1er novembre -Bousmail w Tipaza,Bou-Smail ,07 82 29 14 55 / 05 54 84 87 19,,100.0,36.591737,2.449262,42
+149,1697,42-35.20 - Agence de Kolea,"Lotissement N°30, Batiment 7/A commune de Kolea TIPAZA ",Kolea,07 82 29 16 08 / 05 54 80 39 12,,96.0,36.643244,2.770802,9
+150,1615,43-01.10 - Agence MILA,Lotissement Ouest  Cité Brik N°79 Mila,Mila  ,07 82 29 15 00 / 05 54 80 23 58,,106.0,36.4527619,6.2545798,43
+151,1614,43-23.10 - Agence BAINEN ,Bardou Beinen Wilaya de MILA,Bainen ,07 82 29 15 03 / 05 54 83 25 08,,106.0,36.360155,6.642433,43
+152,1603,43.1.L.FEKRAOUI,Cité 40 logts participatifs n°53 ZEGHAIA-MILA,Zeghaia,07 82 29 15 02,,106.0,36.471539,6.173912,43
+153,1621,43.1.M.ELHADJALI,38 rue Bouchoua Ain M'lila -Oum El Bouaghi ,Ain M'lila,07 82 29 15 01 ,,111.0,36.018952,6.556988,4
+154,1600,43.2.ARABHI,07 Cité El Zeradab route nationale n°5 Tadjnent-mila,Tadjnent,07 93 36 94 00,,106.0,36.117761,5.970803,43
+155,1601,43.3.ARABHI,Cité Céramique Route de Mila Ibn Ziad Constantine,Iben Ziad,07 93 36 94 00,,105.0,36.371828,6.429036,25
+156,1598,43.A.RABHI,Rue ahmed yahia rachid -Chelghoum laid,Chelghoum Laid  ,07 93 36 94 00,,106.0,36.159448,6.17366,43
+157,1602,43.L.FEKRAOUI,Cité el jnayene  Sidi Merouane Mila,Sidi Merouene,07 82 29 15 02,,106.0,36.499993,6.248215,43
+158,1605,43.M.ELHADJALI,"Cité 200 Logts Teleghma, Mila",Teleghma ,07 82 29 15 01 ,,106.0,36.073743,6.343878,43
+159,1522,44.1.A.SELMANE,"locale N°2 RDC zone industrielle N°16 commune Elamra -Aindefla,",Elamra,07 82 29 14 59,,94.0,36.357192,1.851343,44
+160,1521,44.A.SELMANE,"02,Rue de Martyrs, Ain Defla",Ain Defla   ,07 82 29 14 59,,94.0,36.264479,1.95857,44
+161,1520,44.M.ZERROUKI,rue mohamed khmesti el Attaf ,El Attaf   ,07 82 29 15 49,,94.0,36.22582,1.677435,44
+162,1523,44.S.FERHAT,Cité Nadjem - Aïn Defla - W.Aïn Defla,Ain Defla,07 82 29 15 42,,94.0,36.257204,1.957519,44
+163,1544,47-01.10 - Agence GHARDAIA, Rue 05 Juillet Cité Thniyete El Makhzen  wilaya de GHARDAIA,Ghardaia  ,07 82 29 14 46 / 05 54 84 36 25,,101.0,32.475239,3.696225,47
+164,1674,BBA001 - Agence BORDJ BOU ARRERIDJ,89 devision khelfaoui local n°6 groupe propr,BORDJ BOU ARRERIDJ,07 82 29 14 09 / 05 54 83 63 34,,125.0,36.072901,4.773474,34
+165,1532,BL0001,Avenue MEKERKEB Ben YOUCEF ex lotissement(VIDAL CORNARY),Blida    ,07 82 29 16 24 / 05 54 80 28 81,,96.0,36.472281,2.816912,9
+166,1668,BO.0001 - Agence BENI OURTTILANE,14 Rue colonel Amirouche Beni Ourtilane-SETIF,Beni Ourtilane,07 82 29 13 90 / 05 54 84 67 88,,93.0,36.442206,4.852528,19
+167,1507,DZ003 - Agence EL BIAR,Rue Mustapha Khalef  EL BIAR -ALGER ,EL Biar, 07 82 29 14 39 / 05 54 84 86 05,,91.0,36.763512,3.020155,16
+168,1566,DZ004 - Agence KOUBA,201 parc BEN OMAR 16050-KOUBA-Alger ,Kouba  ,07 82 29 15 28 / 05 54 84 86 02 ,,91.0,36.725493,3.091225,16
+169,1508,DZ005 - Agence SIDI YAHIA,Rue yahia belhayet bts 14-Hydra-Alger,Hydra, 07 82 29 14 93 / 05 54 84 85 26,,91.0,36.749192,3.037872,16
+170,1509,DZ006 - Agence BOUZAREAH,Rue Ali remli N 68  Bouzeriah ex: pascal  Alger,Bouzareah , 07 82 29 14 67  / 05 54 82 30 54 ,,91.0,36.779899,3.010268,16
+171,1495,DZ007 - Macir Vie,"40 Rue Boudjmaa Hayouna , Cité les Abatoires",Staouali,07 82 29 16 12,,91.0,36.759129,2.888891,16
+172,1512,DZ009 - Agence ZERALDA,"N 07 Dévision est, boulvard 1 er novembre zéralda ",Zeralda,07 82 29 15 72 / 05 54 84 87 46,,91.0,36.694615,2.827796,16
+173,1564,DZ010 - Agence HUSSEIN DEY,Rue fernane hanafi ex: vou-bon n°51 Hussein dey ALGER,Hussein dey , 07 82 29 14 41 / 05 54 84 08 71 ,,91.0,36.738387,3.094201,16
+174,1511,DZ011 - Agence DELY IBRAHIM,"Boutique N°1 rez-de-chaussée, Bois Des Cars 1 N° 124 Dely Ibrahim ALGER",Dely Ibrahim, 07 82 29 16 29 / 05 54 80 29 23 ,,91.0,36.753501,2.978547,16
+175,1565,DZ012 - Agence REGHAIA,Coopérative immobilière ESSADAKA 1 RDC local N°04 B commune de REGHAIA wilaya d'ALGER,Reghaia, 07 82 09 07 53 / 05 54 83 84 62,,91.0,36.743148,3.338737,16
+176,1690,OR001 - Agence MILLENIUM,"Rue Millenium Bt C, N°7 , Résidence el sawsen Local N° 2",Oran,07 82 29 14 20,,92.0,35.691895,-0.632026,31
+177,1691,OR002 - Agence IDAA,"Cité Magheri N° 29, Boulevard AHMED BEN ABDERZZAK",Oran,07 82 29 16 11 / 05 54 80 19 20 ,,92.0,35.700447,-0.630108,31
+178,1497,ST001 - Park Mall," N° U1,14RDC centre commercial PARC MALL Setif",Sétif,07 82 29 16 51 / 05 54 84 87 47,,93.0,36.190748,5.410185,19
