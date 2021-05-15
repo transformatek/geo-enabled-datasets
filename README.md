@@ -12,7 +12,10 @@ Geo-enabled datasets built from open sources freely available on the internet
     * [Impots](./dz-datasets/impots/impots.csv)
 
 * Insurance companies 
-    * [Société Algérienne d'Assurance (SAA)](./dz-datasets/insurance/saa-assurance/saa_branches.csv)
+    * [Société Algérienne d'Assurance (SAA)](./dz-datasets/insurance/saa/saa_branches.csv)
+    * [Compagnie Algérienne d'Assurance et de Réassurance (CAAR)](./dz-datasets/insurance/caar/caar_branches.csv)
+    * [Compagnie Internationale d'Assurance et de Réassurance (CIAR)](./dz-datasets/insurance/ciar/ciar_branches.csv)
+    * [Générale Assurance Méditerrannéenne (GAM)](./dz-datasets/insurance/gam/gam_branches.csv)
     * [Trust Insurance company](./dz-datasets/insurance/trust/trust_branches.csv)
 
 * Banks 

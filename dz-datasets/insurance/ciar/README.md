@@ -1,6 +1,6 @@
 # Laciar Insurance company branches 
 
-This dataset includes branches of the Algerian insurance company Laciar
+This dataset includes branches of the Algerian insurance company CIAR (Compagnie Internationale d'Assurance et de Réassurance)
 
 ## Source
 
