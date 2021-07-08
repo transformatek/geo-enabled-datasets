@@ -1,4 +1,4 @@
-num,title,address,city,tel,lat,lon,code_wil
+id,title,address,city,tel,lat,lon,code_wil
 "171",DZ007 - Macir Vie,"40 Rue Boudjmaa Hayouna, Cité les Abatoires",Staouali,07 82 29 16 12,36.759129,2.888891,"16"
 "178",ST001 - Park Mall," N° U1,14RDC centre commercial PARC MALL Setif",Sétif,07 82 29 16 51 / 05 54 84 87 47,36.190748,5.410185,"19"
 "74",16.Y.YOUNSI,Cité 297 logts CNEP Birtouta,Birtouta,07 82 29 15 32,36.646094,3.047605,"16"
