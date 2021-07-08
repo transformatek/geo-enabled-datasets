@@ -16,7 +16,7 @@ The dataset was created : 15/05/2021
 
 | Key            | Description | 
 | ------------   | -----------------------|
-|num             | Sequentiel number |
+|id              | Sequentiel number |
 |title           | The branch title |
 |address         | The branch postal address |
 |city            | The city (province)  |
